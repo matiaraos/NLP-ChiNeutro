@@ -112,9 +112,9 @@ def descargar(cliente, url):
     return registro
 
 
-def scrapear(pendientes, paginas, ruta):
+def scrapear(pendientes, paginas, ruta, pausa):
     """Descarga las URL pendientes. Devuelve el motivo si se detuvo antes de terminar."""
-    cliente = Cliente()
+    cliente = Cliente(pausa)
     fallos_seguidos = 0
     with ruta.open("a", encoding="utf-8") as f:
         for i, url in enumerate(pendientes, 1):
@@ -180,6 +180,8 @@ def main():
     ap.add_argument("terminos", type=Path, help="archivo .txt o .csv con los términos")
     ap.add_argument("--catalogo", type=Path, default=DATA / "terminos.csv")
     ap.add_argument("--salida", type=Path, default=DATA)
+    ap.add_argument("--pausa", type=float, default=3.0,
+                    help="segundos entre solicitudes (súbela si el sitio sirve desafíos)")
     args = ap.parse_args()
 
     catalogo = leer_catalogo(args.catalogo)
@@ -193,9 +195,9 @@ def main():
     urls = list(dict.fromkeys(u for c in claves for u in catalogo[c]))
     pendientes = [u for u in urls if paginas.get(u, {}).get("estado") != "ok"]
     print(f"{len(claves)} términos, {len(urls)} páginas, {len(pendientes)} por descargar "
-          f"(unos {len(pendientes) * 3.7 / 60:.0f} min)", flush=True)
+          f"(unos {len(pendientes) * (args.pausa + 0.7) / 60:.0f} min)", flush=True)
 
-    motivo = scrapear(pendientes, paginas, ruta_paginas) if pendientes else None
+    motivo = scrapear(pendientes, paginas, ruta_paginas, args.pausa) if pendientes else None
 
     documentos = construir_documentos(claves, catalogo, paginas)
     escribir_atomico(args.salida / "rag_documentos.jsonl",
