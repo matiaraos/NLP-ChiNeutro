@@ -1,0 +1,340 @@
+{
+ "lote": 98,
+ "claves": [
+  "mamones",
+  "mana",
+  "mananera",
+  "mandar a la chucha",
+  "manoso",
+  "maraca",
+  "maraco",
+  "maricon"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2858627,
+ "duracion_s": 107.7,
+ "pares": [
+  {
+   "id": 3920,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, no seai mamón, anda solo a la entrevista, no necesitai que tu mamá te acompañe.",
+   "frase_neutralizada": "Vamos, no seas niño de mamá, ve solo a la entrevista, no necesitas que tu mamá te acompañe.",
+   "nota": "Vocativo sin contexto; se agregó una situación de dependencia de la madre."
+  },
+  {
+   "id": 3921,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros de mi curso son puros mamones, ninguno se atrevió a tirarse del trampolín.",
+   "frase_neutralizada": "Los chicos de mi clase son todos unos miedosos, ninguno se atrevió a tirarse del trampolín.",
+   "nota": "Frase vacía; ahora ilustra el sentido de cobarde o miedoso."
+  },
+  {
+   "id": 3922,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tu hijo es súper mamón, todavía llama a su mamá como tres veces al día.",
+   "frase_neutralizada": "Tu hijo es muy apegado a su madre, todavía llama a su mamá unas tres veces al día.",
+   "nota": "Se agregó contexto y se corrigió la neutral, que era agramatical."
+  },
+  {
+   "id": 3923,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "El weón anda contando que la mina le hizo un mamón en el auto.",
+   "frase_neutralizada": "El idiota anda contando que la chica le hizo una mamada en el auto.",
+   "nota": "La frase era copia del ejemplo y el número no concordaba; se cambió la situación."
+  },
+  {
+   "id": 3924,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo es tan mamón que a los treinta años su mamá todavía le paga las cuentas.",
+   "frase_neutralizada": "Mi primo es tan niño de mamá que a los treinta años su mamá todavía le paga las cuentas.",
+   "nota": "La definición 4 tiene votos negativos; se pasó al sentido de dependiente de la madre."
+  },
+  {
+   "id": 3925,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, el jefe llegó con una maña terrible hoy, mejor ni le hablís.",
+   "frase_neutralizada": "Oye, el jefe llegó de muy mal humor hoy, mejor ni le hables.",
+   "nota": "Casi copiaba el ejemplo; se cambió la situación y se completó la neutral."
+  },
+  {
+   "id": 3926,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi abuela anda con mañas desde que le dijeron que no podía comer pan.",
+   "frase_neutralizada": "Mi abuela anda de mal humor desde que le dijeron que no podía comer pan.",
+   "nota": "Faltaba contexto; se agregó el motivo del enojo."
+  },
+  {
+   "id": 3927,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La guagua está con mañas porque tiene sueño, voy a acostarla altiro.",
+   "frase_neutralizada": "El bebé está llorando porque tiene sueño, voy a acostarlo enseguida.",
+   "nota": "Casi copiaba el ejemplo; se cambió por una situación distinta."
+  },
+  {
+   "id": 3928,
+   "accion": "corregido",
+   "def": 4,
+   "frase_chilena": "Este gato tiene la maña de subirse a la mesa cuando estamos comiendo.",
+   "frase_neutralizada": "Este gato tiene la mala costumbre de subirse a la mesa cuando estamos comiendo.",
+   "nota": "Un gato llorando con maña no era natural; se pasó al sentido de mala costumbre."
+  },
+  {
+   "id": 3929,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "El computador tiene una maña: si no lo prendís dos veces, no parte.",
+   "frase_neutralizada": "La computadora tiene una falla: si no la enciendes dos veces, no arranca.",
+   "nota": "Se reemplazó «ordenador», que es peninsular, y se concretó la falla."
+  },
+  {
+   "id": 3930,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegué atrasado a la pega porque nos entretuvimos con la mañanera.",
+   "frase_neutralizada": "Llegué tarde al trabajo porque nos entretuvimos teniendo sexo al despertar.",
+   "nota": "El uso con «salió el sol» no era natural; se escribió una situación nueva."
+  },
+  {
+   "id": 3931,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi pololo siempre quiere mañanera, pero yo despierto con un sueño terrible.",
+   "frase_neutralizada": "Mi novio siempre quiere tener sexo al despertar, pero yo me despierto con muchísimo sueño.",
+   "nota": "«Por la mañanera» estaba mal usado; se mantuvo la idea de pedirla."
+  },
+  {
+   "id": 3932,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El domingo nos echamos una mañanera y después salimos a tomar desayuno afuera.",
+   "frase_neutralizada": "El domingo tuvimos sexo al despertar y después salimos a desayunar fuera.",
+   "nota": "«Hacer una mañanera» no suena natural; se cambió a «echarse una mañanera»."
+  },
+  {
+   "id": 3933,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pa mí no hay nada mejor que una mañanera pa partir el día con todo.",
+   "frase_neutralizada": "Para mí no hay nada mejor que tener sexo al despertar para empezar el día con energía.",
+   "nota": "Faltaba el artículo; se naturalizó el registro chileno."
+  },
+  {
+   "id": 3934,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "A mi señora no le gusta la mañanera, dice que prefiere en la noche.",
+   "frase_neutralizada": "A mi esposa no le gusta tener sexo al despertar, dice que prefiere en la noche.",
+   "nota": "Se corrigió «si» sin tilde y se dio un sujeto concreto."
+  },
+  {
+   "id": 3935,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Pagaste veinte lucas por esa porquería? Ándate a la chucha, te cagaron.",
+   "frase_neutralizada": "¿Pagaste veinte mil pesos por esa porquería? No jodas, te estafaron.",
+   "nota": "No incluía la expresión; ahora la usa como rechazo o incredulidad."
+  },
+  {
+   "id": 3936,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le propuse al jefe trabajar los sábados y me mandó a la chucha con un gesto.",
+   "frase_neutralizada": "Le propuse al jefe trabajar los sábados y me mandó a la mierda con un gesto.",
+   "nota": "No incluía la expresión; ahora la usa para rechazar una idea."
+  },
+  {
+   "id": 3937,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ya me aburriste con tus mentiras, ándate a la chucha y no me llamís más.",
+   "frase_neutralizada": "Ya me hartaste con tus mentiras, vete a la mierda y no me llames más.",
+   "nota": "La neutral «vete por algún tiempo» perdía la grosería; también copiaba el ejemplo."
+  },
+  {
+   "id": 3938,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "En plena reunión de apoderados la señora mandó a la chucha al profe y se fue.",
+   "frase_neutralizada": "En plena reunión de padres, la señora mandó a la mierda al profesor y se fue.",
+   "nota": "La neutral cambiaba el sentido y había un error («a tú cara»); situación nueva."
+  },
+  {
+   "id": 3939,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Estuve una hora pegado al teléfono con la compañía y al final los mandé a la chucha y corté.",
+   "frase_neutralizada": "Estuve una hora al teléfono con la compañía y al final los mandé a la mierda y colgué.",
+   "nota": "No incluía la expresión y era incoherente; ahora cierra una comunicación fallida."
+  },
+  {
+   "id": 3940,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico anda mañoso porque no durmió siesta.",
+   "frase_neutralizada": "El niño anda irritable y llorón porque no durmió la siesta.",
+   "nota": "«Chilote» y «redes sociales» no tenían sentido; se escribió una situación típica."
+  },
+  {
+   "id": 3941,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi papá se pone mañoso cuando pierde el Colo, así que no le hablís ese día.",
+   "frase_neutralizada": "Mi papá se pone de mal humor cuando pierde su equipo, así que no le hables ese día.",
+   "nota": "La neutral eliminaba la expresión y el sentido era incorrecto."
+  },
+  {
+   "id": 3942,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Sofi está mañosa hoy, todo le molesta y anda con cara de poto.",
+   "frase_neutralizada": "Sofi está de mal humor hoy, todo le molesta y anda con cara de pocos amigos.",
+   "nota": "La neutral perdía el sentido y había un error de ortografía («maldcir»)."
+  },
+  {
+   "id": 3943,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No te preocupís si no se lo come, este perro es súper mañoso con la comida.",
+   "frase_neutralizada": "No te preocupes si no se lo come, este perro es muy quisquilloso con la comida.",
+   "nota": "Se corrigió «no me preocupes» y se naturalizó la frase."
+  },
+  {
+   "id": 3944,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi jefa es mañosa con los informes, si la letra no es Arial te los devuelve.",
+   "frase_neutralizada": "Mi jefa es muy quisquillosa con los informes, si la letra no es Arial te los devuelve.",
+   "nota": "La frase era incoherente y tenía errores de género."
+  },
+  {
+   "id": 3945,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Cata es súper maraca, en cada carrete se va con un weón distinto.",
+   "frase_neutralizada": "Cata es muy zorra, en cada fiesta se va con un tipo distinto.",
+   "nota": "La neutral suavizaba el insulto y perdía el sentido de promiscua."
+  },
+  {
+   "id": 3946,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Carlos anda diciendo que su ex es una maraca, pero él le puso el gorro primero.",
+   "frase_neutralizada": "Carlos anda diciendo que su ex es una zorra, pero él le fue infiel primero.",
+   "nota": "La neutral eliminaba el tono despectivo; se agregó contexto."
+  },
+  {
+   "id": 3947,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "En la pelea le gritó que su mamá era maraca y quedó la escoba.",
+   "frase_neutralizada": "En la pelea le gritó que su mamá era una puta y se armó un lío enorme.",
+   "nota": "Se cambió al sentido de insulto dirigido a la madre."
+  },
+  {
+   "id": 3948,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Mi tía pilló a su marido con una maraca en un motel del centro.",
+   "frase_neutralizada": "Mi tía descubrió a su marido con una zorra en un motel del centro.",
+   "nota": "La expresión se aplicaba mal a un hombre; ahora la mujer es la amante."
+  },
+  {
+   "id": 3949,
+   "accion": "corregido",
+   "def": 6,
+   "frase_chilena": "En esa calle se paran las maracas en la noche, mejor no pasís por ahí.",
+   "frase_neutralizada": "En esa calle se paran las prostitutas por la noche, mejor no pases por ahí.",
+   "nota": "Faltaba contexto; se mantuvo el sentido de prostituta."
+  },
+  {
+   "id": 3950,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío dice que el vecino es maraco porque se viste con ropa ajustada.",
+   "frase_neutralizada": "Mi tío dice que el vecino es maricón porque se viste con ropa ajustada.",
+   "nota": "«Cholos» no es chileno y el orden de las palabras no era natural."
+  },
+  {
+   "id": 3951,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese compadre camina medio maraco, pero tiene polola hace años.",
+   "frase_neutralizada": "Ese tipo camina medio afeminado, pero tiene novia desde hace años.",
+   "nota": "El vocativo no tenía sentido; se escribió una situación nueva."
+  },
+  {
+   "id": 3952,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "En el colegio lo molestaban diciéndole maraco porque jugaba con las niñas.",
+   "frase_neutralizada": "En el colegio lo molestaban diciéndole maricón porque jugaba con las niñas.",
+   "nota": "Decía «marroca» en femenino; la palabra estaba mal escrita y aplicada."
+  },
+  {
+   "id": 3953,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Los cabros del carrete lo trataron de maraco por llegar con las uñas pintadas.",
+   "frase_neutralizada": "Los chicos de la fiesta lo llamaron maricón por llegar con las uñas pintadas.",
+   "nota": "«Marco» era una errata; se escribió una frase natural."
+  },
+  {
+   "id": 3954,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuelo, bien a la antigua, encuentra maraco a cualquier hombre que use aros.",
+   "frase_neutralizada": "Mi abuelo, muy chapado a la antigua, considera maricón a cualquier hombre que use aretes.",
+   "nota": "Tenía signos de interrogación mal puestos y un vocativo poco natural."
+  },
+  {
+   "id": 3955,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erí maricón, te pedí ayuda con la tarea y te hiciste el leso.",
+   "frase_neutralizada": "Eres un traidor, te pedí ayuda con la tarea y te hiciste el desentendido.",
+   "nota": "Se agregó el voseo chileno y se aclaró la deslealtad."
+  },
+  {
+   "id": 3956,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No confíes en el Pato, es maricón y le va con todos los cuentos al jefe.",
+   "frase_neutralizada": "No confíes en Pato, es un traicionero y le va con todos los chismes al jefe.",
+   "nota": "La frase era agramatical y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 3957,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué maricón, hablaste pestes de mí en el carrete apenas me fui.",
+   "frase_neutralizada": "Qué traicionero, hablaste pestes de mí en la fiesta apenas me fui.",
+   "nota": "Se corrigió el tiempo verbal y la tilde de «mí»."
+  },
+  {
+   "id": 3958,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai maricón, si tenís algo que decirme, dímelo en la cara.",
+   "frase_neutralizada": "No seas traicionero, si tienes algo que decirme, dímelo en la cara.",
+   "nota": "Ambas frases eran agramaticales; se mantuvo la idea de hablar de frente."
+  },
+  {
+   "id": 3959,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Fue harto maricón lo que hiciste: me invitaste a la cena y después no me pescaste en toda la noche.",
+   "frase_neutralizada": "Fue muy desleal lo que hiciste: me invitaste a la cena y después no me hiciste caso en toda la noche.",
+   "nota": "«No me pasaste la mesa» no tenía sentido; se mantuvo la idea de ignorarlo."
+  }
+ ]
+}

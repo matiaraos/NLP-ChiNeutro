@@ -1,0 +1,340 @@
+{
+ "lote": 90,
+ "claves": [
+  "hacerse el weon",
+  "hallulla",
+  "harto",
+  "hasta el pico",
+  "hecho pico",
+  "hecho un pico",
+  "hediondo",
+  "hermano a"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2267904,
+ "duracion_s": 79.9,
+ "pares": [
+  {
+   "id": 3600,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te hagai el weón, po, te estoy contando algo importante.",
+   "frase_neutralizada": "No te hagas el tonto, te estoy contando algo importante.",
+   "nota": "Neutral reformulada con 'hacerse el tonto'; añadido voseo chileno."
+  },
+  {
+   "id": 3601,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te hagai el weón con la plata que te presté, ya pasó un mes.",
+   "frase_neutralizada": "No te hagas el tonto con el dinero que te presté, ya pasó un mes.",
+   "nota": "La frase no ilustraba evadir responsabilidad; ahora sí."
+  },
+  {
+   "id": 3602,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tía se hizo la weona cuando le pregunté quién había quebrado el florero.",
+   "frase_neutralizada": "Mi tía se hizo la tonta cuando le pregunté quién había roto el florero.",
+   "nota": "Original incoherente; nueva situación de hacerse el tonto."
+  },
+  {
+   "id": 3603,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te hagai el weón y respóndeme, vi que leíste el mensaje.",
+   "frase_neutralizada": "No te hagas el tonto y contéstame, vi que leíste el mensaje.",
+   "nota": "Definiciones 1 y 2 equivalentes; neutral corregida, se agregó contexto."
+  },
+  {
+   "id": 3604,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando llegó la cuenta, el Pedro se hizo el weón y partió al baño.",
+   "frase_neutralizada": "Cuando llegó la cuenta, Pedro se hizo el tonto y se fue al baño.",
+   "nota": "Original sin sentido claro; nueva situación de evadir pagar."
+  },
+  {
+   "id": 3605,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Las hallullas de esta panadería son las mejores del barrio, siempre están calentitas.",
+   "frase_neutralizada": "Los panes redondos de esta panadería son los mejores del barrio, siempre están calientes.",
+   "nota": "Frase original poco natural; se hizo más coloquial."
+  },
+  {
+   "id": 3606,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quedó alguna hallulla de ayer? Me quiero hacer un pan con palta.",
+   "frase_neutralizada": "¿Quedó algún pan redondo de ayer? Me quiero hacer un pan con aguacate.",
+   "nota": "Pregunta original rara; neutral cambiaba tiempo verbal."
+  },
+  {
+   "id": 3607,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu abuela dice que pasís a comprar hallullas pa la once.",
+   "frase_neutralizada": "Tu abuela dice que pases a comprar panes redondos para la merienda.",
+   "nota": "Se agregó contexto chileno de la once, neutralizado como merienda."
+  },
+  {
+   "id": 3608,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pucha, se acabaron las hallullas, voy a tener que ir a otra panadería.",
+   "frase_neutralizada": "Qué mala suerte, se acabaron los panes redondos, voy a tener que ir a otra panadería.",
+   "nota": "Hallulla con relleno y variedad en feria no es realista."
+  },
+  {
+   "id": 3609,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer compré un kilo de hallullas pal desayuno y ya no queda ninguna.",
+   "frase_neutralizada": "Ayer compré un kilo de panes redondos para el desayuno y ya no queda ninguno.",
+   "nota": "Se coloquializó y se amplió la información."
+  },
+  {
+   "id": 3610,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le echaste harta sal a la carne, quedó salada.",
+   "frase_neutralizada": "Le echaste mucha sal a la carne, quedó salada.",
+   "nota": "'Esa carne es harta' es agramatical en Chile."
+  },
+  {
+   "id": 3611,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hay harto ruido en la calle, no he podido dormir nada.",
+   "frase_neutralizada": "Hay mucho ruido en la calle, no he podido dormir nada.",
+   "nota": "Estructura 'Harto el ruido' no natural; corregida."
+  },
+  {
+   "id": 3612,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegó harta gente al cumpleaños del Javier, la casa estaba repleta.",
+   "frase_neutralizada": "Llegó mucha gente al cumpleaños de Javier, la casa estaba repleta.",
+   "nota": "Def 2 equivale a def 1; 'suficiente' cambiaba el sentido."
+  },
+  {
+   "id": 3613,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esta pieza tiene harta luz, es ideal pa estudiar.",
+   "frase_neutralizada": "Esta habitación tiene mucha luz, es ideal para estudiar.",
+   "nota": "Estructura antinatural; 'suficiente' no equivalía; neutralizado 'pieza'."
+  },
+  {
+   "id": 3614,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La cena me gustó harto, tu mamá cocina increíble.",
+   "frase_neutralizada": "La cena me gustó mucho, tu mamá cocina increíble.",
+   "nota": "Adverbio no concuerda ('harta'); 'demasiado' cambiaba el matiz."
+  },
+  {
+   "id": 3615,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estoy endeudado hasta el pico con la tarjeta, no sé cómo voy a pagar.",
+   "frase_neutralizada": "Estoy endeudado hasta el tope con la tarjeta, no sé cómo voy a pagar.",
+   "nota": "Original incoherente con 'cachai' mal usado."
+  },
+  {
+   "id": 3616,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El corral está lleno hasta el pico, no cabe ni un animal más.",
+   "frase_neutralizada": "El corral está lleno hasta el tope, no cabe ni un animal más.",
+   "nota": "Estructura poco natural; se usó 'lleno hasta el pico'."
+  },
+  {
+   "id": 3617,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nico se curó hasta el pico en la fiesta y se quedó dormido en el sillón.",
+   "frase_neutralizada": "Nico se emborrachó a más no poder en la fiesta y se quedó dormido en el sofá.",
+   "nota": "'Fiesta hasta el pico' no es uso real; nivel máximo de borrachera."
+  },
+  {
+   "id": 3618,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ando estresado hasta el pico con la tesis, no he dormido en toda la semana.",
+   "frase_neutralizada": "Estoy estresado al máximo con la tesis, no he dormido en toda la semana.",
+   "nota": "'Desafío hasta el pico' no natural; error gramatical en neutral."
+  },
+  {
+   "id": 3619,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy chato hasta el pico con este calor, ya no aguanto más.",
+   "frase_neutralizada": "Estoy harto a más no poder de este calor, ya no aguanto más.",
+   "nota": "'El calor es hasta el pico' poco natural; ajustada estructura."
+  },
+  {
+   "id": 3620,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No puedo seguir trabajando, estoy hecho pico después de doce horas de turno.",
+   "frase_neutralizada": "No puedo seguir trabajando, estoy hecho mierda después de doce horas de turno.",
+   "nota": "La frase original no contenía la expresión."
+  },
+  {
+   "id": 3621,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer no fui al carrete porque llegué hecho pico de la pega.",
+   "frase_neutralizada": "Ayer no fui a la fiesta porque llegué muerto de cansancio del trabajo.",
+   "nota": "Se dio contexto de cansancio y se coloquializó."
+  },
+  {
+   "id": 3622,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Mati quedó hecho pico después del cumpleaños, vomitó toda la noche.",
+   "frase_neutralizada": "Mati quedó destrozado después del cumpleaños, vomitó toda la noche.",
+   "nota": "Vestido no ilustraba def 2 (curado o mal)."
+  },
+  {
+   "id": 3623,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "La pelota quedó hecha pico, ya no se puede jugar con ella.",
+   "frase_neutralizada": "La pelota quedó destrozada, ya no se puede jugar con ella.",
+   "nota": "Era def 3, no def 2; neutral ajustada."
+  },
+  {
+   "id": 3624,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "La carretera está hecha pico, entera llena de hoyos.",
+   "frase_neutralizada": "La carretera está destrozada, completamente llena de baches.",
+   "nota": "Frase original poco coloquial; se agregó detalle natural."
+  },
+  {
+   "id": 3625,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición sin votos y dudosa; el uso real es 'hecho un peo'."
+  },
+  {
+   "id": 3626,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Expresión sin uso real comprobable; descartada."
+  },
+  {
+   "id": 3627,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Expresión sin uso real comprobable; descartada."
+  },
+  {
+   "id": 3628,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Expresión sin uso real comprobable; descartada."
+  },
+  {
+   "id": 3629,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Expresión sin uso real comprobable; descartada."
+  },
+  {
+   "id": 3630,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La pieza del Diego está hedionda a pata, abre la ventana po.",
+   "frase_neutralizada": "La habitación de Diego apesta a pies, abre la ventana.",
+   "nota": "No contenía la expresión y la neutral cambiaba el animal."
+  },
+  {
+   "id": 3631,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La comida que dejaste en el refri está hedionda, hay que botarla.",
+   "frase_neutralizada": "La comida que dejaste en el refrigerador huele mal, hay que tirarla.",
+   "nota": "Neutral perdía el sentido de olor; contexto mejorado."
+  },
+  {
+   "id": 3632,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este vestido de mi abuela está hediondo a humedad, hay que lavarlo.",
+   "frase_neutralizada": "Este vestido de mi abuela apesta a humedad, hay que lavarlo.",
+   "nota": "'Es hediondo' cambiado a 'está'; defs 1 y 2 equivalentes."
+  },
+  {
+   "id": 3633,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cachorro llegó hediondo después de revolcarse en el barro.",
+   "frase_neutralizada": "El cachorro llegó apestando después de revolcarse en el lodo.",
+   "nota": "'Hediondo a hambre' no tiene sentido; neutral cambiaba significado."
+  },
+  {
+   "id": 3634,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El queso que trajo mi tío es demasiado hediondo, pero igual es rico.",
+   "frase_neutralizada": "El queso que trajo mi tío huele demasiado fuerte, pero igual es rico.",
+   "nota": "Pimienta hedionda no es natural; nuevo ejemplo con queso."
+  },
+  {
+   "id": 3635,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye hermano, ¿me podís prestar el encendedor un ratito?",
+   "frase_neutralizada": "Oye, amigo, ¿me puedes prestar el encendedor un momento?",
+   "nota": "'Podés dámelo' agramatical y rioplatense; usado voseo chileno."
+  },
+  {
+   "id": 3636,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hermana, ¿ese perro que anda suelto es de tu vecina?",
+   "frase_neutralizada": "Amiga, ¿ese perro que anda suelto es de tu vecina?",
+   "nota": "'Vecindad' poco natural; neutral cambiaba la pregunta."
+  },
+  {
+   "id": 3637,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hermano, ¿cachaste el partido de anoche? Estuvo terrible bueno.",
+   "frase_neutralizada": "Amigo, ¿viste el partido de anoche? Estuvo buenísimo.",
+   "nota": "Frase poco chilena; se agregaron rasgos coloquiales."
+  },
+  {
+   "id": 3638,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Hola, hermana! Te quedó la raja la comida, ¿cómo la hiciste?",
+   "frase_neutralizada": "¡Hola, amiga! Te quedó buenísima la comida, ¿cómo la hiciste?",
+   "nota": "Neutral cambiaba el sentido; frase más natural."
+  },
+  {
+   "id": 3639,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hermano, ¿sabís dónde queda la calle Maipú? Ando medio perdido.",
+   "frase_neutralizada": "Amigo, ¿sabes dónde queda la calle Maipú? Estoy un poco perdido.",
+   "nota": "Frase original formal y genérica; ahora un desconocido en la calle."
+  }
+ ]
+}

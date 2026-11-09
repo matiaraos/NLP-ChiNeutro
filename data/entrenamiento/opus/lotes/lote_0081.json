@@ -1,0 +1,340 @@
+{
+ "lote": 81,
+ "claves": [
+  "farrear",
+  "fdw",
+  "feka",
+  "feria",
+  "fiambre",
+  "fiar",
+  "ficha",
+  "fierro"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23737320000000003,
+ "duracion_s": 88.1,
+ "pares": [
+  {
+   "id": 3240,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se farreó el penal en el último minuto y perdimos la final.",
+   "frase_neutralizada": "Desperdició el penal en el último minuto y perdimos la final.",
+   "nota": "El original no contenía la expresión; nueva frase con farrearse."
+  },
+  {
+   "id": 3241,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Rodrigo se farreó la beca por flojo, no entregó los papeles a tiempo.",
+   "frase_neutralizada": "Rodrigo desperdició la beca por flojo, no entregó los documentos a tiempo.",
+   "nota": "Usaba farrear como 'perderse un evento'; reescrito con sentido de desperdiciar oportunidad."
+  },
+  {
+   "id": 3242,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te farreaste la oportunidad de pasar el ramo, no estudiaste nada po.",
+   "frase_neutralizada": "Desperdiciaste la oportunidad de aprobar la materia, no estudiaste nada.",
+   "nota": "Negación incoherente y neutral agramatical; se ajustó sentido y gramática."
+  },
+  {
+   "id": 3243,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Nos farreamos el viaje a la playa por dejar todo pa' última hora.",
+   "frase_neutralizada": "Desperdiciamos el viaje a la playa por dejar todo para última hora.",
+   "nota": "'Se llovía' agramatical y sentido erróneo; corregido."
+  },
+  {
+   "id": 3244,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me farreé el festival por no comprar las entradas a tiempo, qué rabia.",
+   "frase_neutralizada": "Perdí la oportunidad de ir al festival por no comprar las entradas a tiempo, qué rabia.",
+   "nota": "Negación incoherente y 'no se asistió' agramatical; corregido."
+  },
+  {
+   "id": 3245,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te quedó la raja el corte de pelo, fdw.",
+   "frase_neutralizada": "Te quedó increíble el corte de pelo, en serio.",
+   "nota": "Copiaba el ejemplo y la neutral cambiaba el significado."
+  },
+  {
+   "id": 3246,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Fdw, no tengo ni una luca, no puedo ir al carrete.",
+   "frase_neutralizada": "En serio, no tengo nada de dinero, no puedo ir a la fiesta.",
+   "nota": "Neutral omitía fdw y la frase era poco natural."
+  },
+  {
+   "id": 3247,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Fdw, no fui yo el que se comió tu yogur, pregúntale al Diego.",
+   "frase_neutralizada": "En serio, no fui yo quien se comió tu yogur, pregúntale a Diego.",
+   "nota": "Copiaba el ejemplo del diccionario; definiciones 1-3 son un mismo sentido."
+  },
+  {
+   "id": 3248,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Fuera de webeo, me caís súper bien, aunque siempre te esté molestando.",
+   "frase_neutralizada": "Fuera de broma, me caes muy bien, aunque siempre te esté molestando.",
+   "nota": "Frase poco natural; se mantuvo la variante completa con sentido claro."
+  },
+  {
+   "id": 3249,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Fdw, mañana renuncio a la pega, ya no aguanto más a mi jefe.",
+   "frase_neutralizada": "En serio, mañana renuncio al trabajo, ya no aguanto más a mi jefe.",
+   "nota": "Frase sin sentido; nueva situación con fdw como 'en serio'."
+  },
+  {
+   "id": 3250,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te creo na', eso que estai contando es feka.",
+   "frase_neutralizada": "No te creo nada, eso que estás contando es mentira.",
+   "nota": "Se naturalizó la frase chilena con voseo chileno."
+  },
+  {
+   "id": 3251,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese rapero es feka, en sus canciones dice que es del barrio y es más cuico.",
+   "frase_neutralizada": "Ese rapero es falso, en sus canciones dice que es del barrio y es de clase alta.",
+   "nota": "'Cantar feka' poco natural; se dio contexto creíble."
+  },
+  {
+   "id": 3252,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa noticia que mandaron al grupo es feka, no la compartai.",
+   "frase_neutralizada": "Esa noticia que enviaron al grupo es falsa, no la compartas.",
+   "nota": "Novela 'mentira' no tenía sentido; nueva situación."
+  },
+  {
+   "id": 3253,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Andai muy feka últimamente, ya nadie te cree na'.",
+   "frase_neutralizada": "Andas muy mentiroso últimamente, ya nadie te cree nada.",
+   "nota": "Errores gramaticales y explicaba el significado dentro de la frase."
+  },
+  {
+   "id": 3254,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hablai puro feka, si nunca has ido a Europa po.",
+   "frase_neutralizada": "Solo dices mentiras, si nunca has ido a Europa.",
+   "nota": "'No me preocupes' incoherente y neutral cambiaba persona."
+  },
+  {
+   "id": 3255,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Acompáñame a la feria el domingo, quiero buscar unas zapatillas baratas.",
+   "frase_neutralizada": "Acompáñame al mercado popular el domingo, quiero buscar unos tenis baratos.",
+   "nota": "'Artesanato' no existe y no reflejaba el sentido de persa."
+  },
+  {
+   "id": 3256,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Voy a comprarle ropa a la guagua en la feria, allá sale más barato.",
+   "frase_neutralizada": "Voy a comprarle ropa al bebé en el mercado popular, allá sale más barato.",
+   "nota": "Neutral redundante; se agregaron rasgos chilenos y mercado popular."
+  },
+  {
+   "id": 3257,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la feria de Arica encontrai de todo, desde repuestos hasta juguetes.",
+   "frase_neutralizada": "En el mercado popular de Arica encuentras de todo, desde repuestos hasta juguetes.",
+   "nota": "'Feria del buen vecino' no correspondía al sentido de persa."
+  },
+  {
+   "id": 3258,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Fuiste a la feria? Me dijeron que llegaron libros usados bien baratos.",
+   "frase_neutralizada": "¿Fuiste al mercado popular? Me dijeron que llegaron libros usados muy baratos.",
+   "nota": "Feria de flores no ilustraba el sentido nortino de persa."
+  },
+  {
+   "id": 3259,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este finde vamos con la familia a la feria a comprar la ropa del colegio.",
+   "frase_neutralizada": "Este fin de semana vamos con la familia al mercado popular a comprar la ropa del colegio.",
+   "nota": "'Artesanato' erróneo y sentido distinto; ajustado a persa."
+  },
+  {
+   "id": 3260,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La tía Luisa quedó fiambre en el choque de la carretera, terrible.",
+   "frase_neutralizada": "La tía Luisa murió en el choque de la carretera, terrible.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3261,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y el Juanito? Hecho fiambre, hueón, le dio un infarto anoche.",
+   "frase_neutralizada": "¿Y Juanito? Muerto, hombre, le dio un infarto anoche.",
+   "nota": "Frase poco natural; se dio contexto coherente."
+  },
+  {
+   "id": 3262,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si seguís manejando así de rápido vamos a terminar todos fiambres.",
+   "frase_neutralizada": "Si sigues manejando así de rápido vamos a terminar todos muertos.",
+   "nota": "Definición 2 es broma con votos negativos; cambiado a def 1."
+  },
+  {
+   "id": 3263,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Encontraron un fiambre en el canal y llegaron todos los pacos.",
+   "frase_neutralizada": "Encontraron un cadáver en el canal y llegó toda la policía.",
+   "nota": "Def 2 no es uso real; reescrito con sentido de cadáver."
+  },
+  {
+   "id": 3264,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si mi viejo se entera que choqué el auto, soy fiambre.",
+   "frase_neutralizada": "Si mi papá se entera de que choqué el auto, soy hombre muerto.",
+   "nota": "Def 2 no es uso real; además 'sentiendo' era error."
+  },
+  {
+   "id": 3265,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Don Lucho, ¿me puede fiar el pan? Le pago el viernes cuando me paguen.",
+   "frase_neutralizada": "Don Lucho, ¿me puede vender el pan a crédito? Le pago el viernes cuando me paguen.",
+   "nota": "Uso real (según ejemplo) es vender al fiado, no prestar auto."
+  },
+  {
+   "id": 3266,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el almacén de la esquina ya no le fían a nadie, la señora se aburrió.",
+   "frase_neutralizada": "En la tienda de la esquina ya no le venden a crédito a nadie, la señora se cansó.",
+   "nota": "'Fiarte el perro' no es uso real; sentido de vender fiado."
+  },
+  {
+   "id": 3267,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La vecina me fió las bebidas pal cumpleaños del cabro chico.",
+   "frase_neutralizada": "La vecina me vendió a crédito los refrescos para el cumpleaños del niño.",
+   "nota": "Encargar una niña no es uso real; reescrito con venta fiada."
+  },
+  {
+   "id": 3268,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oiga, fíeme unos cigarros, mañana le traigo la plata sin falta.",
+   "frase_neutralizada": "Oiga, véndame unos cigarrillos a crédito, mañana le traigo el dinero sin falta.",
+   "nota": "Sentido erróneo y 'no me preocupes' agramatical."
+  },
+  {
+   "id": 3269,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si te sigo fiando, voy a quebrar el negocio, cabrito.",
+   "frase_neutralizada": "Si te sigo vendiendo a crédito, voy a quebrar el negocio, muchacho.",
+   "nota": "Usaba fiar como cuidar mascota; reescrito con sentido real."
+  },
+  {
+   "id": 3270,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa polera que te compraste está muy ficha, ¿dónde la encontraste?",
+   "frase_neutralizada": "Esa camiseta que te compraste está genial, ¿dónde la encontraste?",
+   "nota": "Neutral decía 'extrañas' y cambiaba el número."
+  },
+  {
+   "id": 3271,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El restorán nuevo de la esquina es súper ficha, tiene terraza y música en vivo.",
+   "frase_neutralizada": "El restaurante nuevo de la esquina es genial, tiene terraza y música en vivo.",
+   "nota": "'De fi-cha' y 'vaya' no naturales en Chile."
+  },
+  {
+   "id": 3272,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El pololo de la Cami es súper ficha, y además es re simpático.",
+   "frase_neutralizada": "El novio de Cami es guapísimo, y además es muy simpático.",
+   "nota": "Neutral cambiaba a plural; se dio contexto natural."
+  },
+  {
+   "id": 3273,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Te pasaste con la presentación, erís muy ficha, hermano.",
+   "frase_neutralizada": "Te luciste con la presentación, eres increíble, hermano.",
+   "nota": "Copiaba el ejemplo; se creó situación distinta."
+  },
+  {
+   "id": 3274,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Ese cabro anda haciéndose el ficha en la pobla, mejor ni lo mires.",
+   "frase_neutralizada": "Ese muchacho anda dándoselas de delincuente en el barrio, mejor ni lo mires.",
+   "nota": "'Media ficha' sin contexto; se aclaró el sentido de jactancia delictual."
+  },
+  {
+   "id": 3275,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El loco andaba con un fierro en el bolsillo, menos mal que no lo sacó.",
+   "frase_neutralizada": "El tipo andaba con una pistola en el bolsillo, menos mal que no la sacó.",
+   "nota": "Neutral traducía fierro como bala; frase sin sentido."
+  },
+  {
+   "id": 3276,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Escondió el fierro debajo del colchón antes de que llegaran los pacos.",
+   "frase_neutralizada": "Escondió la pistola debajo del colchón antes de que llegara la policía.",
+   "nota": "Frase incoherente y fierro traducido como bala."
+  },
+  {
+   "id": 3277,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le pusieron el fierro en la cabeza pa' quitarle el celular, qué terrible.",
+   "frase_neutralizada": "Le pusieron una pistola en la cabeza para quitarle el celular, qué terrible.",
+   "nota": "Frase incoherente y neutral omitía el arma."
+  },
+  {
+   "id": 3278,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué no me dijiste que tenías un fierro en la casa, hueón?",
+   "frase_neutralizada": "¿Por qué no me dijiste que tenías una pistola en la casa, tonto?",
+   "nota": "Fierro traducido como bala; se precisó el contexto."
+  },
+  {
+   "id": 3279,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros de la otra cuadra andan todos con fierro, mejor no pasar por ahí.",
+   "frase_neutralizada": "Los muchachos de la otra cuadra andan todos con pistola, mejor no pasar por ahí.",
+   "nota": "Neutral decía 'bala'; nueva situación natural."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 2,
+ "claves": [
+  "chasca",
+  "chascona",
+  "chasquilla",
+  "chato",
+  "chato a",
+  "chaucha",
+  "chela",
+  "chetada o"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2244355,
+ "duracion_s": 77.9,
+ "pares": [
+  {
+   "id": 80,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mira la chasca que anda trayendo el Pedro, parece que no va a la peluquería hace meses.",
+   "frase_neutralizada": "Mira el pelo largo y desordenado que lleva Pedro, parece que no va a la peluquería desde hace meses.",
+   "nota": "Usaba chasca como persona; ahora es el pelo."
+  },
+  {
+   "id": 81,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Amárrate esa chasca antes de entrar a la cocina, que se te va a caer un pelo en la comida.",
+   "frase_neutralizada": "Átate ese pelo largo y desordenado antes de entrar a la cocina, que se te va a caer un pelo en la comida.",
+   "nota": "La frase no tenía sentido y la neutral usaba 'deshecha'."
+  },
+  {
+   "id": 82,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿hace cuánto que no te peinai esa chasca? Parece nido de pájaro.",
+   "frase_neutralizada": "Oye, ¿hace cuánto que no te peinas ese pelo largo y desordenado? Parece un nido de pájaro.",
+   "nota": "Usaba chasca para referirse a una persona; ahora se refiere al pelo."
+  },
+  {
+   "id": 83,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Por fin me voy a cortar la chasca, ya no aguanto el calor.",
+   "frase_neutralizada": "Por fin me voy a cortar el pelo largo y desordenado, ya no aguanto el calor.",
+   "nota": "Motivo absurdo ('que no me encuentren') cambiado por uno natural."
+  },
+  {
+   "id": 84,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No vai a entrar a mi casa con esa chasca, anda a cortarte el pelo primero.",
+   "frase_neutralizada": "No vas a entrar a mi casa con ese pelo largo y desordenado, ve a cortarte el pelo primero.",
+   "nota": "Se agregó registro chileno; la neutral se ajustó con el demostrativo."
+  },
+  {
+   "id": 85,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu hermana anda terrible chascona, ¿no tiene peineta o qué?",
+   "frase_neutralizada": "Tu hermana anda muy despeinada, ¿no tiene peine o qué?",
+   "nota": "La neutral omitía 'terrible'; se cambió la segunda parte de la frase."
+  },
+  {
+   "id": 86,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi pololo llegó todo chascón a la cita, ni se miró al espejo.",
+   "frase_neutralizada": "Mi novio llegó todo despeinado a la cita, ni se miró al espejo.",
+   "nota": "Forma masculina corregida a 'chascón'; se quitaron las 'herramientas'."
+  },
+  {
+   "id": 87,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué saliste tan chascón a la calle, compadre? Péinate aunque sea con la mano.",
+   "frase_neutralizada": "¿Por qué saliste tan despeinado a la calle, amigo? Péinate aunque sea con la mano.",
+   "nota": "Confundía despeinado con mal vestido; se corrigió la forma masculina."
+  },
+  {
+   "id": 88,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tengo que ir altiro, pero no puedo salir así de chascona, préstame un cepillo.",
+   "frase_neutralizada": "Me tengo que ir enseguida, pero no puedo salir así de despeinada, préstame un cepillo.",
+   "nota": "El final ('no sé cómo hablar') era incoherente."
+  },
+  {
+   "id": 89,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con el viento de la playa quedé terrible chascona en todas las fotos.",
+   "frase_neutralizada": "Con el viento de la playa quedé muy despeinada en todas las fotos.",
+   "nota": "Usaba 'chascono' y repetía la situación del par 85."
+  },
+  {
+   "id": 90,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me corté la chasquilla yo misma y me quedó toda chueca.",
+   "frase_neutralizada": "Me corté el flequillo yo misma y me quedó todo torcido.",
+   "nota": "La frase no incluía la expresión."
+  },
+  {
+   "id": 91,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La chasquilla me tapa los ojos, tengo que ir a la peluquería luego.",
+   "frase_neutralizada": "El flequillo me tapa los ojos, tengo que ir a la peluquería pronto.",
+   "nota": "Usaba chasquilla con un sentido inventado."
+  },
+  {
+   "id": 92,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Te dejaste chasquilla? Te queda bacán, te ves más joven.",
+   "frase_neutralizada": "¿Te dejaste flequillo? Te queda genial, te ves más joven.",
+   "nota": "Usaba chasquilla como 'problema'; el sentido correcto es flequillo."
+  },
+  {
+   "id": 93,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con este calor la chasquilla se me pega en la frente, qué lata.",
+   "frase_neutralizada": "Con este calor el flequillo se me pega en la frente, qué fastidio.",
+   "nota": "La frase no tenía sentido y no significaba flequillo."
+  },
+  {
+   "id": 94,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá me cortaba la chasquilla con la tijera de la cocina cuando era chica.",
+   "frase_neutralizada": "Mi mamá me cortaba el flequillo con las tijeras de la cocina cuando era niña.",
+   "nota": "Usaba chasquilla como 'problema'; el sentido correcto es flequillo."
+  },
+  {
+   "id": 95,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, cállate un rato, me tenís chato con tus reclamos.",
+   "frase_neutralizada": "Ya, cállate un rato, me tienes harto con tus quejas.",
+   "nota": "La neutral cambiaba el sentido a 'te encuentro aburrido'."
+  },
+  {
+   "id": 96,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy chato de ver la misma película, pongamos otra cosa.",
+   "frase_neutralizada": "Estoy harto de ver la misma película, pongamos otra cosa.",
+   "nota": "Se cambió 'aburrido' por 'harto' y se completó la frase."
+  },
+  {
+   "id": 97,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No quiero más problemas con el vecino, estoy chato de sus ruidos todas las noches.",
+   "frase_neutralizada": "No quiero más problemas con el vecino, estoy harto de sus ruidos todas las noches.",
+   "nota": "'Te estoy dando chato' era agramatical."
+  },
+  {
+   "id": 98,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Juan me tiene chato con sus bromas pesadas, un día de estos lo mando a la cresta.",
+   "frase_neutralizada": "Juan me tiene harto con sus bromas pesadas, un día de estos lo mando al diablo.",
+   "nota": "Def 2 equivale a def 1; la neutral invertía el sentido."
+  },
+  {
+   "id": 99,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esta pega me tiene chato, llevo tres años haciendo exactamente lo mismo.",
+   "frase_neutralizada": "Este trabajo me tiene harto, llevo tres años haciendo exactamente lo mismo.",
+   "nota": "'Me está dando chato' no es un uso real; def 2 se unificó."
+  },
+  {
+   "id": 100,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estoy chata de que la micro pase siempre llena y no me pare.",
+   "frase_neutralizada": "Estoy harta de que el autobús pase siempre lleno y no se detenga.",
+   "nota": "La frase no incluía la expresión."
+  },
+  {
+   "id": 101,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy chata de la tarea de mate, llevo toda la tarde con lo mismo.",
+   "frase_neutralizada": "Estoy harta de la tarea de matemáticas, llevo toda la tarde con lo mismo.",
+   "nota": "'Hasta el cansancio' sonaba forzado en la neutral; ahora es 'harta'."
+  },
+  {
+   "id": 102,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me pregunten más weás, estoy chato de dar explicaciones.",
+   "frase_neutralizada": "No me pregunten más tonterías, estoy harto de dar explicaciones.",
+   "nota": "Se especificó de qué está harto y se mejoró la neutral."
+  },
+  {
+   "id": 103,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hoy no salgo, estoy chata de tanta pega en la semana.",
+   "frase_neutralizada": "Hoy no salgo, estoy harta de tanto trabajo en la semana.",
+   "nota": "La neutral era poco natural; se cambió la situación."
+  },
+  {
+   "id": 104,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy chata de levantarme a las seis pa' llegar a clases.",
+   "frase_neutralizada": "Estoy harta de levantarme a las seis para llegar a clases.",
+   "nota": "Neutral con 'harta' y la situación ahora es más natural."
+  },
+  {
+   "id": 105,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me queda ni una chaucha, así que hoy me voy a pata pa' la casa.",
+   "frase_neutralizada": "No me queda ni una moneda, así que hoy me voy a pie a casa.",
+   "nota": "'Callejón sin salida' sobraba; la neutral cambiaba el sentido."
+  },
+  {
+   "id": 106,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me pagaron una chaucha por el pololito, ni pa' la micro me alcanza.",
+   "frase_neutralizada": "Me pagaron una miseria por el trabajito, ni para el autobús me alcanza.",
+   "nota": "Repetía la idea del par 105; ahora es un pago muy bajo."
+  },
+  {
+   "id": 107,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese celular lo vendí por chauchas, si ya ni funcionaba bien.",
+   "frase_neutralizada": "Ese celular lo vendí por muy poco dinero, si ya ni funcionaba bien.",
+   "nota": "La frase original era incoherente."
+  },
+  {
+   "id": 108,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Me saqué un 3,9 en la prueba, me faltó la chaucha pa'l peso.",
+   "frase_neutralizada": "Me saqué un 3,9 en el examen, me faltó muy poco para aprobar.",
+   "nota": "Def 2 es dudosa; se usó el sentido de 'faltar poco'."
+  },
+  {
+   "id": 109,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Casi alcanzamos el último tren, nos faltó la chaucha pa'l peso.",
+   "frase_neutralizada": "Casi alcanzamos el último tren, nos faltó muy poco.",
+   "nota": "Def 2 es dudosa y la frase era incoherente; se usó def 3."
+  },
+  {
+   "id": 110,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Querís una chela pa' ver el partido?",
+   "frase_neutralizada": "¿Quieres una cerveza para ver el partido?",
+   "nota": "Registro chileno informal; neutral sin 'usted' ni 'desea'."
+  },
+  {
+   "id": 111,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Nosotras vamos a tomarnos unas chelas al parque, ¿te venís?",
+   "frase_neutralizada": "Nosotras vamos a tomarnos unas cervezas al parque, ¿vienes?",
+   "nota": "Se agregó naturalidad y una invitación."
+  },
+  {
+   "id": 112,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me hablís de chelas, que mañana tengo que trabajar temprano.",
+   "frase_neutralizada": "No me hables de cervezas, que mañana tengo que trabajar temprano.",
+   "nota": "La neutral tenía voseo rioplatense ('hablés')."
+  },
+  {
+   "id": 113,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pal dieciocho se vendían chelas en todas las fondas.",
+   "frase_neutralizada": "Para las fiestas patrias se vendían cervezas en todos los puestos de la feria.",
+   "nota": "Errata 'venían' y negación incoherente."
+  },
+  {
+   "id": 114,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esta plaza no es buena pa' tomarse unas chelas, siempre pasan los pacos.",
+   "frase_neutralizada": "Esta plaza no es buena para tomarse unas cervezas, siempre pasa la policía.",
+   "nota": "Se agregó un contexto natural y un motivo."
+  },
+  {
+   "id": 115,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi perro es chetado pa' atrapar la pelota, nunca se le escapa una.",
+   "frase_neutralizada": "Mi perro es buenísimo para atrapar la pelota, nunca se le escapa una.",
+   "nota": "Faltaba indicar en qué se destaca."
+  },
+  {
+   "id": 116,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Benja está chetado en el Fortnite, nos gana a todos.",
+   "frase_neutralizada": "Benja es buenísimo en Fortnite, nos gana a todos.",
+   "nota": "'Los chilotes se resaltan' no tenía sentido."
+  },
+  {
+   "id": 117,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La profe nueva es chetada pa' explicar, ahora sí entiendo química.",
+   "frase_neutralizada": "La profesora nueva es excelente para explicar, ahora sí entiendo química.",
+   "nota": "La frase era incoherente y la neutral tenía error gramatical."
+  },
+  {
+   "id": 118,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La nueva canción del grupo está chetada, la escucho todo el día.",
+   "frase_neutralizada": "La nueva canción del grupo es increíble, la escucho todo el día.",
+   "nota": "Se completó la frase y se mejoró la neutral."
+  },
+  {
+   "id": 119,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuela es chetada pa' cocinar, sus empanadas son las mejores.",
+   "frase_neutralizada": "Mi abuela es excelente para cocinar, sus empanadas son las mejores.",
+   "nota": "'La ballena es chetada' carecía de sentido."
+  }
+ ]
+}

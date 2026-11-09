@@ -1,0 +1,340 @@
+{
+ "lote": 25,
+ "claves": [
+  "se cree la muerte",
+  "se fue pal patio de los callados",
+  "se funo",
+  "se la echo",
+  "se le arrancan los enanitos para el bosque",
+  "se le da vuelta el paraguas",
+  "se le da vuelta el paragua",
+  "se le escapan los enanitos pal bosque"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2606754,
+ "duracion_s": 96.3,
+ "pares": [
+  {
+   "id": 1000,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te creís la muerte con esa chaqueta nueva? Si la compraste en la feria.",
+   "frase_neutralizada": "¿Te crees superior a todos con esa chaqueta nueva? Si la compraste en un mercado callejero.",
+   "nota": "Quité 'chulo' (no chileno); neutral cambiaba el sentido de la segunda frase."
+  },
+  {
+   "id": 1001,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Desde que heredó plata, el Rodrigo se cree la muerte y ya ni saluda.",
+   "frase_neutralizada": "Desde que heredó dinero, Rodrigo se cree superior a todos y ya ni saluda.",
+   "nota": "Arreglado el subjuntivo y la frase rebuscada; ahora es una situación natural."
+  },
+  {
+   "id": 1002,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese gallo se cree la muerte porque anda en moto, pero ni sabe estacionarla.",
+   "frase_neutralizada": "Ese tipo se cree superior porque anda en moto, pero ni siquiera sabe estacionarla.",
+   "nota": "Cambié la persona para que sea distinta del ejemplo y añadí contexto."
+  },
+  {
+   "id": 1003,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te creís la muerte porque te casaste con un famoso? Bájate de la nube, po.",
+   "frase_neutralizada": "¿Te crees superior porque te casaste con un famoso? Baja de las nubes.",
+   "nota": "Corregida la concordancia 'se crees'; añadí el voseo chileno."
+  },
+  {
+   "id": 1004,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Javi se cree la muerte porque es doctora y nos mira a todos en menos.",
+   "frase_neutralizada": "Javi se cree superior porque es doctora y nos mira a todos con desprecio.",
+   "nota": "Cambié la persona para que la situación sea distinta; neutral sin artículo ante el nombre."
+  },
+  {
+   "id": 1005,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La abuela de mi polola se fue pal patio de los callados la semana pasada.",
+   "frase_neutralizada": "La abuela de mi novia murió la semana pasada.",
+   "nota": "La neutral perdía información ('su abuela'); ahora conserva todos los datos."
+  },
+  {
+   "id": 1006,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El tío de mi compañera de pega se fue pal patio de los callados esta mañana, pobre.",
+   "frase_neutralizada": "El tío de mi compañera de trabajo murió esta mañana, pobre.",
+   "nota": "La neutral cambiaba al poseedor; ahora conserva toda la información."
+  },
+  {
+   "id": 1007,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El perro del vecino se fue pal patio de los callados, ya estaba bien viejito.",
+   "frase_neutralizada": "El perro del vecino se murió, ya estaba muy viejito.",
+   "nota": "Arreglado el orden de la expresión y la información perdida en la neutral."
+  },
+  {
+   "id": 1008,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si seguís manejando así de rápido te vai a ir pal patio de los callados, hueón.",
+   "frase_neutralizada": "Si sigues manejando así de rápido te vas a morir, idiota.",
+   "nota": "La situación original era rara; ahora es una advertencia natural."
+  },
+  {
+   "id": 1009,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Supiste que el primo de mi esposo se fue pal patio de los callados? Fue un infarto.",
+   "frase_neutralizada": "¿Supiste que el primo de mi esposo murió? Fue un infarto.",
+   "nota": "Expresión partida y neutral incompleta; ahora la frase está completa."
+  },
+  {
+   "id": 1010,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se me quemó el arroz, cabros, se fuñó el almuerzo.",
+   "frase_neutralizada": "Se me quemó el arroz, chicos, se arruinó el almuerzo.",
+   "nota": "Agregué la causa y lo hice más natural; uso la forma 'arruinarse'."
+  },
+  {
+   "id": 1011,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se borró todo el archivo, se fuñó el proyecto y hay que empezar de cero.",
+   "frase_neutralizada": "Se borró todo el archivo, se arruinó el proyecto y hay que empezar de cero.",
+   "nota": "Agregué la causa; corregí el tiempo verbal de la neutral."
+  },
+  {
+   "id": 1012,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Prendieron las luces y cortaron la música, se fuñó el carrete.",
+   "frase_neutralizada": "Encendieron las luces y apagaron la música, se acabó la fiesta.",
+   "nota": "Asignado al sentido 'se acabó'; agregué un contexto chileno natural."
+  },
+  {
+   "id": 1013,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se cortó la luz y no guardé nada, se fuñó el informe que estaba haciendo.",
+   "frase_neutralizada": "Se cortó la electricidad y no guardé nada, se arruinó el informe que estaba haciendo.",
+   "nota": "La neutral era agramatical y cambiaba el sentido; ahora está corregida."
+  },
+  {
+   "id": 1014,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Se fuñó lo nuestro, Felipe, no te voy a dar otra oportunidad.",
+   "frase_neutralizada": "Se acabó lo nuestro, Felipe, no te voy a dar otra oportunidad.",
+   "nota": "La frase repetía la idea de un plan fallido; nueva situación con el sentido 'se acabó'."
+  },
+  {
+   "id": 1015,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Era una prueba fácil, no cacho cómo se la echó el Benja.",
+   "frase_neutralizada": "Era un examen fácil, no entiendo cómo lo reprobó Benja.",
+   "nota": "Estaba en presente y negado sin sentido; ahora habla de reprobar un examen."
+  },
+  {
+   "id": 1016,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Cata estudió harto para la solemne de física y igual se la echó.",
+   "frase_neutralizada": "Cata estudió mucho para el examen de física y aun así lo reprobó.",
+   "nota": "La negación invertía el sentido; ahora usa 'echarse' como reprobar."
+  },
+  {
+   "id": 1017,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cómo te fue en el examen de manejo? —Me la eché, po, choqué un cono.",
+   "frase_neutralizada": "¿Cómo te fue en el examen de manejo? —Lo reprobé, choqué con un cono.",
+   "nota": "Era agramatical con 'propuesta'; ahora es un examen reprobado."
+  },
+  {
+   "id": 1018,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tenís que estudiar pa la prueba, si te la echai otra vez te echan de la U.",
+   "frase_neutralizada": "Tienes que estudiar para el examen; si lo vuelves a reprobar, te expulsan de la universidad.",
+   "nota": "Era agramatical y la neutral contradecía la frase; escribí un par nuevo."
+  },
+  {
+   "id": 1019,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿La práctica profesional? Mi primo se la echó por llegar tarde todos los días.",
+   "frase_neutralizada": "¿Las prácticas profesionales? Mi primo las reprobó por llegar tarde todos los días.",
+   "nota": "El uso con 'juego' era forzado; ahora se refiere a reprobar la práctica."
+  },
+  {
+   "id": 1020,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con el Lucho no se puede conversar tranquilo, a cada rato se le arrancan los enanitos para el bosque.",
+   "frase_neutralizada": "Con Lucho no se puede conversar tranquilo, a cada rato empieza a decir incoherencias.",
+   "nota": "No incluía la expresión e inventaba 'friolera'; escribí un par nuevo."
+  },
+  {
+   "id": 1021,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le pregunté al abuelo por su viaje y se le arrancaron los enanitos para el bosque, terminó hablando de la guerra.",
+   "frase_neutralizada": "Le pregunté al abuelo por su viaje y empezó a decir cosas sin sentido; terminó hablando de la guerra.",
+   "nota": "Era agramatical y la neutral no tenía sentido."
+  },
+  {
+   "id": 1022,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "A la tía se le arrancaron los enanitos para el bosque contando lo del matrimonio, mezcló todo.",
+   "frase_neutralizada": "La tía empezó a desvariar contando lo de la boda, mezcló todo.",
+   "nota": "Faltaba la preposición 'a'; la neutral decía 'situación incómoda', que es otro sentido."
+  },
+  {
+   "id": 1023,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Al profe se le arrancaron los enanitos para el bosque y respondió con una historia que no venía al caso.",
+   "frase_neutralizada": "El profesor empezó a divagar y respondió con una historia que no venía al caso.",
+   "nota": "La neutral decía 'situación incómoda', que es otro sentido; corregido."
+  },
+  {
+   "id": 1024,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando mi tío habla de política se le arrancan los enanitos para el bosque y se contradice solo.",
+   "frase_neutralizada": "Cuando mi tío habla de política empieza a decir incoherencias y se contradice solo.",
+   "nota": "Gramática corregida; la neutral decía 'situación incómoda', que es otro sentido."
+  },
+  {
+   "id": 1025,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo creo que al Juan se le da vuelta el paraguas, nunca lo he visto con una mina.",
+   "frase_neutralizada": "Yo creo que Juan es gay, nunca lo he visto con una chica.",
+   "nota": "Quité 'carajo'; la neutral era confusa y no decía lo mismo."
+  },
+  {
+   "id": 1026,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tía anda preguntando si al Seba se le da vuelta el paraguas porque no tiene polola.",
+   "frase_neutralizada": "Mi tía anda preguntando si Seba es gay porque no tiene novia.",
+   "nota": "No contenía la expresión; escribí un par nuevo."
+  },
+  {
+   "id": 1027,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Supiste que al cantante ese se le da vuelta el paraguas? Salió con su pololo en la tele.",
+   "frase_neutralizada": "¿Supiste que ese cantante es gay? Apareció con su novio en la televisión.",
+   "nota": "Era ofensiva, incoherente y la neutral no correspondía."
+  },
+  {
+   "id": 1028,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "A mi compañero de depto se le da vuelta el paraguas y la verdad me da lo mismo.",
+   "frase_neutralizada": "Mi compañero de departamento es gay y la verdad me da igual.",
+   "nota": "Copiaba el ejemplo literal sin sentido; las dos definiciones son el mismo sentido."
+  },
+  {
+   "id": 1029,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "A mi primo desde chico se le daba vuelta el paraguas, pero recién ahora lo contó en la casa.",
+   "frase_neutralizada": "Mi primo es gay desde niño, pero apenas ahora se lo contó a su familia.",
+   "nota": "No contenía la expresión y era incomprensible; escribí un par nuevo."
+  },
+  {
+   "id": 1030,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Cristián no podía creer que al Juan se le diera vuelta el paragua, si fueron compañeros tantos años.",
+   "frase_neutralizada": "Cristián no podía creer que Juan fuera gay, después de haber sido compañeros tantos años.",
+   "nota": "Faltaba 'a' (al Juan); corregí el modo verbal."
+  },
+  {
+   "id": 1031,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pablo cree que al Alejandro le va a costar contarle a su papá que se le da vuelta el paragua.",
+   "frase_neutralizada": "Pablo cree que a Alejandro le va a costar contarle a su papá que es gay.",
+   "nota": "Aclaré a quién se refiere; ahora suena más natural."
+  },
+  {
+   "id": 1032,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Siempre pensé que el Tomás era mujeriego, nunca caché que se le daba vuelta el paragua.",
+   "frase_neutralizada": "Siempre pensé que Tomás era mujeriego, nunca me di cuenta de que era gay.",
+   "nota": "Quité 'normal', que era prejuicioso; agregué 'cachar' y ajusté el tiempo verbal."
+  },
+  {
+   "id": 1033,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Juan no quiere que en la pega se enteren de que a su hermano se le da vuelta el paragua.",
+   "frase_neutralizada": "Juan no quiere que en el trabajo se enteren de que su hermano es gay.",
+   "nota": "La frase original era agramatical ('se le de')."
+  },
+  {
+   "id": 1034,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La María se fue de lengua y le contó a todos que al Juan se le da vuelta el paragua.",
+   "frase_neutralizada": "María se fue de la lengua y les contó a todos que Juan es gay.",
+   "nota": "Simplifiqué la construcción, que era confusa y agramatical."
+  },
+  {
+   "id": 1035,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu hermana anda hablando sola en la micro, como que se le están escapando los enanitos pal bosque.",
+   "frase_neutralizada": "Tu hermana anda hablando sola en el autobús, parece que se está volviendo loca.",
+   "nota": "Corregí 'como si se le están' y agregué contexto."
+  },
+  {
+   "id": 1036,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cristina, ¿por qué te preocupái tanto por nada? Parece que se te están escapando los enanitos pal bosque.",
+   "frase_neutralizada": "Cristina, ¿por qué te preocupas tanto por nada? Parece que te estás volviendo loca.",
+   "nota": "'Te parece' cambiaba el sentido; la neutral alteraba la pregunta."
+  },
+  {
+   "id": 1037,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Al Juan se le escapan los enanitos pal bosque cada vez que habla de sus teorías conspirativas.",
+   "frase_neutralizada": "Juan desvaría cada vez que habla de sus teorías conspirativas.",
+   "nota": "Ajusté el tiempo verbal para que sea habitual y lo hice más natural."
+  },
+  {
+   "id": 1038,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi jefe quiere que terminemos todo en un día, se le escaparon los enanitos pal bosque.",
+   "frase_neutralizada": "Mi jefe quiere que terminemos todo en un día, se volvió loco.",
+   "nota": "La expresión se aplicaba a una idea y no a una persona; escribí un par nuevo."
+  },
+  {
+   "id": 1039,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le hagái caso al Ramón, a ese hace rato que se le escaparon los enanitos pal bosque.",
+   "frase_neutralizada": "No le hagas caso a Ramón, ese se volvió loco hace tiempo.",
+   "nota": "Cambié el tiempo y agregué voseo chileno; la neutral es más precisa."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 9,
+ "claves": [
+  "copucha",
+  "copuchento",
+  "copuchenta",
+  "cotorra",
+  "cototo",
+  "cranear",
+  "creerse la raja",
+  "cuatico"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2382409,
+ "duracion_s": 85.2,
+ "pares": [
+  {
+   "id": 360,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿supiste la copucha del jefe? Dicen que se va a vivir a Argentina.",
+   "frase_neutralizada": "Oye, ¿te enteraste del chisme del jefe? Dicen que se va a vivir a Argentina.",
+   "nota": "No contenía la expresión; nueva frase con copucha como chisme."
+  },
+  {
+   "id": 361,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me contaron una tremenda copucha sobre el pololo de mi prima, ¡no lo vai a creer!",
+   "frase_neutralizada": "Me contaron un tremendo chisme sobre el novio de mi prima, ¡no lo vas a creer!",
+   "nota": "Neutral decía 'gran noticia'; copucha es chisme. Se naturalizó."
+  },
+  {
+   "id": 362,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Eso es pura copucha, no es cierto que el marido de la Carmen la engaña.",
+   "frase_neutralizada": "Eso es puro chisme, no es cierto que el esposo de Carmen la engaña.",
+   "nota": "Neutral omitía el chisme; situación incoherente corregida."
+  },
+  {
+   "id": 363,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le voy a preguntar a mi primo por la copucha que anda dando vueltas en la pega.",
+   "frase_neutralizada": "Le voy a preguntar a mi primo por el chisme que anda circulando en el trabajo.",
+   "nota": "Gramática rota y 'noticia' en vez de chisme."
+  },
+  {
+   "id": 364,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vecino me dijo que andabai contando copuchas sobre mí, ¿es cierto?",
+   "frase_neutralizada": "El vecino me dijo que andabas contando chismes sobre mí, ¿es cierto?",
+   "nota": "'Noticia' no equivale a chisme; frase más natural."
+  },
+  {
+   "id": 365,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai copuchento, esto no es asunto tuyo.",
+   "frase_neutralizada": "No seas entrometido, esto no es asunto tuyo.",
+   "nota": "Frases contradictorias y neutral con sentido invertido."
+  },
+  {
+   "id": 366,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El copuchento del vecino se asoma por la ventana cada vez que llega alguien a mi casa.",
+   "frase_neutralizada": "El entrometido del vecino se asoma por la ventana cada vez que llega alguien a mi casa.",
+   "nota": "Verbo inventado 'copuchentar' y frase incomprensible."
+  },
+  {
+   "id": 367,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi suegra es súper copuchenta, siempre anda preguntando cuánto gano en la pega.",
+   "frase_neutralizada": "Mi suegra es muy entrometida, siempre anda preguntando cuánto gano en el trabajo.",
+   "nota": "Usaba verbo inexistente; nueva frase con adjetivo."
+  },
+  {
+   "id": 368,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Este copuchento se pasó toda la tarde hablando de mí con los demás.",
+   "frase_neutralizada": "Este chismoso se pasó toda la tarde hablando de mí con los demás.",
+   "nota": "Neutral cambiaba 'tarde' por 'día' y el tiempo verbal."
+  },
+  {
+   "id": 369,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No soy copuchenta, pero ¿cachai por qué terminó la Javi con el pololo?",
+   "frase_neutralizada": "No soy chismosa, pero ¿sabes por qué terminó Javi con su novio?",
+   "nota": "Frase sin lógica; ahora ilustra el chismorreo."
+  },
+  {
+   "id": 370,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa copuchenta siempre se anda metiendo en lo que no le importa.",
+   "frase_neutralizada": "Esa entrometida siempre se anda metiendo en lo que no le importa.",
+   "nota": "Neutral cambiaba singular a plural."
+  },
+  {
+   "id": 371,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me contís esas historias de los vecinos, estai súper copuchenta.",
+   "frase_neutralizada": "No me cuentes esas historias de los vecinos, estás muy chismosa.",
+   "nota": "Neutral explicativa y con régimen erróneo ('interesa de')."
+  },
+  {
+   "id": 372,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te voy a contar los secretos de la Fran, ¡qué copuchenta erís!",
+   "frase_neutralizada": "No te voy a contar los secretos de Fran, ¡qué chismosa eres!",
+   "nota": "Errores gramaticales y neutral cambiaba la intención."
+  },
+  {
+   "id": 373,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranqui, eso es problema de ellos, no te pongai copuchenta.",
+   "frase_neutralizada": "Tranquila, eso es problema de ellos, no te pongas entrometida.",
+   "nota": "Frase forzada; neutral parafraseaba en exceso."
+  },
+  {
+   "id": 374,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La copuchenta de la tía Rosa ya le contó a toda la familia que estoy embarazada.",
+   "frase_neutralizada": "La chismosa de la tía Rosa ya le contó a toda la familia que estoy embarazada.",
+   "nota": "Repetía idea de otros pares y la neutral era explicativa."
+  },
+  {
+   "id": 375,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, cállate cotorra, que no me dejai escuchar al profe.",
+   "frase_neutralizada": "Ya, cállate, habladora, que no me dejas escuchar al profesor.",
+   "nota": "Neutral omitía el insulto 'cotorra'."
+  },
+  {
+   "id": 376,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tía es más cotorra, te llama por teléfono y no te suelta en una hora.",
+   "frase_neutralizada": "Mi tía es muy habladora, te llama por teléfono y no te deja colgar en una hora.",
+   "nota": "Frase sin sentido; nueva situación."
+  },
+  {
+   "id": 377,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vecino es entero cotorra, lleva hablando desde las seis de la mañana.",
+   "frase_neutralizada": "El vecino es muy hablador, lleva hablando desde las seis de la mañana.",
+   "nota": "'Hay hablado' mal usado; definiciones duplicadas unificadas en def 1."
+  },
+  {
+   "id": 378,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este cabro chico es terrible cotorra, no se calla ni para comer.",
+   "frase_neutralizada": "Este niño es muy parlanchín, no se calla ni para comer.",
+   "nota": "'Un cotorra' agramatical; definición duplicada unificada."
+  },
+  {
+   "id": 379,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tocó una cotorra al lado en la micro y no me dejó dormir en todo el viaje.",
+   "frase_neutralizada": "Me tocó una persona muy habladora al lado en el autobús y no me dejó dormir en todo el viaje.",
+   "nota": "Neutral perdía el sentido; nueva situación."
+  },
+  {
+   "id": 380,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se armó una fiesta cotota en la casa del Pancho, llegó medio mundo.",
+   "frase_neutralizada": "Se armó una fiesta enorme en la casa de Pancho, llegó muchísima gente.",
+   "nota": "'Un cototo' como sustantivo no se usa así."
+  },
+  {
+   "id": 381,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano se compró una camioneta cotota, ni cabe en el estacionamiento.",
+   "frase_neutralizada": "Mi hermano se compró una camioneta enorme, ni cabe en el estacionamiento.",
+   "nota": "Copiaba el ejemplo y usaba 'coche'."
+  },
+  {
+   "id": 382,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro se pegó con la puerta y le salió tremendo cototo en la frente.",
+   "frase_neutralizada": "El niño se golpeó con la puerta y le salió un tremendo chichón en la frente.",
+   "nota": "Uso forzado; ahora ilustra el sentido de chichón."
+  },
+  {
+   "id": 383,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La tarea de física estaba cotota, estuve hasta las tres de la mañana.",
+   "frase_neutralizada": "La tarea de física estaba dificilísima, estuve hasta las tres de la mañana.",
+   "nota": "Frase incoherente; ajustado a uso adjetival real."
+  },
+  {
+   "id": 384,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Está cototo el trámite pa' sacar el pasaporte, piden mil papeles.",
+   "frase_neutralizada": "Está muy complicado el trámite para sacar el pasaporte, piden muchísimos papeles.",
+   "nota": "Concordancia errónea ('un cotota') y frase sin sentido."
+  },
+  {
+   "id": 385,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Déjame cranearla un rato y te digo cómo lo arreglamos.",
+   "frase_neutralizada": "Déjame pensarlo un rato y te digo cómo lo solucionamos.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 386,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tenemos que cranear algo pa' que el jefe no se dé cuenta del error.",
+   "frase_neutralizada": "Tenemos que idear algo para que el jefe no se dé cuenta del error.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 387,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estuve toda la noche craneando cómo salir de este cacho y no se me ocurrió nada.",
+   "frase_neutralizada": "Estuve toda la noche pensando cómo salir de este problema y no se me ocurrió nada.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 388,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, craneemos cómo vamos a pagar el arriendo este mes, porque no nos alcanza.",
+   "frase_neutralizada": "Bueno, pensemos cómo vamos a pagar el alquiler este mes, porque no nos alcanza.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 389,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La cosa está complicada, pero no nos desesperemos; hay que cranear un plan pa' salir adelante.",
+   "frase_neutralizada": "La situación está complicada, pero no nos desesperemos; hay que idear un plan para salir adelante.",
+   "nota": "Conjugación errónea 'craneamos' corregida."
+  },
+  {
+   "id": 390,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se ganó un premio de cinco lucas y ahora se cree la raja.",
+   "frase_neutralizada": "Se ganó un premio de cinco mil pesos y ahora se cree lo máximo.",
+   "nota": "Errores de conjugación ('creiera', 'se creía' tras 'como si')."
+  },
+  {
+   "id": 391,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te creai la raja porque ganaste una carrera, si corriste contra puros cabros chicos.",
+   "frase_neutralizada": "No te creas lo máximo porque ganaste una carrera, si corriste solo contra niños.",
+   "nota": "Confundía con 'no te creí' (no te creí lo que dijiste)."
+  },
+  {
+   "id": 392,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué se cree la raja si el premio lo ganó todo el equipo y no él solo?",
+   "frase_neutralizada": "¿Por qué se cree lo máximo si el premio lo ganó todo el equipo y no él solo?",
+   "nota": "'Se creí' agramatical; falta signo de apertura."
+  },
+  {
+   "id": 393,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Weón, te creís la raja desde que te subieron el sueldo, ya ni saludai.",
+   "frase_neutralizada": "Oye, te crees lo máximo desde que te subieron el sueldo, ya ni saludas.",
+   "nota": "Sentido equivocado: 'no te creí' en vez de creerse superior."
+  },
+  {
+   "id": 394,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se creía la raja cuando lo nombraron director de la empresa, pero duró dos meses.",
+   "frase_neutralizada": "Se creía lo máximo cuando lo nombraron director de la empresa, pero duró dos meses.",
+   "nota": "Neutral 'importante' débil; frase más natural y distinta."
+  },
+  {
+   "id": 395,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Estuvo cuática la fiesta de ayer, terminamos bailando hasta las siete!",
+   "frase_neutralizada": "¡Estuvo increíble la fiesta de ayer, terminamos bailando hasta las siete!",
+   "nota": "Concordancia errónea y neutral cambiaba exclamación por pregunta."
+  },
+  {
+   "id": 396,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Fue cuático el final de la carrera, lo pasaron en la última vuelta.",
+   "frase_neutralizada": "Fue impresionante el final de la carrera, lo adelantaron en la última vuelta.",
+   "nota": "Concordancia errónea y segunda cláusula incoherente."
+  },
+  {
+   "id": 397,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La amiga de tu mamá es súper cuática, se enoja por todo y grita en la mesa.",
+   "frase_neutralizada": "La amiga de tu mamá es muy exagerada, se enoja por todo y grita en la mesa.",
+   "nota": "'De tú' y 'al punto' agramaticales."
+  },
+  {
+   "id": 398,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "El taco en la Costanera está cuático, llevo una hora sin avanzar.",
+   "frase_neutralizada": "El tráfico en la Costanera está terrible, llevo una hora sin avanzar.",
+   "nota": "Copiaba el ejemplo del diccionario; nueva situación negativa."
+  },
+  {
+   "id": 399,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "No le contís nada al Nacho, es demasiado cuático, todo lo cuenta como si fuera película.",
+   "frase_neutralizada": "No le cuentes nada a Nacho, es demasiado exagerado, todo lo cuenta como si fuera una película.",
+   "nota": "Concordancia errónea; se cubre el sentido de persona dramática."
+  }
+ ]
+}

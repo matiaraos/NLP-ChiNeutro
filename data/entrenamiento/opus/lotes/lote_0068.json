@@ -1,0 +1,340 @@
+{
+ "lote": 68,
+ "claves": [
+  "ano de la pera",
+  "ano del nauca",
+  "ano nauca",
+  "ano del pico",
+  "apagar tele",
+  "apanar",
+  "apanador",
+  "apapachar"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24203539999999998,
+ "duracion_s": 85.8,
+ "pares": [
+  {
+   "id": 2720,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Todavía usai ese celular del año de la pera? Cámbialo luego, po.",
+   "frase_neutralizada": "¿Todavía usas ese celular tan antiguo? Cámbialo pronto.",
+   "nota": "Frase original incoherente; nueva situación natural."
+  },
+  {
+   "id": 2721,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿De dónde sacaste ese vestido del año de la pera? Era de tu abuela, ¿cierto?",
+   "frase_neutralizada": "¿De dónde sacaste ese vestido tan antiguo? Era de tu abuela, ¿verdad?",
+   "nota": "Expresión mal usada como sujeto; neutral cambiaba el sentido."
+  },
+  {
+   "id": 2722,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo sigue contando los mismos chistes del año de la pera en todos los asados.",
+   "frase_neutralizada": "Mi papá sigue contando los mismos chistes antiquísimos en todas las parrilladas.",
+   "nota": "Uso sin sentido aplicado a un partido futuro."
+  },
+  {
+   "id": 2723,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo que cambiar este computador del año de la pera, se demora años en prender.",
+   "frase_neutralizada": "Tengo que cambiar esta computadora tan antigua, tarda muchísimo en encender.",
+   "nota": "Se dio un tono más chileno y natural."
+  },
+  {
+   "id": 2724,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, cambia la música, no quiero escuchar esas canciones del año de la pera.",
+   "frase_neutralizada": "Bueno, cambia la música, no quiero escuchar esas canciones tan antiguas.",
+   "nota": "Se añadió contexto coloquial."
+  },
+  {
+   "id": 2725,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa caja de galletas que tiene tu mamá es del año del ñauca, po.",
+   "frase_neutralizada": "Esa caja de galletas que tiene tu mamá es antiquísima.",
+   "nota": "Frase muy breve; se agregó contexto."
+  },
+  {
+   "id": 2726,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el sur entramos a una iglesia del año del ñauca, era preciosa.",
+   "frase_neutralizada": "En el sur entramos a una iglesia antiquísima; era preciosa.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2727,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi abuelo siempre nos contaba historias del año del ñauca cuando íbamos al campo.",
+   "frase_neutralizada": "Mi abuelo siempre nos contaba historias de hace muchísimo tiempo cuando íbamos al campo.",
+   "nota": "Persona inconsistente (le/me) y forma de la expresión."
+  },
+  {
+   "id": 2728,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cachai que en la biblioteca encontré un librito del año del ñauca, con las hojas amarillas.",
+   "frase_neutralizada": "¿Sabes que en la biblioteca encontré un librito antiquísimo, con las hojas amarillas?",
+   "nota": "Neutral cambiaba diminutivo; frase ampliada."
+  },
+  {
+   "id": 2729,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La última vez que vi al Pato fue el año del ñauca, ya ni me acuerdo de su cara.",
+   "frase_neutralizada": "La última vez que vi a Pato fue hace muchísimo tiempo, ya ni me acuerdo de su cara.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2730,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío todavía maneja una camioneta del año ñauca y no la quiere vender.",
+   "frase_neutralizada": "Mi tío todavía maneja una camioneta antiquísima y no la quiere vender.",
+   "nota": "Frase original incoherente."
+  },
+  {
+   "id": 2731,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Todavía andai con esos zapatos del año ñauca? Cómprate otros, po.",
+   "frase_neutralizada": "¿Todavía andas con esos zapatos tan viejos? Cómprate otros.",
+   "nota": "Se volvió más natural y coloquial."
+  },
+  {
+   "id": 2732,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la casa de mi abuela hay una máquina de coser del año ñauca que todavía funciona.",
+   "frase_neutralizada": "En la casa de mi abuela hay una máquina de coser antiquísima que todavía funciona.",
+   "nota": "Uso sin sentido de la expresión."
+  },
+  {
+   "id": 2733,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cuánto te pidieron por ese teléfono del año ñauca? Igual está bonito.",
+   "frase_neutralizada": "¿Cuánto te pidieron por ese teléfono tan antiguo? De todas formas está bonito.",
+   "nota": "Se añadió contexto natural."
+  },
+  {
+   "id": 2734,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese chiste es del año ñauca, weón, invéntate otro.",
+   "frase_neutralizada": "Ese chiste es viejísimo, amigo, inventa otro.",
+   "nota": "Original sin lógica; nueva situación."
+  },
+  {
+   "id": 2735,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese computador de la pega es del año del pico, se cuelga a cada rato.",
+   "frase_neutralizada": "Esa computadora del trabajo es más vieja que la mierda, se traba a cada rato.",
+   "nota": "Neutral literal absurda; sentido real es 'muy viejo'."
+  },
+  {
+   "id": 2736,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La micro que me tocó hoy era del año del pico, se le caían los asientos.",
+   "frase_neutralizada": "El autobús que me tocó hoy era más viejo que la mierda, se le caían los asientos.",
+   "nota": "Expresión usada como sustantivo; neutral absurda."
+  },
+  {
+   "id": 2737,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuelo es del año del pico, pero igual maneja el celular mejor que yo.",
+   "frase_neutralizada": "Mi abuelo es más viejo que la mierda, pero aun así maneja el celular mejor que yo.",
+   "nota": "Frase sin sentido; neutral literal."
+  },
+  {
+   "id": 2738,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa polera es del año del pico, ya bótala.",
+   "frase_neutralizada": "Esa camiseta es más vieja que la mierda, ya tírala.",
+   "nota": "Expresión usada como persona; neutral absurda."
+  },
+  {
+   "id": 2739,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los chistes de ese weón son del año del pico, nadie se ríe.",
+   "frase_neutralizada": "Los chistes de ese tipo son más viejos que la mierda, nadie se ríe.",
+   "nota": "Neutral literal; se mantiene registro grosero."
+  },
+  {
+   "id": 2740,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Anoche apagamos tele como a las dos de la mañana, no me acuerdo de nada.",
+   "frase_neutralizada": "Anoche quedamos inconscientes de tanto beber como a las dos de la mañana, no recuerdo nada.",
+   "nota": "Neutral omitía que es por alcohol."
+  },
+  {
+   "id": 2741,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no vai a apagar tele de nuevo este finde, ¿ya?",
+   "frase_neutralizada": "Oye, no vayas a quedar inconsciente de borracho otra vez este fin de semana, ¿de acuerdo?",
+   "nota": "Dativo incorrecto y cambio de persona en la neutral."
+  },
+  {
+   "id": 2742,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué pasó con el Juan? Lo vi apagando tele en un sillón en pleno carrete.",
+   "frase_neutralizada": "¿Qué pasó con Juan? Lo vi desmayado de borracho en un sillón en plena fiesta.",
+   "nota": "Error gramatical 'se lo vi'; faltaba matiz del alcohol."
+  },
+  {
+   "id": 2743,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Cami nunca apaga tele, aguanta tomando hasta que sale el sol.",
+   "frase_neutralizada": "Cami nunca queda inconsciente de borracha, aguanta bebiendo hasta que sale el sol.",
+   "nota": "Se explicitó el contexto de alcohol."
+  },
+  {
+   "id": 2744,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Come algo antes del carrete o vai a apagar tele altiro.",
+   "frase_neutralizada": "Come algo antes de la fiesta o vas a quedar inconsciente de borracho enseguida.",
+   "nota": "Contexto de desayuno poco natural."
+  },
+  {
+   "id": 2745,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién te va a apañar a la fiesta del colegio?",
+   "frase_neutralizada": "¿Quién te va a acompañar a la fiesta de la escuela?",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2746,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tía me apañó a ver la película porque nadie más quería ir.",
+   "frase_neutralizada": "Mi tía me acompañó a ver la película porque nadie más quería ir.",
+   "nota": "Sin la expresión; neutral agramatical."
+  },
+  {
+   "id": 2747,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mis amigos siempre me apañan cuando tengo problemas.",
+   "frase_neutralizada": "Mis amigos siempre me apoyan cuando tengo problemas.",
+   "nota": "Usaba 'solidarizar' en vez de la expresión."
+  },
+  {
+   "id": 2748,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Si querís terminar la mudanza hoy, yo te apaño con el camión.",
+   "frase_neutralizada": "Si quieres terminar la mudanza hoy, yo te ayudo con el camión.",
+   "nota": "No contenía la expresión; frase forzada."
+  },
+  {
+   "id": 2749,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "El Seba siempre apaña, aunque sea a las tres de la mañana y lloviendo.",
+   "frase_neutralizada": "Seba siempre está dispuesto a acompañar, aunque sea a las tres de la mañana y lloviendo.",
+   "nota": "Copiaba la definición; ahora sin explicarla."
+  },
+  {
+   "id": 2750,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Carlos es el compañero más apañador del curso, siempre te presta los apuntes.",
+   "frase_neutralizada": "Carlos es el compañero más solidario de la clase, siempre te presta los apuntes.",
+   "nota": "Explicaba la expresión; neutral perdía el sentido."
+  },
+  {
+   "id": 2751,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermana es súper apañadora, siempre me cuida a la niña cuando tengo turno.",
+   "frase_neutralizada": "Mi hermana es muy solidaria, siempre me cuida a la niña cuando tengo turno.",
+   "nota": "Uso sustantivo forzado y concordancia de género."
+  },
+  {
+   "id": 2752,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo es lo más apañador que hay, me fue a buscar a las cuatro de la mañana sin reclamar.",
+   "frase_neutralizada": "Mi papá es lo más incondicional que hay, me fue a buscar a las cuatro de la mañana sin quejarse.",
+   "nota": "'Apañador legal' no es uso real."
+  },
+  {
+   "id": 2753,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Gracias por venir a ayudarme con la mudanza, erís demasiado apañadora, amiga.",
+   "frase_neutralizada": "Gracias por venir a ayudarme con la mudanza, eres realmente incondicional, amiga.",
+   "nota": "Usaba el verbo; def 2 equivale a def 1."
+  },
+  {
+   "id": 2754,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío es el más apañador, nunca falta a ningún partido mío de fútbol.",
+   "frase_neutralizada": "Mi tío es el más incondicional, nunca falta a ninguno de mis partidos de fútbol.",
+   "nota": "Frase contradictoria y neutral cambiaba sentido."
+  },
+  {
+   "id": 2755,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tuve un día terrible en la pega, necesito que alguien me apapache.",
+   "frase_neutralizada": "Tuve un día terrible en el trabajo, necesito que alguien me consuele.",
+   "nota": "Reflexivo incorrecto 'ayúdame a apapacharme'."
+  },
+  {
+   "id": 2756,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Por favor apapáchame un rato, estoy pa' la cagá.",
+   "frase_neutralizada": "Por favor consuélame un rato, estoy hecho mierda.",
+   "nota": "Error ortográfico 'consolén' en la neutral."
+  },
+  {
+   "id": 2757,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana después de la prueba te paso a buscar y te apapacho con un helado.",
+   "frase_neutralizada": "Mañana después del examen te paso a buscar y te consuelo con un helado.",
+   "nota": "Construcción 'no me olvides de' agramatical."
+  },
+  {
+   "id": 2758,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando el niño tiene pesadillas, lo apapacho hasta que se queda dormido.",
+   "frase_neutralizada": "Cuando el niño tiene pesadillas, lo consuelo hasta que se queda dormido.",
+   "nota": "Ortografía 'consolén' y situación repetida."
+  },
+  {
+   "id": 2759,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tú siempre apapachai a tus amigas cuando terminan con el pololo.",
+   "frase_neutralizada": "Tú siempre consuelas a tus amigas cuando terminan con el novio.",
+   "nota": "Se dio contexto concreto y chileno."
+  }
+ ]
+}

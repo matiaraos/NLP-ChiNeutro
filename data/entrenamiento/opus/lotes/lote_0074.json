@@ -1,0 +1,340 @@
+{
+ "lote": 74,
+ "claves": [
+  "bakan",
+  "bajon",
+  "bajoneado",
+  "bancar",
+  "barateli",
+  "barsa",
+  "barza",
+  "botado"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.25820410000000005,
+ "duracion_s": 95.6,
+ "pares": [
+  {
+   "id": 2960,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La comida de anoche estuvo bakán, el Pato cocinó unas cosas increíbles.",
+   "frase_neutralizada": "La cena de anoche estuvo genial, Pato cocinó unas cosas increíbles.",
+   "nota": "'Llegaron recetas' no tenía sentido; situación más natural."
+  },
+  {
+   "id": 2961,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa canción es bakán, el coro te queda pegado al tiro.",
+   "frase_neutralizada": "Esa canción es fantástica, el coro se te queda grabado enseguida.",
+   "nota": "'Canto' y 'hace el coro' sonaban poco naturales."
+  },
+  {
+   "id": 2962,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Fuimos al concierto de Los Bunkers y estuvo demasiado bakán, cantamos todas las canciones.",
+   "frase_neutralizada": "Fuimos al concierto de Los Bunkers y estuvo buenísimo, cantamos todas las canciones.",
+   "nota": "Era redundante; defs 1 y 2 se fusionan en un solo sentido."
+  },
+  {
+   "id": 2963,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Oye, qué bakán se te ve esa chaqueta, ¿dónde la compraste?",
+   "frase_neutralizada": "Oye, qué bonita se te ve esa chaqueta, ¿dónde la compraste?",
+   "nota": "Explicaba el significado dentro de la frase; nueva situación."
+  },
+  {
+   "id": 2964,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "La vista desde el cerro San Cristóbal es súper bakán, tenís que ir.",
+   "frase_neutralizada": "La vista desde el cerro San Cristóbal es muy bonita, tienes que ir.",
+   "nota": "Novela no ilustraba belleza visual; se agrega voseo chileno."
+  },
+  {
+   "id": 2965,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Saliendo de la disco pasamos al carrito de completos a comprar el bajón.",
+   "frase_neutralizada": "Al salir de la discoteca pasamos al carrito de perros calientes a comprar algo de comer.",
+   "nota": "Muy copiada del ejemplo; neutral cambiaba la persona gramatical."
+  },
+  {
+   "id": 2966,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿pedimos algo de bajón? Son las tres de la mañana y no hay nada en el refri.",
+   "frase_neutralizada": "Oye, ¿pedimos algo de comer? Son las tres de la mañana y no hay nada en el refrigerador.",
+   "nota": "Usaba 'bajón' como lugar de comida diurna; faltaba contexto nocturno."
+  },
+  {
+   "id": 2967,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Puta, me dio el bajón, ¿queda algo de pan en la cocina?",
+   "frase_neutralizada": "Mierda, me dio mucha hambre, ¿queda algo de pan en la cocina?",
+   "nota": "Frase incoherente; ahora ilustra el sentido de tener hambre."
+  },
+  {
+   "id": 2968,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después de fumarnos un pito, el Nico salió al almacén a comprar el bajón para todos.",
+   "frase_neutralizada": "Después de fumarnos un porro, Nico salió a la tienda a comprar algo de comer para todos.",
+   "nota": "Mezclaba puro y marihuana sin sentido; def 2 fusionada con 1."
+  },
+  {
+   "id": 2969,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Volvimos del carrete con un bajón tremendo y nos comimos todo lo que había en el refri.",
+   "frase_neutralizada": "Volvimos de la fiesta con un hambre tremenda y nos comimos todo lo que había en el refrigerador.",
+   "nota": "'Taquería' no es chilena; se reparte al sentido de hambre."
+  },
+  {
+   "id": 2970,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy medio bajoneado desde que terminé con la Cata, no quiero hablar con nadie.",
+   "frase_neutralizada": "Estoy algo deprimido desde que terminé con Cata, no quiero hablar con nadie.",
+   "nota": "'Tengo el bajoneado de la cara' es agramatical."
+  },
+  {
+   "id": 2971,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Aunque le encantan los carretes, el Seba andaba bajoneado y se fue temprano.",
+   "frase_neutralizada": "Aunque le encantan las fiestas, Seba estaba desanimado y se fue temprano.",
+   "nota": "Neutral decía 'aburrido', que cambia el significado."
+  },
+  {
+   "id": 2972,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si no querís ir al partido, quédate no más; yo también ando bajoneado.",
+   "frase_neutralizada": "Si no quieres ir al partido, quédate; yo también estoy desanimado.",
+   "nota": "Lógica confusa; neutral decía 'cansado' en vez de desanimado."
+  },
+  {
+   "id": 2973,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No tengo ganas de ir a clases, estoy súper bajoneado por la nota de la prueba.",
+   "frase_neutralizada": "No tengo ganas de ir a clases, estoy muy desanimado por la nota del examen.",
+   "nota": "'Cansado' no equivale; se añadió causa para distinguir la situación."
+  },
+  {
+   "id": 2974,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después de la mala noticia, la Javi quedó bajoneada y se tiró en el sillón todo el día.",
+   "frase_neutralizada": "Después de la mala noticia, Javi quedó deprimida y se echó en el sillón todo el día.",
+   "nota": "Neutral decía 'aburrida', que cambia el sentido."
+  },
+  {
+   "id": 2975,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te banco, hagamos el asado en mi casa mejor que en la plaza.",
+   "frase_neutralizada": "Estoy de acuerdo contigo, hagamos el asado en mi casa mejor que en la plaza.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2976,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo banco el proyecto del Felipe, encuentro que es lo mejor que se ha presentado.",
+   "frase_neutralizada": "Yo apoyo el proyecto de Felipe, me parece lo mejor que se ha presentado.",
+   "nota": "'Me banco con' es agramatical."
+  },
+  {
+   "id": 2977,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Lo que decidai, yo te banco, compadre.",
+   "frase_neutralizada": "Lo que decidas, yo te apoyo, amigo.",
+   "nota": "'A mí me banco' no tenía sentido."
+  },
+  {
+   "id": 2978,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Me bancai al doctor mañana? No quiero ir solo.",
+   "frase_neutralizada": "¿Me acompañas al médico mañana? No quiero ir solo.",
+   "nota": "Construcción 'bancas conmigo' incorrecta y mezclaba sentidos."
+  },
+  {
+   "id": 2979,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tranqui, nosotros te bancamos en la cena con tus suegros, no vai a estar solo.",
+   "frase_neutralizada": "Tranquilo, nosotros te acompañamos en la cena con tus suegros, no vas a estar solo.",
+   "nota": "Frase poco natural; se ajustó a un uso real de acompañar."
+  },
+  {
+   "id": 2980,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa polera estaba barateli en la feria, a luca no más.",
+   "frase_neutralizada": "Esa camiseta estaba baratísima en el mercado, a solo mil pesos.",
+   "nota": "'Te queda barateli' no tiene sentido; neutral cambiaba número."
+  },
+  {
+   "id": 2981,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Vamos a ese local, el almuerzo es barateli y te sirven harto.",
+   "frase_neutralizada": "Vamos a ese restaurante, el almuerzo es barato y te sirven bastante.",
+   "nota": "Frase incoherente; situación más natural."
+  },
+  {
+   "id": 2982,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Las zapatillas estaban barateli con la oferta, ¿cachaste el descuento?",
+   "frase_neutralizada": "Las zapatillas estaban baratas con la oferta, ¿viste el descuento?",
+   "nota": "Neutral omitía 'barato' y repetía 'oferta'."
+  },
+  {
+   "id": 2983,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Arrendemos esa cabaña para el finde, sale súper barateli si vamos entre seis.",
+   "frase_neutralizada": "Alquilemos esa cabaña para el fin de semana, sale muy barata si vamos entre seis.",
+   "nota": "'La plata es barateli' usaba mal el sentido."
+  },
+  {
+   "id": 2984,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El auto que vende mi tío está barateli, ¿querís ir a verlo?",
+   "frase_neutralizada": "El auto que vende mi tío está barato, ¿quieres ir a verlo?",
+   "nota": "Se dio contexto más natural y voseo chileno."
+  },
+  {
+   "id": 2985,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegó el barsa del Mati al cumple y se puso a comerse toda la torta.",
+   "frase_neutralizada": "Llegó el sinvergüenza de Mati al cumpleaños y empezó a comerse todo el pastel.",
+   "nota": "No contenía la expresión ('chicha')."
+  },
+  {
+   "id": 2986,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué barsa el loco, se sentó en mi puesto y ni siquiera pidió permiso.",
+   "frase_neutralizada": "Qué descarado el tipo, se sentó en mi lugar y ni siquiera pidió permiso.",
+   "nota": "Juez que decide en contra no ilustra el sentido."
+  },
+  {
+   "id": 2987,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu prima es súper barsa, se llevó mi cargador sin preguntar y no lo ha devuelto.",
+   "frase_neutralizada": "Tu prima es muy descarada, se llevó mi cargador sin preguntar y no lo ha devuelto.",
+   "nota": "Comparación absurda con anglicismo; neutral 'despectiva' era errónea."
+  },
+  {
+   "id": 2988,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai barsa, deja de sacarle papas fritas a mi plato.",
+   "frase_neutralizada": "No seas descarado, deja de sacar papas fritas de mi plato.",
+   "nota": "Insultar no corresponde al sentido de sinvergüenza."
+  },
+  {
+   "id": 2989,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa barsa está coqueteando con mi pololo delante de mí.",
+   "frase_neutralizada": "Esa descarada está coqueteando con mi novio delante de mí.",
+   "nota": "Situación sin sentido; se mantuvo la idea del novio."
+  },
+  {
+   "id": 2990,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye barza, ¿quién te dio permiso pa meterte a mi pieza?",
+   "frase_neutralizada": "Oye, descarado, ¿quién te dio permiso para meterte en mi cuarto?",
+   "nota": "Neutral 'confidencial' era un error de significado."
+  },
+  {
+   "id": 2991,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El barza del Toño se coló en la fila del banco como si nada.",
+   "frase_neutralizada": "El descarado de Toño se metió en la fila del banco como si nada.",
+   "nota": "Frase incoherente y neutral 'confidencial' incorrecta."
+  },
+  {
+   "id": 2992,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La Dani es súper barza, le presté el depa un fin de semana y se quedó un mes.",
+   "frase_neutralizada": "Dani es muy aprovechada, le presté el departamento un fin de semana y se quedó un mes.",
+   "nota": "Explicaba el significado dentro de la frase."
+  },
+  {
+   "id": 2993,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Le convidé un pucho y el barza se llevó la cajetilla entera.",
+   "frase_neutralizada": "Le ofrecí un cigarrillo y el aprovechado se llevó la cajetilla entera.",
+   "nota": "'Barzo' no existe; neutral 'confidencial' errónea y explicaba el significado."
+  },
+  {
+   "id": 2994,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No seai barza, apenas nos conocemos y ya me estai pidiendo plata.",
+   "frase_neutralizada": "No te tomes tantas confianzas, apenas nos conocemos y ya me estás pidiendo dinero.",
+   "nota": "Frase incoherente y traducción 'confidencial' incorrecta."
+  },
+  {
+   "id": 2995,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La carrera de ayer estaba botada, gané sin siquiera cansarme.",
+   "frase_neutralizada": "La carrera de ayer estaba facilísima, gané sin siquiera cansarme.",
+   "nota": "Concordancia de género y tiempo verbal incoherente."
+  },
+  {
+   "id": 2996,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hazla tú no más la tarea, si está botada, son puros ejercicios del cuaderno.",
+   "frase_neutralizada": "Haz tú la tarea, está facilísima, son solo ejercicios del cuaderno.",
+   "nota": "Concordancia errónea y explicaba el significado en la frase."
+  },
+  {
+   "id": 2997,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cómo te fue en la prueba de mate? A mí me pareció botada.",
+   "frase_neutralizada": "¿Cómo te fue en el examen de matemáticas? A mí me pareció facilísimo.",
+   "nota": "Frase poco natural; se ajustó a una conversación real."
+  },
+  {
+   "id": 2998,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El problema de física estaba botado, lo resolví en cinco minutos.",
+   "frase_neutralizada": "El problema de física estaba facilísimo, lo resolví en cinco minutos.",
+   "nota": "Concordancia de género errónea ('solución... botado')."
+  },
+  {
+   "id": 2999,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese nivel del juego está botado, lo pasé al primer intento.",
+   "frase_neutralizada": "Ese nivel del juego está facilísimo, lo pasé al primer intento.",
+   "nota": "'Es botado' poco natural; se usa con 'estar'."
+  }
+ ]
+}

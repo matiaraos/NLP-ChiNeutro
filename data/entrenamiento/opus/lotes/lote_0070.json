@@ -1,0 +1,340 @@
+{
+ "lote": 70,
+ "claves": [
+  "apreta cuea",
+  "apurar la causa",
+  "apura la causa",
+  "apurate",
+  "arrastrar el poncho",
+  "arrejuntense",
+  "arrepotingarse",
+  "arrepumpunar arrepumpuno"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2154606,
+ "duracion_s": 74.5,
+ "pares": [
+  {
+   "id": 2800,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Viene el guardia, apreta cuea antes que te pille.",
+   "frase_neutralizada": "Viene el guardia, sal corriendo antes de que te atrape.",
+   "nota": "Situación incoherente; ahora implica huir rápido."
+  },
+  {
+   "id": 2801,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, apreta cuea que la comida de la Javi empieza a las nueve.",
+   "frase_neutralizada": "Vamos, sal rápido, que la cena de Javi empieza a las nueve.",
+   "nota": "'Vamos a marchar' no equivalía; neutral corregida."
+  },
+  {
+   "id": 2802,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si querís alcanzar el vuelo, apreta cuea pa'l aeropuerto altiro.",
+   "frase_neutralizada": "Si quieres alcanzar el vuelo, vete corriendo al aeropuerto de inmediato.",
+   "nota": "'A la aerolínea' raro; frase más natural."
+  },
+  {
+   "id": 2803,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te llamaron del hospital, apreta cuea pa allá, compadre.",
+   "frase_neutralizada": "Te llamaron del hospital, ve corriendo para allá, amigo.",
+   "nota": "Persona incoherente; neutral ajustada a imperativo."
+  },
+  {
+   "id": 2804,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya empezó la clase de baile, apreta cuea pa'l estudio.",
+   "frase_neutralizada": "Ya empezó la clase de baile, ve corriendo al estudio.",
+   "nota": "'Marchar' no equivalía a salir corriendo."
+  },
+  {
+   "id": 2805,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Apura la causa po, que tu turno es en cinco minutos.",
+   "frase_neutralizada": "Apúrate, que tu turno es en cinco minutos.",
+   "nota": "Uso agramatical y neutral sin sentido."
+  },
+  {
+   "id": 2806,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llevamos meses con este proyecto, hay que apurar la causa pa terminarlo.",
+   "frase_neutralizada": "Llevamos meses con este proyecto, hay que acelerar el ritmo para terminarlo.",
+   "nota": "Infinitivo mal usado; registro coloquial."
+  },
+  {
+   "id": 2807,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Apura la causa con las compras, que el súper cierra a las diez.",
+   "frase_neutralizada": "Apúrate con las compras, que el supermercado cierra a las diez.",
+   "nota": "'No me apures la causa' forzado; neutral redundante."
+  },
+  {
+   "id": 2808,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, apuremos la causa con el informe, que el jefe lo quiere pa hoy.",
+   "frase_neutralizada": "Oye, apurémonos con el informe, que el jefe lo quiere para hoy.",
+   "nota": "Contexto médico formal, poco natural."
+  },
+  {
+   "id": 2809,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si no apuramos la causa, nos va a pillar la noche en el cerro.",
+   "frase_neutralizada": "Si no nos apuramos, nos va a caer la noche en el cerro.",
+   "nota": "Usaba 'causa' judicial literal, no la expresión."
+  },
+  {
+   "id": 2810,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Apura la causa con el paquete, que el correo cierra a las seis.",
+   "frase_neutralizada": "Apúrate con el paquete, que la oficina de correos cierra a las seis.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2811,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Apura la causa con ese problema, que el cliente está esperando.",
+   "frase_neutralizada": "Resuelve rápido ese problema, que el cliente está esperando.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2812,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Apura la causa con la factura, que el caballero se tiene que ir.",
+   "frase_neutralizada": "Termina rápido la factura, que el señor se tiene que ir.",
+   "nota": "No usaba la expresión; neutral tenía voseo."
+  },
+  {
+   "id": 2813,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, apura la causa con el permiso, que necesito viajar el lunes.",
+   "frase_neutralizada": "Oye, agiliza el trámite del permiso, que necesito viajar el lunes.",
+   "nota": "No usaba la expresión; neutral agramatical."
+  },
+  {
+   "id": 2814,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, apura la causa con la tesis, que la entrega es el viernes.",
+   "frase_neutralizada": "Bueno, apúrate con la tesis, que la entrega es el viernes.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2815,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Apúrate con las tareas po, o vai a terminar a las tantas.",
+   "frase_neutralizada": "Date prisa con las tareas, o vas a terminar muy tarde.",
+   "nota": "Neutral con 'pásate', sentido erróneo."
+  },
+  {
+   "id": 2816,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Apúrate, que el partido empieza y somos los únicos que faltamos.",
+   "frase_neutralizada": "Date prisa, que el partido empieza y somos los únicos que faltamos.",
+   "nota": "Frase incoherente y neutral errónea."
+  },
+  {
+   "id": 2817,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Apúrate, que la once está servida y se enfría el té.",
+   "frase_neutralizada": "Date prisa, que la merienda está servida y se enfría el té.",
+   "nota": "'Pásate' incorrecto y error de concordancia."
+  },
+  {
+   "id": 2818,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Apúrate po, que la profe no deja entrar a los atrasados.",
+   "frase_neutralizada": "Date prisa, que la profesora no deja entrar a los que llegan tarde.",
+   "nota": "Frase agramatical; neutral con 'pásate'."
+  },
+  {
+   "id": 2819,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Apúrate en vestirte, que vamos tarde al cumpleaños de la Cata.",
+   "frase_neutralizada": "Date prisa en vestirte, que vamos tarde al cumpleaños de Cata.",
+   "nota": "Frase incoherente; neutral con 'pásate'."
+  },
+  {
+   "id": 2820,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El curao del lado anda arrastrando el poncho con todos los que pasan.",
+   "frase_neutralizada": "El borracho de al lado anda buscando pelea con todos los que pasan.",
+   "nota": "Uso forzado y explicativo; frase más natural."
+  },
+  {
+   "id": 2821,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La María y el Pablo andan arrastrando el poncho desde la mañana, va a quedar la escoba.",
+   "frase_neutralizada": "María y Pablo andan buscando pelea desde la mañana, se va a armar un lío.",
+   "nota": "Más natural; neutral conserva matiz de buscar pelea."
+  },
+  {
+   "id": 2822,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El nuevo supervisor anda arrastrando el poncho con los trabajadores desde que llegó.",
+   "frase_neutralizada": "El nuevo supervisor anda provocando a los trabajadores desde que llegó.",
+   "nota": "Explicaba el significado; def 2 fusionada con def 1."
+  },
+  {
+   "id": 2823,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pedro se curó y empezó a arrastrar el poncho con sus amigos.",
+   "frase_neutralizada": "Pedro se emborrachó y empezó a buscar pelea con sus amigos.",
+   "nota": "Explicaba el significado; def 2 fusionada con def 1."
+  },
+  {
+   "id": 2824,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le hagai caso a ese gallo, anda arrastrando el poncho pa que le peguen.",
+   "frase_neutralizada": "No le hagas caso a ese tipo, anda provocando para que le peguen.",
+   "nota": "Def 3 sin uso real; se usa sentido de provocar."
+  },
+  {
+   "id": 2825,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cabros, arrejúntense acá al lado mío, que tengo que contarles algo.",
+   "frase_neutralizada": "Chicos, acérquense aquí a mi lado, que tengo que contarles algo.",
+   "nota": "Usaba 'os' y vosotros; agramatical."
+  },
+  {
+   "id": 2826,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Arrejúntense, niños, que la abuela les va a contar un cuento.",
+   "frase_neutralizada": "Acérquense, niños, que la abuela les va a contar un cuento.",
+   "nota": "Discordancia singular/plural; 'agrupámonos' inexistente."
+  },
+  {
+   "id": 2827,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Arrejúntense en la orilla, que ya vienen los botes a buscarnos.",
+   "frase_neutralizada": "Júntense en la orilla, que ya vienen los botes a buscarnos.",
+   "nota": "Frase incoherente y errores en la neutral."
+  },
+  {
+   "id": 2828,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Arrejúntense, chiquillos, que en el centro hay harta gente y se nos pierden.",
+   "frase_neutralizada": "Júntense, chicos, que en el centro hay mucha gente y se pueden perder.",
+   "nota": "Frase agramatical; 'agrupámonos' inexistente."
+  },
+  {
+   "id": 2829,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, arrejúntense pa armar los equipos de la pichanga.",
+   "frase_neutralizada": "Bueno, júntense para armar los equipos del partido de fútbol.",
+   "nota": "Persona incoherente; forma verbal neutral inexistente."
+  },
+  {
+   "id": 2830,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El metro venía repleto, pero me arrepotingué igual y alcancé a llegar.",
+   "frase_neutralizada": "El metro venía repleto, pero me metí apretujándome y logré llegar a tiempo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2831,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Arrepotíngate en la mesa no más, que igual cabís.",
+   "frase_neutralizada": "Métete en la mesa aunque quede apretado, que igual cabes.",
+   "nota": "Forma 'arrepántete' errónea; sentido incoherente."
+  },
+  {
+   "id": 2832,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Arrepotínguense un poco atrás, que falta que suba la tía.",
+   "frase_neutralizada": "Apriétense un poco atrás, que falta que suba la tía.",
+   "nota": "Forma errónea; frase incoherente."
+  },
+  {
+   "id": 2833,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te preocupís, arrepotíngate no más, que en el ascensor cabe uno más.",
+   "frase_neutralizada": "No te preocupes, métete aunque sea apretado, que en el ascensor cabe uno más.",
+   "nota": "Forma errónea y sentido confuso."
+  },
+  {
+   "id": 2834,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el concierto nos arrepotingamos hasta adelante pa ver a la banda.",
+   "frase_neutralizada": "En el concierto nos abrimos paso apretujándonos hasta adelante para ver a la banda.",
+   "nota": "Forma errónea y frase sin sentido."
+  },
+  {
+   "id": 2835,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me esté molestando, compadre, que me arrepumpuño altiro.",
+   "frase_neutralizada": "No me siga molestando, amigo, que me enojo enseguida.",
+   "nota": "Puntuación rota; registro campesino más natural."
+  },
+  {
+   "id": 2836,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mire que si me sigue embromando me voy a arrepumpuñar, ah.",
+   "frase_neutralizada": "Mire que si me sigue fastidiando me voy a enojar, eh.",
+   "nota": "Usado como transitivo; neutral cambiaba sentido."
+  },
+  {
+   "id": 2837,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El patrón se arrepumpuñó porque se le arrancaron las vacas.",
+   "frase_neutralizada": "El patrón se enojó porque se le escaparon las vacas.",
+   "nota": "Uso transitivo incorrecto; verbo es pronominal."
+  },
+  {
+   "id": 2838,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La comadre se arrepumpuña por cualquier cosa, no se le puede decir na'.",
+   "frase_neutralizada": "La vecina se enoja por cualquier cosa, no se le puede decir nada.",
+   "nota": "Frase agramatical y neutral incoherente."
+  },
+  {
+   "id": 2839,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Usted no sabe cómo me arrepumpuñé cuando vi el gallinero abierto.",
+   "frase_neutralizada": "Usted no sabe cómo me enojé cuando vi el gallinero abierto.",
+   "nota": "Contexto vago; neutral usaba 'estoy enojado', cambiando aspecto."
+  }
+ ]
+}

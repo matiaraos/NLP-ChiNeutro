@@ -1,0 +1,340 @@
+{
+ "lote": 4,
+ "claves": [
+  "choro",
+  "chucha",
+  "chuchetumare",
+  "chuchunco",
+  "chuleta",
+  "chupa el perro",
+  "chupar el perro",
+  "chupapico"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.3123852,
+ "duracion_s": 106.1,
+ "pares": [
+  {
+   "id": 160,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me pegué en el choro con la barra de la bicicleta y me duele caleta.",
+   "frase_neutralizada": "Me golpeé la vagina con la barra de la bicicleta y me duele muchísimo.",
+   "nota": "'Dispositivo sanitario' era un sentido inventado; ahora se usa el sentido anatómico."
+  },
+  {
+   "id": 161,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Compramos un kilo de choros en la feria pa' hacer un caldillo el domingo.",
+   "frase_neutralizada": "Compramos un kilo de mejillones en el mercado para hacer una sopa el domingo.",
+   "nota": "Sentido inventado; reescrito con el sentido del marisco para variar."
+  },
+  {
+   "id": 162,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Pancho es terrible choro, por eso nadie se mete con él en la pobla.",
+   "frase_neutralizada": "Francisco es muy rudo e imponente, por eso nadie se mete con él en el barrio.",
+   "nota": "Se quitó el 'pero', que era incoherente, y se agregó contexto natural."
+  },
+  {
+   "id": 163,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "Qué choro el carrete de anoche, la música estaba buenísima y la gente muy simpática.",
+   "frase_neutralizada": "Qué divertida la fiesta de anoche, la música estaba buenísima y la gente era muy simpática.",
+   "nota": "La neutral decía 'arrogante'; se cambió al sentido 'entretenido'."
+  },
+  {
+   "id": 164,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Te creíai muy choro, pero arrancaste apenas llegaron los pacos.",
+   "frase_neutralizada": "Te creías muy valiente, pero huiste en cuanto llegó la policía.",
+   "nota": "La neutral cambiaba el sentido (confiada/tímido); ahora es 'valiente'."
+  },
+  {
+   "id": 165,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Por la chucha! Se me olvidó comprar el pan pa' la once.",
+   "frase_neutralizada": "¡Mierda! Se me olvidó comprar el pan para la merienda.",
+   "nota": "La neutral perdía la exclamación grosera; se mantiene el registro."
+  },
+  {
+   "id": 166,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Por la chucha, Juan, te dije que no botarai la basura ahí!",
+   "frase_neutralizada": "¡Carajo, Juan, te dije que no tiraras la basura ahí!",
+   "nota": "Estaba agramatical y usaba mal la expresión; ahora expresa enojo."
+  },
+  {
+   "id": 167,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cabro se sacó la chucha tratando de subirse al árbol del patio.",
+   "frase_neutralizada": "El chico se dio un golpe tremendo tratando de subirse al árbol del patio.",
+   "nota": "La neutral no transmitía la gravedad del golpe."
+  },
+  {
+   "id": 168,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El colegio nuevo de mi hijo queda a la chucha, nos demoramos una hora.",
+   "frase_neutralizada": "La escuela nueva de mi hijo queda lejísimos, tardamos una hora.",
+   "nota": "Se intensificó 'lejos' y se le dio más contexto."
+  },
+  {
+   "id": 169,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, ándate a la chucha, no quiero verte nunca más por acá.",
+   "frase_neutralizada": "Ya, vete a la mierda, no quiero verte nunca más por aquí.",
+   "nota": "La def 2 tiene votos muy negativos y no es un uso real."
+  },
+  {
+   "id": 170,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira al chuchetumare que me rayó el auto, va caminando lo más pancho.",
+   "frase_neutralizada": "Mira al hijo de puta que me rayó el auto, va caminando como si nada.",
+   "nota": "Era incoherente; la neutral suavizaba el insulto."
+  },
+  {
+   "id": 171,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese chuchetumare me robó el celular en la micro y nadie hizo nada.",
+   "frase_neutralizada": "Ese hijo de puta me robó el celular en el autobús y nadie hizo nada.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 172,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué hací juntándote con esos chuchetumares? Te van a meter en puros problemas.",
+   "frase_neutralizada": "¿Qué haces juntándote con esos hijos de puta? Te van a meter en muchos problemas.",
+   "nota": "Era poco natural; 'desagradables' suavizaba demasiado el insulto."
+  },
+  {
+   "id": 173,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le hagai caso, ese chuchetumare nos anda mirando hace rato pa' cogotearnos.",
+   "frase_neutralizada": "No le hagas caso, ese hijo de puta nos está mirando desde hace rato para asaltarnos.",
+   "nota": "Era incoherente ('desabones'); se mantiene la idea de alguien amenazante."
+  },
+  {
+   "id": 174,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Erí terrible chuchetumare, le contaste a todos lo que te dije en secreto.",
+   "frase_neutralizada": "Eres un hijo de puta, le contaste a todos lo que te dije en secreto.",
+   "nota": "Las defs 1 y 2 son el mismo sentido; el contexto no era despreciable."
+  },
+  {
+   "id": 175,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Vamos a ese café? No, queda en Chuchunco, mejor vamos a uno más cerca.",
+   "frase_neutralizada": "¿Vamos a ese café? No, queda lejísimos, mejor vamos a uno más cerca.",
+   "nota": "Se usaba como si fuera una calle real; ahora significa 'muy lejos'."
+  },
+  {
+   "id": 176,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me acuerdo dónde queda ese restorán, pero era por allá por Chuchunco.",
+   "frase_neutralizada": "No recuerdo dónde queda ese restaurante, pero estaba en un lugar lejísimos.",
+   "nota": "'Lejos de Chuchunco' invertía el sentido."
+  },
+  {
+   "id": 177,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La única farmacia de turno queda en Chuchunco, voy a tener que pedir un taxi.",
+   "frase_neutralizada": "La única farmacia abierta a esta hora queda lejísimos, voy a tener que pedir un taxi.",
+   "nota": "La neutral omitía la lejanía; se usaba como un lugar real."
+  },
+  {
+   "id": 178,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Arrendó un depa en Chuchunco y ahora se demora dos horas en llegar a la pega.",
+   "frase_neutralizada": "Alquiló un departamento lejísimos y ahora tarda dos horas en llegar al trabajo.",
+   "nota": "Era agramatical ('No lo voy')."
+  },
+  {
+   "id": 179,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi amiga se cambió de casa a Chuchunco pa' allá, ya casi ni la veo.",
+   "frase_neutralizada": "Mi amiga se mudó a un lugar muy apartado, ya casi no la veo.",
+   "nota": "Era poco natural; ahora el contexto muestra la lejanía."
+  },
+  {
+   "id": 180,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Deja de molestar a tu hermana o te ganai una chuleta, ¿oíste?",
+   "frase_neutralizada": "Deja de molestar a tu hermana o te ganas una nalgada, ¿oíste?",
+   "nota": "Era incoherente; la neutral cambiaba la persona y el sentido."
+  },
+  {
+   "id": 181,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá me pegó una chuleta por llegar todo embarrado del colegio.",
+   "frase_neutralizada": "Mi mamá me dio una nalgada por llegar todo lleno de barro de la escuela.",
+   "nota": "Era incoherente y la neutral no tenía equivalente."
+  },
+  {
+   "id": 182,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El central me pegó una media chuleta en el tobillo y el árbitro ni cobró falta.",
+   "frase_neutralizada": "El defensa central me dio una patada brutal en el tobillo y el árbitro ni siquiera pitó falta.",
+   "nota": "No había contexto de fútbol."
+  },
+  {
+   "id": 183,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Si me vuelve a tirar una chuleta así en la pichanga, me voy a agarrar a combos con él.",
+   "frase_neutralizada": "Si me vuelve a dar una patada así en el partido amistoso, me voy a agarrar a puñetazos con él.",
+   "nota": "Tenía un mexicanismo ('chinga') y no había contexto futbolero."
+  },
+  {
+   "id": 184,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Oye, se te marca la chuleta con ese pantalón tan apretado, jaja.",
+   "frase_neutralizada": "Oye, se te marca el culo con ese pantalón tan apretado, jaja.",
+   "nota": "Usaba el corte de carne, que no es chilenismo; ahora es 'trasero'."
+  },
+  {
+   "id": 185,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si no te gusta cómo canto, chupa el perro, jaja.",
+   "frase_neutralizada": "Si no te gusta cómo canto, chúpamela, jaja.",
+   "nota": "Copiaba el contexto de posesión; la neutral decía 'vete'."
+  },
+  {
+   "id": 186,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le pedí la Play al Felipe y el muy pesado me respondió que chupara el perro.",
+   "frase_neutralizada": "Le pedí la consola a Felipe y el muy pesado me respondió que se la chupara.",
+   "nota": "Era incoherente y la neutral omitía la expresión."
+  },
+  {
+   "id": 187,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¿Que te haga la tarea otra vez? Chupa el perro, hácela tú.",
+   "frase_neutralizada": "¿Que te haga la tarea otra vez? Jódete, hazla tú.",
+   "nota": "Era incoherente y la neutral omitía la expresión."
+  },
+  {
+   "id": 188,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Si no me queríai invitar al carrete, chupa el perro, me voy a otro mejor.",
+   "frase_neutralizada": "Si no me querías invitar a la fiesta, jódete, me voy a otra mejor.",
+   "nota": "La neutral omitía la expresión."
+  },
+  {
+   "id": 189,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Ganamos el partido igual sin ti, así que chupa el perro, hueón.",
+   "frase_neutralizada": "Ganamos el partido igual sin ti, así que jódete, idiota.",
+   "nota": "La neutral omitía la expresión."
+  },
+  {
+   "id": 190,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese gallo anda contando que la polola le chupó el perro en el cine.",
+   "frase_neutralizada": "Ese tipo anda contando que su novia se la chupó en el cine.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 191,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Que te preste plata otra vez? ¡Chupa el perro, todavía me debís la otra!",
+   "frase_neutralizada": "¿Que te preste dinero otra vez? ¡Jódete, todavía me debes lo anterior!",
+   "nota": "Era incoherente; ahora la expresión niega algo con grosería."
+  },
+  {
+   "id": 192,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Me ayudai a cambiarme de casa el sábado? —¡Chupa el perro, ni cagando!",
+   "frase_neutralizada": "¿Me ayudas a mudarme el sábado? —¡Jódete, ni loco!",
+   "nota": "La neutral invertía el sentido ('no me ayudes')."
+  },
+  {
+   "id": 193,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le pedí un beso en la mejilla y me dijo que chupara el perro, qué pesada.",
+   "frase_neutralizada": "Le pedí un beso en la mejilla y me dijo que me jodiera, qué pesada.",
+   "nota": "La neutral cambiaba el sentido; ahora se conjuga 'chupar'."
+  },
+  {
+   "id": 194,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano me pidió el control de la tele y le dije que fuera a chupar el perro.",
+   "frase_neutralizada": "Mi hermano me pidió el control remoto de la tele y le dije que se jodiera.",
+   "nota": "Era agramatical e incoherente."
+  },
+  {
+   "id": 195,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ni le cuentes nada al Rodrigo, es el chupapico del jefe y le va con todo.",
+   "frase_neutralizada": "Ni le cuentes nada a Rodrigo, es el lameculos del jefe y le cuenta todo.",
+   "nota": "Era incoherente y la neutral copiaba la definición literalmente."
+  },
+  {
+   "id": 196,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el colegio era el chupapico del más popular, le cargaba hasta la mochila.",
+   "frase_neutralizada": "En la escuela era el lameculos del más popular, le cargaba hasta la mochila.",
+   "nota": "El sentido de 'rumores' no era correcto; la neutral era incomprensible."
+  },
+  {
+   "id": 197,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranquilo, yo no soy chupapico de nadie, si el capitán se equivoca se lo digo.",
+   "frase_neutralizada": "Tranquilo, yo no soy lameculos de nadie, si el capitán se equivoca se lo digo.",
+   "nota": "La neutral era incomprensible; se dio contexto de sumisión."
+  },
+  {
+   "id": 198,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Recién se hicieron amigos y el loco ya es su chupapico, qué vergüenza.",
+   "frase_neutralizada": "Acaban de hacerse amigos y el tipo ya es su lameculos, qué vergüenza.",
+   "nota": "La neutral era incomprensible; se usa un equivalente informal."
+  },
+  {
+   "id": 199,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la fiesta el Matías anduvo toda la noche de chupapico del organizador pa' que lo invitaran de nuevo.",
+   "frase_neutralizada": "En la fiesta Matías estuvo toda la noche de lameculos del organizador para que lo invitaran de nuevo.",
+   "nota": "Era incoherente y la neutral incomprensible."
+  }
+ ]
+}

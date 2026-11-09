@@ -1,0 +1,340 @@
+{
+ "lote": 14,
+ "claves": [
+  "dentrar",
+  "desconchetumarizate",
+  "desconchatumairizate",
+  "descueve",
+  "el descueve",
+  "desguanangado",
+  "despiporre",
+  "desubicado"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2434511,
+ "duracion_s": 92.8,
+ "pares": [
+  {
+   "id": 560,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿vamos a dentrar a la disco o nos vamos a quedar aquí afuera cagados de frío?",
+   "frase_neutralizada": "Oye, ¿vamos a entrar a la discoteca o nos vamos a quedar aquí afuera muertos de frío?",
+   "nota": "Original incoherente («ponerte la pata»); nueva situación natural."
+  },
+  {
+   "id": 561,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, dentra luego a la casa que se está largando a llover.",
+   "frase_neutralizada": "Ya, entra rápido a la casa, que está empezando a llover.",
+   "nota": "«Me meto la cabeza» no tenía sentido; se rehízo la frase."
+  },
+  {
+   "id": 562,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El paco no me dejó dentrar al estadio porque se me quedó la entrada en la casa.",
+   "frase_neutralizada": "El policía no me dejó entrar al estadio porque se me quedó la entrada en la casa.",
+   "nota": "Caja fuerte poco natural; nueva situación cotidiana."
+  },
+  {
+   "id": 563,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dentré al baño del local y estaba todo inundado, hermano.",
+   "frase_neutralizada": "Entré al baño del local y estaba todo inundado, amigo.",
+   "nota": "Se mantuvo el baño y se le dio una situación más natural."
+  },
+  {
+   "id": 564,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cierren la puerta al dentrar, cabros, que se arranca el perro.",
+   "frase_neutralizada": "Cierren la puerta al entrar, chicos, que se escapa el perro.",
+   "nota": "«Te voy a dentrar» era incoherente; nueva frase."
+  },
+  {
+   "id": 565,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Weón, te volvieron a cagar con el vuelto, desconchetumarízate.",
+   "frase_neutralizada": "Idiota, otra vez te estafaron con el cambio, despabílate de una vez.",
+   "nota": "No contenía la expresión; nueva frase con el sentido de despabilarse."
+  },
+  {
+   "id": 566,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llevai tres semanas sin estudiar y la prueba es mañana, desconchetumarízate po, weón.",
+   "frase_neutralizada": "Llevas tres semanas sin estudiar y el examen es mañana, deja de ser tan idiota y ponte las pilas.",
+   "nota": "«Güevo» y neutral incorrectos; nueva situación."
+  },
+  {
+   "id": 567,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Desconchetumarízate, weón, y sácate esa cara de pánfilo que viene llegando tu suegro.",
+   "frase_neutralizada": "Compórtate, idiota, y quita esa cara de tonto, que está llegando tu suegro.",
+   "nota": "Frase forzada; ahora ilustra cambio urgente de actitud y gesto."
+  },
+  {
+   "id": 568,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Se te cayó la torta entera por andar leseando, desconchetumarízate al tiro.",
+   "frase_neutralizada": "Se te cayó el pastel entero por andar haciendo tonterías, reacciona ya, inútil.",
+   "nota": "Original sin sentido; nueva frase con reproche por torpeza."
+  },
+  {
+   "id": 569,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te están tirando los perros hace rato y no cachai na, weón, desconchetumarízate.",
+   "frase_neutralizada": "Llevan rato coqueteándote y no te das cuenta de nada, idiota, despabílate.",
+   "nota": "Neutral cambiaba el significado («elegante»); nueva frase."
+  },
+  {
+   "id": 570,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le pegaste a tu hermano chico por puro gusto, desconchatumairízate, weón.",
+   "frase_neutralizada": "Le pegaste a tu hermano menor solo por gusto, deja de ser tan desgraciado, idiota.",
+   "nota": "«Compónete» no reflejaba el sentido; nueva situación."
+  },
+  {
+   "id": 571,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te comiste el último completo sin preguntarle a nadie, desconchatumairízate.",
+   "frase_neutralizada": "Te comiste el último hot dog sin preguntarle a nadie, deja de ser tan desgraciado.",
+   "nota": "«Conchasumada» inexistente; neutral mal traducida."
+  },
+  {
+   "id": 572,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cada vez que perdís en la pichanga le echai la culpa al resto, desconchatumairízate.",
+   "frase_neutralizada": "Cada vez que pierdes en el partido de fútbol le echas la culpa a los demás, deja de ser tan desgraciado.",
+   "nota": "Palabras inventadas; nueva frase con sentido real."
+  },
+  {
+   "id": 573,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te riai de la tía del aseo, desconchatumairízate un poco.",
+   "frase_neutralizada": "No te burles de la señora de la limpieza, deja de ser tan desgraciado.",
+   "nota": "«Despecto» no existe; nueva situación."
+  },
+  {
+   "id": 574,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si querís que la Cami te pesque, primero desconchatumairízate.",
+   "frase_neutralizada": "Si quieres que Cami te haga caso, primero deja de ser tan desgraciado.",
+   "nota": "Neutral omitía la expresión; nueva frase."
+  },
+  {
+   "id": 575,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El asado del domingo en la casa de mi compadre estuvo el descueve.",
+   "frase_neutralizada": "La parrillada del domingo en la casa de mi amigo estuvo espectacular.",
+   "nota": "«Qué fiesta» con desayuno era incoherente."
+  },
+  {
+   "id": 576,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mijo, el viaje al sur en tren fue el descueve, tiene que ir algún día.",
+   "frase_neutralizada": "Hijo, el viaje al sur en tren fue espectacular, tiene que ir algún día.",
+   "nota": "«Descueve» suelto sin artículo; se integró en la frase."
+  },
+  {
+   "id": 577,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa orquesta que tocó en el Municipal estuvo del descueve, ¿ah?",
+   "frase_neutralizada": "Esa orquesta que tocó en el Teatro Municipal estuvo espectacular, ¿verdad?",
+   "nota": "Se dio un giro coloquial más natural."
+  },
+  {
+   "id": 578,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esta cazuela está el descueve, igualita a la que hacía mi mamá.",
+   "frase_neutralizada": "Este caldo de carne está espectacular, igualito al que hacía mi mamá.",
+   "nota": "Faltaba artículo y repetía la idea de película; nueva frase."
+  },
+  {
+   "id": 579,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le quedó el descueve la cocina después de la remodelación, mijita.",
+   "frase_neutralizada": "Le quedó espectacular la cocina después de la remodelación, querida.",
+   "nota": "Expresión suelta sin artículo; se integró correctamente."
+  },
+  {
+   "id": 580,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El plato de mariscos de ese restorán estuvo el descueve, volvamos el finde.",
+   "frase_neutralizada": "El plato de mariscos de ese restaurante estuvo excelente, volvamos el fin de semana.",
+   "nota": "Se hizo más natural y concreta la frase."
+  },
+  {
+   "id": 581,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me compré unos audífonos el descueve, se escucha todo clarito.",
+   "frase_neutralizada": "Me compré unos audífonos buenísimos, se escucha todo muy claro.",
+   "nota": "Usaba «el descueve de» como superlativo «el mejor de»."
+  },
+  {
+   "id": 582,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese delantero nuevo del Colo es el descueve, mete goles de todos lados.",
+   "frase_neutralizada": "Ese delantero nuevo del Colo-Colo es buenísimo, mete goles desde todos lados.",
+   "nota": "Uso superlativo incorrecto; ahora significa «muy bueno»."
+  },
+  {
+   "id": 583,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El concierto de anoche estuvo del descueve, cantaron todos los temas antiguos.",
+   "frase_neutralizada": "El concierto de anoche estuvo buenísimo, cantaron todas las canciones antiguas.",
+   "nota": "Def 2 igual a def 1; «a todo dar» es regional."
+  },
+  {
+   "id": 584,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu idea pa'l negocio está el descueve, hagámosla altiro.",
+   "frase_neutralizada": "Tu idea para el negocio está excelente, hagámosla de inmediato.",
+   "nota": "Tarea poco natural; «a todo dar» regional; definiciones fusionadas."
+  },
+  {
+   "id": 585,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegaste todo desguañangado a la pega, ¿dormiste con la ropa puesta?",
+   "frase_neutralizada": "Llegaste todo desarreglado al trabajo, ¿dormiste con la ropa puesta?",
+   "nota": "Se aplica a aspecto personal, uso más típico."
+  },
+  {
+   "id": 586,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese chaleco está tan desguañangado que parece que lo usó un elefante.",
+   "frase_neutralizada": "Ese suéter está tan deformado y feo que parece que lo usó un elefante.",
+   "nota": "«Departamento de la oficina» poco natural; nueva frase."
+  },
+  {
+   "id": 587,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El sillón quedó todo desguañangado después de que los cabros chicos saltaron encima.",
+   "frase_neutralizada": "El sofá quedó todo desarmado y feo después de que los niños saltaron encima.",
+   "nota": "Vestuario de modelo poco natural; nueva situación."
+  },
+  {
+   "id": 588,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No podís ir a la entrevista así de desguañangado, péinate y plancha la camisa.",
+   "frase_neutralizada": "No puedes ir a la entrevista así de desarreglado, péinate y plancha la camisa.",
+   "nota": "Aplicarlo a un baile era uso forzado."
+  },
+  {
+   "id": 589,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La pieza de mi hermano está toda desguañangada, hay ropa tirada por todos lados.",
+   "frase_neutralizada": "La habitación de mi hermano está toda desordenada, hay ropa tirada por todos lados.",
+   "nota": "Discurso desguañangado no es uso real."
+  },
+  {
+   "id": 590,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa canción nueva es el despiporre, no me la puedo sacar de la cabeza.",
+   "frase_neutralizada": "Esa canción nueva es estupenda, no me la puedo sacar de la cabeza.",
+   "nota": "Faltaba artículo «el»; neutral forzada."
+  },
+  {
+   "id": 591,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La comida en el matrimonio de la Paty estuvo el despiporre, repetí dos veces.",
+   "frase_neutralizada": "La comida en la boda de Paty estuvo estupenda, repetí dos veces.",
+   "nota": "Faltaba artículo; frase más natural."
+  },
+  {
+   "id": 592,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La exposición de pinturas del museo estuvo el despiporre, la gente salió maravillada.",
+   "frase_neutralizada": "La exposición de pinturas del museo estuvo grandiosa, la gente salió maravillada.",
+   "nota": "Faltaba artículo «el» antes de despiporre."
+  },
+  {
+   "id": 593,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El show del mago en el cumpleaños del Benja fue el despiporre, los niños quedaron locos.",
+   "frase_neutralizada": "El espectáculo del mago en el cumpleaños de Benja fue estupendo, los niños quedaron encantados.",
+   "nota": "Faltaba artículo; se diferenció de la exposición."
+  },
+  {
+   "id": 594,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La noche de Año Nuevo fue el despiporre, nadie se acordó de mirar la hora.",
+   "frase_neutralizada": "La noche de Año Nuevo fue estupenda, nadie se acordó de mirar la hora.",
+   "nota": "Faltaba artículo; neutral cambiaba «hora» por «tiempo»."
+  },
+  {
+   "id": 595,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai desubicado, no le preguntís a la tía cuánto gana.",
+   "frase_neutralizada": "No seas imprudente, no le preguntes a la señora cuánto gana.",
+   "nota": "No contenía la expresión; neutral agramatical."
+  },
+  {
+   "id": 596,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Qué desubicado, weón! Le gritaste al profe delante de todo el curso.",
+   "frase_neutralizada": "¡Qué insolente eres, en serio! Le gritaste al profesor delante de toda la clase.",
+   "nota": "Puntuación rota y neutral alteraba el sentido."
+  },
+  {
+   "id": 597,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El tío de la Javi es harto desubicado, en el funeral se puso a contar chistes.",
+   "frase_neutralizada": "El tío de Javi es muy imprudente, en el funeral se puso a contar chistes.",
+   "nota": "«Gente inapropiada» no es neutral correcto; nueva situación."
+  },
+  {
+   "id": 598,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Fue súper desubicado llegar con tres amigos al cumpleaños sin avisar, po.",
+   "frase_neutralizada": "Fue muy inapropiado llegar con tres amigos al cumpleaños sin avisar.",
+   "nota": "Frase original confusa; ahora ilustra acción inapropiada."
+  },
+  {
+   "id": 599,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La vecina desubicada me tocó el timbre a las tres de la mañana pa' pedirme azúcar.",
+   "frase_neutralizada": "La vecina imprudente me tocó el timbre a las tres de la mañana para pedirme azúcar.",
+   "nota": "«Llamó a la puerta» poco claro; se agregó motivo."
+  }
+ ]
+}

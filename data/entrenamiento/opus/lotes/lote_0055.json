@@ -1,0 +1,340 @@
+{
+ "lote": 55,
+ "claves": [
+  "pichintun",
+  "pijama de palo",
+  "pilchas",
+  "pillar chanchito",
+  "pinche",
+  "pinta",
+  "pintar monos",
+  "pintoso"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2321323,
+ "duracion_s": 81.8,
+ "pares": [
+  {
+   "id": 2200,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pásame un pichintun de tu bebida, que me muero de sed.",
+   "frase_neutralizada": "Dame un poquito de tu refresco, que me muero de sed.",
+   "nota": "Original usaba pichintun como interjección sin sentido; nueva frase de cantidad."
+  },
+  {
+   "id": 2201,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Yo no como postre, pero un pichintun de torta igual me sirvo.",
+   "frase_neutralizada": "Yo no como postre, pero un poquito de pastel sí me sirvo.",
+   "nota": "Uso incorrecto como negación; ahora significa poquito."
+  },
+  {
+   "id": 2202,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me queda un pichintun de batería, te hablo más rato.",
+   "frase_neutralizada": "Me queda un poquito de batería, te hablo más tarde.",
+   "nota": "Uso sin sentido; nueva situación con cantidad pequeña."
+  },
+  {
+   "id": 2203,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Échale un pichintun de aceite al sartén pa' que no se pegue.",
+   "frase_neutralizada": "Échale un poquito de aceite a la sartén para que no se pegue.",
+   "nota": "Mantenido tú informal; ajustada ortografía y 'se agarre'."
+  },
+  {
+   "id": 2204,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Sírveme un pichintun no más de arroz, que ando a dieta.",
+   "frase_neutralizada": "Sírveme solo un poquito de arroz, que estoy a dieta.",
+   "nota": "Frase agramatical e incoherente (vegetariano y arroz); reescrita."
+  },
+  {
+   "id": 2205,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si seguís manejando así de curado, vai a terminar con pijama de palo.",
+   "frase_neutralizada": "Si sigues manejando así de borracho, vas a terminar en un ataúd.",
+   "nota": "Diálogo forzado y poco natural; nueva frase de advertencia."
+  },
+  {
+   "id": 2206,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al abuelo lo velamos hoy; le compraron un pijama de palo carísimo.",
+   "frase_neutralizada": "Al abuelo lo velamos hoy; le compraron un ataúd carísimo.",
+   "nota": "Diálogo artificial; simplificado a situación natural."
+  },
+  {
+   "id": 2207,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo dice que de la pega lo van a sacar con pijama de palo no más.",
+   "frase_neutralizada": "Mi papá dice que del trabajo solo lo van a sacar en un ataúd.",
+   "nota": "Diálogo poco natural; nueva situación humorística típica."
+  },
+  {
+   "id": 2208,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con lo que fuma el compadre, ya lo veo con pijama de palo antes de los sesenta.",
+   "frase_neutralizada": "Con lo que fuma mi amigo, ya lo veo en un ataúd antes de los sesenta.",
+   "nota": "Diálogo incoherente con perro; reescrito."
+  },
+  {
+   "id": 2209,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando me pongan el pijama de palo, quiero que toquen cumbia en el velorio, po.",
+   "frase_neutralizada": "Cuando me metan en el ataúd, quiero que toquen cumbia en el velorio.",
+   "nota": "Diálogo incoherente; nueva frase natural."
+  },
+  {
+   "id": 2210,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ordena tus pilchas, que tenís todo tirado en la pieza.",
+   "frase_neutralizada": "Ordena tu ropa, que tienes todo tirado en el cuarto.",
+   "nota": "Neutral traducía pilchas como camisa; frase incoherente."
+  },
+  {
+   "id": 2211,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Necesito unas pilchas más abrigadoras pa' dormir en invierno.",
+   "frase_neutralizada": "Necesito ropa más abrigadora para dormir en invierno.",
+   "nota": "Pilchas no es camisa; corregida traducción."
+  },
+  {
+   "id": 2212,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Echa unas pilchas en la mochila, que nos vamos a la playa el finde.",
+   "frase_neutralizada": "Mete algo de ropa en la mochila, que nos vamos a la playa el fin de semana.",
+   "nota": "'Pilchas de baño' poco natural; nueva situación."
+  },
+  {
+   "id": 2213,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pásame esas pilchas rotas y te las arreglo al tiro.",
+   "frase_neutralizada": "Pásame esa ropa rota y te la arreglo enseguida.",
+   "nota": "Neutral agramatical ('ropa rotura'); corregida."
+  },
+  {
+   "id": 2214,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Tenís alguna pilcha negra que me prestís pa'l funeral?",
+   "frase_neutralizada": "¿Tienes alguna prenda negra que me prestes para el funeral?",
+   "nota": "Pilcha no es camisa; añadido contexto natural."
+  },
+  {
+   "id": 2215,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La profe me pilló chanchito copiando en la prueba y me puso un uno.",
+   "frase_neutralizada": "La maestra me sorprendió copiando en el examen y me puso la nota más baja.",
+   "nota": "Situación del juicio absurda; nueva frase de sorprender in fraganti."
+  },
+  {
+   "id": 2216,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pillé chanchito al Benja sacando comida del refri a las tres de la mañana.",
+   "frase_neutralizada": "Sorprendí a Benja sacando comida del refrigerador a las tres de la mañana.",
+   "nota": "Frase redundante; más natural y con falta implícita."
+  },
+  {
+   "id": 2217,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi polola me pilló chanchito cuando le estaba revisando el correo.",
+   "frase_neutralizada": "Mi novia me sorprendió cuando le estaba revisando el correo.",
+   "nota": "Ajustado sujeto para que la situación tenga sentido."
+  },
+  {
+   "id": 2218,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los pacos lo pillaron chanchito rayando la muralla del colegio.",
+   "frase_neutralizada": "Los policías lo sorprendieron pintando grafitis en el muro de la escuela.",
+   "nota": "Entrar con alcohol no es falta clara; nueva situación."
+  },
+  {
+   "id": 2219,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi vieja me pilló chanchito fumando en el patio y me retó caleta.",
+   "frase_neutralizada": "Mi mamá me sorprendió fumando en el patio y me regañó mucho.",
+   "nota": "Ver televisión no es falta; frase incoherente."
+  },
+  {
+   "id": 2220,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Préstame un pinche pa' tomarme la chasquilla, que me tapa los ojos.",
+   "frase_neutralizada": "Préstame una horquilla para sujetarme el flequillo, que me tapa los ojos.",
+   "nota": "Verbo inventado 'pinchea'; ahora usa el sustantivo correctamente."
+  },
+  {
+   "id": 2221,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ponte unos pinches pa' que no se te caiga el cintillo.",
+   "frase_neutralizada": "Ponte unas horquillas para que no se te caiga la diadema.",
+   "nota": "Sombrero poco natural; neutral 'accesorio' demasiado vago."
+  },
+  {
+   "id": 2222,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Siempre pierdo los pinches; compro un paquete y a la semana no me queda ni uno.",
+   "frase_neutralizada": "Siempre pierdo las horquillas; compro un paquete y a la semana no me queda ninguna.",
+   "nota": "Pinche para barba no corresponde; nueva situación."
+  },
+  {
+   "id": 2223,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ese loco no es mi pololo, es solo un pinche no más.",
+   "frase_neutralizada": "Ese chico no es mi novio, solo es alguien con quien estoy saliendo.",
+   "nota": "Pinche no es novio formal; corregido el matiz."
+  },
+  {
+   "id": 2224,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No tengo ni un pinche, así que este finde me quedo en la casa viendo series.",
+   "frase_neutralizada": "No estoy saliendo con nadie, así que este fin de semana me quedo en casa viendo series.",
+   "nota": "Frase redundante; añadido contexto natural."
+  },
+  {
+   "id": 2225,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el recreo jugamos a la pinta y el Matías siempre la lleva.",
+   "frase_neutralizada": "En el recreo jugamos a atraparnos y Matías siempre es el que persigue.",
+   "nota": "Original no incluía la expresión."
+  },
+  {
+   "id": 2226,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Pinta! Ahora te toca a ti pillarnos.",
+   "frase_neutralizada": "¡Te toqué! Ahora te toca a ti atraparnos.",
+   "nota": "'Partida' no corresponde; pinta se grita al tocar a alguien."
+  },
+  {
+   "id": 2227,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana después del colegio jugamos a la pinta en la plaza, no te la perdai.",
+   "frase_neutralizada": "Mañana después de la escuela jugamos a atraparnos en la plaza, no te lo pierdas.",
+   "nota": "Neutral traducía pinta como 'oportunidad'; corregido al juego."
+  },
+  {
+   "id": 2228,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Andai con mala pinta hoy, ¿dormiste algo anoche?",
+   "frase_neutralizada": "Tienes mal aspecto hoy, ¿dormiste algo anoche?",
+   "nota": "Frase rígida; más natural y con voseo chileno."
+  },
+  {
+   "id": 2229,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Con esta pinta no me dejan entrar a la disco, voy a cambiarme.",
+   "frase_neutralizada": "Con este aspecto no me dejan entrar a la discoteca, voy a cambiarme.",
+   "nota": "'Me va a notar' incoherente; situación más clara."
+  },
+  {
+   "id": 2230,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Cristóbal se puso a pintar el mono en el matrimonio y lo tuvieron que sacar.",
+   "frase_neutralizada": "Cristóbal empezó a hacer escándalo en la boda y lo tuvieron que sacar.",
+   "nota": "No incluía la expresión; neutral con verbo inexistente."
+  },
+  {
+   "id": 2231,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No lo invites al asado, que se cura y empieza a pintar monos.",
+   "frase_neutralizada": "No lo invites a la parrillada, que se emborracha y empieza a dar espectáculo molestando a todos.",
+   "nota": "Contexto poco claro; ahora ilustra llamar la atención molestando."
+  },
+  {
+   "id": 2232,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa cabra siempre pinta el mono en clases pa' que todos la miren.",
+   "frase_neutralizada": "Esa chica siempre hace payasadas en clase para que todos la miren.",
+   "nota": "Neutral cambiaba número (esas chicas); corregido."
+  },
+  {
+   "id": 2233,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En la reunión estuvimos puro pintando monos, nadie propuso nada.",
+   "frase_neutralizada": "En la reunión solo perdimos el tiempo, nadie propuso nada.",
+   "nota": "Neutral agramatical ('haciendo nada inútil'); corregido."
+  },
+  {
+   "id": 2234,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Si vai a venir a pintar monos a la pega, mejor quédate en tu casa.",
+   "frase_neutralizada": "Si vas a venir a estorbar sin hacer nada en el trabajo, mejor quédate en tu casa.",
+   "nota": "Neutral usaba sentido de def 1; ajustado a no hacer nada."
+  },
+  {
+   "id": 2235,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué pintosa la profe nueva, todos los cabros andan enamorados.",
+   "frase_neutralizada": "Qué atractiva la maestra nueva, todos los chicos están enamorados.",
+   "nota": "Neutral cambiaba número y significado; corregido."
+  },
+  {
+   "id": 2236,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te veís re pintoso con ese terno, ¿vai a un matrimonio?",
+   "frase_neutralizada": "Te ves muy guapo con ese traje, ¿vas a una boda?",
+   "nota": "Usaba 'pinta', no 'pintoso'; reescrito."
+  },
+  {
+   "id": 2237,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué pintoso el salvavidas de la playa, voy a pasar a saludarlo!",
+   "frase_neutralizada": "¡Qué atractivo el salvavidas de la playa, voy a pasar a saludarlo!",
+   "nota": "Neutral cambiaba número y sentido (bien vestidas)."
+  },
+  {
+   "id": 2238,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi amiga anda loca por un compañero, pero a mí no me parece tan pintoso.",
+   "frase_neutralizada": "Mi amiga está loca por un compañero, pero a mí no me parece tan atractivo.",
+   "nota": "No contenía 'pintoso'; reescrito."
+  },
+  {
+   "id": 2239,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El hermano de la Javi es súper pintoso, ¿sabís si tiene polola?",
+   "frase_neutralizada": "El hermano de Javi es muy atractivo, ¿sabes si tiene novia?",
+   "nota": "No contenía 'pintoso'; nueva frase."
+  }
+ ]
+}

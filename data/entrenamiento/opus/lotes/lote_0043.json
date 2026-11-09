@@ -1,0 +1,340 @@
+{
+ "lote": 43,
+ "claves": [
+  "y boston",
+  "y el pico",
+  "yapo",
+  "yera",
+  "yeta",
+  "yuta",
+  "como te poni a llorar por un chocmans",
+  "mecha corta"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.28730419999999995,
+ "duracion_s": 108.7,
+ "pares": [
+  {
+   "id": 1720,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—Oye, erí terrible flojo. —¿Y boston? Si llevai todo el día echado en el sillón.",
+   "frase_neutralizada": "—Oye, eres muy perezoso. —¿Y tú? Si llevas todo el día acostado en el sofá.",
+   "nota": "Expresión mal usada; ahora es réplica a una acusación, como en la definición."
+  },
+  {
+   "id": 1721,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Yo me voy a pedir una cerveza, ¿y boston, qué vai a tomar?",
+   "frase_neutralizada": "Yo voy a pedir una cerveza, ¿y tú, qué vas a tomar?",
+   "nota": "La neutral cambiaba el sentido; ahora es un '¿y tú?' de broma."
+  },
+  {
+   "id": 1722,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "A mí me encanta el rock, ¿y boston, qué música escuchai?",
+   "frase_neutralizada": "A mí me encanta el rock, ¿y tú, qué música escuchas?",
+   "nota": "La neutral traducía mal la expresión ('¿te sorprendió?')."
+  },
+  {
+   "id": 1723,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—Ya po, ¿cuándo vai a buscar pega? —¿Y boston? Tampoco estai trabajando.",
+   "frase_neutralizada": "—Oye, ¿cuándo vas a buscar trabajo? —¿Y tú? Tampoco estás trabajando.",
+   "nota": "Uso incoherente; ahora devuelve el reproche al otro."
+  },
+  {
+   "id": 1724,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo me quedo en la casa esta noche, ¿y boston, salí o no?",
+   "frase_neutralizada": "Yo me quedo en casa esta noche, ¿y tú, sales o no?",
+   "nota": "La neutral decía '¿te preocupó?'; se cambió por '¿y tú?'."
+  },
+  {
+   "id": 1725,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Te gusta este libro? —Sí, está bueno. —¿Y el pico?",
+   "frase_neutralizada": "—¿Te gusta este libro? —Sí, está bueno. —¿Y la verga, también te gusta?",
+   "nota": "Faltaba el formato pregunta-respuesta del chiste; neutral cambiaba el sentido."
+  },
+  {
+   "id": 1726,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Me encantan las recetas de tu mamá. —¿Y el pico? Jajaja.",
+   "frase_neutralizada": "—Me encantan las recetas de tu mamá. —¿Y la verga? Jajaja.",
+   "nota": "Gramática rota; el chiste ahora responde a otra persona."
+  },
+  {
+   "id": 1727,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Me gusta el café sin azúcar. —¿Y el pico? —Ya, no seai pesao.",
+   "frase_neutralizada": "—Me gusta el café sin azúcar. —¿Y la verga? —Ya, no seas pesado.",
+   "nota": "Se reemplazó '¿o no?' por el equivalente grosero del chiste."
+  },
+  {
+   "id": 1728,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Te gusta el cine? —Caleta. —¿Y el pico?",
+   "frase_neutralizada": "—¿Te gusta el cine? —Muchísimo. —¿Y la verga?",
+   "nota": "Def 2 duplica la 1; neutral omitía la broma."
+  },
+  {
+   "id": 1729,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Te gusta el tenis? —No, prefiero el fútbol. —Ya, ¿y el pico?",
+   "frase_neutralizada": "—¿Te gusta el tenis? —No, prefiero el fútbol. —Ya, ¿y la verga?",
+   "nota": "Uso tras una negación; se arregló gramática y neutral."
+  },
+  {
+   "id": 1730,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Vamos a comer algo al centro? —¡Yapo, vamos!",
+   "frase_neutralizada": "—¿Vamos a comer algo al centro? —¡Sí, vamos!",
+   "nota": "La neutral eliminaba la respuesta afirmativa."
+  },
+  {
+   "id": 1731,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Vamos al cine esta noche? —Yapo, pero tú comprai las entradas.",
+   "frase_neutralizada": "—¿Vamos al cine esta noche? —Está bien, pero tú compras las entradas.",
+   "nota": "Yapo no se usaba como aceptación; se armó un diálogo."
+  },
+  {
+   "id": 1732,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Yaaapo, ayúdame a llevar estas cajas, que pesan caleta.",
+   "frase_neutralizada": "Anda, por favor, ayúdame a llevar estas cajas, que pesan muchísimo.",
+   "nota": "Se quitó el 'por favor' redundante y se mantuvo el ruego."
+  },
+  {
+   "id": 1733,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Yapo, deja de molestar a tu hermana y ponte a hacer las tareas.",
+   "frase_neutralizada": "Ya basta, deja de molestar a tu hermana y ponte a hacer las tareas.",
+   "nota": "Nuevo par para cubrir el sentido de 'terminar una acción'."
+  },
+  {
+   "id": 1734,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Yapo, apúrate, que vamos a llegar tarde a la pega.",
+   "frase_neutralizada": "Vamos, apúrate, que vamos a llegar tarde al trabajo.",
+   "nota": "La frase original era contradictoria; ahora es apuro claro."
+  },
+  {
+   "id": 1735,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mejor cállate, si erí terrible sapo, ¡yerá!",
+   "frase_neutralizada": "Mejor cállate, que eres un chismoso, ¡y punto!",
+   "nota": "No incluía la expresión; ahora cierra la discusión tras un insulto."
+  },
+  {
+   "id": 1736,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No volvai a hablar de eso, aweonao, ¡yerá!",
+   "frase_neutralizada": "No vuelvas a hablar de eso, imbécil, ¡y punto!",
+   "nota": "Faltaba la expresión; se agregó al final del insulto."
+  },
+  {
+   "id": 1737,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te voy a discutir más, erí un pendejo culiao, yerá.",
+   "frase_neutralizada": "No voy a seguir discutiendo contigo, eres un mocoso de mierda, y se acabó.",
+   "nota": "Faltaba la expresión; se mantuvo el registro grosero."
+  },
+  {
+   "id": 1738,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿La mina que me cortó en el carrete? Yerá no más, ya ni me acuerdo de ella.",
+   "frase_neutralizada": "¿La chica que terminó conmigo en la fiesta? Eso ya pasó, ya ni me acuerdo de ella.",
+   "nota": "Yerá se usaba como muletilla de pregunta; ahora indica asunto superado."
+  },
+  {
+   "id": 1739,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Perdí la plata de la apuesta, pero yerá no más, el otro mes me desquito.",
+   "frase_neutralizada": "Perdí el dinero de la apuesta, pero eso ya pasó, el próximo mes me desquito.",
+   "nota": "Uso incoherente; nuevo par con un hecho pasado y olvidable."
+  },
+  {
+   "id": 1740,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa señora es terrible yeta, cada vez que viene se echa a perder algo.",
+   "frase_neutralizada": "Esa señora trae muchísima mala suerte, cada vez que viene se descompone algo.",
+   "nota": "'Maldita' no equivale; ahora se dice que trae mala suerte."
+  },
+  {
+   "id": 1741,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No lo invitís al asado, si el Pancho es yeta y se nos va a largar a llover.",
+   "frase_neutralizada": "No lo invites a la parrillada, que Pancho trae mala suerte y se nos va a poner a llover.",
+   "nota": "Neutral decía 'persona maldita'; frase más natural."
+  },
+  {
+   "id": 1742,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Qué yeta, se me pinchó un neumático justo cuando iba atrasado a la pega.",
+   "frase_neutralizada": "Qué mala suerte, se me pinchó un neumático justo cuando iba tarde al trabajo.",
+   "nota": "No contenía la expresión; ahora ilustra 'mala suerte'."
+  },
+  {
+   "id": 1743,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No lo metai en tu equipo al Núñez, es demasiado yeta, siempre perdemos con él.",
+   "frase_neutralizada": "No metas a Núñez en tu equipo, trae demasiada mala suerte, siempre perdemos con él.",
+   "nota": "Copiaba el ejemplo; def 3 duplica la 1."
+  },
+  {
+   "id": 1744,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Ando con una yeta terrible, me echaron de la pega y me robaron el celu.",
+   "frase_neutralizada": "Tengo una mala suerte terrible, me despidieron del trabajo y me robaron el celular.",
+   "nota": "Frase incoherente ('ahorita', tarea); nuevo par de mala racha."
+  },
+  {
+   "id": 1745,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llamen a la yuta, están asaltando a una señora en la esquina.",
+   "frase_neutralizada": "Llamen a la policía, están asaltando a una señora en la esquina.",
+   "nota": "'Venga la yuta' poco natural; 'autoridades' era impreciso."
+  },
+  {
+   "id": 1746,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Corre, corre, que viene la yuta y nos pillan rayando!",
+   "frase_neutralizada": "¡Corre, corre, que viene la policía y nos atrapan haciendo grafitis!",
+   "nota": "Error gramatical ('me está perseguida'); se mantuvo la persecución."
+  },
+  {
+   "id": 1747,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "La polola del Seba es yuta, así que ojo con lo que hablai delante de ella.",
+   "frase_neutralizada": "La novia de Sebastián es policía, así que cuidado con lo que dices delante de ella.",
+   "nota": "Explicaba el significado dentro de la frase; ahora sentido de agente individual."
+  },
+  {
+   "id": 1748,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En la marcha todos los cabros gritaban contra la yuta.",
+   "frase_neutralizada": "En la manifestación todos los jóvenes gritaban contra la policía.",
+   "nota": "Frase incoherente (quién desaloja); 'autoridades' cambiado por 'policía'."
+  },
+  {
+   "id": 1749,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La yuta me paró y me pasó un parte por andar en moto sin casco.",
+   "frase_neutralizada": "La policía me detuvo y me puso una multa por andar en moto sin casco.",
+   "nota": "'Autoridades' impreciso; se añadió léxico chileno natural."
+  },
+  {
+   "id": 1750,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, era una talla no más, ¿cómo te poní a llorar por un chocmans?",
+   "frase_neutralizada": "Vamos, era solo una broma, ¿cómo te pones a llorar por una tontería?",
+   "nota": "Faltaba contexto; neutral cambiaba tiempo y tenía error de género."
+  },
+  {
+   "id": 1751,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te dije que tu polera era fea y te picaste, ¿cómo te poní a llorar por un chocmans?",
+   "frase_neutralizada": "Te dije que tu camiseta era fea y te ofendiste, ¿cómo te pones a llorar por una tontería?",
+   "nota": "Frase incoherente; nueva situación de ofensa por un comentario."
+  },
+  {
+   "id": 1752,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Perdiste una partida de FIFA y tirai el control, ¿cómo te poní a llorar por un chocmans?",
+   "frase_neutralizada": "Perdiste una partida de FIFA y lanzas el control, ¿cómo te pones a llorar por una tontería?",
+   "nota": "Frase sin sentido; nueva situación de escándalo exagerado."
+  },
+  {
+   "id": 1753,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hija, era el último pedazo de torta no más, ¿cómo te poní a llorar por un chocmans?",
+   "frase_neutralizada": "Hija, solo era el último pedazo de pastel, ¿cómo te pones a llorar por una tontería?",
+   "nota": "Se agregó contexto; neutral no reflejaba la burla."
+  },
+  {
+   "id": 1754,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vecino armó un escándalo porque me estacioné afuera, ¿cómo se pone a llorar por un chocmans?",
+   "frase_neutralizada": "El vecino armó un escándalo porque me estacioné frente a su casa, ¿cómo se pone a llorar por una tontería?",
+   "nota": "Se dio contexto y se conjugó en tercera persona."
+  },
+  {
+   "id": 1755,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hoy ando mecha corta, así que no me vengai con weás.",
+   "frase_neutralizada": "Hoy ando muy irritable, así que no me vengas con tonterías.",
+   "nota": "No contenía la expresión; se mantuvo el enojo propio."
+  },
+  {
+   "id": 1756,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué te pasa que andai tan mecha corta? Te pregunté la hora no más.",
+   "frase_neutralizada": "¿Qué te pasa que estás tan irritable? Solo te pregunté la hora.",
+   "nota": "No contenía la expresión; signos de interrogación corregidos."
+  },
+  {
+   "id": 1757,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Erí demasiado mecha corta, ayer por una weá chica casi le pegai al garzón.",
+   "frase_neutralizada": "Te enojas demasiado rápido, ayer por una tontería casi golpeas al mesero.",
+   "nota": "Frase agramatical; neutral omitía el sentido de la expresión."
+  },
+  {
+   "id": 1758,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ojalá no venga el Rodrigo al carrete, es tan mecha corta que siempre termina peleando.",
+   "frase_neutralizada": "Ojalá Rodrigo no venga a la fiesta, se enoja tan fácilmente que siempre termina peleando.",
+   "nota": "Uso forzado y redundante; ahora describe a una persona concreta."
+  },
+  {
+   "id": 1759,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi jefe es súper mecha corta, le hablai un poco fuerte y explota.",
+   "frase_neutralizada": "Mi jefe se enoja con muchísima facilidad, le hablas un poco fuerte y explota.",
+   "nota": "Comparación incomprensible; 'intolerable' no equivalía. Nueva situación."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 93,
+ "claves": [
+  "joya",
+  "jugoso",
+  "julero",
+  "junta",
+  "kuma",
+  "la embarro",
+  "la escoba",
+  "la media vola"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2587683,
+ "duracion_s": 94.5,
+ "pares": [
+  {
+   "id": 3720,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa polera que te compraste está joya, no la dejís tirada ahí po.",
+   "frase_neutralizada": "Esa camiseta que te compraste está genial, no la dejes tirada ahí.",
+   "nota": "'Es una joya' es literal; se usa 'está joya' como adjetivo."
+  },
+  {
+   "id": 3721,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La comida que preparaste te quedó joya, no se la vayai a dar a la perra.",
+   "frase_neutralizada": "La comida que preparaste te quedó buenísima, no se la vayas a dar a la perra.",
+   "nota": "Uso literal corregido; la neutral cambiaba el sentido de la advertencia."
+  },
+  {
+   "id": 3722,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El concierto estuvo joya, la próxima vez que no se te olvide la cámara.",
+   "frase_neutralizada": "El concierto estuvo genial, la próxima vez que no se te olvide la cámara.",
+   "nota": "Cambié 'fue una joya' por el uso adjetival chileno 'estuvo joya'."
+  },
+  {
+   "id": 3723,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—¿Nos juntamos a las ocho en la plaza? —Joya, ahí nos vemos.",
+   "frase_neutralizada": "—¿Nos vemos a las ocho en la plaza? —Perfecto, ahí nos vemos.",
+   "nota": "Neutral estaba en inglés; 'soy joya en eso' no es un uso real."
+  },
+  {
+   "id": 3724,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me fue joya en la prueba de matemáticas, me saqué un siete.",
+   "frase_neutralizada": "Me fue excelente en el examen de matemáticas, saqué la nota máxima.",
+   "nota": "Neutral en inglés; definiciones 1 y 2 equivalen, se usa la 1."
+  },
+  {
+   "id": 3725,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu hermano es demasiado jugoso, puras tonteras habla el weón.",
+   "frase_neutralizada": "Tu hermano no se toma nada en serio, solo dice tonterías el idiota.",
+   "nota": "Usaba 'juguetón' en vez de 'jugoso'; 'chabacano' no correspondía."
+  },
+  {
+   "id": 3726,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no seai tan jugoso y ponte a trabajar, que el jefe ya está reclamando.",
+   "frase_neutralizada": "Oye, deja de hacer tonterías y ponte a trabajar, que el jefe ya se está quejando.",
+   "nota": "Faltaba la expresión; neutral agramatical."
+  },
+  {
+   "id": 3727,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese amigo tuyo es tan jugoso que no se le puede preguntar nada en serio.",
+   "frase_neutralizada": "Ese amigo tuyo bromea tanto que no se le puede preguntar nada en serio.",
+   "nota": "Cambié 'juguetón' por 'jugoso' y ajusté el sentido."
+  },
+  {
+   "id": 3728,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En plena reunión se puso a hacer chistes, es más jugoso el compadre.",
+   "frase_neutralizada": "En plena reunión se puso a hacer chistes, ese tipo no se toma nada en serio.",
+   "nota": "Aplicaba el adjetivo a una decisión; definición 2 equivale a la 1."
+  },
+  {
+   "id": 3729,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Deja de mandar stickers al grupo, estai más jugoso que la cresta hoy día.",
+   "frase_neutralizada": "Deja de mandar stickers al grupo, hoy estás de lo más fastidioso.",
+   "nota": "Aplicaba el adjetivo a un auto averiado; sin sentido."
+  },
+  {
+   "id": 3730,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esta máquina de café es más julera, se echó a perder a la semana.",
+   "frase_neutralizada": "Esta cafetera es malísima, se descompuso a la semana.",
+   "nota": "Frase demasiado escueta; agregué contexto y tilde."
+  },
+  {
+   "id": 3731,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vestido que compré por internet salió julero, se le soltaron las costuras al tiro.",
+   "frase_neutralizada": "El vestido que compré por internet salió de mala calidad, se le soltaron las costuras enseguida.",
+   "nota": "Usaba 'julón', forma inexistente."
+  },
+  {
+   "id": 3732,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese auto es súper julero, cada dos semanas lo tengo en el mecánico.",
+   "frase_neutralizada": "Ese auto es pésimo, cada dos semanas lo tengo en el mecánico.",
+   "nota": "Usaba 'julo', forma inexistente; 'coche' no es chileno."
+  },
+  {
+   "id": 3733,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Jorge es más julero, nunca se baña y anda pidiéndole plata a todo el mundo.",
+   "frase_neutralizada": "Jorge es un tipo de lo peor, nunca se baña y anda pidiéndole dinero a todo el mundo.",
+   "nota": "Neutral copiaba la definición en vez de traducir."
+  },
+  {
+   "id": 3734,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Esa mina es julera, no hace ni una en la pega y encima se cree la muerte.",
+   "frase_neutralizada": "Esa mujer es una mediocre, no hace nada en el trabajo y encima se cree lo máximo.",
+   "nota": "Neutral copiaba la definición; faltaba contexto."
+  },
+  {
+   "id": 3735,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Hacemos la junta esta noche en mi casa? Yo pongo el copete.",
+   "frase_neutralizada": "¿Hacemos la reunión esta noche en mi casa? Yo pongo el alcohol.",
+   "nota": "'Vamos a la junta en mi casa' sonaba poco natural."
+  },
+  {
+   "id": 3736,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Voy a avisarle a los cabros del curso pa que vengan a la junta del sábado.",
+   "frase_neutralizada": "Voy a avisarles a los chicos del curso para que vengan a la reunión del sábado.",
+   "nota": "Sonaba a reunión formal de trabajo, no a junta de amigos."
+  },
+  {
+   "id": 3737,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los viernes la junta siempre es donde el Pancho, ¿te vai a aparecer?",
+   "frase_neutralizada": "Los viernes la reunión siempre es en casa de Pancho, ¿vas a ir?",
+   "nota": "La frase original era artificial y sin sentido claro."
+  },
+  {
+   "id": 3738,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esta semana no voy a la junta, tengo que entregar una pega el lunes.",
+   "frase_neutralizada": "Esta semana no voy a la reunión, tengo que entregar un trabajo el lunes.",
+   "nota": "Agregué el registro coloquial chileno y más contexto."
+  },
+  {
+   "id": 3739,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sí, cuenta con nosotros pa la junta, llegamos como a las diez con unas chelas.",
+   "frase_neutralizada": "Sí, cuenta con nosotros para la reunión, llegamos como a las diez con unas cervezas.",
+   "nota": "Registro demasiado formal; ahora suena coloquial."
+  },
+  {
+   "id": 3740,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No quiero que ese kuma entre a la casa, capaz que se lleve algo.",
+   "frase_neutralizada": "No quiero que ese maleante entre a la casa, a lo mejor se roba algo.",
+   "nota": "'Individuo' perdía el sentido despectivo de ladrón."
+  },
+  {
+   "id": 3741,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los kumas de la esquina me quedaron mirando feo cuando pasé.",
+   "frase_neutralizada": "Los maleantes de la esquina me miraron feo cuando pasé.",
+   "nota": "Número inconsistente y sentido vago; neutral sin el matiz despectivo."
+  },
+  {
+   "id": 3742,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No invitís al kuma de mierda ese al carrete, la otra vez se robó un celular.",
+   "frase_neutralizada": "No invites a ese maleante de mierda a la fiesta, la otra vez se robó un celular.",
+   "nota": "Neutral suavizaba la grosería; agregué contexto de robo."
+  },
+  {
+   "id": 3743,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se subieron unos kumas a la micro y le sacaron la billetera a una señora.",
+   "frase_neutralizada": "Se subieron unos delincuentes al autobús y le robaron la billetera a una señora.",
+   "nota": "La idea del abogado contradecía el sentido de la expresión."
+  },
+  {
+   "id": 3744,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo no hago negocios con ese kuma, seguro que las zapatillas que vende son robadas.",
+   "frase_neutralizada": "Yo no hago negocios con ese delincuente, seguro que los tenis que vende son robados.",
+   "nota": "'Individuo' era neutral; faltaba el matiz de ladrón."
+  },
+  {
+   "id": 3745,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Invité a mi suegra a comer y se me quemó todo, la embarré.",
+   "frase_neutralizada": "Invité a mi suegra a comer y se me quemó todo, metí la pata.",
+   "nota": "'Una embarrá' no es la expresión; se usa el sentido de error."
+  },
+  {
+   "id": 3746,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La prueba estaba fácil y el Diego igual la embarró, contestó todo en la hoja equivocada.",
+   "frase_neutralizada": "El examen estaba fácil y Diego igual metió la pata, contestó todo en la hoja equivocada.",
+   "nota": "Era incoherente y la neutral omitía la expresión."
+  },
+  {
+   "id": 3747,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nico la embarró en el carrete, se curó y le vomitó el sillón al dueño de casa.",
+   "frase_neutralizada": "Nico metió la pata en la fiesta, se emborrachó y le vomitó el sofá al anfitrión.",
+   "nota": "La fiesta no puede 'embarrarla'; sujeto sin sentido."
+  },
+  {
+   "id": 3748,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se me olvidó echarle sal a la cazuela, la embarré.",
+   "frase_neutralizada": "Se me olvidó ponerle sal al caldo, metí la pata.",
+   "nota": "Persona incoherente; la neutral omitía la expresión."
+  },
+  {
+   "id": 3749,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La embarraste en el karaoke, desafinaste en toda la canción y la gente se cagaba de la risa.",
+   "frase_neutralizada": "Metiste la pata en el karaoke, desafinaste en toda la canción y la gente se moría de la risa.",
+   "nota": "'Una embarrá' no es la expresión."
+  },
+  {
+   "id": 3750,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después del carrete quedó la escoba, la casa estaba hecha pedazos.",
+   "frase_neutralizada": "Después de la fiesta quedó un desastre, la casa estaba destrozada.",
+   "nota": "La forma real es 'quedó la escoba', no 'fue una escoba'."
+  },
+  {
+   "id": 3751,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con el proyecto quedó la escoba, el cliente cambió todo a última hora y nada funcionó.",
+   "frase_neutralizada": "Con el proyecto quedó un desastre, el cliente cambió todo a última hora y nada funcionó.",
+   "nota": "Usé la forma correcta 'quedó la escoba'."
+  },
+  {
+   "id": 3752,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le pedí al Mati que me arreglara el computador y quedó la escoba, ahora ni prende.",
+   "frase_neutralizada": "Le pedí a Mati que me arreglara la computadora y quedó un desastre, ahora ni enciende.",
+   "nota": "'Te quedaste la escoba' no es un uso real."
+  },
+  {
+   "id": 3753,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En el partido quedó la escoba, nos metieron seis goles y expulsaron a dos.",
+   "frase_neutralizada": "En el partido fue un desastre, nos metieron seis goles y expulsaron a dos jugadores.",
+   "nota": "La forma era incorrecta; ahora la frase es más concreta."
+  },
+  {
+   "id": 3754,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se juntaron las dos familias para Navidad y quedó la escoba, terminaron todos peleados.",
+   "frase_neutralizada": "Se reunieron las dos familias en Navidad y quedó un desastre, todos terminaron peleados.",
+   "nota": "'Es un escoba' era agramatical y no es un uso real."
+  },
+  {
+   "id": 3755,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Me compré un celular nuevo de 300 lucas. —Shi, la media vola, ¿y de dónde sacaste la plata?",
+   "frase_neutralizada": "—Me compré un celular nuevo de 300 mil pesos. —¡Vaya, increíble! ¿Y de dónde sacaste el dinero?",
+   "nota": "Copiaba el ejemplo; la neutral omitía la exclamación."
+  },
+  {
+   "id": 3756,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Me invitaron a un matrimonio en un castillo. —La media vola, ¿y quién se casa?",
+   "frase_neutralizada": "—Me invitaron a una boda en un castillo. —¡Qué impresionante! ¿Y quién se casa?",
+   "nota": "Diálogo incoherente; la neutral omitía la expresión."
+  },
+  {
+   "id": 3757,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Mi pololo me regaló un anillo de oro. —¡Oh, la media vola! ¿Y eso por qué?",
+   "frase_neutralizada": "—Mi novio me regaló un anillo de oro. —¡Increíble! ¿Y eso por qué?",
+   "nota": "Mezclaba fragmentos del ejemplo sin coherencia."
+  },
+  {
+   "id": 3758,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—La Cata está pololeando con el vocalista de la banda. —Shi, la media vola, ¿en serio?",
+   "frase_neutralizada": "—Cata es novia del vocalista de la banda. —¡No puede ser! ¿En serio?",
+   "nota": "La frase original era incoherente."
+  },
+  {
+   "id": 3759,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—Me saqué un siete en la prueba de química sin estudiar. —La media vola, ¿cómo lo hiciste?",
+   "frase_neutralizada": "—Saqué la nota máxima en el examen de química sin estudiar. —¡Increíble! ¿Cómo lo hiciste?",
+   "nota": "La frase original era confusa y forzada."
+  }
+ ]
+}

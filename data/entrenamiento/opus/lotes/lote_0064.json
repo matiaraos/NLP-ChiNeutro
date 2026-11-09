@@ -1,0 +1,340 @@
+{
+ "lote": 64,
+ "claves": [
+  "al toque",
+  "al toke",
+  "altoke",
+  "altoque",
+  "alharaca",
+  "alaraco",
+  "amanerado",
+  "amanerao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23341989999999999,
+ "duracion_s": 83.1,
+ "pares": [
+  {
+   "id": 2560,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, saquemos la foto al toque, que se está yendo la luz.",
+   "frase_neutralizada": "Bueno, saquemos la foto de inmediato, que se está yendo la luz.",
+   "nota": "Se agregó un contexto natural y se cambió «ya» por «bueno»."
+  },
+  {
+   "id": 2561,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Salí de la pega y llegué al toque, ¿dónde está el documento?",
+   "frase_neutralizada": "Salí del trabajo y llegué enseguida, ¿dónde está el documento?",
+   "nota": "La neutral alteraba el sentido; ahora «al toque» modifica a «llegué»."
+  },
+  {
+   "id": 2562,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranqui, si en este restorán te atienden al toque.",
+   "frase_neutralizada": "Tranquilo, en este restaurante te atienden enseguida.",
+   "nota": "La frase era poco natural; los cinco sentidos son iguales, todo va en def 1."
+  },
+  {
+   "id": 2563,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, pásame la cartera al toque, que se me quedaron las llaves adentro.",
+   "frase_neutralizada": "Oye, pásame el bolso de inmediato, que se me quedaron las llaves adentro.",
+   "nota": "Se quitó el voseo «pasame» y se cambió «cartera» por «bolso»."
+  },
+  {
+   "id": 2564,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, vamos a la fiesta, pero salgamos al toque que después no hay micro.",
+   "frase_neutralizada": "Bueno, vamos a la fiesta, pero salgamos ya, que después no hay autobús.",
+   "nota": "La frase era redundante; se agregó un contexto natural."
+  },
+  {
+   "id": 2565,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No esperemos más al resto, vámonos al toke.",
+   "frase_neutralizada": "No esperemos más a los demás, vámonos ya.",
+   "nota": "«Pronto» no expresa lo inmediato; se cambió por «ya»."
+  },
+  {
+   "id": 2566,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La comida está lista, vengan a la mesa al toke que se enfría.",
+   "frase_neutralizada": "La comida está lista, vengan a la mesa enseguida, que se enfría.",
+   "nota": "Se reformuló para que sonara más natural."
+  },
+  {
+   "id": 2567,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Súbele a la música al toke, que ya llegó la gente.",
+   "frase_neutralizada": "Sube el volumen de la música enseguida, que ya llegó la gente.",
+   "nota": "La frase era forzada y la neutral decía «pronto» en vez de «enseguida»."
+  },
+  {
+   "id": 2568,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Salimos al toke, así que no te demorís tanto en arreglarte.",
+   "frase_neutralizada": "Salimos enseguida, así que no te demores tanto en arreglarte.",
+   "nota": "«Pronto» se cambió por «enseguida» y se agregó voseo chileno."
+  },
+  {
+   "id": 2569,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te tengo que cortar, entro a una reunión al toke.",
+   "frase_neutralizada": "Tengo que colgar, entro a una reunión enseguida.",
+   "nota": "La frase era poco natural y la neutral usaba «pronto»."
+  },
+  {
+   "id": 2570,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese cacho no lo vamos a arreglar altoke, va a tomar su tiempo.",
+   "frase_neutralizada": "Ese problema no lo vamos a resolver enseguida, va a tomar su tiempo.",
+   "nota": "Se corrigió el tiempo verbal de la neutral y se usó «cacho»."
+  },
+  {
+   "id": 2571,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te paso la plata altoke o te la deposito después?",
+   "frase_neutralizada": "¿Te doy el dinero ahora mismo o te lo deposito después?",
+   "nota": "Se cambió «dinero» por «plata» para que sonara chileno."
+  },
+  {
+   "id": 2572,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, muévete altoke que vamos a perder la micro.",
+   "frase_neutralizada": "Vamos, muévete ya, que vamos a perder el autobús.",
+   "nota": "«Ralentices» no era natural y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 2573,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Contéstale altoke a la profe, que está esperando tu respuesta.",
+   "frase_neutralizada": "Respóndele enseguida a la profesora, que está esperando tu respuesta.",
+   "nota": "«No hables altoke» no tenía sentido y la neutral traía voseo «hablés»."
+  },
+  {
+   "id": 2574,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando salgai del doctor llámame altoke, pa no perder tiempo.",
+   "frase_neutralizada": "Cuando salgas del médico, llámame enseguida para no perder tiempo.",
+   "nota": "Se agregó un contexto y rasgos chilenos naturales."
+  },
+  {
+   "id": 2575,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ven altoque, que te estoy esperando afuera hace rato.",
+   "frase_neutralizada": "Ven de inmediato, que hace rato te estoy esperando afuera.",
+   "nota": "Se quitó el «usted» forzado y se hizo más coloquial."
+  },
+  {
+   "id": 2576,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si me vuelve a llamar ese gallo, le corto altoque.",
+   "frase_neutralizada": "Si ese tipo me vuelve a llamar, le cuelgo de inmediato.",
+   "nota": "«Va altoque» no tenía sentido y la neutral cambiaba el significado."
+  },
+  {
+   "id": 2577,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te toca a ti, tira los dados altoque.",
+   "frase_neutralizada": "Te toca a ti, tira los dados ya.",
+   "nota": "La frase estaba incompleta y la neutral añadía «venga»."
+  },
+  {
+   "id": 2578,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya me aburrí de esperar, me voy altoque pa la casa.",
+   "frase_neutralizada": "Ya me cansé de esperar, me voy a casa de inmediato.",
+   "nota": "Duplicaba el id 2575; se cambió la situación."
+  },
+  {
+   "id": 2579,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Avísame altoque si vai a llegar tarde.",
+   "frase_neutralizada": "Avísame de inmediato si vas a llegar tarde.",
+   "nota": "Se corrigió el error «vas a demorarse»."
+  },
+  {
+   "id": 2580,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cálmate, no seai tan alharaca, si fue un rasguño no más.",
+   "frase_neutralizada": "Cálmate, no seas tan exagerado, si solo fue un rasguño.",
+   "nota": "No tenía la expresión y la neutral usaba «vosotros» con errores."
+  },
+  {
+   "id": 2581,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Tanta alharaca por una prueba? Si vai a pasar igual.",
+   "frase_neutralizada": "¿Tanto escándalo por un examen? Si vas a aprobar de todas formas.",
+   "nota": "La neutral cambiaba el sentido; ahora se usa como sustantivo."
+  },
+  {
+   "id": 2582,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano es re alharaca, se pegó en el dedo y gritaba como si se hubiera quebrado la pierna.",
+   "frase_neutralizada": "Mi hermano es muy exagerado, se golpeó el dedo y gritaba como si se hubiera roto la pierna.",
+   "nota": "No tenía la expresión y la neutral tenía errores de concordancia."
+  },
+  {
+   "id": 2583,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La vecina armó una alharaca tremenda porque le estacionaron afuera de la casa.",
+   "frase_neutralizada": "La vecina hizo un escándalo tremendo porque le estacionaron frente a la casa.",
+   "nota": "La frase era incoherente y la neutral no tenía sentido."
+  },
+  {
+   "id": 2584,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai tan alharaca, la micro se atrasó cinco minutos no más.",
+   "frase_neutralizada": "No seas tan exagerado, el autobús solo se atrasó cinco minutos.",
+   "nota": "«No te hagas tan grande» no venía al caso y «exaltes» era impreciso."
+  },
+  {
+   "id": 2585,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Felipe es tan alaraco, con un resfrío ya cree que se va a morir.",
+   "frase_neutralizada": "Felipe es tan exagerado, con un resfriado ya cree que se va a morir.",
+   "nota": "La frase era agramatical y no tenía sentido."
+  },
+  {
+   "id": 2586,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai alaraco, si son un par de lucas no más lo que vai a gastar.",
+   "frase_neutralizada": "No seas exagerado, si solo vas a gastar un par de miles de pesos.",
+   "nota": "«No te exageres» estaba mal y el contexto era incoherente."
+  },
+  {
+   "id": 2587,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no seai alaraco, cuéntame tranquilo qué pasó.",
+   "frase_neutralizada": "Oye, no seas exagerado, cuéntame con calma qué pasó.",
+   "nota": "Se corrigió «no te exageres» y se hizo más natural."
+  },
+  {
+   "id": 2588,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese cabro es un alaraco, se enoja por cualquier cosa.",
+   "frase_neutralizada": "Ese chico es un exagerado, se enoja por cualquier cosa.",
+   "nota": "Las dos definiciones son iguales; se ajustó el tiempo verbal."
+  },
+  {
+   "id": 2589,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi papá es súper alaraco, si llego diez minutos tarde ya está llamando a los pacos.",
+   "frase_neutralizada": "Mi papá es muy exagerado, si llego diez minutos tarde ya está llamando a la policía.",
+   "nota": "Usaba «alaraco» como si fuera «exageración»; eso es incorrecto."
+  },
+  {
+   "id": 2590,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi compañero de pega es medio amanerado, pero es súper buena onda.",
+   "frase_neutralizada": "Mi compañero de trabajo es un poco afeminado, pero es muy amable.",
+   "nota": "La neutral cambiaba «compañero» por «pareja»."
+  },
+  {
+   "id": 2591,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nico habló todo amanerado cuando imitó a la profe en la sala.",
+   "frase_neutralizada": "Nico habló de forma afeminada cuando imitó a la profesora en el aula.",
+   "nota": "«Túngolo» no es una palabra real y la frase era confusa."
+  },
+  {
+   "id": 2592,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En el carrete había unos cabros medio amanerados bailando reggaetón.",
+   "frase_neutralizada": "En la fiesta había unos chicos algo afeminados bailando reguetón.",
+   "nota": "La frase era agramatical («me divierto a ver»)."
+  },
+  {
+   "id": 2593,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El pololo de mi prima es medio amanerado, pero la trata como reina.",
+   "frase_neutralizada": "El novio de mi prima es algo afeminado, pero la trata como a una reina.",
+   "nota": "Se cambió la situación y se agregó «pololo»."
+  },
+  {
+   "id": 2594,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuelo encuentra amanerado que los hombres usen aros.",
+   "frase_neutralizada": "Mi abuelo piensa que es afeminado que los hombres usen aretes.",
+   "nota": "«No se venga amanerado» era antinatural."
+  },
+  {
+   "id": 2595,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El vecino nuevo es amanerao, lo vi con su pololo en el almacén.",
+   "frase_neutralizada": "El vecino nuevo es gay, lo vi con su novio en la tienda.",
+   "nota": "Se aplicaba a una mujer; el término es masculino y la neutral cambiaba el número."
+  },
+  {
+   "id": 2596,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío siempre dijo que el primo era amanerao, y al final salió del clóset.",
+   "frase_neutralizada": "Mi tío siempre dijo que mi primo era gay, y al final salió del clóset.",
+   "nota": "Uso femenino incorrecto y frase sin sentido claro."
+  },
+  {
+   "id": 2597,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En ese bar de Bellavista se juntan puros amaneraos los viernes.",
+   "frase_neutralizada": "En ese bar de Bellavista se reúnen solo hombres gays los viernes.",
+   "nota": "La neutral decía «mujeres lesbianas», pero el término se refiere a hombres."
+  },
+  {
+   "id": 2598,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sí po, soy amanerao, ¿y qué? No me da vergüenza decirlo.",
+   "frase_neutralizada": "Sí, soy gay, ¿y qué? No me da vergüenza decirlo.",
+   "nota": "La neutral decía «lesbiana»; se corrigió a «gay»."
+  },
+  {
+   "id": 2599,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cachai si tu amigo es amanerao o no?",
+   "frase_neutralizada": "¿Sabes si tu amigo es gay o no?",
+   "nota": "«Está amanerao» se cambió por «es» y se agregó «cachai»."
+  }
+ ]
+}

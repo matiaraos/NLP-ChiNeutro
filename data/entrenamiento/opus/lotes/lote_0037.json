@@ -1,0 +1,340 @@
+{
+ "lote": 37,
+ "claves": [
+  "un cachito",
+  "uyuuuiiii",
+  "vale callampa",
+  "vale hongo",
+  "vale pico",
+  "vamos a comernos",
+  "vender la pesca",
+  "vendia"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.27076510000000004,
+ "duracion_s": 101.8,
+ "pares": [
+  {
+   "id": 1480,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Espérame un cachito, voy a ver quién tocó el timbre.",
+   "frase_neutralizada": "Espérame un momento, voy a ver quién tocó el timbre.",
+   "nota": "Se alejó del ejemplo del diccionario y se concretó la situación."
+  },
+  {
+   "id": 1481,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pásame el celu un cachito, que tengo que mandar un mensaje urgente.",
+   "frase_neutralizada": "Pásame el celular un momento, que tengo que mandar un mensaje urgente.",
+   "nota": "La original no tenía sentido; se escribió una frase nueva de tiempo breve."
+  },
+  {
+   "id": 1482,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Déjame tranquilo un cachito, que estoy terminando de estudiar, po.",
+   "frase_neutralizada": "Déjame tranquilo un momento, que estoy terminando de estudiar.",
+   "nota": "Se corrigieron el error gramatical (distrajas) y la construcción incoherente."
+  },
+  {
+   "id": 1483,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Échale un cachito más de azúcar al café, que está muy amargo.",
+   "frase_neutralizada": "Échale un poquito más de azúcar al café, que está muy amargo.",
+   "nota": "La frase con negación era confusa; ahora usa la cantidad pequeña con naturalidad."
+  },
+  {
+   "id": 1484,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Córrete un cachito pa' la izquierda, que no sales en la foto.",
+   "frase_neutralizada": "Muévete un poquito a la izquierda, que no sales en la foto.",
+   "nota": "La original tenía un error (la arroz) y no era natural; frase nueva."
+  },
+  {
+   "id": 1485,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Uyuuuiiii! Ya llegó septiembre, a preparar las empanadas pa' las fiestas.",
+   "frase_neutralizada": "¡Yujuuu! Ya llegó septiembre, a preparar las empanadas para las fiestas.",
+   "nota": "La neutral omitía el grito; se ambientó en un festejo, como el de los huasos."
+  },
+  {
+   "id": 1486,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando empezó la cueca, el tío Lucho se paró gritando uyuuuiiii con el pañuelo en la mano.",
+   "frase_neutralizada": "Cuando empezó el baile típico, el tío Lucho se levantó gritando ¡yujuuu! con el pañuelo en la mano.",
+   "nota": "La neutral cambiaba el sentido; ahora es un grito de euforia festiva."
+  },
+  {
+   "id": 1487,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Uyuuuiiii! Ganó mi caballo en la carrera a la chilena, compadre.",
+   "frase_neutralizada": "¡Yujuuu! Ganó mi caballo en la carrera, amigo.",
+   "nota": "La original la usaba como ladrido de perro, un sentido equivocado."
+  },
+  {
+   "id": 1488,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Uyuuuiiii, nos vamos a la fonda esta noche, cabros!",
+   "frase_neutralizada": "¡Yujuuu, nos vamos a la fiesta popular esta noche, chicos!",
+   "nota": "Tenía signos mal puestos y la neutral omitía el grito."
+  },
+  {
+   "id": 1489,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El huaso pegó un uyuuuiiii tan fuerte en el rodeo que se asustaron los niños.",
+   "frase_neutralizada": "El jinete dio un grito de alegría tan fuerte en el rodeo que se asustaron los niños.",
+   "nota": "Usaba el grito como rechazo, un sentido erróneo."
+  },
+  {
+   "id": 1490,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Este cargador chino vale callampa, se echó a perder en una semana.",
+   "frase_neutralizada": "Este cargador chino no vale nada, se descompuso en una semana.",
+   "nota": "La construcción «está de vale callampa» no existe; frase nueva."
+  },
+  {
+   "id": 1491,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa noticia vale callampa, es puro copucheo de la farándula.",
+   "frase_neutralizada": "Esa noticia no vale nada, son puros chismes de famosos.",
+   "nota": "Se quitaron «chasquito» y «chismis», que no existen."
+  },
+  {
+   "id": 1492,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese jugador vale callampa, no le pega ni a una pelota parada.",
+   "frase_neutralizada": "Ese jugador no vale nada, no le atina ni a una pelota parada.",
+   "nota": "Se integró la expresión a la frase con su sujeto; la neutral quedó más natural."
+  },
+  {
+   "id": 1493,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu promesa vale callampa, siempre dices que venís y nunca llegai.",
+   "frase_neutralizada": "Tu promesa no vale nada, siempre dices que vienes y nunca llegas.",
+   "nota": "La usaba como «no importa», un sentido incorrecto."
+  },
+  {
+   "id": 1494,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El desayuno del hotel valía callampa, puro pan añejo y café de tarro.",
+   "frase_neutralizada": "El desayuno del hotel no valía nada, solo pan duro y café instantáneo.",
+   "nota": "Se corrigió el tiempo verbal y se aclaró la mala calidad."
+  },
+  {
+   "id": 1495,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La comida de ese restorán vale hongo, y más encima cobran caro.",
+   "frase_neutralizada": "La comida de ese restaurante no vale nada, y además cobran caro.",
+   "nota": "Con «no vale hongo» se invertía el sentido; además se quitó el tuteo peninsular."
+  },
+  {
+   "id": 1496,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa polera vale hongo, se le salió el color a la primera lavada.",
+   "frase_neutralizada": "Esa camiseta no vale nada, se despintó en la primera lavada.",
+   "nota": "Se agregó un contexto chileno natural y se precisó la baja calidad."
+  },
+  {
+   "id": 1497,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu excusa vale hongo, el profe no te la va a creer ni cagando.",
+   "frase_neutralizada": "Tu excusa no vale nada, el profesor no te la va a creer ni de broma.",
+   "nota": "La neutral cambiaba el sentido a «no interesante»; frase nueva."
+  },
+  {
+   "id": 1498,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese perro vale hongo como guardián, le ladra a la gente y después le mueve la cola.",
+   "frase_neutralizada": "Ese perro no vale nada como guardián, le ladra a la gente y después le mueve la cola.",
+   "nota": "Se arreglaron «una buena guardia» y la neutral, que era redundante."
+  },
+  {
+   "id": 1499,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa tarea vale hongo, la hiciste a la rápida y el profe se va a dar cuenta.",
+   "frase_neutralizada": "Esa tarea no vale nada, la hiciste a la carrera y el profesor se va a dar cuenta.",
+   "nota": "Usaba «vale callampa»; se cambió a «vale hongo» y se unificaron ambas definiciones."
+  },
+  {
+   "id": 1500,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa cerveza que me compré vale pico, sabe a agua con gas.",
+   "frase_neutralizada": "Esa cerveza que me compré es una mierda, sabe a agua con gas.",
+   "nota": "Estaba mal construida («es vali pico»); se mantuvo el registro vulgar."
+  },
+  {
+   "id": 1501,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La comida de ese restorán vale pico pa'l precio que cobran.",
+   "frase_neutralizada": "La comida de ese restaurante es una mierda para el precio que cobran.",
+   "nota": "Con «no vale pico» se invertía el sentido; ahora conserva la vulgaridad."
+  },
+  {
+   "id": 1502,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La película valía pico, me quedé dormido a la media hora y pagué entrada igual.",
+   "frase_neutralizada": "La película era una mierda, me quedé dormido a la media hora y pagué la entrada de todos modos.",
+   "nota": "Tenía una construcción agramatical; se corrigió y se dio contexto."
+  },
+  {
+   "id": 1503,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Se me quedó el pasaje en la casa, valí pico, no voy a alcanzar el bus.",
+   "frase_neutralizada": "Se me quedó el boleto en la casa, estoy jodido, no voy a alcanzar el autobús.",
+   "nota": "Según el ejemplo, la def. 2 significa «estar arruinado»; frase nueva."
+  },
+  {
+   "id": 1504,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Si mi papá ve la nota de matemáticas, valí pico, me quita el celular.",
+   "frase_neutralizada": "Si mi papá ve la nota de matemáticas, estoy jodido, me quita el celular.",
+   "nota": "Era absurdo que alguien escribiera algo de mala calidad a propósito; se usa «estar arruinado»."
+  },
+  {
+   "id": 1505,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿vamos a comernos atrás del escenario mientras toca la banda?",
+   "frase_neutralizada": "Oye, ¿vamos a besarnos apasionadamente detrás del escenario mientras toca la banda?",
+   "nota": "«Vamos a besar» era agramatical; se corrigieron los signos y se dio contexto."
+  },
+  {
+   "id": 1506,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si el Diego me pregunta ¿vamos a comernos?, le digo altiro que sí, po.",
+   "frase_neutralizada": "Si Diego me pregunta si vamos a besarnos, le digo inmediatamente que sí.",
+   "nota": "La original era incoherente; frase nueva."
+  },
+  {
+   "id": 1507,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿vamos a comernos mañana a la salida del colegio?",
+   "frase_neutralizada": "Oye, ¿vamos a besarnos mañana a la salida del colegio?",
+   "nota": "Se corrigió «vamos a besar» y se puso un contexto más natural."
+  },
+  {
+   "id": 1508,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mis viejos no están este finde, ¿vamos a mi casa a comernos?",
+   "frase_neutralizada": "Mis papás no están este fin de semana, ¿vamos a mi casa a tener sexo?",
+   "nota": "La neutral cambiaba «casa» por «tu casa»; frase más natural."
+  },
+  {
+   "id": 1509,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Ya po, pidamos la cuenta y vamos al motel a comernos.",
+   "frase_neutralizada": "Bueno, pidamos la cuenta y vamos al motel a tener sexo.",
+   "nota": "La original era incoherente; frase nueva con el sentido sexual claro."
+  },
+  {
+   "id": 1510,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le creai al vendedor, te está vendiendo la pescá con ese auto usado.",
+   "frase_neutralizada": "No le creas al vendedor, te está engañando con ese auto usado.",
+   "nota": "Se corrigió «mentiendo» y se conjugó bien la expresión."
+  },
+  {
+   "id": 1511,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Siempre dice que va a publicar un libro, pero puro vende la pescá.",
+   "frase_neutralizada": "Siempre dice que va a publicar un libro, pero solo cuenta mentiras.",
+   "nota": "«Vendidas pescá» era agramatical y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 1512,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, te confieso que te vendí la pescá, nunca fui a Europa.",
+   "frase_neutralizada": "Bueno, te confieso que te mentí, nunca fui a Europa.",
+   "nota": "«Estoy vender» era agramatical; se dio un contexto coherente."
+  },
+  {
+   "id": 1513,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El loco dice que trabaja en la NASA, pero cacho que nos está vendiendo la pescá.",
+   "frase_neutralizada": "Ese tipo dice que trabaja en la NASA, pero creo que nos está mintiendo.",
+   "nota": "«Vendida pescá» era agramatical; se alejó del ejemplo del diccionario."
+  },
+  {
+   "id": 1514,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los políticos en campaña te venden la pescá y después no cumplen ni una weá.",
+   "frase_neutralizada": "Los políticos en campaña te cuentan mentiras y después no cumplen nada.",
+   "nota": "La construcción era agramatical y repetía la situación anterior; frase nueva."
+  },
+  {
+   "id": 1515,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Bórrame esa vendía altiro, salgo con los ojos cerrados y la boca abierta.",
+   "frase_neutralizada": "Bórrame esa foto fea inmediatamente, salgo con los ojos cerrados y la boca abierta.",
+   "nota": "«Vendía» es un sustantivo (la foto); se corrigió el uso como adjetivo."
+  },
+  {
+   "id": 1516,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No subai esa foto, salí súper vendío y con papada.",
+   "frase_neutralizada": "No subas esa foto, salí horrible y con papada.",
+   "nota": "La aplicaba a un vestido, un sentido equivocado."
+  },
+  {
+   "id": 1517,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En el concierto me tomaron una vendía mientras me comía un completo.",
+   "frase_neutralizada": "En el concierto me tomaron una foto desprevenido mientras me comía un hot dog.",
+   "nota": "Se corrigió la ortografía (vedía) y la preposición."
+  },
+  {
+   "id": 1518,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá puso de perfil una vendía mía de cuando era guagua, qué vergüenza.",
+   "frase_neutralizada": "Mi mamá puso de foto de perfil una foto fea mía de cuando era bebé, qué vergüenza.",
+   "nota": "La original era agramatical y muy corta; frase nueva."
+  },
+  {
+   "id": 1519,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Felipe me pilló mirando el mar en la playa y me sacó una vendía.",
+   "frase_neutralizada": "Felipe me tomó una foto sin que me diera cuenta mientras miraba el mar en la playa.",
+   "nota": "Se corrigió la ortografía y se alejó de la copia casi literal del ejemplo."
+  }
+ ]
+}

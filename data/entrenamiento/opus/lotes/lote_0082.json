@@ -1,0 +1,340 @@
+{
+ "lote": 82,
+ "claves": [
+  "fierro pelao",
+  "fifi",
+  "filete",
+  "filo",
+  "fino",
+  "fixa",
+  "flaite",
+  "flaites"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.28053819999999996,
+ "duracion_s": 104.9,
+ "pares": [
+  {
+   "id": 3280,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche lo hicimos a fierro pelao y ahora ando cagada de susto por si quedé embarazada.",
+   "frase_neutralizada": "Anoche lo hicimos sin condón y ahora estoy muerta de miedo por si quedé embarazada.",
+   "nota": "No incluía la expresión; nueva frase con el sentido sexual."
+  },
+  {
+   "id": 3281,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Weón, ¿cómo se te ocurre tirar a fierro pelao con una mina que conociste en el carrete?",
+   "frase_neutralizada": "Idiota, ¿cómo se te ocurre tener sexo sin condón con una chica que conociste en la fiesta?",
+   "nota": "Frase vaga sin la expresión; reescrita."
+  },
+  {
+   "id": 3282,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi polola no quiere ni cagando hacerlo a fierro pelao, dice que primero nos hagamos exámenes.",
+   "frase_neutralizada": "Mi novia no quiere hacerlo sin condón por nada del mundo, dice que primero nos hagamos exámenes.",
+   "nota": "Sin relación con la expresión; reescrita."
+  },
+  {
+   "id": 3283,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pancho siempre lo hace a fierro pelao y después anda llorando cuando le pica algo.",
+   "frase_neutralizada": "Pancho siempre lo hace sin condón y después anda llorando cuando le pica algo.",
+   "nota": "No contenía la expresión y tenía error (cautelo); reescrita."
+  },
+  {
+   "id": 3284,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La matrona nos retó harto cuando le contamos que lo hacíamos a fierro pelao.",
+   "frase_neutralizada": "La obstetra nos regañó mucho cuando le contamos que lo hacíamos sin condón.",
+   "nota": "Sin la expresión y neutral cambiaba persona; reescrita."
+  },
+  {
+   "id": 3285,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa mina es tan fifí que en el baile se creía la reina.",
+   "frase_neutralizada": "Esa chica es tan presumida que en el baile se creía la reina.",
+   "nota": "Neutral perdía el matiz despectivo (elegante); ahora presumida."
+  },
+  {
+   "id": 3286,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese gallo es más fifí, habla como si fuera superior a todos y anda con pura ropa cara.",
+   "frase_neutralizada": "Ese tipo es muy pretencioso, habla como si fuera superior a todos y siempre usa ropa cara.",
+   "nota": "Frase explicaba la expresión; neutral omitía el adjetivo. Ajustado."
+  },
+  {
+   "id": 3287,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vecino de abajo es muy fifí, anda con pura ropa de marca y ni nos pesca.",
+   "frase_neutralizada": "El vecino de abajo es muy pretencioso, siempre anda con ropa de marca y ni nos hace caso.",
+   "nota": "Neutral omitía fifí; añadí pretencioso y registro chileno."
+  },
+  {
+   "id": 3288,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No cacho por qué el pololo de ella es tan fifí, nada de lo que hago le parece.",
+   "frase_neutralizada": "No entiendo por qué el novio de ella es tan presumido, nada de lo que hago le parece bien.",
+   "nota": "Neutral forzada; uso presumido y chilenismos naturales."
+  },
+  {
+   "id": 3289,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi amigo se puso medio fifí, ahora se viste como si fuera a un matrimonio todos los días.",
+   "frase_neutralizada": "Mi amigo se volvió medio presumido, ahora se viste como si fuera a una boda todos los días.",
+   "nota": "Neutral omitía el sentido despectivo; corregido."
+  },
+  {
+   "id": 3290,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese vestido está filete, ¿dónde lo compraste?",
+   "frase_neutralizada": "Ese vestido está precioso, ¿dónde lo compraste?",
+   "nota": "Pregunta incoherente y 'muy filete' poco natural; corregido."
+  },
+  {
+   "id": 3291,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Estos panqueques con manjar te quedaron filete, ¿me dai otro?",
+   "frase_neutralizada": "Estas crepas con dulce de leche te quedaron buenísimas, ¿me das otra?",
+   "nota": "'No te lo digas' sin sentido; reformulado."
+  },
+  {
+   "id": 3292,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Este libro está filete, me lo leí en dos días.",
+   "frase_neutralizada": "Este libro está buenísimo, lo leí en dos días.",
+   "nota": "Frase pobre; ahora más natural con 'está'."
+  },
+  {
+   "id": 3293,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Está filete el día pa ir a la playa, vamos po.",
+   "frase_neutralizada": "Está buenísimo el día para ir a la playa, vamos.",
+   "nota": "Frase poco natural; añadida situación concreta."
+  },
+  {
+   "id": 3294,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "La casa que arrendamos está filete, ni una gotera ni nada.",
+   "frase_neutralizada": "La casa que alquilamos está en excelentes condiciones, sin ninguna gotera ni nada.",
+   "nota": "Ajustado al sentido de buenas condiciones."
+  },
+  {
+   "id": 3295,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Otra vez hablando de tu ex? Filo con eso, cambiemos de tema po.",
+   "frase_neutralizada": "¿Otra vez hablando de tu ex? Olvídate de eso, cambiemos de tema.",
+   "nota": "No contenía la expresión; reescrita."
+  },
+  {
+   "id": 3296,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me dejó plantada el viernes y ahora quiere salir, pero filo, que se busque a otra.",
+   "frase_neutralizada": "Me dejó plantada el viernes y ahora quiere salir, pero ya no me importa, que se busque a otra.",
+   "nota": "Frase incoherente y voseo rioplatense en neutral; reescrita."
+  },
+  {
+   "id": 3297,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya te dije, filo con lo que pasó en el carrete, no le demos más vueltas.",
+   "frase_neutralizada": "Ya te dije, olvidemos lo que pasó en la fiesta, no le demos más vueltas.",
+   "nota": "Sin la expresión y con error gramatical; reescrita."
+  },
+  {
+   "id": 3298,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Se me quedó el paraguas en la micro, pero filo, igual era viejo.",
+   "frase_neutralizada": "Se me quedó el paraguas en el autobús, pero no importa, de todas formas era viejo.",
+   "nota": "No contenía la expresión; nuevo sentido 'no importa'."
+  },
+  {
+   "id": 3299,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No alcancé a llegar a la prueba, pero filo, la doy en la recuperativa.",
+   "frase_neutralizada": "No alcancé a llegar al examen, pero no importa, lo presento en el de recuperación.",
+   "nota": "Sin la expresión y gramática errónea; reescrita."
+  },
+  {
+   "id": 3300,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Te quedó fino el pastel de choclo, mamá!",
+   "frase_neutralizada": "¡Te quedó buenísimo el pastel de maíz, mamá!",
+   "nota": "'Un fino platillo' no es uso chileno; ahora predicativo."
+  },
+  {
+   "id": 3301,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No sé, el trabajo que hicieron no me pareció tan fino.",
+   "frase_neutralizada": "No sé, el trabajo que hicieron no me pareció tan bueno.",
+   "nota": "Uso atributivo poco natural; ajustado."
+  },
+  {
+   "id": 3302,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Viste los tatuajes que se hicieron tus hermanas? Les quedaron finos.",
+   "frase_neutralizada": "¿Viste los tatuajes que se hicieron tus hermanas? Les quedaron muy bien.",
+   "nota": "'Recados finos' no tenía sentido; nueva situación."
+  },
+  {
+   "id": 3303,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Está fino el día pa salir en bici, ¿o no?",
+   "frase_neutralizada": "Está excelente el día para salir en bicicleta, ¿no?",
+   "nota": "'Un fino día' poco natural; corregido."
+  },
+  {
+   "id": 3304,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Weón, el disco nuevo de Los Bunkers está fino.",
+   "frase_neutralizada": "Oye, el nuevo disco de Los Bunkers está buenísimo.",
+   "nota": "Frase sin tono chileno; ajustada al uso con 'estar'."
+  },
+  {
+   "id": 3305,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira a mi hermano, anda entero fixa con la chaqueta nueva.",
+   "frase_neutralizada": "Mira a mi hermano, anda con mucho estilo con la chaqueta nueva.",
+   "nota": "No contenía la expresión; añadida."
+  },
+  {
+   "id": 3306,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, qué fixa la mina, ¿cachai de dónde saca la ropa?",
+   "frase_neutralizada": "Oye, qué bien vestida está esa chica, ¿sabes de dónde saca la ropa?",
+   "nota": "Neutral agramatical; reformulado."
+  },
+  {
+   "id": 3307,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Ese loco tiene la media fixa, ha caído preso como diez veces.",
+   "frase_neutralizada": "Ese tipo tiene unos antecedentes penales enormes, ha caído preso como diez veces.",
+   "nota": "No contenía la expresión; nuevo sentido de prontuario."
+  },
+  {
+   "id": 3308,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi primo cobró la plata y ahora anda entero fixa por la pobla.",
+   "frase_neutralizada": "Mi primo cobró el dinero y ahora anda vestido todo de marca por el barrio.",
+   "nota": "No contenía la expresión y neutral agramatical; corregido."
+  },
+  {
+   "id": 3309,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Ese cabro es fixa, todos en la pobla saben que roba en el centro.",
+   "frase_neutralizada": "Ese chico es un ladrón respetado, todos en el barrio saben que roba en el centro.",
+   "nota": "Frase explicativa y artificial; más natural."
+  },
+  {
+   "id": 3310,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese gallo tiene pinta de flaite cualquiera, mejor guarda el celular.",
+   "frase_neutralizada": "Ese tipo tiene aspecto de maleante vulgar, mejor guarda el celular.",
+   "nota": "Neutral definía la palabra; ahora equivalente natural."
+  },
+  {
+   "id": 3311,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, no seai tan flaite, sácate esa cadena dorada que vamos a un matrimonio.",
+   "frase_neutralizada": "Vamos, no seas tan vulgar, quítate esa cadena dorada que vamos a una boda.",
+   "nota": "Neutral errónea (te pareces) y sentido vago; corregido."
+  },
+  {
+   "id": 3312,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "El Kevin será flaite, pero es súper buena onda y nunca se ha metido en nada malo.",
+   "frase_neutralizada": "Kevin tendrá pinta callejera de barrio bajo, pero es muy buena persona y nunca se ha metido en nada malo.",
+   "nota": "'Extraño' no equivalía; ajustado al sentido no delictual."
+  },
+  {
+   "id": 3313,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Unos flaites me tiraron un escupo en la micro y más encima me insultaron.",
+   "frase_neutralizada": "Unos tipos vulgares me escupieron en el autobús y encima me insultaron.",
+   "nota": "Frase contradictoria y neutral omitía sentido; reescrita."
+  },
+  {
+   "id": 3314,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "No entiendo ni una weá de lo que hablan esos flaites, puro coa.",
+   "frase_neutralizada": "No entiendo nada de lo que hablan esos chicos de barrio bajo, pura jerga callejera.",
+   "nota": "Neutral 'individuos' perdía sentido; añadido registro chileno."
+  },
+  {
+   "id": 3315,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cierra bien el auto, que en esta esquina siempre hay flaites dando vueltas.",
+   "frase_neutralizada": "Cierra bien el auto, que en esta esquina siempre hay maleantes dando vueltas.",
+   "nota": "Usaba singular y sentido vagabundo; reescrita."
+  },
+  {
+   "id": 3316,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Agarra bien la cartera, que a esta hora en el centro hay puros flaites.",
+   "frase_neutralizada": "Sujeta bien el bolso, que a esta hora en el centro hay muchos maleantes.",
+   "nota": "Incoherente, singular y voseo rioplatense; corregido."
+  },
+  {
+   "id": 3317,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi vieja dice que con ese buzo y esa gorra parecemos flaites.",
+   "frase_neutralizada": "Mi mamá dice que con esa ropa deportiva y esa gorra parecemos delincuentes.",
+   "nota": "Comparación con perro sin sentido; reescrita."
+  },
+  {
+   "id": 3318,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Nosotros no somos flaites, ¿cachai?, trabajamos pa ganarnos la vida.",
+   "frase_neutralizada": "Nosotros no somos delincuentes, ¿entiendes?, trabajamos para ganarnos la vida.",
+   "nota": "Frase explicaba el significado; ahora más natural."
+  },
+  {
+   "id": 3319,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Unos flaites le quisieron robar el celu al Seba, pero no se dejó.",
+   "frase_neutralizada": "Unos maleantes le quisieron robar el celular a Seba, pero no se dejó.",
+   "nota": "Singular y 'mendigo' erróneo; corregido."
+  }
+ ]
+}

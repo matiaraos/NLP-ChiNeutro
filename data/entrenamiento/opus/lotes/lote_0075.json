@@ -1,0 +1,340 @@
+{
+ "lote": 75,
+ "claves": [
+  "brigido",
+  "buen mozo",
+  "buena leche",
+  "buena onda",
+  "buena tela",
+  "buitre",
+  "cabro",
+  "cabra"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2522678,
+ "duracion_s": 87.9,
+ "pares": [
+  {
+   "id": 3000,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El viaje a Torres del Paine en pleno invierno va a estar brígido, con tanta nieve.",
+   "frase_neutralizada": "El viaje a Torres del Paine en pleno invierno va a ser muy difícil, con tanta nieve.",
+   "nota": "Frase poco natural; se ajustó a contexto chileno y registro coloquial."
+  },
+  {
+   "id": 3001,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranqui, la prueba de mañana no es tan brígida, si estudiaste vai a pasar.",
+   "frase_neutralizada": "Tranquilo, el examen de mañana no es tan difícil; si estudiaste, vas a aprobar.",
+   "nota": "Frase vaga; se dio contexto concreto de dificultad."
+  },
+  {
+   "id": 3002,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El camino por la cordillera está brígido con la nieve, maneja con cuidado.",
+   "frase_neutralizada": "El camino por la cordillera está muy peligroso con la nieve, maneja con cuidado.",
+   "nota": "Se naturalizó la frase manteniendo el sentido de peligro."
+  },
+  {
+   "id": 3003,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Qué brígido lo rápido que crecen los cabros chicos, ayer mi sobrino era una guagua.",
+   "frase_neutralizada": "Qué impresionante lo rápido que crecen los niños; ayer mi sobrino era un bebé.",
+   "nota": "Repetía sentido de dificultad; ahora ilustra el sentido de impacto."
+  },
+  {
+   "id": 3004,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "La película de terror que vimos anoche estuvo brígida, no pude pegar un ojo.",
+   "frase_neutralizada": "La película de terror que vimos anoche fue escalofriante, no pude dormir nada.",
+   "nota": "Sin contexto; se agregó situación escalofriante clara."
+  },
+  {
+   "id": 3005,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Fíjate que el joven que atiende en la farmacia es bien buen mozo.",
+   "frase_neutralizada": "Fíjate que el joven que atiende en la farmacia es bastante guapo.",
+   "nota": "Uso poco natural con artículo; se ajustó al uso típico."
+  },
+  {
+   "id": 3006,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Ay, mijita, qué buen mozo su pololo! ¿De dónde lo sacó?",
+   "frase_neutralizada": "¡Ay, hija, qué guapo su novio! ¿De dónde lo sacó?",
+   "nota": "Redundante y sin la voz de mujer mayor; se corrigió."
+  },
+  {
+   "id": 3007,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La próxima vez que venga le traigo a mi hijo, para que vea lo buen mozo que salió.",
+   "frase_neutralizada": "La próxima vez que venga le traigo a mi hijo, para que vea lo guapo que salió.",
+   "nota": "Errores gramaticales (\"no me preocupes\"); se reescribió con naturalidad."
+  },
+  {
+   "id": 3008,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira al caballero de la mesa de al lado, harto buen mozo, ¿ah?",
+   "frase_neutralizada": "Mira al señor de la mesa de al lado, bastante guapo, ¿no?",
+   "nota": "Neutral cambiaba \"al lado\" por \"izquierda\"; se corrigió."
+  },
+  {
+   "id": 3009,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe nuevo de Historia es tan buen mozo que todas las apoderadas van a las reuniones.",
+   "frase_neutralizada": "El profesor nuevo de Historia es tan guapo que todas las madres de los alumnos van a las reuniones.",
+   "nota": "Aplicaba \"buen mozo\" a una mujer; se cambió a hombre."
+  },
+  {
+   "id": 3010,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los vecinos nuevos son súper buena leche, el domingo nos invitaron a un asado.",
+   "frase_neutralizada": "Los vecinos nuevos son muy simpáticos, el domingo nos invitaron a una parrillada.",
+   "nota": "Frase incoherente y agramatical; se dio contexto natural."
+  },
+  {
+   "id": 3011,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿me ayudai con la mudanza? Si erí re buena leche.",
+   "frase_neutralizada": "Oye, ¿me ayudas con la mudanza? Si eres muy amable.",
+   "nota": "Usaba \"tío\" español; se adaptó al habla chilena."
+  },
+  {
+   "id": 3012,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La compañera nueva de la oficina es buena leche, me trajo un café sin que le pidiera.",
+   "frase_neutralizada": "La compañera nueva de la oficina es muy amable, me trajo un café sin que se lo pidiera.",
+   "nota": "\"Mucha buena leche\" agramatical; se reorganizó la situación."
+  },
+  {
+   "id": 3013,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu amigo es súper buena leche, se quedó conversando conmigo toda la fiesta.",
+   "frase_neutralizada": "Tu amigo es muy simpático, se quedó conversando conmigo toda la fiesta.",
+   "nota": "\"Estás buena leche\" no es el uso; neutral cambiaba significado."
+  },
+  {
+   "id": 3014,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe de mate es buena leche, nos dio más plazo para entregar el trabajo.",
+   "frase_neutralizada": "El profesor de matemáticas es muy amable, nos dio más plazo para entregar el trabajo.",
+   "nota": "Agramatical y sin contexto; nueva situación."
+  },
+  {
+   "id": 3015,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No es que no seai buena onda, es que no me tinca ese carrete.",
+   "frase_neutralizada": "No es que no seas agradable, es que no me convence esa fiesta.",
+   "nota": "Faltaba tilde en neutral; se dio registro chileno natural."
+  },
+  {
+   "id": 3016,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El jardinero de mi abuela es súper buena onda, siempre nos regala paltas.",
+   "frase_neutralizada": "El jardinero de mi abuela es muy simpático, siempre nos regala aguacates.",
+   "nota": "Frase escueta; se añadió contexto."
+  },
+  {
+   "id": 3017,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La polola de mi hermano es re buena onda, altiro se hizo amiga de la familia.",
+   "frase_neutralizada": "La novia de mi hermano es muy simpática, enseguida se hizo amiga de la familia.",
+   "nota": "Uso incorrecto (\"no soy buena onda para salir\"); nueva frase."
+  },
+  {
+   "id": 3018,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Con mi ex tenemos buena onda, pero no me gustaría que conociera a mi polola nueva.",
+   "frase_neutralizada": "Mi ex y yo nos llevamos bien, pero no me gustaría que conociera a mi nueva novia.",
+   "nota": "Frase ambigua; se aclaró quiénes se conocerían."
+  },
+  {
+   "id": 3019,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "No tengo atados con él, tenemos súper buena onda desde el colegio.",
+   "frase_neutralizada": "No tengo problemas con él, nos llevamos muy bien desde la escuela.",
+   "nota": "\"Somos buena onda\" no correspondía a def 3; se usó \"tener\"."
+  },
+  {
+   "id": 3020,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vecino de al lado es buena tela, siempre nos riega las plantas cuando salimos.",
+   "frase_neutralizada": "El vecino de al lado es muy buena persona, siempre nos riega las plantas cuando salimos.",
+   "nota": "Error gramatical en neutral (\"gusta a ese\"); se varió la situación."
+  },
+  {
+   "id": 3021,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El paco que nos paró fue buena tela, no nos pasó ni un parte.",
+   "frase_neutralizada": "El policía que nos detuvo fue amable, no nos puso ninguna multa.",
+   "nota": "Contexto de paliza absurdo; se cambió por multa."
+  },
+  {
+   "id": 3022,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi prima es muy buena tela, le prestó la bici a su pololo sin pedirle nada a cambio.",
+   "frase_neutralizada": "Mi prima es muy buena persona, le prestó la bicicleta a su novio sin pedirle nada a cambio.",
+   "nota": "Demasiado larga; neutral usaba \"simpática\" en vez de generosa."
+  },
+  {
+   "id": 3023,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El taxista fue re buena tela, me ayudó con las maletas y no me cobró extra.",
+   "frase_neutralizada": "El taxista fue muy amable, me ayudó con las maletas y no me cobró de más.",
+   "nota": "Error \"no pido nada\" y \"los equipajes\"; se corrigió."
+  },
+  {
+   "id": 3024,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi jefe es buena tela, nos deja salir temprano los viernes.",
+   "frase_neutralizada": "Mi jefe es muy buena persona, nos deja salir temprano los viernes.",
+   "nota": "Explicaba el significado y la neutral añadía información; simplificado."
+  },
+  {
+   "id": 3025,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Matías es terrible buitre, en el carrete le tiró los cortes a todas las minas.",
+   "frase_neutralizada": "Matías anda desesperado buscando mujeres; en la fiesta coqueteó con todas las chicas.",
+   "nota": "No contenía la expresión; solo explicaba la definición."
+  },
+  {
+   "id": 3026,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai tan buitre con la vecina, si ella tiene pololo.",
+   "frase_neutralizada": "No seas tan desesperado con la vecina, que ella tiene novio.",
+   "nota": "Neutral perdía el sentido; se ajustó."
+  },
+  {
+   "id": 3027,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese cabro es buitre, llega a la disco y anda detrás de cualquier mina.",
+   "frase_neutralizada": "Ese chico es un desesperado; llega a la discoteca y anda detrás de cualquier chica.",
+   "nota": "\"Hacer el avance\" calco; neutral no transmitía el sentido."
+  },
+  {
+   "id": 3028,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tomé tanto pisco anoche que me mandé un buitre en el baño del bar.",
+   "frase_neutralizada": "Bebí tanto pisco anoche que vomité en el baño del bar.",
+   "nota": "Neutral cambiaba la persona (\"me hizo vomitar\"); corregido."
+  },
+  {
+   "id": 3029,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Para el auto, que el Pedro tomó mucho y va a echar el buitre.",
+   "frase_neutralizada": "Detén el auto, que Pedro bebió mucho y va a vomitar.",
+   "nota": "Uso incoherente de buitre como intoxicación; nueva frase."
+  },
+  {
+   "id": 3030,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cabros, ¿armamos una pichanga el sábado en la cancha del barrio?",
+   "frase_neutralizada": "Amigos, ¿organizamos un partido de fútbol el sábado en la cancha del barrio?",
+   "nota": "Se añadió contexto chileno natural."
+  },
+  {
+   "id": 3031,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oigan cabros, ¿vamos al cine el viernes o no?",
+   "frase_neutralizada": "Oigan, amigos, ¿vamos al cine el viernes o no?",
+   "nota": "Usaba \"cabra\" para amigo y tiempo verbal erróneo."
+  },
+  {
+   "id": 3032,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ayer me junté con los cabros de la pega a tomarnos unas chelas.",
+   "frase_neutralizada": "Ayer me reuní con los compañeros del trabajo a tomarnos unas cervezas.",
+   "nota": "Repetía situación de otros pares; nueva situación."
+  },
+  {
+   "id": 3033,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La cabra chica de la vecina ya aprendió a andar en bici.",
+   "frase_neutralizada": "La niña pequeña de la vecina ya aprendió a andar en bicicleta.",
+   "nota": "Contexto no mostraba claramente niña; se ajustó."
+  },
+  {
+   "id": 3034,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El cabro de los vecinos se pasa jugando a la pelota en la calle.",
+   "frase_neutralizada": "El niño de los vecinos se pasa el día jugando a la pelota en la calle.",
+   "nota": "Invitar a un niño a la discoteca era incoherente."
+  },
+  {
+   "id": 3035,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa cabra se olvidó del cumpleaños de su pololo y ahora él anda sentido.",
+   "frase_neutralizada": "Esa chica se olvidó del cumpleaños de su novio y ahora él está dolido.",
+   "nota": "Frase incoherente y neutral sin relación; nueva frase."
+  },
+  {
+   "id": 3036,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa cabra se cree la científica del grupo, pero no cacha nada de química.",
+   "frase_neutralizada": "Esa chica se cree la científica del grupo, pero no sabe nada de química.",
+   "nota": "Estructura agramatical (\"la cabra que se cree\"); corregida."
+  },
+  {
+   "id": 3037,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La cabra no vino a clases en toda la semana y ahora pregunta por el trabajo.",
+   "frase_neutralizada": "La chica no vino a clases en toda la semana y ahora pregunta por el trabajo.",
+   "nota": "Frase sin verbo principal; neutral cambiaba el género."
+  },
+  {
+   "id": 3038,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ahora que entró a la U, la cabra se cree experta en todo.",
+   "frase_neutralizada": "Ahora que entró a la universidad, la muchacha se cree experta en todo.",
+   "nota": "Agramatical y neutral cambiaba a masculino."
+  },
+  {
+   "id": 3039,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No se le entiende nada a esa cabra, nunca explica bien lo que quiere.",
+   "frase_neutralizada": "No se le entiende nada a esa chica, nunca explica bien lo que quiere.",
+   "nota": "Neutral perdía la referencia a la joven; corregido."
+  }
+ ]
+}

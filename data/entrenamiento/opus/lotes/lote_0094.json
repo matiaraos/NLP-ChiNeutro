@@ -1,0 +1,340 @@
+{
+ "lote": 94,
+ "claves": [
+  "la mea vola",
+  "la mision",
+  "la palida",
+  "la pela",
+  "la pulenta",
+  "la raja",
+  "la vola",
+  "la wea"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2501332,
+ "duracion_s": 90.4,
+ "pares": [
+  {
+   "id": 3760,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Shaa, la mea vola, el Pato se tiró del segundo piso a la piscina.",
+   "frase_neutralizada": "¡Vaya, qué locura! Pato se tiró del segundo piso a la piscina.",
+   "nota": "No contenía la expresión; nueva reacción de asombro."
+  },
+  {
+   "id": 3761,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se me quemó el motor del auto en plena autopista, la mea vola.",
+   "frase_neutralizada": "Se me quemó el motor del auto en plena autopista, ¡qué locura!",
+   "nota": "Neutral cambiaba el sentido; ahora expresa asombro. Quité 'carro'."
+  },
+  {
+   "id": 3762,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Viste el golazo de media cancha que hizo el Matías? La mea vola.",
+   "frase_neutralizada": "¿Viste el golazo desde media cancha que hizo Matías? ¡Increíble!",
+   "nota": "Usaba la expresión sin sentido de asombro; neutral incoherente."
+  },
+  {
+   "id": 3763,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La mea vola, el Seba se comió diez completos él solo.",
+   "frase_neutralizada": "¡Qué locura! Sebastián se comió diez hot dogs él solo.",
+   "nota": "La expresión no reaccionaba a nada impresionante."
+  },
+  {
+   "id": 3764,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cachai que la tía Marta se ganó el Kino? La mea vola.",
+   "frase_neutralizada": "¿Sabías que la tía Marta se ganó la lotería? ¡Qué locura!",
+   "nota": "Interpretaba la expresión como 'no sé'; sentido equivocado."
+  },
+  {
+   "id": 3765,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con votos negativos, sin uso real comprobable en Chile."
+  },
+  {
+   "id": 3766,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con votos negativos, sin uso real comprobable en Chile."
+  },
+  {
+   "id": 3767,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con votos negativos, sin uso real comprobable en Chile."
+  },
+  {
+   "id": 3768,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con votos negativos, sin uso real comprobable en Chile."
+  },
+  {
+   "id": 3769,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con votos negativos, sin uso real comprobable en Chile."
+  },
+  {
+   "id": 3770,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Anoche el Juan se fue en la pálida después del pito y lo tuvimos que sentar.",
+   "frase_neutralizada": "Anoche a Juan le dio un bajón y casi se desmaya después del porro, y tuvimos que sentarlo.",
+   "nota": "Faltaba la causa por droga; neutral 'se fue desvanecido' era incorrecto."
+  },
+  {
+   "id": 3771,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le dio la pálida al Nico con el tequila y quedó blanco como papel en el baño.",
+   "frase_neutralizada": "A Nicolás le dio un bajón por el tequila, casi se desmaya y quedó blanco como el papel en el baño.",
+   "nota": "No contenía la expresión y era agramatical."
+  },
+  {
+   "id": 3772,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No fumís más, Mariana, que te vai a ir en la pálida.",
+   "frase_neutralizada": "No fumes más, Mariana, que te vas a sentir mal y te vas a desmayar.",
+   "nota": "Faltaba contexto de consumo; neutral literal sin sentido."
+  },
+  {
+   "id": 3773,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué le pasa a ese weón? Está con la pálida, tráiganle agua con azúcar.",
+   "frase_neutralizada": "¿Qué le pasa a ese tipo? Está a punto de desmayarse por lo que fumó, tráiganle agua con azúcar.",
+   "nota": "Frase incoherente y neutral sin relación con el sentido."
+  },
+  {
+   "id": 3774,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El domingo en la mañana me dio la pálida de tanto copete y me tuve que tirar en el pasto.",
+   "frase_neutralizada": "El domingo en la mañana me sentí muy mal y casi me desmayo de tanto alcohol, y me tuve que acostar en el pasto.",
+   "nota": "Agramatical y la neutral perdía el sentido de desvanecimiento."
+  },
+  {
+   "id": 3775,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Deja de tirarme las pelas, culiao, que no te he hecho nada.",
+   "frase_neutralizada": "Deja de insultarme, imbécil, que no te he hecho nada.",
+   "nota": "No contenía la expresión; nuevo par con sentido de ofender."
+  },
+  {
+   "id": 3776,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Kevin anda tirando las pelas en el grupo y después se hace el que no fue.",
+   "frase_neutralizada": "Kevin anda insultando a la gente en el grupo y después se hace el desentendido.",
+   "nota": "Usaba 'tocar la pelota', otra expresión."
+  },
+  {
+   "id": 3777,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi tata estuvo grave en el hospital, casi se lo lleva la pela.",
+   "frase_neutralizada": "Mi abuelo estuvo grave en el hospital, casi se lo lleva la muerte.",
+   "nota": "No contenía la expresión; ahora ilustra la muerte."
+  },
+  {
+   "id": 3778,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Con lo rápido que maneja ese weón, la pela lo anda persiguiendo.",
+   "frase_neutralizada": "Con lo rápido que maneja ese tipo, la muerte lo anda persiguiendo.",
+   "nota": "Usaba un sentido de def 1 con etiqueta def 2."
+  },
+  {
+   "id": 3779,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Ya estoy viejo, mijo, cualquier día me viene a buscar la pela.",
+   "frase_neutralizada": "Ya estoy viejo, hijo, cualquier día me viene a buscar la muerte.",
+   "nota": "Frase sin sentido; no ilustraba la muerte."
+  },
+  {
+   "id": 3780,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Le gané al profe en el ping-pong. —¿La pulenta? Si es seco.",
+   "frase_neutralizada": "—Le gané al profesor en el ping-pong. —¿En serio? Si es buenísimo.",
+   "nota": "Diálogo poco natural; corregí 'Enserio' a 'En serio'."
+  },
+  {
+   "id": 3781,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Supe que esa cantante hace playback en todos sus shows. —¿La pulenta?",
+   "frase_neutralizada": "—Supe que esa cantante hace playback en todos sus conciertos. —¿En serio?",
+   "nota": "Primera línea vaga; corregí ortografía de 'En serio'."
+  },
+  {
+   "id": 3782,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "—Te invito al concierto, tengo una entrada extra. —¿La pulenta? —Sí po, la pulenta.",
+   "frase_neutralizada": "—Te invito al concierto, tengo una entrada extra. —¿De verdad? —Sí, de verdad.",
+   "nota": "La pregunta no reaccionaba a una noticia; ahora pregunta y respuesta."
+  },
+  {
+   "id": 3783,
+   "accion": "reescrito",
+   "def": 6,
+   "frase_chilena": "Te voy a decir la pulenta, hueón: tu polola te está cagando.",
+   "frase_neutralizada": "Te voy a decir la verdad, amigo: tu novia te está engañando.",
+   "nota": "Reacción incoherente; ahora ilustra 'decir la verdad'."
+  },
+  {
+   "id": 3784,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Es la pulenta, weón, te llamó tu ex anoche a las tres de la mañana.",
+   "frase_neutralizada": "Es verdad, amigo, te llamó tu ex anoche a las tres de la mañana.",
+   "nota": "Usaba 'la dura' en vez de la expresión; diálogo incoherente."
+  },
+  {
+   "id": 3785,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa película estuvo la raja, la quiero ver de nuevo.",
+   "frase_neutralizada": "Esa película estuvo genial, la quiero ver de nuevo.",
+   "nota": "Frase demasiado corta; añadí contexto natural."
+  },
+  {
+   "id": 3786,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Súbete bien los pantalones, que se te ve la raja cuando te agachai.",
+   "frase_neutralizada": "Súbete bien los pantalones, que se te ve la raya del trasero cuando te agachas.",
+   "nota": "Repetía sentido; ahora cubre la acepción anatómica."
+  },
+  {
+   "id": 3787,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Lo pasé la raja en el matrimonio de mi prima, bailamos hasta las cinco.",
+   "frase_neutralizada": "Lo pasé genial en la boda de mi prima, bailamos hasta las cinco.",
+   "nota": "'Te estuvo la raja' agramatical; neutral cambiaba persona."
+  },
+  {
+   "id": 3788,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Abrieron una tienda de ropa la raja en el mall, vamos el sábado.",
+   "frase_neutralizada": "Abrieron una tienda de ropa excelente en el centro comercial, vamos el sábado.",
+   "nota": "Frase muy corta; def 4 equivale a def 1."
+  },
+  {
+   "id": 3789,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Me caí en la micro y quedé con la raja adolorida todo el día.",
+   "frase_neutralizada": "Me caí en el autobús y quedé con el trasero adolorido todo el día.",
+   "nota": "Sentido repetido; ahora ilustra trasero."
+  },
+  {
+   "id": 3790,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Cacha, hay una banda de metal tocando en la plaza a las ocho de la mañana. —La vola.",
+   "frase_neutralizada": "—Mira, hay una banda de metal tocando en la plaza a las ocho de la mañana. —¡Qué locura!",
+   "nota": "La expresión usada como pregunta explicativa; ahora es reacción."
+  },
+  {
+   "id": 3791,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¡Mira al gato abriendo la ventana con la pata! —La vola, weón.",
+   "frase_neutralizada": "—¡Mira al gato abriendo la ventana con la pata! —¡Increíble, amigo!",
+   "nota": "Hecho poco impresionante; precisé la situación."
+  },
+  {
+   "id": 3792,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El profe llegó a clases con una serpiente al cuello, la vola.",
+   "frase_neutralizada": "El profesor llegó a clases con una serpiente en el cuello, ¡qué locura!",
+   "nota": "Simplifiqué y quité explicación redundante en la neutral."
+  },
+  {
+   "id": 3793,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—Mi abuela de ochenta años se tiró en paracaídas. —¡La vola!",
+   "frase_neutralizada": "—Mi abuela de ochenta años se lanzó en paracaídas. —¡Increíble!",
+   "nota": "Contexto triste no corresponde; neutral cambiaba persona."
+  },
+  {
+   "id": 3794,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Ayer en la playa vi una ballena saltando cerca de la orilla. —La vola, ¿grabaste algo?",
+   "frase_neutralizada": "—Ayer en la playa vi una ballena saltando cerca de la orilla. —¡Increíble! ¿Grabaste algo?",
+   "nota": "No había nada impresionante; neutral omitía la expresión."
+  },
+  {
+   "id": 3795,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Dónde dejaste la wea pa' abrir las latas?",
+   "frase_neutralizada": "¿Dónde dejaste la cosa para abrir las latas?",
+   "nota": "Usaba 'wea' como insulto; neutral con 'eres usted' agramatical."
+  },
+  {
+   "id": 3796,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se me echó a perder la wea esta del control, no cambia de canal.",
+   "frase_neutralizada": "Se me descompuso esta cosa del control remoto, no cambia de canal.",
+   "nota": "No aludía a objeto sin nombre; neutral cambiaba el sentido."
+  },
+  {
+   "id": 3797,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cómo se llama la wea que se le pone al taladro pa' hacer hoyos?",
+   "frase_neutralizada": "¿Cómo se llama la cosa que se le pone al taladro para hacer agujeros?",
+   "nota": "Sentido distinto; ahora es objeto cuyo nombre se desconoce."
+  },
+  {
+   "id": 3798,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cuánto te costó la wea esa que te compraste pa' la cocina?",
+   "frase_neutralizada": "¿Cuánto te costó esa cosa que te compraste para la cocina?",
+   "nota": "Frase poco natural; neutral 'artículo' demasiado formal."
+  },
+  {
+   "id": 3799,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Encontré una wea rara enterrada en el jardín, parece de metal.",
+   "frase_neutralizada": "Encontré una cosa rara enterrada en el jardín, parece de metal.",
+   "nota": "Usaba 'una wea de' como cantidad; neutral añadía información."
+  }
+ ]
+}

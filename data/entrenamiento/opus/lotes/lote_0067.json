@@ -1,0 +1,340 @@
+{
+ "lote": 67,
+ "claves": [
+  "andar en patota",
+  "andar pato",
+  "anda pato",
+  "andar paveando",
+  "andar vio",
+  "andate a la cresta",
+  "ando mecha corta",
+  "ano de la cocoa"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2018997,
+ "duracion_s": 67.6,
+ "pares": [
+  {
+   "id": 2680,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Vamos a ir en patota al parque a hacer un asado, ¿te sumai?",
+   "frase_neutralizada": "Vamos a ir en grupo al parque a hacer una parrillada, ¿te unes?",
+   "nota": "No incluía la expresión; se agregó 'en patota' y se neutralizó 'te sumai'."
+  },
+  {
+   "id": 2681,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Las amigas siempre andamos en patota cuando salimos a carretear.",
+   "frase_neutralizada": "Las amigas siempre andamos en grupo cuando salimos de fiesta.",
+   "nota": "Faltaba la expresión; se incluyó con situación de salir de fiesta."
+  },
+  {
+   "id": 2682,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los primos llegaron en patota a la casa de la playa.",
+   "frase_neutralizada": "Los primos llegaron todos juntos a la casa de la playa.",
+   "nota": "Faltaba la expresión; se reformuló con un grupo de primos."
+  },
+  {
+   "id": 2683,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Se fueron en patota a la disco el sábado o fuiste solo?",
+   "frase_neutralizada": "¿Se fueron en grupo a la discoteca el sábado o fuiste solo?",
+   "nota": "Era agramatical y no tenía la expresión."
+  },
+  {
+   "id": 2684,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esos cabros andan siempre en patota por el barrio, nunca los veí solos.",
+   "frase_neutralizada": "Esos chicos andan siempre en grupo por el barrio, nunca los ves solos.",
+   "nota": "Faltaba la expresión; nueva situación para no repetir la discoteca."
+  },
+  {
+   "id": 2685,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te preocupí, pero no voy al cine porque ando pato.",
+   "frase_neutralizada": "No te preocupes, pero no voy al cine porque no tengo dinero.",
+   "nota": "No tenía la expresión y decía 'no me preocupes'."
+  },
+  {
+   "id": 2686,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿me podí prestar una luca? Ando pato hasta fin de mes.",
+   "frase_neutralizada": "Oye, ¿me puedes prestar mil pesos? No tengo dinero hasta fin de mes.",
+   "nota": "No tenía la expresión y la frase no tenía sentido."
+  },
+  {
+   "id": 2687,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Volví pato de las vacaciones, me gasté todo en el sur.",
+   "frase_neutralizada": "Regresé sin dinero de las vacaciones, me gasté todo en el sur.",
+   "nota": "Lo de 'llevarse la cabeza' no tenía sentido; se dejó quedar sin dinero."
+  },
+  {
+   "id": 2688,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y qué voy a hacer ahora si ando pato y el arriendo vence el lunes?",
+   "frase_neutralizada": "¿Y qué voy a hacer ahora si no tengo dinero y el alquiler vence el lunes?",
+   "nota": "Se añadió contexto y la versión neutral ahora es fiel."
+  },
+  {
+   "id": 2689,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Me quedé pato después de pagar las cuentas, pero bueno, mañana será otro día.",
+   "frase_neutralizada": "Me quedé sin dinero después de pagar las cuentas, pero bueno, mañana será otro día.",
+   "nota": "'No me preocupes' y 'aun pato' sonaban poco naturales."
+  },
+  {
+   "id": 2690,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Felipe anda pato, así que no le alcanza para el almuerzo.",
+   "frase_neutralizada": "Felipe no tiene dinero, así que no le alcanza para el almuerzo.",
+   "nota": "No tenía la expresión."
+  },
+  {
+   "id": 2691,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano anda pato y no va a poder ir al cine con nosotros.",
+   "frase_neutralizada": "Mi hermano no tiene dinero y no va a poder ir al cine con nosotros.",
+   "nota": "No tenía la expresión; hablaba de dólares."
+  },
+  {
+   "id": 2692,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No puedo ir a la disco, ando pato hasta que me paguen.",
+   "frase_neutralizada": "No puedo ir a la discoteca, no tengo dinero hasta que me paguen.",
+   "nota": "Se cambió 'estoy pato' por 'ando pato', que es la forma habitual."
+  },
+  {
+   "id": 2693,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Cami anda pato, mejor comamos en la casa en vez de salir.",
+   "frase_neutralizada": "Camila no tiene dinero, mejor comamos en casa en vez de salir.",
+   "nota": "No tenía la expresión; se mantuvo la idea de comer en casa."
+  },
+  {
+   "id": 2694,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ando pato, no sé cómo voy a pagar el arriendo este mes.",
+   "frase_neutralizada": "No tengo dinero, no sé cómo voy a pagar el alquiler este mes.",
+   "nota": "'Alquiler' se cambió por 'arriendo', que es lo que se dice en Chile."
+  },
+  {
+   "id": 2695,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No andes paveando con el celular mientras manejai, po.",
+   "frase_neutralizada": "No andes distraído con el celular mientras manejas.",
+   "nota": "Se usaba mal la expresión y la versión neutral cambiaba el sentido."
+  },
+  {
+   "id": 2696,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La abuela me retó porque andaba paveando y no la escuché.",
+   "frase_neutralizada": "Mi abuela me regañó porque andaba distraído y no la escuché.",
+   "nota": "'Hablar paveando' no se usa así."
+  },
+  {
+   "id": 2697,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Por andar paveando en la cocina se me quemaron los huevos.",
+   "frase_neutralizada": "Por andar distraído en la cocina se me quemaron los huevos.",
+   "nota": "La versión neutral era agramatical ('no distraigas')."
+  },
+  {
+   "id": 2698,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No andes paveando cuando cruzai la calle, te puede pasar algo.",
+   "frase_neutralizada": "No andes distraído cuando cruzas la calle, te puede pasar algo.",
+   "nota": "Se agregó el voseo chileno y se ajustó la versión neutral."
+  },
+  {
+   "id": 2699,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Andaba paveando en la clase y no caché nada de lo que explicó la profe.",
+   "frase_neutralizada": "Estaba distraído en la clase y no entendí nada de lo que explicó la profesora.",
+   "nota": "Se usaba mal la expresión; la frase nueva es una situación de clase."
+  },
+  {
+   "id": 2700,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con esta lluvia hay que andar vio, las calles están resbalosas.",
+   "frase_neutralizada": "Con esta lluvia hay que estar atento, las calles están resbaladizas.",
+   "nota": "No tenía la expresión."
+  },
+  {
+   "id": 2701,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando los niños jueguen cerca de la calle, tenís que andar vio.",
+   "frase_neutralizada": "Cuando los niños jueguen cerca de la calle, tienes que estar atento.",
+   "nota": "No tenía la expresión."
+  },
+  {
+   "id": 2702,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el parque de noche hay que andar vio, hay harto perro suelto.",
+   "frase_neutralizada": "En el parque de noche hay que estar atento, hay muchos perros sueltos.",
+   "nota": "No tenía la expresión."
+  },
+  {
+   "id": 2703,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anda vio en la micro, que ahí te sacan el celular al tiro.",
+   "frase_neutralizada": "Mantente atento en el autobús, que ahí te roban el teléfono enseguida.",
+   "nota": "No tenía la expresión y no tenía relación con el sentido."
+  },
+  {
+   "id": 2704,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el centro siempre ando vio con la mochila adelante.",
+   "frase_neutralizada": "En el centro siempre ando atento con la mochila adelante.",
+   "nota": "No tenía la expresión."
+  },
+  {
+   "id": 2705,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Andate a la cresta, no seai tan pesada conmigo.",
+   "frase_neutralizada": "Vete a la mierda, no seas tan pesada conmigo.",
+   "nota": "'Anda'o' no es la expresión; la versión neutral suavizaba el insulto."
+  },
+  {
+   "id": 2706,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No tenís idea de lo que estai haciendo, andate a la cresta.",
+   "frase_neutralizada": "No tienes idea de lo que estás haciendo, vete a la mierda.",
+   "nota": "Se agregó el voseo chileno para que suene más natural."
+  },
+  {
+   "id": 2707,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Me vai a venir a dar lecciones a mí? Andate a la cresta.",
+   "frase_neutralizada": "¿Me vas a venir a dar lecciones a mí? Vete a la mierda.",
+   "nota": "'Anda'o' no es la expresión."
+  },
+  {
+   "id": 2708,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Andate a la cresta, weón, me rayaste el auto y ni siquiera pediste disculpas.",
+   "frase_neutralizada": "Vete a la mierda, imbécil, me rayaste el auto y ni siquiera pediste disculpas.",
+   "nota": "Se cambió la situación para que no repita la de 2705."
+  },
+  {
+   "id": 2709,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si vai a seguir con esa actitud de creído, mejor andate a la cresta.",
+   "frase_neutralizada": "Si vas a seguir con esa actitud de creído, mejor vete a la mierda.",
+   "nota": "'Anda'o' no es la expresión y la versión neutral era demasiado suave."
+  },
+  {
+   "id": 2710,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hoy no me hablí mucho, ando mecha corta con lo de la pega.",
+   "frase_neutralizada": "Hoy no me hables mucho, ando estresado con lo del trabajo.",
+   "nota": "'Estoy andando' no era natural."
+  },
+  {
+   "id": 2711,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No lo molestí en la noche, que anda mecha corta y salta por cualquier cosa.",
+   "frase_neutralizada": "No lo molestes en la noche, que anda estresado y se enoja por cualquier cosa.",
+   "nota": "La frase original era rara; se aclaró la situación."
+  },
+  {
+   "id": 2712,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No aguanto trabajar con un jefe que anda mecha corta todo el día.",
+   "frase_neutralizada": "No soporto trabajar con un jefe que anda estresado todo el día.",
+   "nota": "Ajuste menor para que suene más natural."
+  },
+  {
+   "id": 2713,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Vale anda mecha corta por las pruebas, mejor no le preguntí nada.",
+   "frase_neutralizada": "Vale anda estresada por los exámenes, mejor no le preguntes nada.",
+   "nota": "Lo del centavo no tenía sentido con la expresión."
+  },
+  {
+   "id": 2714,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tenís que relajarte un poco, andai mecha corta todo el tiempo.",
+   "frase_neutralizada": "Tienes que relajarte un poco, andas estresado todo el tiempo.",
+   "nota": "'No andas' era agramatical."
+  },
+  {
+   "id": 2715,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese celular que tenís es del año de la cocoa, cámbialo po.",
+   "frase_neutralizada": "Ese celular que tienes es muy viejo, cámbialo.",
+   "nota": "Copiaba el ejemplo del diccionario y lo aplicaba a una mascota."
+  },
+  {
+   "id": 2716,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este libro de química es del año de la cocoa, ya no sirve pa' la prueba.",
+   "frase_neutralizada": "Este libro de química es muy antiguo, ya no sirve para el examen.",
+   "nota": "Se cambió la variante errónea 'cocos' por 'cocoa'."
+  },
+  {
+   "id": 2717,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi viejo sigue manejando un auto del año de la cocoa y no lo quiere vender.",
+   "frase_neutralizada": "Mi papá sigue manejando un auto muy viejo y no lo quiere vender.",
+   "nota": "Se cambió 'coche' por 'auto', que es lo que se dice en Chile."
+  },
+  {
+   "id": 2718,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa canción es del año de la cocoa, la escuchaba mi abuela.",
+   "frase_neutralizada": "Esa canción es muy antigua, la escuchaba mi abuela.",
+   "nota": "Lo de 'anticuaro' era incoherente y tenía un error."
+  },
+  {
+   "id": 2719,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El sillón de la casa de mis tíos es del año de la cocoa, está todo hundido.",
+   "frase_neutralizada": "El sillón de la casa de mis tíos es muy viejo, está todo hundido.",
+   "nota": "Las definiciones 1 y 2 son iguales; se agregó contexto."
+  }
+ ]
+}

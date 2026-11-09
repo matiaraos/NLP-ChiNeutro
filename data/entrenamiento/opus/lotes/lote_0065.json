@@ -1,0 +1,340 @@
+{
+ "lote": 65,
+ "claves": [
+  "amariconado",
+  "amermelado",
+  "amermelao",
+  "amurrao",
+  "anda a laar",
+  "anda a lavarte la raja",
+  "andai puro maraqueando",
+  "andai puro sapeando"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.27933820000000004,
+ "duracion_s": 103.9,
+ "pares": [
+  {
+   "id": 2600,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, súbete a la montaña rusa, no seai tan amariconado.",
+   "frase_neutralizada": "Vamos, súbete a la montaña rusa, no seas tan cobarde.",
+   "nota": "No incluía la expresión y tenía error ortográfico; frase nueva."
+  },
+  {
+   "id": 2601,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le dio miedo pedirle el número a la mina, el loco es súper amariconado.",
+   "frase_neutralizada": "Le dio miedo pedirle el número a la chica; el tipo es muy cobarde.",
+   "nota": "Faltaba la expresión; situación nueva y natural."
+  },
+  {
+   "id": 2602,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te quedaste callado frente al jefe, ¡qué amariconado erí!",
+   "frase_neutralizada": "Te quedaste callado frente al jefe. ¡Qué cobarde eres!",
+   "nota": "Se incluyó la expresión; defs 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 2603,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Mi viejo dice que el cabro se viste muy amariconado, pero a él le da lo mismo.",
+   "frase_neutralizada": "Mi papá dice que el muchacho se viste muy afeminado, pero a él no le importa.",
+   "nota": "Mezclaba cobarde con acoso; se ilustra solo el sentido de afeminado."
+  },
+  {
+   "id": 2604,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, no seai amariconado y anda a reclamar que te cobraron de más.",
+   "frase_neutralizada": "Oye, no seas cobarde y ve a reclamar que te cobraron de más.",
+   "nota": "Faltaba la expresión; se usa en una situación distinta."
+  },
+  {
+   "id": 2605,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La amermelada de mi prima dejó las llaves puestas en el auto y le robaron la radio.",
+   "frase_neutralizada": "La tonta de mi prima dejó las llaves puestas en el auto y le robaron la radio.",
+   "nota": "Neutral tenía error de concordancia y era casi copia del ejemplo."
+  },
+  {
+   "id": 2606,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El amermelado del Felipe dejó a los cabros chicos solos en la plaza.",
+   "frase_neutralizada": "El tonto de Felipe dejó a los niños solos en la plaza.",
+   "nota": "Neutral cambiaba el número; frase más natural."
+  },
+  {
+   "id": 2607,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa amermelada se pasó el semáforo en rojo y casi nos chocan.",
+   "frase_neutralizada": "Esa tonta se pasó el semáforo en rojo y casi nos chocan.",
+   "nota": "Frase poco natural; se concretó la situación."
+  },
+  {
+   "id": 2608,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai amermelado, po, la prueba era hoy y no estudiaste nada.",
+   "frase_neutralizada": "No seas tonto, el examen era hoy y no estudiaste nada.",
+   "nota": "Comparación con pavo real absurda; defs 1 y 2 son iguales."
+  },
+  {
+   "id": 2609,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El amermelado se creía súper vivo y terminó pagando la cuenta de todos.",
+   "frase_neutralizada": "El tonto se creía muy listo y terminó pagando la cuenta de todos.",
+   "nota": "Redundancia y error 'ingenio'; frase reescrita con la misma idea."
+  },
+  {
+   "id": 2610,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erí más amermelao, no cachai ni cómo mandar un audio por WhatsApp.",
+   "frase_neutralizada": "Qué tonto eres, no sabes ni cómo enviar un audio por WhatsApp.",
+   "nota": "No contenía la expresión; se añadió."
+  },
+  {
+   "id": 2611,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, parecí amermelao, llevai media hora buscando los anteojos y los tenís puestos.",
+   "frase_neutralizada": "Oye, pareces tonto, llevas media hora buscando los anteojos y los tienes puestos.",
+   "nota": "Error ortográfico y frase incompleta; se completó."
+  },
+  {
+   "id": 2612,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El amermelao del Kevin reventó el globo antes de que llegara la cumpleañera.",
+   "frase_neutralizada": "El tonto de Kevin reventó el globo antes de que llegara la cumpleañera.",
+   "nota": "No contenía la expresión y la neutral cambiaba globo por pelota."
+  },
+  {
+   "id": 2613,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, amermelao, sal de la cancha que estai puro estorbando.",
+   "frase_neutralizada": "Ya, tonto, sal de la cancha que solo estás estorbando.",
+   "nota": "La neutral cambiaba el significado; frase incoherente."
+  },
+  {
+   "id": 2614,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué cruzaste la calle sin mirar, amermelao? Casi te atropellan.",
+   "frase_neutralizada": "¿Por qué cruzaste la calle sin mirar, imbécil? Casi te atropellan.",
+   "nota": "La neutral omitía el insulto; frase poco clara."
+  },
+  {
+   "id": 2615,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La abuela anda amurrá porque nadie probó el pie de manzana que hizo.",
+   "frase_neutralizada": "La abuela está de mal humor porque nadie probó el pastel de manzana que hizo.",
+   "nota": "Concordancia de género errónea y relación ilógica con el pastel."
+  },
+  {
+   "id": 2616,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tenís amurrao con tus llamadas a las tres de la mañana, déjame dormir po.",
+   "frase_neutralizada": "Me tienes cansado y molesto con tus llamadas a las tres de la mañana, déjame dormir.",
+   "nota": "'Eres amurrao' agramatical; se reorganizó la frase."
+  },
+  {
+   "id": 2617,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Después de cuatro horas de fila para el concierto, todos estábamos amurraos.",
+   "frase_neutralizada": "Después de cuatro horas de fila para el concierto, todos estábamos cansados y de mal humor.",
+   "nota": "Aplicaba el adjetivo a un concierto; sin sentido."
+  },
+  {
+   "id": 2618,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No quiero ir al partido, estoy amurrao con toda la tarea que me dieron.",
+   "frase_neutralizada": "No quiero ir al partido, estoy cansado y molesto por toda la tarea que me dieron.",
+   "nota": "La neutral omitía el enojo; se ajustó."
+  },
+  {
+   "id": 2619,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué te pasa que estai tan amurrao? Si recién llegamos a la playa.",
+   "frase_neutralizada": "¿Qué te pasa que estás tan cansado y de mal humor? Si acabamos de llegar a la playa.",
+   "nota": "Frase muy breve; se añadió contexto."
+  },
+  {
+   "id": 2620,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, me tenís chato con tus tallas fomes, anda a laar.",
+   "frase_neutralizada": "Ya, me tienes harto con tus bromas aburridas, lárgate.",
+   "nota": "Interpretaba literalmente 'lavar'; ahora es para echar a alguien."
+  },
+  {
+   "id": 2621,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anda a laar de mi pieza, que tengo que estudiar pa' la prueba.",
+   "frase_neutralizada": "Lárgate de mi cuarto, que tengo que estudiar para el examen.",
+   "nota": "Sentido literal erróneo; se usa para echar de un lugar."
+  },
+  {
+   "id": 2622,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "—Oye, lava la loza. —Anda a laar, hoy te toca a ti.",
+   "frase_neutralizada": "—Oye, lava los platos. —Ni hablar, hoy te toca a ti.",
+   "nota": "Explicaba el significado dentro de la frase; situación nueva."
+  },
+  {
+   "id": 2623,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Dile a mi mamá lo que querai, anda a laar, igual voy a ir a la fiesta.",
+   "frase_neutralizada": "Dile a mi mamá lo que quieras, me da igual, de todas formas voy a ir a la fiesta.",
+   "nota": "Frase incoherente; ahora ilustra 'no me importa'."
+  },
+  {
+   "id": 2624,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Después de todo lo que me hiciste, ¿querís volver? Anda a laar, weón.",
+   "frase_neutralizada": "Después de todo lo que me hiciste, ¿quieres volver? Vete a la mierda, idiota.",
+   "nota": "La neutral suavizaba el insulto; se mantuvo el registro grosero."
+  },
+  {
+   "id": 2625,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llevai toda la tarde hinchándome con tus preguntas, anda a lavarte la raja.",
+   "frase_neutralizada": "Llevas toda la tarde molestándome con tus preguntas, vete a joder a otro lado.",
+   "nota": "Frase incoherente y neutral literal 'vete a lavarte'."
+  },
+  {
+   "id": 2626,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¿Que te preste el celular pa' llamar a tu polola? Anda a lavarte la raja.",
+   "frase_neutralizada": "¿Que te preste el teléfono para llamar a tu novia? Ni lo sueñes.",
+   "nota": "Neutral literal; ahora expresa negativa rotunda."
+  },
+  {
+   "id": 2627,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "¿Querís que te venda el auto a mitad de precio? Anda a lavarte la raja, patudo.",
+   "frase_neutralizada": "¿Quieres que te venda el auto a mitad de precio? Vete a la mierda, sinvergüenza.",
+   "nota": "Frase contradictoria; ahora reacciona ante una petición desvergonzada."
+  },
+  {
+   "id": 2628,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Que me pierda la final de la serie pa' acompañarte al mall? Anda a lavarte la raja.",
+   "frase_neutralizada": "¿Que me pierda el final de la serie para acompañarte al centro comercial? Ni lo sueñes.",
+   "nota": "La neutral traducía literalmente la expresión."
+  },
+  {
+   "id": 2629,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Más encima el jefe me pidió quedarme el domingo gratis; le dije que fuera a lavarse la raja.",
+   "frase_neutralizada": "Además, el jefe me pidió quedarme el domingo sin paga; le dije que se fuera a la mierda.",
+   "nota": "Repetía el par anterior; nueva situación con estilo indirecto."
+  },
+  {
+   "id": 2630,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, Claudia, andai puro maraqueando, ya te vi con el Juan y ahora con su primo.",
+   "frase_neutralizada": "Oye, Claudia, solo andas de puta, ya te vi con Juan y ahora con su primo.",
+   "nota": "La neutral era agramatical y perdía el sentido."
+  },
+  {
+   "id": 2631,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi pololo me dijo que andaba puro maraqueando solo porque bailé con un amigo.",
+   "frase_neutralizada": "Mi novio me dijo que no hacía más que andar de puta solo porque bailé con un amigo.",
+   "nota": "Uso incoherente dirigido a sí mismo; situación nueva."
+  },
+  {
+   "id": 2632,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la oficina andan diciendo que la nueva anda puro maraqueando con los gerentes.",
+   "frase_neutralizada": "En la oficina andan diciendo que la nueva solo anda de puta con los gerentes.",
+   "nota": "Frase poco natural; se ajustó contexto y registro."
+  },
+  {
+   "id": 2633,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá cree que ando puro maraqueando, pero yo salgo con mis amigas no más.",
+   "frase_neutralizada": "Mi mamá cree que solo ando de puta, pero yo solo salgo con mis amigas.",
+   "nota": "No contenía la expresión y la neutral no coincidía."
+  },
+  {
+   "id": 2634,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No, Marcos, yo no ando puro maraqueando, quiero algo serio contigo.",
+   "frase_neutralizada": "No, Marcos, yo no ando de puta, quiero algo serio contigo.",
+   "nota": "Se mantuvo el registro grosero y se hizo más natural."
+  },
+  {
+   "id": 2635,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La vecina anda puro sapeando por la ventana pa' ver quién llega a la casa.",
+   "frase_neutralizada": "La vecina se la pasa fisgoneando por la ventana para ver quién llega a la casa.",
+   "nota": "Confundía sapear con hablar mucho de algo propio."
+  },
+  {
+   "id": 2636,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué andai puro sapeando mi celular? Métete en tus cosas po.",
+   "frase_neutralizada": "¿Por qué andas husmeando en mi teléfono? Ocúpate de tus asuntos.",
+   "nota": "Sentido de presumir éxitos era erróneo; ahora es fisgonear."
+  },
+  {
+   "id": 2637,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu tía anda puro sapeando lo que compraste y después le cuenta a todo el mundo.",
+   "frase_neutralizada": "Tu tía anda metiéndose en lo que compraste y después se lo cuenta a todo el mundo.",
+   "nota": "Recuerdos propios no es sapear; ahora es entrometerse y contar."
+  },
+  {
+   "id": 2638,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Pancho nos sapeó con la profe y nos dejaron a todos castigados.",
+   "frase_neutralizada": "Pancho nos delató con la profesora y nos castigaron a todos.",
+   "nota": "Usaba sapear como 'contar una historia'; ahora es delatar."
+  },
+  {
+   "id": 2639,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Alguien nos sapeó con el guardia, cachó altiro que estábamos fumando en el baño.",
+   "frase_neutralizada": "Alguien nos acusó con el guardia, se enteró enseguida de que estábamos fumando en el baño.",
+   "nota": "Sentido erróneo de narrar; ahora es delatar."
+  }
+ ]
+}

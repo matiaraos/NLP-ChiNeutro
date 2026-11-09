@@ -1,0 +1,340 @@
+{
+ "lote": 88,
+ "claves": [
+  "guatona",
+  "guitrear",
+  "hacer cagar",
+  "hacer cambio de luces",
+  "hacer del dos",
+  "hacer del 2",
+  "hacer el delicioso",
+  "hacer el sin respeto"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23857009999999998,
+ "duracion_s": 83.7,
+ "pares": [
+  {
+   "id": 3520,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no comai más pan, que después andai reclamando que estai guatona.",
+   "frase_neutralizada": "Oye, no comas más pan, que después andas quejándote de que estás gorda.",
+   "nota": "Muy cercano al ejemplo; se cambió la situación y se agregó voseo chileno."
+  },
+  {
+   "id": 3521,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi prima era guatona de chica, pero ahora corre maratones.",
+   "frase_neutralizada": "Mi prima era gorda de niña, pero ahora corre maratones.",
+   "nota": "El original no tenía sentido y la versión neutral omitía la expresión."
+  },
+  {
+   "id": 3522,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Al Pancho le gustan las minas guatonas, dice que las flacas no le atraen na'.",
+   "frase_neutralizada": "A Pancho le gustan las mujeres gordas, dice que las delgadas no le atraen nada.",
+   "nota": "Neutral eufemística con «pesada»; se simplificó y se usó «gordas»."
+  },
+  {
+   "id": 3523,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me compré un vestido apretado y me veo re guatona, cachai.",
+   "frase_neutralizada": "Me compré un vestido ajustado y me veo muy gorda, ¿sabes?",
+   "nota": "«Hacerse guatona» era incoherente; se escribió una frase nueva."
+  },
+  {
+   "id": 3524,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después de las vacaciones quedé guatona y el vestido de la graduación ya no me cierra.",
+   "frase_neutralizada": "Después de las vacaciones engordé y el vestido de la graduación ya no me cierra.",
+   "nota": "«La guatona que te has hecho» era agramatical; se corrigió el uso."
+  },
+  {
+   "id": 3525,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tomé como cinco piscolas y terminé güitreando en el baño del carrete.",
+   "frase_neutralizada": "Me tomé como cinco tragos de pisco con cola y terminé vomitando en el baño de la fiesta.",
+   "nota": "«Güitrear de sobra» no tenía sentido."
+  },
+  {
+   "id": 3526,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No me contís esas cosas asquerosas mientras como, que me dan ganas de güitrear.",
+   "frase_neutralizada": "No me cuentes esas cosas asquerosas mientras como, que me dan ganas de vomitar.",
+   "nota": "«Te voy a güitrear» era un uso transitivo incorrecto."
+  },
+  {
+   "id": 3527,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico güitreó en la micro y todos los pasajeros se cambiaron de asiento.",
+   "frase_neutralizada": "El niño vomitó en el autobús y todos los pasajeros se cambiaron de asiento.",
+   "nota": "El original no tenía sentido («desagradecimiento»)."
+  },
+  {
+   "id": 3528,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los completos que me comí me cayeron pésimo, siento que voy a güitrear.",
+   "frase_neutralizada": "Los perritos calientes que me comí me cayeron muy mal, siento que voy a vomitar.",
+   "nota": "«Me voy a güitrear» era pronominal; se corrigió y se precisó."
+  },
+  {
+   "id": 3529,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Para el auto, que voy a güitrear y no alcanzo a bajar la ventana!",
+   "frase_neutralizada": "¡Detén el auto, que voy a vomitar y no alcanzo a bajar la ventana!",
+   "nota": "«Me vomito» era agramatical y «coche» no es chileno."
+  },
+  {
+   "id": 3530,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La noticia de que me echaban de la pega me hizo cagar.",
+   "frase_neutralizada": "La noticia de que me despedían del trabajo me destrozó.",
+   "nota": "«Hacer cagar el corazón» no es natural; se simplificó."
+  },
+  {
+   "id": 3531,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El profe de educación física nos hizo cagar con las vueltas a la cancha.",
+   "frase_neutralizada": "El profesor de educación física nos dejó agotados con las vueltas a la cancha.",
+   "nota": "La neutral era incomprensible; se cubre el sentido de agotar."
+  },
+  {
+   "id": 3532,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me hice cagar la rodilla jugando a la pelota y ahora no puedo ni caminar.",
+   "frase_neutralizada": "Me lastimé gravemente la rodilla jugando al fútbol y ahora no puedo ni caminar.",
+   "nota": "Copiaba el ejemplo; ahora muestra el daño físico."
+  },
+  {
+   "id": 3533,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Si te vuelvo a ver molestando a mi hermano, te hago cagar.",
+   "frase_neutralizada": "Si te vuelvo a ver molestando a mi hermano, te doy una paliza.",
+   "nota": "«Hacer cagar el pelo» no existe; se usó el sentido de golpear."
+  },
+  {
+   "id": 3534,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe nos hizo cagar con la prueba, la mitad del curso se echó el ramo.",
+   "frase_neutralizada": "El profesor nos perjudicó muchísimo con el examen, la mitad del curso reprobó la materia.",
+   "nota": "«Hacer cagar los nervios» no es natural; nueva situación de perjuicio."
+  },
+  {
+   "id": 3535,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La mina de la barra me está haciendo cambio de luces hace rato, ¿voy a hablarle?",
+   "frase_neutralizada": "La chica de la barra me está coqueteando desde hace rato, ¿voy a hablarle?",
+   "nota": "«Te hiciste cambio de luces» era reflexivo e incoherente."
+  },
+  {
+   "id": 3536,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Yo creo que el Matías te hace cambio de luces, siempre te busca en los recreos.",
+   "frase_neutralizada": "Yo creo que Matías te coquetea, siempre te busca en los recreos.",
+   "nota": "«Esa cara te hizo» no tenía sentido."
+  },
+  {
+   "id": 3537,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le hice cambio de luces toda la noche y ni me pescó.",
+   "frase_neutralizada": "Le coqueteé toda la noche y ni me hizo caso.",
+   "nota": "Era poco natural; se cambió la situación y se simplificó la neutral."
+  },
+  {
+   "id": 3538,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Los autos que venían en contra nos hicieron cambio de luces, así que bajé la velocidad por si había pacos.",
+   "frase_neutralizada": "Los autos que venían en sentido contrario nos hicieron señas con las luces, así que bajé la velocidad por si había policías.",
+   "nota": "Confundía la expresión con semáforos; ahora es aviso de policía."
+  },
+  {
+   "id": 3539,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi jefa me hace cambio de luces en todas las reuniones y yo no sé qué hacer.",
+   "frase_neutralizada": "Mi jefa me coquetea en todas las reuniones y yo no sé qué hacer.",
+   "nota": "Def 2 era incorrecta con semáforos; se pasó a coqueteo."
+  },
+  {
+   "id": 3540,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Espérenme un poco, tengo que hacer del dos antes de salir.",
+   "frase_neutralizada": "Espérenme un poco, tengo que hacer popó antes de salir.",
+   "nota": "«Ir al baño» perdía información; se precisó."
+  },
+  {
+   "id": 3541,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegué tarde a la fiesta porque tenía que hacer del dos y el baño estaba ocupado.",
+   "frase_neutralizada": "Llegué tarde a la fiesta porque tenía que hacer popó y el baño estaba ocupado.",
+   "nota": "Faltarse a una fiesta por eso era ilógico."
+  },
+  {
+   "id": 3542,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Vamos a la playa, pero primero paso al baño porque tengo que hacer del dos.",
+   "frase_neutralizada": "Vamos a la playa, pero primero paso al baño porque tengo que hacer popó.",
+   "nota": "Se quitó «vosotros» y se corrigió la lógica."
+  },
+  {
+   "id": 3543,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico dice que tiene que hacer del dos justo cuando vamos en la carretera.",
+   "frase_neutralizada": "El niño dice que tiene que hacer popó justo cuando vamos por la carretera.",
+   "nota": "«Me ahorco» no tenía sentido."
+  },
+  {
+   "id": 3544,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me salí un rato de la reunión porque tenía que hacer del dos, no aguantaba más.",
+   "frase_neutralizada": "Salí un rato de la reunión porque tenía que hacer popó, no aguantaba más.",
+   "nota": "Era ilógico; se corrigieron la lógica y la neutral."
+  },
+  {
+   "id": 3545,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la pega me da vergüenza hacer del 2, siempre espero a llegar a la casa.",
+   "frase_neutralizada": "En el trabajo me da vergüenza hacer popó, siempre espero a llegar a casa.",
+   "nota": "La neutral perdía el significado; se agregó contexto chileno."
+  },
+  {
+   "id": 3546,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Me prestai el baño? Necesito hacer del 2 urgente.",
+   "frase_neutralizada": "¿Me prestas el baño? Necesito hacer popó urgentemente.",
+   "nota": "«Me voy a hacer del 2» era incorrecto y la neutral redundante."
+  },
+  {
+   "id": 3547,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El perro hizo del 2 en la alfombra y mi mamá quedó furiosa.",
+   "frase_neutralizada": "El perro hizo popó en la alfombra y mi mamá se puso furiosa.",
+   "nota": "Era repetitivo; se escribió una situación nueva."
+  },
+  {
+   "id": 3548,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llevo tres días sin hacer del 2, voy a tener que comer más fibra.",
+   "frase_neutralizada": "Llevo tres días sin hacer popó, voy a tener que comer más fibra.",
+   "nota": "La neutral traducía como «comer»: significado incorrecto."
+  },
+  {
+   "id": 3549,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estaba haciendo del 2 cuando se cortó el agua, imagínate el cacho.",
+   "frase_neutralizada": "Estaba haciendo popó cuando se cortó el agua, imagínate el problema.",
+   "nota": "La neutral traducía como «pensarlo»: significado incorrecto."
+  },
+  {
+   "id": 3550,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mis papás se fueron el fin de semana, así que con mi polola vamos a aprovechar de hacer el delicioso.",
+   "frase_neutralizada": "Mis padres se fueron el fin de semana, así que con mi novia vamos a aprovechar para tener sexo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3551,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los de la pieza del lado estuvieron haciendo el delicioso toda la noche y no pude dormir.",
+   "frase_neutralizada": "Los de la habitación de al lado estuvieron teniendo sexo toda la noche y no pude dormir.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3552,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y ustedes ya hicieron el delicioso o todavía nada?",
+   "frase_neutralizada": "¿Y ustedes ya tuvieron sexo o todavía nada?",
+   "nota": "Las def 1 y 2 son un mismo sentido; la neutral era demasiado formal."
+  },
+  {
+   "id": 3553,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la teleserie de anoche los protagonistas por fin hicieron el delicioso.",
+   "frase_neutralizada": "En la telenovela de anoche los protagonistas por fin tuvieron sexo.",
+   "nota": "Copiaba el ejemplo de los vecinos; nueva situación."
+  },
+  {
+   "id": 3554,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi amiga me contó que hicieron el delicioso en el auto, ¡qué atrevida!",
+   "frase_neutralizada": "Mi amiga me contó que tuvieron sexo en el auto, ¡qué atrevida!",
+   "nota": "Era forzado y poco natural; frase nueva."
+  },
+  {
+   "id": 3555,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegamos del carrete con ganas y terminamos haciendo el sin respeto hasta las cinco.",
+   "frase_neutralizada": "Llegamos de la fiesta con ganas y terminamos teniendo sexo desenfrenado hasta las cinco.",
+   "nota": "Era poco natural; se dio contexto chileno y se usó un registro informal."
+  },
+  {
+   "id": 3556,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si hacís el sin respeto con ella sin condón, después no vengai a llorar.",
+   "frase_neutralizada": "Si tienes sexo desenfrenado con ella sin condón, después no vengas a llorar.",
+   "nota": "Era redundante y poco natural; se simplificó con voseo chileno."
+  },
+  {
+   "id": 3557,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi pololo me mandó un mensaje preguntando si hoy íbamos a hacer el sin respeto.",
+   "frase_neutralizada": "Mi novio me mandó un mensaje preguntando si hoy íbamos a tener sexo desenfrenado.",
+   "nota": "Neutral demasiado formal; se agregó «pololo»."
+  },
+  {
+   "id": 3558,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pillaron a una pareja haciendo el sin respeto en el parque y salió en las noticias.",
+   "frase_neutralizada": "Sorprendieron a una pareja teniendo sexo desenfrenado en el parque y salió en las noticias.",
+   "nota": "Era genérico; se concretó la situación."
+  },
+  {
+   "id": 3559,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Arrendamos una cabaña en Pucón pa' hacer el sin respeto sin que nadie nos moleste.",
+   "frase_neutralizada": "Alquilamos una cabaña en Pucón para tener sexo desenfrenado sin que nadie nos moleste.",
+   "nota": "Era una pregunta metalingüística que explicaba la expresión."
+  }
+ ]
+}

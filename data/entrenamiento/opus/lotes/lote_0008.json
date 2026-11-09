@@ -1,0 +1,340 @@
+{
+ "lote": 8,
+ "claves": [
+  "con pica",
+  "conchetumare",
+  "conchatumadre",
+  "conchatumare",
+  "ctm",
+  "ctmre",
+  "condoro",
+  "copete"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23169650000000003,
+ "duracion_s": 83.3,
+ "pares": [
+  {
+   "id": 320,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Cami jugó con pica contra su ex equipo, se notaba que quería ganarles sí o sí.",
+   "frase_neutralizada": "Camilo jugó con ganas de revancha contra su antiguo equipo; se notaba que quería ganarles a toda costa.",
+   "nota": "Redundante 'enfureció con pica' y neutral con error 'enarboró'; contexto de revancha."
+  },
+  {
+   "id": 321,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Javi me miró con pica cuando le conté que no la había invitado al cumpleaños.",
+   "frase_neutralizada": "Javiera me miró con rabia cuando le conté que no la había invitado al cumpleaños.",
+   "nota": "Frase original forzada y agramatical; se simplificó la situación."
+  },
+  {
+   "id": 322,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hoy el sol está pegando con pica, ponte bloqueador po.",
+   "frase_neutralizada": "Hoy el sol está pegando muy fuerte; ponte protector solar.",
+   "nota": "Uso poco natural; nuevo par con el sentido de intensidad."
+  },
+  {
+   "id": 323,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El abogado metió la demanda con pica, quería que la empresa pagara por lo que le hicieron.",
+   "frase_neutralizada": "El abogado presentó la demanda con afán de venganza; quería que la empresa pagara por lo que le hicieron.",
+   "nota": "Registro poco natural; se aclaró el afán de venganza."
+  },
+  {
+   "id": 324,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros salieron a marchar con pica después de lo que le pasó al compañero.",
+   "frase_neutralizada": "Los jóvenes salieron a marchar con mucha rabia después de lo que le pasó al compañero.",
+   "nota": "Se dio un tono más coloquial y un motivo para la rabia."
+  },
+  {
+   "id": 325,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Conchetumare, me pegué en el dedo chico con la pata de la mesa!",
+   "frase_neutralizada": "¡Mierda, me golpeé el dedo meñique del pie con la pata de la mesa!",
+   "nota": "La frase original no tenía sentido y en la neutral ponía 'Ofensa'."
+  },
+  {
+   "id": 326,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Devuélveme el celular, ladrón conchetumare!",
+   "frase_neutralizada": "¡Devuélveme el celular, ladrón hijo de puta!",
+   "nota": "Se usaba como verbo; ahora es un insulto real."
+  },
+  {
+   "id": 327,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¡Conchetumare, quedé en la universidad que quería!",
+   "frase_neutralizada": "¡Carajo, me aceptaron en la universidad que quería!",
+   "nota": "Uso incorrecto; ahora es una exclamación de alegría."
+  },
+  {
+   "id": 328,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¡Conchetumare, qué rica te quedó la cazuela, compadre!",
+   "frase_neutralizada": "¡Carajo, qué rica te quedó la cazuela, amigo!",
+   "nota": "La neutral perdía el registro grosero; se mantuvo la exclamación."
+  },
+  {
+   "id": 329,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Si te pillan rayando la micro, te van a sacar la conchetumare.",
+   "frase_neutralizada": "Si te descubren rayando el autobús, te van a dar una puta paliza.",
+   "nota": "La frase era incoherente; ahora se usa en el sentido de golpear."
+  },
+  {
+   "id": 330,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese conchatumadre me chocó el auto y se arrancó sin dejar ni un número.",
+   "frase_neutralizada": "Ese hijo de puta me chocó el auto y se escapó sin dejar ni un número.",
+   "nota": "'Meterse en un guapo' no tenía sentido y la neutral suavizaba el insulto."
+  },
+  {
+   "id": 331,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Ándate a la conchatumadre, no te quiero ver nunca más!",
+   "frase_neutralizada": "¡Vete a la mierda, no te quiero ver nunca más!",
+   "nota": "Frase incoherente; ahora usa la fórmula real 'andate a la…'."
+  },
+  {
+   "id": 332,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese conchatumadre que habla en la tele no tiene idea de lo que dice.",
+   "frase_neutralizada": "Ese hijo de puta que habla en la tele no tiene idea de lo que dice.",
+   "nota": "La neutral eliminaba el insulto; se mantuvo el registro grosero."
+  },
+  {
+   "id": 333,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi jefe conchatumadre me descontó el día por llegar cinco minutos tarde.",
+   "frase_neutralizada": "El hijo de puta de mi jefe me descontó el día por llegar cinco minutos tarde.",
+   "nota": "Frase incomprensible con otra variante; nuevo insulto con odio."
+  },
+  {
+   "id": 334,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te metái con ese conchatumadre, que es capaz de cualquier cosa.",
+   "frase_neutralizada": "No te metas con ese hijo de puta, que es capaz de cualquier cosa.",
+   "nota": "La neutral suavizaba el insulto; se ajustó el género y el voseo."
+  },
+  {
+   "id": 335,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Por la conchatumare, se me quedaron las llaves adentro de la casa!",
+   "frase_neutralizada": "¡Maldita sea, se me quedaron las llaves dentro de la casa!",
+   "nota": "'Qué idiota vas a ser' no tenía sentido; ahora hay una situación de enojo."
+  },
+  {
+   "id": 336,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Conchatumare, otra vez se cayó internet justo en la reunión!",
+   "frase_neutralizada": "¡Carajo, otra vez se cayó internet justo en la reunión!",
+   "nota": "Tiempo verbal incoherente y signos mal puestos en la neutral."
+  },
+  {
+   "id": 337,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Conchatumare, el weón del lado me rayó el auto y ni siquiera pidió disculpas.",
+   "frase_neutralizada": "Mierda, el imbécil de al lado me rayó el auto y ni siquiera pidió disculpas.",
+   "nota": "Se usaba como verbo y la frase era incomprensible."
+  },
+  {
+   "id": 338,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Conchatumare, ¿por qué me dejaste botado en la fiesta?",
+   "frase_neutralizada": "Mierda, ¿por qué me dejaste tirado en la fiesta?",
+   "nota": "Signos mal puestos y 'por Dios' demasiado suave; se dio contexto."
+  },
+  {
+   "id": 339,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Conchatumare, no te metái en mis cosas!",
+   "frase_neutralizada": "¡Carajo, no te metas en mis cosas!",
+   "nota": "'Metas en mi negocio' era incoherente; se corrigieron los signos."
+  },
+  {
+   "id": 340,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Oh ctm, ¿qué hora es? Me quedé dormido de nuevo.",
+   "frase_neutralizada": "Mierda, ¿qué hora es? Me quedé dormido otra vez.",
+   "nota": "La neutral cambiaba el significado; ahora es una interjección."
+  },
+  {
+   "id": 341,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese ctm del árbitro no cobró el penal, no sabe nada de fútbol.",
+   "frase_neutralizada": "El hijo de puta del árbitro no cobró el penal; no sabe nada de fútbol.",
+   "nota": "La neutral cambiaba a plural y quitaba el insulto."
+  },
+  {
+   "id": 342,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¡Ándate a la ctm, no te voy a prestar más plata!",
+   "frase_neutralizada": "¡Vete a la mierda, no te voy a prestar más dinero!",
+   "nota": "Frase incoherente; ahora usa el sentido prepotente."
+  },
+  {
+   "id": 343,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Ctm, se me quedó el cargador en la pega.",
+   "frase_neutralizada": "Mierda, se me quedó el cargador en el trabajo.",
+   "nota": "La neutral era absurda ('vete a esas personas'); nuevo uso como interjección."
+  },
+  {
+   "id": 344,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este ctm me está llamando desde la mañana para cobrarme.",
+   "frase_neutralizada": "Este hijo de puta me está llamando desde la mañana para cobrarme.",
+   "nota": "La neutral quitaba el desprecio; se mantuvo el insulto."
+  },
+  {
+   "id": 345,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ctmre, qué helada está la noche, debí traer chaqueta.",
+   "frase_neutralizada": "Mierda, qué fría está la noche, debí traer chaqueta.",
+   "nota": "'Qué hela es' era agramatical y la neutral omitía la interjección."
+  },
+  {
+   "id": 346,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Ándate a la ctmre, no me vengái a webiar más!",
+   "frase_neutralizada": "¡Vete a la mierda, no me vengas a molestar más!",
+   "nota": "No se usa como intensificador de adjetivo; ahora es un uso de pelea."
+  },
+  {
+   "id": 347,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El ctmre de tu hermano se comió toda la torta y no dejó nada.",
+   "frase_neutralizada": "El hijo de puta de tu hermano se comió todo el pastel y no dejó nada.",
+   "nota": "Posición antinatural y la neutral eliminaba el insulto."
+  },
+  {
+   "id": 348,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ctmre, perdí la micro por dos segundos.",
+   "frase_neutralizada": "Mierda, perdí el autobús por dos segundos.",
+   "nota": "Se insertaba la expresión dentro del verbo, de forma agramatical."
+  },
+  {
+   "id": 349,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ctmre, qué situación más fea, no sé cómo vamos a salir de esta.",
+   "frase_neutralizada": "Mierda, qué situación tan fea, no sé cómo vamos a salir de esta.",
+   "nota": "Se usaba como adjetivo; ahora es una interjección."
+  },
+  {
+   "id": 350,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me mandé un condoro en el proyecto, subí el código con un error y se cayó todo el sistema.",
+   "frase_neutralizada": "Cometí un error grave en el proyecto: subí el código con una falla y se cayó todo el sistema.",
+   "nota": "Se usa la colocación natural 'mandarse un condoro'."
+  },
+  {
+   "id": 351,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer me mandé tremendo condoro: puse mal la clave tres veces y me bloquearon la cuenta.",
+   "frase_neutralizada": "Ayer cometí un error tremendo: puse mal la contraseña tres veces y me bloquearon la cuenta.",
+   "nota": "'Cometí un condoro' no es natural; se cambió por 'me mandé'."
+  },
+  {
+   "id": 352,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Lo de los informes fue un condoro, ahora no cachamos cómo arreglarlo.",
+   "frase_neutralizada": "Lo de los informes fue un desastre; ahora no sabemos cómo arreglarlo.",
+   "nota": "Era una frase rígida; se hizo coloquial con el sentido de desastre."
+  },
+  {
+   "id": 353,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me mandé un condoro con el auto de mi abuelo y le raspé el parachoques, no le digái nada.",
+   "frase_neutralizada": "Metí la pata con el auto de mi abuelo y le raspé el parachoques; no le digas nada.",
+   "nota": "Uso verbal impersonal incorrecto; se añadió la intención de ocultar."
+  },
+  {
+   "id": 354,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Me mandé un condoro con el florero de mi mamá, lo pegué con la gotita y ni cachó.",
+   "frase_neutralizada": "Metí la pata con el florero de mi mamá; lo pegué con pegamento instantáneo y ni se dio cuenta.",
+   "nota": "La frase copiaba el ejemplo del diccionario; nueva situación de error ocultado."
+  },
+  {
+   "id": 355,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo ganas de tomarme un copete después de esta semana tan pesada.",
+   "frase_neutralizada": "Tengo ganas de tomarme un trago después de esta semana tan pesada.",
+   "nota": "Usaba el verbo 'copetear' en lugar del sustantivo 'copete'."
+  },
+  {
+   "id": 356,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Vamos a comprar copete a la botillería antes del carrete?",
+   "frase_neutralizada": "¿Vamos a comprar alcohol a la licorería antes de la fiesta?",
+   "nota": "'Copetería' no existe; nuevo par con el sustantivo."
+  },
+  {
+   "id": 357,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No tengo ni uno pa' comprar copete este finde.",
+   "frase_neutralizada": "No tengo dinero para comprar alcohol este fin de semana.",
+   "nota": "'Bebidas' es ambiguo; copete significa alcohol."
+  },
+  {
+   "id": 358,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pásame un copete heladito, que hace un calor terrible.",
+   "frase_neutralizada": "Pásame un trago bien frío, que hace un calor terrible.",
+   "nota": "'Copeta' no existe y la concordancia era incorrecta."
+  },
+  {
+   "id": 359,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El copete de anoche me dejó con una caña horrible.",
+   "frase_neutralizada": "El alcohol de anoche me dejó con una resaca horrible.",
+   "nota": "La neutral decía 'bebida', que es ambiguo; nueva situación más natural."
+  }
+ ]
+}

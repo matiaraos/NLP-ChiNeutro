@@ -1,0 +1,340 @@
+{
+ "lote": 46,
+ "claves": [
+  "mugriento",
+  "mula",
+  "nana",
+  "nanai",
+  "nato",
+  "nave",
+  "neque",
+  "no es ni chicha ni limonada"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2336797,
+ "duracion_s": 83.1,
+ "pares": [
+  {
+   "id": 1840,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué mugrienta está la polera que me prestaste, lávala po!",
+   "frase_neutralizada": "¡Qué sucia está la camiseta que me prestaste, lávala!",
+   "nota": "Neutral tenía errores (regaste, concordancia); se naturalizó la frase."
+  },
+  {
+   "id": 1841,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te me acerquís, que estai más mugriento que yo.",
+   "frase_neutralizada": "No te me acerques, que estás más sucio que yo.",
+   "nota": "Corregidos 'eres mugriento' y 'acercarés'; se añadió voseo chileno."
+  },
+  {
+   "id": 1842,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Por Dios, el piso de la micro estaba mugriento, daba asco!",
+   "frase_neutralizada": "¡Por Dios, el piso del autobús estaba muy sucio, daba asco!",
+   "nota": "No incluía 'mugriento', solo 'mugre'."
+  },
+  {
+   "id": 1843,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No toquís la comida con esas manos mugrientas, anda a lavártelas.",
+   "frase_neutralizada": "No toques la comida con esas manos sucias, ve a lavártelas.",
+   "nota": "Situación poco natural; se reformuló manteniendo manos sucias."
+  },
+  {
+   "id": 1844,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La cocina quedó mugrienta después del asado, ¿quién la limpia?",
+   "frase_neutralizada": "La cocina quedó muy sucia después del asado, ¿quién la limpia?",
+   "nota": "Se añadió contexto y se ajustó la intensidad en la neutral."
+  },
+  {
+   "id": 1845,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa historia que te contó el Pedro es pura mula, nunca pasó así.",
+   "frase_neutralizada": "Esa historia que te contó Pedro es pura mentira, nunca pasó así.",
+   "nota": "Se usó 'pura mula', más natural; se quitó el artículo ante nombre."
+  },
+  {
+   "id": 1846,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Las zapatillas que compré en la feria eran mula, se despegaron en una semana.",
+   "frase_neutralizada": "Los tenis que compré en el mercado ambulante eran de mala calidad, se despegaron en una semana.",
+   "nota": "Cerveza 'mula' era poco natural; se usó un producto de mala calidad."
+  },
+  {
+   "id": 1847,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No le creái nada al Felipe, es más mula que la cresta.",
+   "frase_neutralizada": "No le creas nada a Felipe, es muy mentiroso.",
+   "nota": "'Una mula' sonaba poco natural; se usó una construcción coloquial chilena."
+  },
+  {
+   "id": 1848,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Erís mula, weón, si nunca en tu vida has ido a Europa.",
+   "frase_neutralizada": "Eres un mentiroso, tonto, si nunca en tu vida has ido a Europa.",
+   "nota": "Personaje de película no era natural; nueva situación entre amigos."
+  },
+  {
+   "id": 1849,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Dicen que el vecino anda con harta plata porque es mula de unos narcos.",
+   "frase_neutralizada": "Dicen que el vecino tiene mucho dinero porque transporta droga para unos narcotraficantes.",
+   "nota": "Neutral decía 'traficante', no transportista de droga; se agregó contexto."
+  },
+  {
+   "id": 1850,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mamá, me hice una nana en la mano jugando a la pelota.",
+   "frase_neutralizada": "Mamá, me hice un rasguño en la mano jugando a la pelota.",
+   "nota": "'Me ha dado una nana' no era natural; se usó 'hacerse una nana'."
+  },
+  {
+   "id": 1851,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El gato me dejó una nana en la pierna, pero no es nada.",
+   "frase_neutralizada": "El gato me dejó un rasguño en la pierna, pero no es nada.",
+   "nota": "'Me puso una nana' era ambiguo; se dio un agente claro."
+  },
+  {
+   "id": 1852,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me caí de la bici y me hice una nana en la cara.",
+   "frase_neutralizada": "Me caí de la bicicleta y me hice un raspón en la cara.",
+   "nota": "'Me corte una nana' era agramatical y no tenía tilde."
+  },
+  {
+   "id": 1853,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La nana hoy no vino, así que nos toca cocinar el almuerzo a nosotros.",
+   "frase_neutralizada": "La empleada doméstica no vino hoy, así que nos toca cocinar el almuerzo a nosotros.",
+   "nota": "Neutral cambiaba 'mi' por 'la'; se dio una situación más natural."
+  },
+  {
+   "id": 1854,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi mamá anda buscando una nana pa' que la ayude con el aseo de la casa.",
+   "frase_neutralizada": "Mi mamá está buscando una empleada doméstica para que la ayude con la limpieza de la casa.",
+   "nota": "'Me ayuda en los hogares' era agramatical."
+  },
+  {
+   "id": 1855,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy enfermo y nadie me hace nanai, qué pena.",
+   "frase_neutralizada": "Estoy enfermo y nadie me consiente, qué tristeza.",
+   "nota": "Muy parecida al ejemplo; se añadió contexto."
+  },
+  {
+   "id": 1856,
+   "accion": "corregido",
+   "def": 6,
+   "frase_chilena": "¿Te pegaste en la cabeza? Ven pa'cá que te hago nanai.",
+   "frase_neutralizada": "¿Te golpeaste en la cabeza? Ven acá, que te hago un cariñito.",
+   "nota": "Frase forzada; se usó el sentido de caricia que consuela."
+  },
+  {
+   "id": 1857,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ay, qué nanai tu perrito, se quedó dormido en mis pies.",
+   "frase_neutralizada": "Ay, qué tierno tu perrito, se quedó dormido en mis pies.",
+   "nota": "'Eres un nanai' no era natural; se usó como adjetivo tierno."
+  },
+  {
+   "id": 1858,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tuve un día horrible en la pega, hazme nanai porfa.",
+   "frase_neutralizada": "Tuve un día horrible en el trabajo, hazme mimos, por favor.",
+   "nota": "Lo natural es 'hacer nanai', no 'un nanai'; abrazo no equivale."
+  },
+  {
+   "id": 1859,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Nanai, mi amor, no llorís más, ya se te va a pasar.",
+   "frase_neutralizada": "Ya, ya, mi amor, no llores más, ya se te va a pasar.",
+   "nota": "'Quiero nanai a mi hermana' era agramatical; se usó como consuelo."
+  },
+  {
+   "id": 1860,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le llegó un pelotazo justo en el ñato y quedó botado en la cancha.",
+   "frase_neutralizada": "Le dieron un balonazo justo en el pene y quedó tirado en la cancha.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1861,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y vo' creís que me voy a tatuar el ñato? Estai loco.",
+   "frase_neutralizada": "¿Y tú crees que me voy a tatuar el pene? Estás loco.",
+   "nota": "Usaba ñato sin sentido en un contexto de limpiar el auto."
+  },
+  {
+   "id": 1862,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese weón anda mostrando el ñato en los camarines, qué asco.",
+   "frase_neutralizada": "Ese idiota anda mostrando el pene en los vestidores, qué asco.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1863,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La guagua tiene la ñata chiquitita, igual que la mamá.",
+   "frase_neutralizada": "La bebé tiene la nariz chiquitita, igual que la mamá.",
+   "nota": "Para nariz se usa 'ñata'; 'ñato bonito' no era natural."
+  },
+  {
+   "id": 1864,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El ñato del taller me arregló la bici y no me cobró ni uno.",
+   "frase_neutralizada": "El tipo del taller me arregló la bicicleta y no me cobró nada.",
+   "nota": "'Ñato genial' era forzado; se usó como 'tipo'."
+  },
+  {
+   "id": 1865,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué tremenda nave se compró el tío Pablo! ¿La viste?",
+   "frase_neutralizada": "¡Qué auto tan grande se compró el tío Pablo! ¿Lo viste?",
+   "nota": "'Chilanga' es mexicanismo y no chileno."
+  },
+  {
+   "id": 1866,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa nave es de mi hermano, así que ni se te ocurra tocarla.",
+   "frase_neutralizada": "Ese auto es de mi hermano, así que ni se te ocurra tocarlo.",
+   "nota": "La neutral alteraba la estructura; se naturalizó."
+  },
+  {
+   "id": 1867,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El sábado te pasamos a buscar en la nave y nos vamos a la playa.",
+   "frase_neutralizada": "El sábado pasamos por ti en el auto y nos vamos a la playa.",
+   "nota": "'Hacer una vuelta' era incorrecto y la frase se parecía al ejemplo."
+  },
+  {
+   "id": 1868,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dejé la nave en el estacionamiento del mall, vamos a buscarla altiro.",
+   "frase_neutralizada": "Dejé el auto en el estacionamiento del centro comercial, vamos a buscarlo enseguida.",
+   "nota": "'Cogerla' no es chileno; la neutral cambiaba el sentido."
+  },
+  {
+   "id": 1869,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, el vecino llegó con una nave nueva, no cabe ni en el garaje.",
+   "frase_neutralizada": "Oye, el vecino llegó con un auto nuevo enorme, no cabe ni en el garaje.",
+   "nota": "La frase explicaba la expresión; 'coche' es regionalismo."
+  },
+  {
+   "id": 1870,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa caja pesa demasiado, no tengo el ñeque pa' levantarla sola.",
+   "frase_neutralizada": "Esa caja pesa demasiado, no tengo la fuerza para levantarla sola.",
+   "nota": "'Con ningún ñeque' no era natural; esfuerzo no equivale a fuerza."
+  },
+  {
+   "id": 1871,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros chicos trataron de mover la mesa, pero no les dio el ñeque.",
+   "frase_neutralizada": "Los niños trataron de mover la mesa, pero no les alcanzó la fuerza.",
+   "nota": "Lo de las bolas de nieve no tenía sentido; se simplificó."
+  },
+  {
+   "id": 1872,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayúdame con el refri, que yo solo no tengo tanto ñeque.",
+   "frase_neutralizada": "Ayúdame con el refrigerador, que yo solo no tengo tanta fuerza.",
+   "nota": "La neutral decía 'esfuerzo' en vez de 'fuerza'."
+  },
+  {
+   "id": 1873,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La Cami sacó la carrera trabajando de noche, puro ñeque nomás.",
+   "frase_neutralizada": "Cami terminó la carrera trabajando de noche, con puro esfuerzo y constancia.",
+   "nota": "Era incoherente y la neutral cambiaba el sentido; ahora usa la def 2."
+  },
+  {
+   "id": 1874,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Le dije que le pusiera ñeque y que no se rindiera.",
+   "frase_neutralizada": "Le dije que se esforzara y que no se rindiera.",
+   "nota": "Se corrigió el modo verbal (tenga/rindiera) y se usó 'ponerle ñeque'."
+  },
+  {
+   "id": 1875,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa mina no es ni chicha ni limonada, un día te quiere y al otro te pesca nada.",
+   "frase_neutralizada": "Con esa chica nunca se sabe, un día te quiere y al otro no te hace caso.",
+   "nota": "Faltaba contexto; se mostró la indefinición."
+  },
+  {
+   "id": 1876,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese perro no es ni chicha ni limonada, a veces te mueve la cola y a veces te muerde.",
+   "frase_neutralizada": "Ese perro no es de fiar, a veces te mueve la cola y a veces te muerde.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1877,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El proyecto del alcalde no es ni chicha ni limonada, nadie cacha qué quiere hacer.",
+   "frase_neutralizada": "El proyecto del alcalde no está nada claro, nadie entiende qué quiere hacer.",
+   "nota": "La expresión estaba alterada ('ni serio')."
+  },
+  {
+   "id": 1878,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No voto por ese gallo, no es ni chicha ni limonada, cambia de opinión según le convenga.",
+   "frase_neutralizada": "No voto por ese tipo, no es de fiar, cambia de opinión según le convenga.",
+   "nota": "La expresión estaba alterada y la neutral cambiaba el número."
+  },
+  {
+   "id": 1879,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa receta no es ni chicha ni limonada, no sé si es postre o ensalada.",
+   "frase_neutralizada": "Esa receta no está nada definida, no sé si es postre o ensalada.",
+   "nota": "La expresión estaba alterada ('ni buena'); ahora se usa con el sentido de indefinido."
+  }
+ ]
+}

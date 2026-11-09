@@ -1,0 +1,340 @@
+{
+ "lote": 56,
+ "claves": [
+  "pinufla",
+  "piojento",
+  "piojo resucitado",
+  "piola",
+  "piropo",
+  "piscola",
+  "pituca",
+  "pituto"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2758615,
+ "duracion_s": 101.3,
+ "pares": [
+  {
+   "id": 2240,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, el vestido que te hizo la costurera quedó súper piñufla, se le notan todas las costuras.",
+   "frase_neutralizada": "Oye, el vestido que te hizo la costurera quedó muy mal hecho, se le notan todas las costuras.",
+   "nota": "La neutral cambiaba el sentido por 'no ajusta'; ahora dice 'mal hecho'."
+  },
+  {
+   "id": 2241,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La torta que compramos pa'l cumple estaba terrible piñufla, ni sabor tenía.",
+   "frase_neutralizada": "El pastel que compramos para el cumpleaños estaba malísimo, ni siquiera tenía sabor.",
+   "nota": "Frase muy breve; añadí contexto natural y neutral más fiel."
+  },
+  {
+   "id": 2242,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Me compré unos audífonos en la feria y son re piñuflas, se echaron a perder en una semana.",
+   "frase_neutralizada": "Me compré unos audífonos en el mercado y son de muy mala calidad, se dañaron en una semana.",
+   "nota": "La actuación ilustraba el sentido 1; ahora es un objeto de mala calidad."
+  },
+  {
+   "id": 2243,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Este libro es súper piñufla, se le salieron las hojas al toque.",
+   "frase_neutralizada": "Este libro es de muy mala calidad, se le salieron las hojas enseguida.",
+   "nota": "Agregué contexto y modismos chilenos naturales."
+  },
+  {
+   "id": 2244,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "No lo elijai pa'l equipo, si el Pato es entero piñufla pa'l fútbol.",
+   "frase_neutralizada": "No lo elijas para el equipo, Pato es malísimo para el fútbol.",
+   "nota": "'Pendientes piñufla' era agramatical; ahora es una persona sin gracia ni habilidad."
+  },
+  {
+   "id": 2245,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ahí va la mina esa que se cree diva, pero es más piojenta que la cresta.",
+   "frase_neutralizada": "Ahí va esa mujer que se cree diva, pero es una muerta de hambre.",
+   "nota": "La neutral perdía el tono despectivo; usé 'muerta de hambre'."
+  },
+  {
+   "id": 2246,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No quiero que mi hijo ande con esa piojenta, si ni el colegio terminó.",
+   "frase_neutralizada": "No quiero que mi hijo ande con esa muerta de hambre, si ni siquiera terminó la escuela.",
+   "nota": "Frase más natural y neutral que conserva el tono peyorativo."
+  },
+  {
+   "id": 2247,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te juntís con esos piojentos de la otra cuadra, son puros problemas.",
+   "frase_neutralizada": "No te juntes con esos muertos de hambre de la otra cuadra, solo traen problemas.",
+   "nota": "La neutral tenía un error de conjugación ('interactúa'); arreglé el registro."
+  },
+  {
+   "id": 2248,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No quiero que mi hermana se case con un piojento como ese, po.",
+   "frase_neutralizada": "No quiero que mi hermana se case con un muerto de hambre como ese.",
+   "nota": "La neutral suavizaba el insulto; usé un equivalente despectivo."
+  },
+  {
+   "id": 2249,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Igual es heavy, el piojento que nadie pescaba ahora es jefe en la pega.",
+   "frase_neutralizada": "Es increíble, el muerto de hambre al que nadie le hacía caso ahora es jefe en el trabajo.",
+   "nota": "Frase más coloquial; neutral despectiva equivalente."
+  },
+  {
+   "id": 2250,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde que se ganó el Loto, el Toño mira a todos en menos, es un piojo resucitado.",
+   "frase_neutralizada": "Desde que ganó la lotería, Toño mira a todos por encima del hombro; es un nuevo rico que olvidó sus orígenes.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 2251,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi ex se cambió a Las Condes y ahora ni saluda a la gente de la pobla, piojo resucitado.",
+   "frase_neutralizada": "Mi ex se mudó a un barrio rico y ahora ni saluda a la gente del barrio pobre; es un nuevo rico que olvidó sus orígenes.",
+   "nota": "La frase no tenía sentido y la neutral era una definición literal."
+  },
+  {
+   "id": 2252,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Jaime era de la pobla y ahora que es comisario anda con aires de grandeza, piojo resucitado.",
+   "frase_neutralizada": "Jaime era de un barrio pobre y ahora que es comisario anda con aires de grandeza; es un arribista que olvidó sus orígenes.",
+   "nota": "El contexto no ilustraba olvidar el origen humilde."
+  },
+  {
+   "id": 2253,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo es un piojo resucitado: lo ayudamos cuando no tenía ni uno y ahora ni nos pesca.",
+   "frase_neutralizada": "Mi primo es un malagradecido que olvidó sus orígenes: lo ayudamos cuando no tenía ni un peso y ahora ni nos hace caso.",
+   "nota": "Lo de la traición no correspondía al sentido; además la neutral era una definición literal."
+  },
+  {
+   "id": 2254,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu amigo de toda la vida está hecho un piojo resucitado, ahora se hace el cuico, ¿no creís?",
+   "frase_neutralizada": "Tu amigo de toda la vida se volvió un arribista que olvidó sus orígenes, ahora se hace el rico, ¿no crees?",
+   "nota": "Le faltaba contexto y la neutral era una definición literal."
+  },
+  {
+   "id": 2255,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y la salsa cómo quedó? —Está piola, le falta sal pero se puede comer.",
+   "frase_neutralizada": "¿Y cómo quedó la salsa? —Está regular, le falta sal pero se puede comer.",
+   "nota": "Añadí contexto que deja claro el 'ni bien ni mal'."
+  },
+  {
+   "id": 2256,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "Quédate piola con lo del carrete, que mi mamá no se puede enterar.",
+   "frase_neutralizada": "No digas nada de lo de la fiesta, que mi mamá no se puede enterar.",
+   "nota": "La frase no tenía sentido; ahora ilustra el sentido de guardar silencio."
+  },
+  {
+   "id": 2257,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La noticia de tu graduación pasó súper piola, nadie en la familia comentó nada.",
+   "frase_neutralizada": "La noticia de tu graduación pasó muy desapercibida, nadie en la familia comentó nada.",
+   "nota": "'Es desapercibida' era incorrecto; ahora usa 'pasar desapercibido'."
+  },
+  {
+   "id": 2258,
+   "accion": "corregido",
+   "def": 4,
+   "frase_chilena": "Si llego tarde a la fiesta, entro piola por la cocina y nadie se da cuenta.",
+   "frase_neutralizada": "Si llego tarde a la fiesta, entro discretamente por la cocina y nadie se da cuenta.",
+   "nota": "Le di un contexto más claro para pasar desapercibido."
+  },
+  {
+   "id": 2259,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "¿Cómo te fue en la cita con el Juan? —Igual estuvo piola, lo pasamos bien.",
+   "frase_neutralizada": "¿Cómo te fue en la cita con Juan? —Estuvo bastante agradable, nos divertimos.",
+   "nota": "La neutral decía 'aceptable', que no equivale a 'agradable'."
+  },
+  {
+   "id": 2260,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El maestro de la construcción le tiró un piropo a mi hermana y ella lo mandó a la cresta.",
+   "frase_neutralizada": "El albañil le echó un piropo a mi hermana y ella lo mandó al diablo.",
+   "nota": "No incluía la expresión y no tenía sentido."
+  },
+  {
+   "id": 2261,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, el Seba me tiró un piropo por mis ojos y quedé colorada.",
+   "frase_neutralizada": "Oye, Seba me echó un piropo por mis ojos y me sonrojé.",
+   "nota": "No incluía la palabra 'piropo' y tenía un error de concordancia."
+  },
+  {
+   "id": 2262,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el carrete el Felipe se pasó toda la noche tirándole piropos a la Cata.",
+   "frase_neutralizada": "En la fiesta, Felipe se pasó toda la noche echándole piropos a Cata.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 2263,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai pesada, si fue un piropo no más, no te estaba faltando el respeto.",
+   "frase_neutralizada": "No seas pesada, solo fue un piropo, no te estaba faltando al respeto.",
+   "nota": "No incluía la expresión y la neutral era agramatical."
+  },
+  {
+   "id": 2264,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tata todavía le tira piropos a mi abuela después de cincuenta años casados.",
+   "frase_neutralizada": "Mi abuelo todavía le echa piropos a mi abuela después de cincuenta años de casados.",
+   "nota": "No incluía la expresión y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 2265,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Me podrías traer una piscola, porfa? Estoy muerto de sed.",
+   "frase_neutralizada": "¿Me podrías traer un pisco con Coca-Cola, por favor? Me muero de sed.",
+   "nota": "Arreglé el error gramatical 'podrías me traer' y la definición literal."
+  },
+  {
+   "id": 2266,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No hay nada como una piscola bien helada después del asado.",
+   "frase_neutralizada": "No hay nada como un pisco con Coca-Cola bien frío después de la parrillada.",
+   "nota": "Arreglé la concordancia ('fresca') y la neutral, que era una definición."
+  },
+  {
+   "id": 2267,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué onda, te tinca una piscola antes de salir?",
+   "frase_neutralizada": "¿Qué tal, se te antoja un pisco con Coca-Cola antes de salir?",
+   "nota": "Hice la frase más natural y la neutral más idiomática."
+  },
+  {
+   "id": 2268,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con los cabros nos tomamos unas piscolas en la plaza y después nos fuimos a bailar.",
+   "frase_neutralizada": "Con los amigos nos tomamos unos tragos de pisco con Coca-Cola en la plaza y después nos fuimos a bailar.",
+   "nota": "Hice la frase más natural; la neutral ya no es una definición literal."
+  },
+  {
+   "id": 2269,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No me alcanza pa las piscolitas, pero te puedo invitar una chela.",
+   "frase_neutralizada": "No me alcanza el dinero para los tragos de pisco con Coca-Cola, pero te puedo invitar una cerveza.",
+   "nota": "Puse registro chileno y una neutral más idiomática."
+  },
+  {
+   "id": 2270,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira, ahí viene la pituca del quinto piso a comer al restorán.",
+   "frase_neutralizada": "Mira, ahí viene la riquilla del quinto piso a comer al restaurante.",
+   "nota": "No incluía 'pituca' y la neutral contenía 'plata'."
+  },
+  {
+   "id": 2271,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa mina anda con puras carteras de marca y habla re pituca.",
+   "frase_neutralizada": "Esa mujer anda solo con bolsos de marca y habla como niña rica.",
+   "nota": "La neutral cambiaba el sujeto y el sentido; 'botes' era incoherente."
+  },
+  {
+   "id": 2272,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi polola es súper pituca, no come completos ni de broma.",
+   "frase_neutralizada": "Mi novia es muy estirada y de clase alta, no come hot dogs ni de broma.",
+   "nota": "El sentido 2 tiene votos negativos y no es de uso real; usé el 1."
+  },
+  {
+   "id": 2273,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el matrimonio había puras tías pitucas tomando champaña con el meñique levantado.",
+   "frase_neutralizada": "En la boda solo había señoras ricas y estiradas tomando champaña con el meñique levantado.",
+   "nota": "El sentido 2 no es de uso real; cambié al sentido 1."
+  },
+  {
+   "id": 2274,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Fran se hace la pituca con esas joyas, pero vive en la misma pobla que yo.",
+   "frase_neutralizada": "Fran se hace la fina con esas joyas, pero vive en el mismo barrio pobre que yo.",
+   "nota": "La frase era confusa y la neutral cambiaba el significado."
+  },
+  {
+   "id": 2275,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Al Rodrigo lo contrataron al tiro en el banco porque tenía un pituto en gerencia.",
+   "frase_neutralizada": "A Rodrigo lo contrataron enseguida en el banco porque tenía un contacto en la gerencia.",
+   "nota": "Copiaba el ejemplo del diccionario; cambié la situación."
+  },
+  {
+   "id": 2276,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si querís entrar a esa empresa, yo tengo un pituto en recursos humanos.",
+   "frase_neutralizada": "Si quieres entrar a esa empresa, yo tengo un contacto en recursos humanos.",
+   "nota": "La frase original era contradictoria; ahora es coherente."
+  },
+  {
+   "id": 2277,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Agarré un pituto de garzón los fines de semana mientras encuentro algo estable.",
+   "frase_neutralizada": "Conseguí un trabajo temporal de mesero los fines de semana mientras encuentro algo estable.",
+   "nota": "Copiaba casi literal el ejemplo; agregué otra situación."
+  },
+  {
+   "id": 2278,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ando buscando un pituto pa juntar plata pa'l arriendo, lo que sea.",
+   "frase_neutralizada": "Estoy buscando un trabajo temporal para reunir dinero para el alquiler, lo que sea.",
+   "nota": "Puse más registro chileno y una neutral fiel."
+  },
+  {
+   "id": 2279,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Mi primo entró a la municipalidad por pituto del alcalde, ni siquiera concursó.",
+   "frase_neutralizada": "Mi primo entró a trabajar en la municipalidad por influencia del alcalde, ni siquiera concursó.",
+   "nota": "Explicaba la definición dentro de la frase; ahora es un uso natural."
+  }
+ ]
+}

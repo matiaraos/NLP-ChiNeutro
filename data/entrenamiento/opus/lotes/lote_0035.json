@@ -1,0 +1,340 @@
+{
+ "lote": 35,
+ "claves": [
+  "teniente cavieres",
+  "tincada",
+  "tiqui taca",
+  "tiquitaca",
+  "tirar",
+  "tirar corte",
+  "tirar la pela",
+  "tirar los corridos"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.25216760000000005,
+ "duracion_s": 93.2,
+ "pares": [
+  {
+   "id": 1400,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegué temprano a la casa y pillé al teniente Cavieres escondido en el clóset, weón.",
+   "frase_neutralizada": "Llegué temprano a casa y encontré al amante de mi esposa escondido en el armario, amigo.",
+   "nota": "Usaba 'cavieres' como verbo 'engañar'; ahora designa al amante."
+  },
+  {
+   "id": 1401,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ojo con tanto viaje de pega, compadre, mira que el teniente Cavieres anda rondando.",
+   "frase_neutralizada": "Cuidado con tantos viajes de trabajo, amigo, que el amante de tu esposa anda cerca.",
+   "nota": "Sentido y gramática erróneos; nueva frase con el amante."
+  },
+  {
+   "id": 1402,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Jessica recibe al teniente Cavieres en la casa cada vez que el marido sale a trabajar.",
+   "frase_neutralizada": "Jessica recibe a su amante en casa cada vez que su marido sale a trabajar.",
+   "nota": "Frase incoherente; reescrita con el sentido de amante."
+  },
+  {
+   "id": 1403,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y ese gallo quién es? No me digai que es el teniente Cavieres de tu señora.",
+   "frase_neutralizada": "¿Y ese tipo quién es? No me digas que es el amante de tu esposa.",
+   "nota": "Uso verbal inventado; ahora sustantivo para el amante."
+  },
+  {
+   "id": 1404,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pobre Lucho, todo el barrio sabía del teniente Cavieres menos él.",
+   "frase_neutralizada": "Pobre Lucho, todo el barrio sabía que su esposa tenía un amante, menos él.",
+   "nota": "Sentido equivocado; reescrita con el amante de la esposa."
+  },
+  {
+   "id": 1405,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo la tincada de que hoy el equipo local gana el partido.",
+   "frase_neutralizada": "Tengo el presentimiento de que hoy el equipo local gana el partido.",
+   "nota": "Neutral decía 'seguro', no presentimiento; se usa el sustantivo tincada."
+  },
+  {
+   "id": 1406,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo la tincada de que hoy va a salir el sol, así que no llevo paraguas.",
+   "frase_neutralizada": "Tengo el presentimiento de que hoy va a salir el sol, así que no llevo paraguas.",
+   "nota": "'Seguro' cambiaba el sentido; se usa presentimiento."
+  },
+  {
+   "id": 1407,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Te tinca un viaje al sur pa' Navidad?",
+   "frase_neutralizada": "¿Te gustaría hacer un viaje al sur para Navidad?",
+   "nota": "Es propuesta (def 2), no 'aventurero'; neutral corregida."
+  },
+  {
+   "id": 1408,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo la media tincada de que la peli va a estar buena, cachai.",
+   "frase_neutralizada": "Tengo un fuerte presentimiento de que la película va a estar buena, ¿sabes?",
+   "nota": "'Seguro' alteraba el sentido; ahora usa el sustantivo tincada."
+  },
+  {
+   "id": 1409,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me tinca que no te vai a arrepentir de cambiarte de carrera.",
+   "frase_neutralizada": "Presiento que no te vas a arrepentir de cambiarte de carrera.",
+   "nota": "'Seguro' cambiaba el matiz; neutral con presentir."
+  },
+  {
+   "id": 1410,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya cargamos los muebles en el camión, así que estamos tiqui taca pa' la mudanza.",
+   "frase_neutralizada": "Ya cargamos los muebles en el camión, así que estamos listos para la mudanza.",
+   "nota": "Frase incoherente y error de género; reformulada."
+  },
+  {
+   "id": 1411,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La cena quedó tiqui taca, aunque los pastelitos estaban demasiado dulces.",
+   "frase_neutralizada": "La cena quedó perfecta, aunque los pastelitos estaban demasiado dulces.",
+   "nota": "Ajuste leve de naturalidad y equivalencia."
+  },
+  {
+   "id": 1412,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le formateé el computador a mi mamá y quedó tiqui taca.",
+   "frase_neutralizada": "Le formateé la computadora a mi mamá y quedó perfecta.",
+   "nota": "Frase forzada; ahora el resultado queda en buen estado."
+  },
+  {
+   "id": 1413,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya reservé las entradas pa' la peli de la noche, estamos tiqui taca.",
+   "frase_neutralizada": "Ya reservé las entradas para la película de la noche, estamos listos.",
+   "nota": "'Está tiqui taca' no tenía sujeto claro; corregido."
+  },
+  {
+   "id": 1414,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya tengo la pelota y las poleras pa'l partido en la playa, todo tiqui taca.",
+   "frase_neutralizada": "Ya tengo el balón y las camisetas para el partido en la playa, todo listo.",
+   "nota": "Uso forzado como pregunta; ahora indica que todo está listo."
+  },
+  {
+   "id": 1415,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Mariana estuvo resfriada toda la semana, pero ya está tiquitaca.",
+   "frase_neutralizada": "Mariana estuvo resfriada toda la semana, pero ya está perfectamente bien.",
+   "nota": "Usado como cualidad de persona; ahora estado de salud."
+  },
+  {
+   "id": 1416,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llevé la bici a la mantención y me la entregaron tiquitaca.",
+   "frase_neutralizada": "Llevé la bicicleta al mantenimiento y me la entregaron en perfecto estado.",
+   "nota": "No contenía la expresión; frase nueva."
+  },
+  {
+   "id": 1417,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El perro andaba cojeando, pero lo llevamos al veterinario y ya está tiquitaca.",
+   "frase_neutralizada": "El perro andaba cojeando, pero lo llevamos al veterinario y ya está perfectamente bien.",
+   "nota": "Contexto ilógico; ahora se recupera de un problema."
+  },
+  {
+   "id": 1418,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y el Pedro, se le pasó la caña o sigue mal? No, ya está tiquitaca.",
+   "frase_neutralizada": "¿Y Pedro, se le pasó la resaca o sigue mal? No, ya está perfectamente bien.",
+   "nota": "Contexto poco natural; ahora recuperación tras malestar."
+  },
+  {
+   "id": 1419,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranquila, mija, ya te tomaste el remedio y mañana vai a estar tiquitaca.",
+   "frase_neutralizada": "Tranquila, hija, ya te tomaste la medicina y mañana vas a estar perfectamente bien.",
+   "nota": "Sujeto incoherente y ortografía; corregida."
+  },
+  {
+   "id": 1420,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué noche más buena pa' salir a tirar! Vamos a la disco, weón.",
+   "frase_neutralizada": "¡Qué buena noche para salir a buscar con quién acostarse! Vamos a la discoteca, amigo.",
+   "nota": "Signos y naturalidad corregidos; neutral más fiel."
+  },
+  {
+   "id": 1421,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿No tenís ganas de tirar esta noche, amor?",
+   "frase_neutralizada": "¿No tienes ganas de tener sexo esta noche, amor?",
+   "nota": "'La gana' incorrecto; neutral cambiaba ganas por gustar."
+  },
+  {
+   "id": 1422,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Recién a los tres meses de pololeo me sentí cómoda pa' tirar con él.",
+   "frase_neutralizada": "Solo a los tres meses de noviazgo me sentí cómoda para tener sexo con él.",
+   "nota": "Frase poco natural; se añade contexto chileno."
+  },
+  {
+   "id": 1423,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nacho se cree galán, pero hace como un año que no tira.",
+   "frase_neutralizada": "Nacho se cree muy galán, pero hace como un año que no tiene sexo.",
+   "nota": "'Tirar los ojos' no corresponde al sentido sexual."
+  },
+  {
+   "id": 1424,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sorry, pero no quiero tirar contigo, te veo solo como amigo.",
+   "frase_neutralizada": "Lo siento, pero no quiero tener sexo contigo, solo te veo como amigo.",
+   "nota": "Frase poco natural; reformulada con contexto."
+  },
+  {
+   "id": 1425,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con este vestido voy a tirar corte en la fiesta, vai a ver.",
+   "frase_neutralizada": "Con este vestido me voy a ver con mucho estilo en la fiesta, ya vas a ver.",
+   "nota": "Construcción transitiva errónea ('me tirará'); corregida."
+  },
+  {
+   "id": 1426,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Coni llegó tirando corte al carrete con chaqueta de cuero y lentes oscuros.",
+   "frase_neutralizada": "Coni llegó a la fiesta luciéndose con mucho estilo, con chaqueta de cuero y lentes oscuros.",
+   "nota": "Errata 'tiara' y neutral rara; corregida."
+  },
+  {
+   "id": 1427,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hoy no voy a tirar corte, me puse lo primero que pillé.",
+   "frase_neutralizada": "Hoy no voy a lucirme con estilo, me puse lo primero que encontré.",
+   "nota": "Uso reflexivo erróneo; contexto más coherente."
+  },
+  {
+   "id": 1428,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, con ese corte de pelo nuevo andai tirando corte, compadre.",
+   "frase_neutralizada": "Oye, con ese corte de pelo nuevo te ves con mucho estilo, amigo.",
+   "nota": "Sentido de 'dar gusto' erróneo; ahora verse bien."
+  },
+  {
+   "id": 1429,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Felipe se compró un auto deportivo y anda tirando corte por todo el barrio.",
+   "frase_neutralizada": "Felipe se compró un auto deportivo y anda luciéndose por todo el barrio.",
+   "nota": "Neutral hablaba de velocidad; ahora lucir estilo."
+  },
+  {
+   "id": 1430,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Apenas se fue la Carla, todas se pusieron a tirarle la pelá.",
+   "frase_neutralizada": "Apenas se fue Carla, todas se pusieron a hablar mal de ella.",
+   "nota": "No contenía la expresión; frase nueva."
+  },
+  {
+   "id": 1431,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Te pillé, weón! Le tiraste la pelá a mi hermano en el grupo de WhatsApp.",
+   "frase_neutralizada": "¡Te descubrí, idiota! Hablaste mal de mi hermano en el grupo de WhatsApp.",
+   "nota": "'Tío' no chileno; neutral no decía hablar mal."
+  },
+  {
+   "id": 1432,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El reo subió un video tirándole la pelá a otro de la cana.",
+   "frase_neutralizada": "El preso subió un video amenazando a otro de la cárcel.",
+   "nota": "No contenía la expresión; ahora sentido de amenaza."
+  },
+  {
+   "id": 1433,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi suegra me sonríe en la cara, pero después me tira la pelá con todas sus amigas.",
+   "frase_neutralizada": "Mi suegra me sonríe en la cara, pero después habla mal de mí con todas sus amigas.",
+   "nota": "Def 2 muy rechazada y sin la expresión; se usa def 1."
+  },
+  {
+   "id": 1434,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No vamos a dejar que siga tirándole la pelá a todo el mundo en la oficina.",
+   "frase_neutralizada": "No vamos a permitir que siga hablando mal de todo el mundo en la oficina.",
+   "nota": "Error de conjugación 'tira'; corregido."
+  },
+  {
+   "id": 1435,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, la mina de la barra te está tirando los corridos hace rato, anda a hablarle.",
+   "frase_neutralizada": "Oye, la chica de la barra te está coqueteando hace rato, ve a hablarle.",
+   "nota": "Caballo y neutral 'te parece atractivo' invertían el sentido."
+  },
+  {
+   "id": 1436,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El compañero nuevo me tira los corridos todos los días, pero no me gusta.",
+   "frase_neutralizada": "El compañero nuevo me coquetea todos los días, pero no me gusta.",
+   "nota": "Cachorro sin sentido amoroso; neutral cambiaba el significado."
+  },
+  {
+   "id": 1437,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cachai que el profe de inglés le anda tirando los corridos a la secretaria?",
+   "frase_neutralizada": "¿Sabías que el profesor de inglés anda coqueteando con la secretaria?",
+   "nota": "Libro no insinúa interés; nueva situación de coqueteo."
+  },
+  {
+   "id": 1438,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hace semanas que le tiro los corridos a esa chaqueta de la vitrina, pero está muy cara.",
+   "frase_neutralizada": "Hace semanas que le tengo el ojo puesto a esa chaqueta de la vitrina, pero está muy cara.",
+   "nota": "Sujeto invertido; ahora la persona muestra interés por el objeto."
+  },
+  {
+   "id": 1439,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa mina te tira los corridos desde que llegaste a la pega, no seai gil.",
+   "frase_neutralizada": "Esa chica te coquetea desde que llegaste al trabajo, no seas tonto.",
+   "nota": "Neutral invertía quién siente interés; corregida."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 86,
+ "claves": [
+  "gorriao",
+  "gringo",
+  "gringa",
+  "gringolandia",
+  "grone",
+  "groso",
+  "guachita",
+  "guacho"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2313084,
+ "duracion_s": 85.7,
+ "pares": [
+  {
+   "id": 3440,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pobre Mati, anda gorriao hace meses y es el único que no cacha.",
+   "frase_neutralizada": "Pobre Mati, su pareja lo engaña hace meses y es el único que no se da cuenta.",
+   "nota": "Sentido y gramática erróneos; neutral cambiaba el significado."
+  },
+  {
+   "id": 3441,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Coni quedó gorriada después de tres años con el Felipe, pobrecita.",
+   "frase_neutralizada": "Felipe engañó a Coni después de tres años de relación, pobrecita.",
+   "nota": "Verbo inventado 'gorrió'; se usa participio con sentido de infidelidad."
+  },
+  {
+   "id": 3442,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai gil, ¿no cachai que estai gorriao? Tu polola sale con otro.",
+   "frase_neutralizada": "No seas tonto, ¿no te das cuenta de que te están engañando? Tu novia sale con otro.",
+   "nota": "Uso verbal incorrecto y redundante; nueva situación de infidelidad."
+  },
+  {
+   "id": 3443,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Prefiero estar solo que andar gorriao como el Juan, que todos sabían menos él.",
+   "frase_neutralizada": "Prefiero estar solo que ser engañado por mi pareja como Juan, que todos lo sabían menos él.",
+   "nota": "Era engaño de amigo, no de pareja; ajustado al sentido."
+  },
+  {
+   "id": 3444,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío anduvo gorriao como dos años y nunca se dio cuenta, ¿podís creerlo?",
+   "frase_neutralizada": "La pareja de mi tío lo engañó durante unos dos años y él nunca se dio cuenta, ¿puedes creerlo?",
+   "nota": "Frase sin sentido con pelota; nueva frase de infidelidad."
+  },
+  {
+   "id": 3445,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El gringo que nos vendió el auto era de Texas, cachai.",
+   "frase_neutralizada": "El estadounidense que nos vendió el auto era de Texas, ¿sabes?",
+   "nota": "Se añade contexto estadounidense y rasgo chileno."
+  },
+  {
+   "id": 3446,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi prima se casó con un gringo y ahora vive en Florida.",
+   "frase_neutralizada": "Mi prima se casó con un estadounidense y ahora vive en Florida.",
+   "nota": "Frase pobre; nueva situación clara con sentido de estadounidense."
+  },
+  {
+   "id": 3447,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Me dicen gringo por ser rubio, pero soy más chileno que los porotos.",
+   "frase_neutralizada": "Me dicen extranjero por ser rubio, pero soy chileno de pura cepa.",
+   "nota": "Neutral usaba estadounidense para def 2; ahora extranjero."
+  },
+  {
+   "id": 3448,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El hostal estaba lleno de gringos: alemanes, franceses, holandeses, de todo.",
+   "frase_neutralizada": "El hostal estaba lleno de extranjeros: alemanes, franceses, holandeses, de todo.",
+   "nota": "Def 2 mal neutralizada; contexto deja claro 'extranjero' cualquiera."
+  },
+  {
+   "id": 3449,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ese gringo no habla ni una palabra de español, creo que es sueco.",
+   "frase_neutralizada": "Ese extranjero no habla ni una palabra de español, creo que es sueco.",
+   "nota": "'Extraño' no equivale; se usa extranjero y se aclara contexto."
+  },
+  {
+   "id": 3450,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La gringa que se está quedando donde mi tía nos invitó a un carrete.",
+   "frase_neutralizada": "La extranjera que se está quedando en casa de mi tía nos invitó a una fiesta.",
+   "nota": "'Tu gringa' raro; se añaden chilenismos naturales."
+  },
+  {
+   "id": 3451,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién es la gringa que estaba conversando con el Pepe?",
+   "frase_neutralizada": "¿Quién es la extranjera que estaba conversando con Pepe?",
+   "nota": "Pregunta poco natural; ajustada."
+  },
+  {
+   "id": 3452,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da lo mismo si es gringa o chilena, lo único que quiero es que sea buena onda.",
+   "frase_neutralizada": "Me da igual si es extranjera o chilena, lo único que quiero es que sea simpática.",
+   "nota": "Más natural; neutral usa extranjera por el contraste con chilena."
+  },
+  {
+   "id": 3453,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La gringa del departamento de al lado habla puro inglés, no le entiendo ni jota.",
+   "frase_neutralizada": "La estadounidense del apartamento de al lado solo habla inglés, no le entiendo nada.",
+   "nota": "Frase original poco natural; nueva situación."
+  },
+  {
+   "id": 3454,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano anda pololeando con una gringa que conoció en Pucón.",
+   "frase_neutralizada": "Mi hermano anda de novio con una extranjera que conoció en Pucón.",
+   "nota": "Frase sin rasgos chilenos; nueva situación."
+  },
+  {
+   "id": 3455,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Susana se consiguió una beca y se va a estudiar a Gringolandia el otro año.",
+   "frase_neutralizada": "Susana consiguió una beca y se va a estudiar a Estados Unidos el próximo año.",
+   "nota": "Casi copiaba el ejemplo; neutral cambiaba significado."
+  },
+  {
+   "id": 3456,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me perdí en el aeropuerto apenas llegué a Gringolandia, no cachaba nada.",
+   "frase_neutralizada": "Me perdí en el aeropuerto apenas llegué a Estados Unidos, no entendía nada.",
+   "nota": "'Me desconozco' agramatical; ahora natural."
+  },
+  {
+   "id": 3457,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tío dice que en Gringolandia se gana harta plata, pero la salud es carísima.",
+   "frase_neutralizada": "Mi tío dice que en Estados Unidos se gana mucho dinero, pero la salud es carísima.",
+   "nota": "Frase genérica; se vuelve coloquial."
+  },
+  {
+   "id": 3458,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Todas las series que veo son de Gringolandia, casi nunca veo cosas chilenas.",
+   "frase_neutralizada": "Todas las series que veo son de Estados Unidos, casi nunca veo cosas chilenas.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3459,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Compré las zapatillas por internet y se demoraron un mes en llegar desde Gringolandia.",
+   "frase_neutralizada": "Compré las zapatillas deportivas por internet y tardaron un mes en llegar desde Estados Unidos.",
+   "nota": "No contenía la expresión y neutral cambiaba sentido."
+  },
+  {
+   "id": 3460,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi cuñada es grone, se crió en Brasil y habla portugués perfecto.",
+   "frase_neutralizada": "Mi cuñada es negra, se crió en Brasil y habla portugués perfecto.",
+   "nota": "'Grona' no se usa; grone es invariable."
+  },
+  {
+   "id": 3461,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El grone que vende helados en la plaza es súper buena onda.",
+   "frase_neutralizada": "El hombre negro que vende helados en la plaza es muy simpático.",
+   "nota": "'Grona' inexistente y frase forzada; nueva situación."
+  },
+  {
+   "id": 3462,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En mi curso hay dos grones que llegaron de Haití el año pasado.",
+   "frase_neutralizada": "En mi clase hay dos chicos negros que llegaron de Haití el año pasado.",
+   "nota": "Copiaba el ejemplo del diccionario; nueva situación."
+  },
+  {
+   "id": 3463,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién es el grone que está conversando con el Juan?",
+   "frase_neutralizada": "¿Quién es el hombre negro que está conversando con Juan?",
+   "nota": "Ajuste de naturalidad y artículo chileno."
+  },
+  {
+   "id": 3464,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tosté tanto en la playa que mis amigos dicen que quedé grone.",
+   "frase_neutralizada": "Me bronceé tanto en la playa que mis amigos dicen que quedé moreno.",
+   "nota": "Def 2 es broma; se usa sentido de tez morena."
+  },
+  {
+   "id": 3465,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué groso estuvo el concierto anoche, weón!",
+   "frase_neutralizada": "¡Qué increíble estuvo el concierto anoche, amigo!",
+   "nota": "Tilde y tiempo verbal corregidos; se mantiene exclamación."
+  },
+  {
+   "id": 3466,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El partido de hoy estuvo groso, ganamos en el último minuto.",
+   "frase_neutralizada": "El partido de hoy estuvo genial, ganamos en el último minuto.",
+   "nota": "Frase redundante y agramatical; simplificada."
+  },
+  {
+   "id": 3467,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No lo puedo creer, ese restaurante es demasiado groso, comí como rey.",
+   "frase_neutralizada": "No lo puedo creer, ese restaurante es buenísimo, comí como un rey.",
+   "nota": "'No me creo' incorrecto; corregido."
+  },
+  {
+   "id": 3468,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué groso este paisaje! Valió la pena subir el cerro.",
+   "frase_neutralizada": "¡Qué espectacular este paisaje! Valió la pena subir el cerro.",
+   "nota": "Tildes y signos corregidos; neutral sin 'que' sin tilde."
+  },
+  {
+   "id": 3469,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro nuevo del equipo es groso, se pasó a tres defensas solo.",
+   "frase_neutralizada": "El chico nuevo del equipo es buenísimo, regateó a tres defensas él solo.",
+   "nota": "Frase incoherente ('tío jugador'); nueva situación."
+  },
+  {
+   "id": 3470,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Guachita, no te pongai así, ven pa'cá y dame la mano.",
+   "frase_neutralizada": "Cariño, no te pongas así, ven acá y dame la mano.",
+   "nota": "Neutral decía 'Hombre'; guachita es cariño hacia mujer."
+  },
+  {
+   "id": 3471,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Guachita, siempre andai tan linda, ¿cómo lo hací?",
+   "frase_neutralizada": "Cariño, siempre estás tan linda, ¿cómo lo haces?",
+   "nota": "Concordancia 'lindo' y 'Hombre' erróneos."
+  },
+  {
+   "id": 3472,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranquila, guachita, todo te va a salir bien en la prueba.",
+   "frase_neutralizada": "Tranquila, cariño, todo te va a salir bien en el examen.",
+   "nota": "Neutral con 'Hombre' y frase agramatical; corregido."
+  },
+  {
+   "id": 3473,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué te pasó, guachita? Tenís los ojos rojos de tanto llorar.",
+   "frase_neutralizada": "¿Qué te pasó, cariño? Tienes los ojos rojos de tanto llorar.",
+   "nota": "Se reemplaza 'Hombre' y se da contexto afectivo."
+  },
+  {
+   "id": 3474,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Guachita, aprovecha esta pega, mira que oportunidades así no llegan siempre.",
+   "frase_neutralizada": "Mi niña, aprovecha este trabajo, que oportunidades así no llegan siempre.",
+   "nota": "'Hombre' cambiaba sentido; se añade contexto."
+  },
+  {
+   "id": 3475,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pancho se crió guacho, su papá nunca lo quiso reconocer.",
+   "frase_neutralizada": "Pancho se crió sin padre, su papá nunca lo quiso reconocer.",
+   "nota": "Muy cercano al ejemplo; nueva variante de hijo no reconocido."
+  },
+  {
+   "id": 3476,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Perdí un aro en la micro y el otro quedó guacho.",
+   "frase_neutralizada": "Perdí un arete en el autobús y el otro quedó sin pareja.",
+   "nota": "Bebé huérfano recién nacido era incoherente; se usa def 3."
+  },
+  {
+   "id": 3477,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¡Guachos, junten plata pa' las chelas del carrete!",
+   "frase_neutralizada": "¡Amigos, junten dinero para las cervezas de la fiesta!",
+   "nota": "Mezcla con inglés y 'festa'; ahora natural."
+  },
+  {
+   "id": 3478,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Qué onda, guachos? ¿Quién se apunta pa' la pichanga del sábado?",
+   "frase_neutralizada": "¿Qué tal, amigos? ¿Quién se anima al partido de fútbol del sábado?",
+   "nota": "Frase poco natural; nueva situación distinta."
+  },
+  {
+   "id": 3479,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Todos llegaron con pareja al matrimonio y yo era el único guacho.",
+   "frase_neutralizada": "Todos llegaron con pareja a la boda y yo era el único sin pareja.",
+   "nota": "Restaurante sin pareja no tenía sentido; explicaba la expresión."
+  }
+ ]
+}

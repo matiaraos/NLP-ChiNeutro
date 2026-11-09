@@ -1,0 +1,340 @@
+{
+ "lote": 54,
+ "claves": [
+  "pepito paga doble",
+  "perro muerto",
+  "pesado de sangre",
+  "pescar",
+  "petaca",
+  "piante",
+  "picada",
+  "pichanga"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2682736,
+ "duracion_s": 99.3,
+ "pares": [
+  {
+   "id": 2160,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el Paseo Ahumada había un loco con el pepito paga doble y la gente igual apostaba.",
+   "frase_neutralizada": "En el Paseo Ahumada había un tipo con la estafa callejera de los vasitos y la gente igual apostaba.",
+   "nota": "Original incoherente (dinero real); nueva situación callejera concreta."
+  },
+  {
+   "id": 2161,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío perdió como veinte lucas en el pepito paga doble, era puro cuento.",
+   "frase_neutralizada": "Mi tío perdió como veinte mil pesos en el juego callejero de los vasitos, era pura estafa.",
+   "nota": "Original explicaba el significado; nueva frase natural con lucas."
+  },
+  {
+   "id": 2162,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te metai al pepito paga doble, los que ganan son todos compinches del que mueve las fichas.",
+   "frase_neutralizada": "No te metas en el juego de los vasitos, los que ganan son todos cómplices del que mueve las fichas.",
+   "nota": "Frase poco natural; se ajusta a consejo realista y se neutraliza voseo."
+  },
+  {
+   "id": 2163,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegaron los pacos y el del pepito paga doble arrancó con diario y todo.",
+   "frase_neutralizada": "Llegaron los policías y el del juego callejero de los vasitos salió corriendo con periódico y todo.",
+   "nota": "Original explicativo; neutral 'este juego' perdía la referencia."
+  },
+  {
+   "id": 2164,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando era cabro chico creía que en el pepito paga doble se podía ganar de verdad.",
+   "frase_neutralizada": "Cuando era niño creía que en el juego callejero de los vasitos se podía ganar de verdad.",
+   "nota": "Original definía la expresión; 'falsificado' era incorrecto."
+  },
+  {
+   "id": 2165,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros hicieron perro muerto en el bar y el mesero salió corriendo detrás.",
+   "frase_neutralizada": "Los chicos se fueron del bar sin pagar y el mesero salió corriendo detrás de ellos.",
+   "nota": "Neutral cambiaba bar por tienda; 'un perro muerto' poco natural."
+  },
+  {
+   "id": 2166,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ni se te ocurra hacer perro muerto, el dueño de este local es amigo de mi viejo.",
+   "frase_neutralizada": "Ni se te ocurra irte sin pagar, el dueño de este local es amigo de mi papá.",
+   "nota": "Original incoherente y agramatical; nueva situación clara."
+  },
+  {
+   "id": 2167,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Supiste que el Pancho hizo perro muerto en el restorán donde celebramos el cumpleaños?",
+   "frase_neutralizada": "¿Supiste que Pancho se fue sin pagar del restaurante donde celebramos el cumpleaños?",
+   "nota": "'Nuestra novia' absurdo y omitido en neutral; se corrige."
+  },
+  {
+   "id": 2168,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El taxista me contó que anoche un pasajero le hizo perro muerto.",
+   "frase_neutralizada": "El taxista me contó que anoche un pasajero se le fue sin pagar.",
+   "nota": "Supermercado sugería robo, no irse sin pagar una cuenta."
+  },
+  {
+   "id": 2169,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Íbamos a hacer perro muerto en la shopería, pero el guardia nos cachó en la puerta.",
+   "frase_neutralizada": "Íbamos a irnos de la cervecería sin pagar, pero el guardia nos descubrió en la puerta.",
+   "nota": "Fútbol no encajaba con pagar cuenta; neutral confusa."
+  },
+  {
+   "id": 2170,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La suegra de mi hermana es súper pesada de sangre, nadie la aguanta en los asados.",
+   "frase_neutralizada": "La suegra de mi hermana es muy antipática, nadie la aguanta en las parrilladas.",
+   "nota": "Discordancia gente/persona y 'no me aguanto' mal usado."
+  },
+  {
+   "id": 2171,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Igual voy a comprar en esa tienda, aunque el dueño sea medio pesado de sangre.",
+   "frase_neutralizada": "Igual voy a comprar en esa tienda, aunque el dueño sea algo antipático.",
+   "nota": "Frase forzada y larga; se simplifica a registro coloquial."
+  },
+  {
+   "id": 2172,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No sé por qué, pero el nuevo de la pega me cae mal, es como pesado de sangre.",
+   "frase_neutralizada": "No sé por qué, pero el nuevo del trabajo me cae mal, es como antipático.",
+   "nota": "Original no contenía la expresión; hablaba de tipo de sangre."
+  },
+  {
+   "id": 2173,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No quiero ir al carrete, van puros amigos pesados de sangre del Rodrigo.",
+   "frase_neutralizada": "No quiero ir a la fiesta, van solo amigos antipáticos de Rodrigo.",
+   "nota": "'Llena de sangre pesada' antinatural; neutral cambiaba número."
+  },
+  {
+   "id": 2174,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese profe es tan pesado de sangre que nadie le pregunta nada en clases.",
+   "frase_neutralizada": "Ese profesor es tan antipático que nadie le pregunta nada en clase.",
+   "nota": "Mezclaba 'poner el pie en la quema', expresión inexistente."
+  },
+  {
+   "id": 2175,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, pesca lo que te estoy diciendo, que es importante.",
+   "frase_neutralizada": "Vamos, presta atención a lo que te estoy diciendo, que es importante.",
+   "nota": "Usaba pescar como esforzarse; ahora es prestar atención."
+  },
+  {
+   "id": 2176,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le pregunté tres veces a la vendedora y ni me pescó.",
+   "frase_neutralizada": "Le pregunté tres veces a la vendedora y ni me hizo caso.",
+   "nota": "Sentido de aprender era incorrecto."
+  },
+  {
+   "id": 2177,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No pesquís a esos gallos, están puro webiando pa que te enojís.",
+   "frase_neutralizada": "No les hagas caso a esos tipos, solo están molestando para que te enojes.",
+   "nota": "Sentido de hablar era incorrecto; ahora ignorar a alguien."
+  },
+  {
+   "id": 2178,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Le escribo todos los días a la Cata, pero no me pesca ni en bajada.",
+   "frase_neutralizada": "Le escribo todos los días a Cata, pero no muestra ni el más mínimo interés en mí.",
+   "nota": "No contenía la expresión (usaba 'peso')."
+  },
+  {
+   "id": 2179,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Desde que tiene polola, el Seba ya no nos pesca pa nada.",
+   "frase_neutralizada": "Desde que tiene novia, Seba ya no nos hace caso para nada.",
+   "nota": "Sentido de trabajar duro era incorrecto."
+  },
+  {
+   "id": 2180,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llevemos una petaca a la fonda, que adentro el copete sale carísimo.",
+   "frase_neutralizada": "Llevemos una botellita de licor de bolsillo a la fiesta popular, que adentro el alcohol sale carísimo.",
+   "nota": "Lógica invertida (alcohol barato); se corrige el motivo."
+  },
+  {
+   "id": 2181,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sin mi petaca no entro a la disco, los tragos ahí son un robo.",
+   "frase_neutralizada": "Sin mi botellita de licor no entro a la discoteca, las bebidas ahí son un robo.",
+   "nota": "Se hace más natural y coloquial."
+  },
+  {
+   "id": 2182,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Me prestai tu petaca pal partido? La mía se me quedó en la casa.",
+   "frase_neutralizada": "¿Me prestas tu botellita de licor para el partido? La mía se me quedó en casa.",
+   "nota": "Pronombres duplicados y agramaticales en ambas frases."
+  },
+  {
+   "id": 2183,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuelo tiene una petaca de metal que le regalaron pa su matrimonio.",
+   "frase_neutralizada": "Mi abuelo tiene una botellita de metal para licor que le regalaron en su boda.",
+   "nota": "Original demasiado corto y sin contexto."
+  },
+  {
+   "id": 2184,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El guardia me revisó entero, pero la petaca la llevaba en el calcetín y no la cachó.",
+   "frase_neutralizada": "El guardia me revisó entero, pero la botellita de licor la llevaba en el calcetín y no la vio.",
+   "nota": "Def 2 dudosa; 'gran cabro petaca' sin sentido; se usa def 1."
+  },
+  {
+   "id": 2185,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Andai terrible piante con esas zapatillas nuevas, ¿dónde las compraste?",
+   "frase_neutralizada": "Andas con muchísimo estilo con esas zapatillas nuevas, ¿dónde las compraste?",
+   "nota": "Discordancia de número en neutral; frase poco chilena."
+  },
+  {
+   "id": 2186,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cantante llegó todo piante al show, con cadenas y lentes de marca.",
+   "frase_neutralizada": "El cantante llegó con mucho estilo al espectáculo, con cadenas y lentes de marca.",
+   "nota": "Frase sin contexto; se añade situación natural."
+  },
+  {
+   "id": 2187,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Me gusta la Javi porque es medio piante, no le tiene miedo a nada y dice lo que piensa.",
+   "frase_neutralizada": "Me gusta Javi porque es algo descarada y atrevida, no le tiene miedo a nada y dice lo que piensa.",
+   "nota": "Def 2 contradictoria; se usa sentido de atrevido sin límites."
+  },
+  {
+   "id": 2188,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "¿Por qué te ponís tan piante conmigo? Yo no te he hecho na.",
+   "frase_neutralizada": "¿Por qué te pones tan desafiante conmigo? Yo no te he hecho nada.",
+   "nota": "'Sos' es voseo rioplatense; neutral cambiaba la pregunta."
+  },
+  {
+   "id": 2189,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "A mi vieja le pareció súper piante la fiesta del vecino, con reggaetón a todo chancho hasta las seis.",
+   "frase_neutralizada": "A mi mamá le pareció muy ordinaria la fiesta del vecino, con reguetón a todo volumen hasta las seis.",
+   "nota": "Mezclaba sentidos; ahora ilustra solo 'ordinario'."
+  },
+  {
+   "id": 2190,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Conozco una picada de sushi en Prat donde con cinco lucas quedai lleno.",
+   "frase_neutralizada": "Conozco un local de sushi barato y abundante en la calle Prat donde con cinco mil pesos quedas lleno.",
+   "nota": "Neutral decía 'comida' en vez de local recomendado."
+  },
+  {
+   "id": 2191,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la esquina de calle España hay una picá de mariscos buenísima, cachai.",
+   "frase_neutralizada": "En la esquina de la calle España hay un local de mariscos barato y abundante, buenísimo, ¿sabes?",
+   "nota": "Neutral perdía la idea de local; 'chupe' cambiado por mariscos."
+  },
+  {
+   "id": 2192,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo siempre nos lleva a una picada del centro donde los completos son enormes.",
+   "frase_neutralizada": "Mi papá siempre nos lleva a un local barato del centro donde los hot dogs son enormes.",
+   "nota": "Usaba picada como plato, no como local."
+  },
+  {
+   "id": 2193,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La Fran quedó picada porque le gané la discusión delante de todos.",
+   "frase_neutralizada": "Fran quedó resentida porque le gané la discusión delante de todos.",
+   "nota": "Situación confusa; neutral con 'o' definitorio."
+  },
+  {
+   "id": 2194,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La vecina quedó picada cuando supo que me había ganado el sorteo.",
+   "frase_neutralizada": "La vecina quedó envidiosa y molesta cuando supo que yo había ganado el sorteo.",
+   "nota": "Neutral usaba disyunción definitoria; se ajusta."
+  },
+  {
+   "id": 2195,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No voy a poder ir al almuerzo, quedé de jugar una pichanga con los de la pega.",
+   "frase_neutralizada": "No voy a poder ir al almuerzo, quedé en jugar un partido de fútbol informal con los compañeros del trabajo.",
+   "nota": "Muy similar al ejemplo; 'partida' incorrecto en neutral."
+  },
+  {
+   "id": 2196,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Armamos una pichanga en la cancha del colegio después de clases?",
+   "frase_neutralizada": "¿Organizamos un partido de fútbol entre amigos en la cancha del colegio después de clases?",
+   "nota": "'Partida' incorrecto; frase más natural."
+  },
+  {
+   "id": 2197,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Pidamos una pichanga grande pa compartir, en Temuco las sirven gigantes.",
+   "frase_neutralizada": "Pidamos un plato grande de papas fritas con carnes, huevo y queso para compartir; en Temuco lo sirven gigante.",
+   "nota": "Original agramatical; neutral decía 'preguntarme'."
+  },
+  {
+   "id": 2198,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "A mí la pichanga me gusta sin aceitunas, pero con harta palta y huevo frito.",
+   "frase_neutralizada": "A mí el plato de papas fritas con carnes me gusta sin aceitunas, pero con mucho aguacate y huevo frito.",
+   "nota": "Ambiguo con def 3; se añaden ingredientes del plato sureño."
+  },
+  {
+   "id": 2199,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Saca la pichanga del refri pa picar algo mientras llegan los demás.",
+   "frase_neutralizada": "Saca del refrigerador los encurtidos con queso y jamón para picar algo mientras llegan los demás.",
+   "nota": "Frase muy corta; neutral exageradamente descriptiva."
+  }
+ ]
+}

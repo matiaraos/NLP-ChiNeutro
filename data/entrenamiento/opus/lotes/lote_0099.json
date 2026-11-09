@@ -1,0 +1,340 @@
+{
+ "lote": 99,
+ "claves": [
+  "marraqueta",
+  "mateo",
+  "me carga",
+  "me da la pera",
+  "me da paja",
+  "me importa un pico",
+  "me teni chato",
+  "me tiene chata"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2345106,
+ "duracion_s": 82.6,
+ "pares": [
+  {
+   "id": 3960,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué querís pa'l desayuno? Voy a comprar unas marraquetas al almacén de la esquina.",
+   "frase_neutralizada": "¿Qué quieres para el desayuno? Voy a comprar unos panes franceses en la tienda de la esquina.",
+   "nota": "Contexto más natural; se neutralizó el voseo y 'pa'l'."
+  },
+  {
+   "id": 3961,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La marraqueta que te compré en la feria está buenísima, todavía calentita.",
+   "frase_neutralizada": "El pan francés que te compré en el mercado está buenísimo, todavía calientito.",
+   "nota": "La neutral decía 'la francesa' y cambiaba la persona; se corrigió."
+  },
+  {
+   "id": 3962,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No se te olvide comprar marraquetas mañana temprano pa' la once, po.",
+   "frase_neutralizada": "No te olvides de comprar pan francés mañana temprano para la merienda.",
+   "nota": "'Al bote' no tenía sentido; ahora es un encargo coherente."
+  },
+  {
+   "id": 3963,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hay una panadería en Ñuñoa que vende unas marraquetas de lujo, súper crujientes.",
+   "frase_neutralizada": "Hay una panadería en Ñuñoa que vende unos panes franceses excelentes, muy crujientes.",
+   "nota": "Se reemplazaron 'de lujo' y 'súper' por equivalentes neutros; se corrigió la tilde."
+  },
+  {
+   "id": 3964,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Una marraqueta con palta y tomate es lo mejor pa' empezar el día, po.",
+   "frase_neutralizada": "Un pan francés con aguacate y tomate es lo mejor para empezar el día.",
+   "nota": "'Feria de las marraquetas' era inventado; se escribió una situación nueva."
+  },
+  {
+   "id": 3965,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Ana es la más mateíta del curso, siempre se saca puros sietes.",
+   "frase_neutralizada": "Ana es la más estudiosa de la clase, siempre saca las calificaciones más altas.",
+   "nota": "La frase no contenía la expresión; se agregó."
+  },
+  {
+   "id": 3966,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Marcos no es na' mateo, se lo pasa carreteando y estudia la noche antes.",
+   "frase_neutralizada": "Marcos no es nada estudioso, se la pasa de fiesta y estudia la noche anterior.",
+   "nota": "Se quitó 'chiloteo' (no existe) y se corrigió el modo verbal de la neutral."
+  },
+  {
+   "id": 3967,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Pedro es mateo sin esfuerzo, no abre un cuaderno y igual se saca puros sietes.",
+   "frase_neutralizada": "Pedro saca excelentes notas sin esfuerzo, no abre un cuaderno y aun así saca las calificaciones más altas.",
+   "nota": "Era exagerado y la neutral perdía información; se ajustó."
+  },
+  {
+   "id": 3968,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Qué rabia la Sofía, es mateo sin abrir un libro, se lo pasa en el celu y le va la raja.",
+   "frase_neutralizada": "Qué rabia con Sofía, saca excelentes notas sin abrir un libro, se la pasa en el celular y le va de maravilla.",
+   "nota": "'Se burla de la clase' no ilustraba el sentido; ahora no estudia."
+  },
+  {
+   "id": 3969,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Teresa es la más matea del colegio, se queda estudiando hasta las tantas.",
+   "frase_neutralizada": "Teresa es la más estudiosa de la escuela, se queda estudiando hasta muy tarde.",
+   "nota": "Se cambió 'el mateo' por 'la más matea' para concordar en género."
+  },
+  {
+   "id": 3970,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me carga esa música, sácala porfa, no la aguanto.",
+   "frase_neutralizada": "Detesto esa música, quítala por favor, no la soporto.",
+   "nota": "Se hizo más natural; la neutral usa 'detesto', que es más fiel."
+  },
+  {
+   "id": 3971,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me carga el brócoli, desde chico que no lo puedo ni ver.",
+   "frase_neutralizada": "Detesto el brócoli, desde niño que no lo puedo ni ver.",
+   "nota": "Era redundante y la neutral cambiaba el número; se concretó la comida."
+  },
+  {
+   "id": 3972,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me carga ir a esas fiestas donde no conozco a nadie, así que no voy.",
+   "frase_neutralizada": "Detesto ir a esas fiestas donde no conozco a nadie, así que no voy.",
+   "nota": "'A esa fiesta me carga' era agramatical; se corrigió."
+  },
+  {
+   "id": 3973,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me cargan las películas de terror, después no puedo dormir en toda la noche.",
+   "frase_neutralizada": "Detesto las películas de terror, después no puedo dormir en toda la noche.",
+   "nota": "La neutral era agramatical; se reformuló todo el par."
+  },
+  {
+   "id": 3974,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me carga cuando la gente habla a gritos en el metro, es súper desubicado.",
+   "frase_neutralizada": "Detesto cuando la gente habla a gritos en el metro, es muy inapropiado.",
+   "nota": "La frase era genérica; se hizo una situación concreta y distinta."
+  },
+  {
+   "id": 3975,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da la pera ir a esa fiesta, dicen que siempre terminan a combos.",
+   "frase_neutralizada": "Me da miedo ir a esa fiesta, dicen que siempre terminan a golpes.",
+   "nota": "La frase no contenía la expresión; se agregó."
+  },
+  {
+   "id": 3976,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da la pera volver a hablar con el jefe después del condoro que me mandé.",
+   "frase_neutralizada": "Me da miedo volver a hablar con el jefe después del error que cometí.",
+   "nota": "Faltaba la expresión; se agregó y se neutralizó 'condoro'."
+  },
+  {
+   "id": 3977,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da la pera hablarle, tiene una cara de enojado terrible.",
+   "frase_neutralizada": "Me da miedo hablarle, tiene una cara de enojo terrible.",
+   "nota": "'Arrogante' no justificaba el miedo; se cambió el motivo."
+  },
+  {
+   "id": 3978,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da la pera pasar por ese parque de noche, está lleno de gente rara.",
+   "frase_neutralizada": "Me da miedo pasar por ese parque de noche, está lleno de gente extraña.",
+   "nota": "Faltaba la expresión; 'no me gusta' no expresaba miedo."
+  },
+  {
+   "id": 3979,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da la pera ese perro, es enorme y ladra como loco.",
+   "frase_neutralizada": "Me da miedo ese perro, es enorme y ladra como loco.",
+   "nota": "'Verlo desde lejos' era incoherente; se definió qué causa el miedo."
+  },
+  {
+   "id": 3980,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, no te dé paja y ayúdame a limpiar, si son cinco minutos.",
+   "frase_neutralizada": "Vamos, no te dé pereza y ayúdame a limpiar, son solo cinco minutos.",
+   "nota": "Ambas frases eran agramaticales y 'me hace flojo' no se usa."
+  },
+  {
+   "id": 3981,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me da paja cocinar hoy, pidamos algo por delivery mejor.",
+   "frase_neutralizada": "Me da pereza cocinar hoy, mejor pidamos algo a domicilio.",
+   "nota": "Hablar en público da nervios, no pereza; además 'me hace flojo' no se usa."
+  },
+  {
+   "id": 3982,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me da paja llamar a la compañía pa' reclamar, siempre te dejan esperando media hora.",
+   "frase_neutralizada": "Me da pereza llamar a la compañía para reclamar, siempre te dejan esperando media hora.",
+   "nota": "La original era incoherente; las definiciones 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 3983,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da una paja levantarme temprano los lunes pa' ir al colegio.",
+   "frase_neutralizada": "Me da mucha pereza levantarme temprano los lunes para ir a la escuela.",
+   "nota": "La def 2 duplica la def 1; se unificaron y se cambió el contexto."
+  },
+  {
+   "id": 3984,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da paja ir al gimnasio, pero si no voy después me arrepiento.",
+   "frase_neutralizada": "Me da pereza ir al gimnasio, pero si no voy después me arrepiento.",
+   "nota": "'Hacer el deporte' no era natural; se unificó a def 1."
+  },
+  {
+   "id": 3985,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Que se enojen si quieren, me importa un pico lo que piensen de mi chiste.",
+   "frase_neutralizada": "Que se enojen si quieren, me importa una mierda lo que piensen de mi chiste.",
+   "nota": "La neutral suavizaba el registro; se mantuvo vulgar y se corrigió la sintaxis."
+  },
+  {
+   "id": 3986,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cásate con quien querái, a mí me importa un pico.",
+   "frase_neutralizada": "Cásate con quien quieras, a mí me importa una mierda.",
+   "nota": "Se quitó lo del extraterrestre y se conservó el registro grosero."
+  },
+  {
+   "id": 3987,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me importa un pico el premio, yo hice la película porque quería.",
+   "frase_neutralizada": "Me importa una mierda el premio, yo hice la película porque quería.",
+   "nota": "La neutral cambiaba la persona ('le' por 'me'); se simplificó."
+  },
+  {
+   "id": 3988,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me importa un pico que no me hayai invitado a comer, igual tenía otros planes.",
+   "frase_neutralizada": "Me importa una mierda que no me hayas invitado a cenar, de todos modos tenía otros planes.",
+   "nota": "Se hizo más natural; la neutral mantiene el registro grosero."
+  },
+  {
+   "id": 3989,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me importa un pico si pierde el Colo, yo ni veo fútbol.",
+   "frase_neutralizada": "Me importa una mierda si pierde el Colo-Colo, yo ni veo fútbol.",
+   "nota": "'El partido pierde' era incoherente; ahora quien pierde es el equipo."
+  },
+  {
+   "id": 3990,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tenís chato con tus quejas, cámbiate el disco luego.",
+   "frase_neutralizada": "Me tienes harto con tus quejas, cambia de tema ya.",
+   "nota": "No contenía la expresión y la neutral cambiaba el significado."
+  },
+  {
+   "id": 3991,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tenís chato con tus atrasos, siempre te tengo que esperar media hora.",
+   "frase_neutralizada": "Me tienes harto con tus retrasos, siempre te tengo que esperar media hora.",
+   "nota": "Faltaba la expresión; se escribió un par nuevo."
+  },
+  {
+   "id": 3992,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tenís chato con esa serie, no hablai de otra cosa.",
+   "frase_neutralizada": "Me tienes harto con esa serie, no hablas de otra cosa.",
+   "nota": "La neutral no traducía la expresión ('me estoy aburriendo'); se corrigió."
+  },
+  {
+   "id": 3993,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya me teni chato, haz lo que querái y déjame tranquilo.",
+   "frase_neutralizada": "Ya me tienes harto, haz lo que quieras y déjame en paz.",
+   "nota": "Faltaba la expresión y la frase era agramatical."
+  },
+  {
+   "id": 3994,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tenís chato con tus problemas, arréglatelas solo por una vez.",
+   "frase_neutralizada": "Me tienes harto con tus problemas, arréglatelas solo por una vez.",
+   "nota": "La neutral no traducía bien la expresión; se dio coherencia al resto."
+  },
+  {
+   "id": 3995,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Juan, me tiene chata que siempre llegues tarde a buscarme.",
+   "frase_neutralizada": "Juan, me tiene harta que siempre llegues tarde a recogerme.",
+   "nota": "La segunda parte era incoherente; se aclaró qué causa el hartazgo."
+  },
+  {
+   "id": 3996,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tienes chata con tus celos, mi amor, ya no doy más.",
+   "frase_neutralizada": "Me tienes harta con tus celos, mi amor, ya no puedo más.",
+   "nota": "'Trastornes' sonaba raro y la neutral no traducía bien; se reformuló."
+  },
+  {
+   "id": 3997,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi mamá me tiene chata preguntándome todo el día si ya encontré pega.",
+   "frase_neutralizada": "Mi mamá me tiene harta preguntándome todo el día si ya encontré trabajo.",
+   "nota": "El vocativo con 'tiene' era confuso; se reformuló en tercera persona."
+  },
+  {
+   "id": 3998,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este taco de todos los días me tiene chata, ¿a ti no, Rafa?",
+   "frase_neutralizada": "Este tráfico de todos los días me tiene harta, ¿a ti no, Rafa?",
+   "nota": "Era vago y la neutral decía 'aburriendo'; se concretó la situación."
+  },
+  {
+   "id": 3999,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi jefe me tiene chata con sus llamadas a cualquier hora, ni el fin de semana me deja tranquila.",
+   "frase_neutralizada": "Mi jefe me tiene harta con sus llamadas a cualquier hora, ni el fin de semana me deja tranquila.",
+   "nota": "La persona gramatical era incoherente ('tus' llamadas); se unificó."
+  }
+ ]
+}

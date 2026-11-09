@@ -1,0 +1,340 @@
+{
+ "lote": 22,
+ "claves": [
+  "sacar la cresta",
+  "sacar la mierda",
+  "sacar los choros del canasto",
+  "sacar pica",
+  "sacarse la nona",
+  "saco wea",
+  "saco de hueas",
+  "saco de weas"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2598203,
+ "duracion_s": 95.1,
+ "pares": [
+  {
+   "id": 880,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si seguís molestando a mi hermana te voy a sacar la cresta, ¿cachai?",
+   "frase_neutralizada": "Si sigues molestando a mi hermana te voy a dar una paliza, ¿entiendes?",
+   "nota": "No incluía la expresión; ahora significa golpear a otro."
+  },
+  {
+   "id": 881,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El sábado les sacamos la cresta a los del otro curso en el fútbol, quedaron llorando.",
+   "frase_neutralizada": "El sábado les dimos una paliza a los del otro curso en el fútbol; terminaron llorando.",
+   "nota": "Frase incoherente; ahora ilustra ganar con mucha ventaja."
+  },
+  {
+   "id": 882,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Bájate de ese techo altiro, te vai a sacar la cresta si te resbalai.",
+   "frase_neutralizada": "Bájate de ese techo ahora mismo, te vas a dar un golpe tremendo si te resbalas.",
+   "nota": "Sin la expresión y sin sentido; ahora advierte de un accidente."
+  },
+  {
+   "id": 883,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Iba mirando el celular, me tropecé con la vereda y me saqué la cresta.",
+   "frase_neutralizada": "Iba mirando el celular, me tropecé con la acera y me di un golpe tremendo.",
+   "nota": "No incluía la expresión; ahora es golpe por caída."
+  },
+  {
+   "id": 884,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Felipe se sacó la cresta con la bici bajando el cerro, quedó todo raspado.",
+   "frase_neutralizada": "Felipe se dio un golpe tremendo con la bicicleta bajando el cerro; quedó todo raspado.",
+   "nota": "Frase sin sentido y sin expresión; nuevo uso: hacerse daño."
+  },
+  {
+   "id": 885,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si seguís agarrándome pal hueveo, te voy a sacar la mierda.",
+   "frase_neutralizada": "Si sigues burlándote de mí, te voy a dar una paliza.",
+   "nota": "Faltaba la expresión; se añadió y se ajustó la neutral."
+  },
+  {
+   "id": 886,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al loco que le robó el celular a mi vieja lo pillaron y le sacaron la mierda.",
+   "frase_neutralizada": "Al tipo que le robó el celular a mi mamá lo atraparon y le dieron una paliza.",
+   "nota": "Frase incomprensible; nueva situación de golpiza."
+  },
+  {
+   "id": 887,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los guardias le sacaron la mierda a un hincha a la salida del estadio.",
+   "frase_neutralizada": "Los guardias le dieron una paliza a un aficionado a la salida del estadio.",
+   "nota": "Sin la expresión y con modismos ajenos; reescrita."
+  },
+  {
+   "id": 888,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cállate, weón, o te juro que te saco la mierda aquí mismo.",
+   "frase_neutralizada": "Cállate, idiota, o te juro que te doy una paliza aquí mismo.",
+   "nota": "Faltaba la expresión; se corrigió la lógica de la amenaza."
+  },
+  {
+   "id": 889,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Nacho se sacó la mierda en la moto y está en la UCI.",
+   "frase_neutralizada": "Nacho tuvo un accidente gravísimo en la moto y está en cuidados intensivos.",
+   "nota": "Condición incoherente; ahora ilustra el accidente de tránsito."
+  },
+  {
+   "id": 890,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, deja de hacer ruido con ese lápiz, me estái sacando los choros del canasto.",
+   "frase_neutralizada": "Ya, deja de hacer ruido con ese lápiz, me estás haciendo perder la paciencia.",
+   "nota": "Faltaba la expresión; se añadió con situación concreta."
+  },
+  {
+   "id": 891,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los vecinos con su carrete hasta las cinco de la mañana me sacaron los choros del canasto.",
+   "frase_neutralizada": "Los vecinos, con su fiesta hasta las cinco de la mañana, me hicieron perder la paciencia.",
+   "nota": "Frase incoherente; nueva situación de provocación."
+  },
+  {
+   "id": 892,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi jefe me sacó los choros del canasto con tanta exigencia y terminé gritándole.",
+   "frase_neutralizada": "Mi jefe me hizo perder la paciencia con tanta exigencia y terminé gritándole.",
+   "nota": "Uso reflexivo erróneo y neutral sin sentido."
+  },
+  {
+   "id": 893,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con tantas preguntas tontas me estái sacando los choros del canasto, cabro.",
+   "frase_neutralizada": "Con tantas preguntas tontas me estás haciendo perder la paciencia, chico.",
+   "nota": "Uso reflexivo incorrecto; neutral decía 'me estoy provocando'."
+  },
+  {
+   "id": 894,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me sacaste los choros del canasto con esos comentarios tan pesados, no me hablís más así.",
+   "frase_neutralizada": "Me hiciste perder la paciencia con esos comentarios tan pesados, no me hables más así.",
+   "nota": "Error de concordancia; neutral más fiel al sentido."
+  },
+  {
+   "id": 895,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Juan siempre me saca pica con su auto nuevo, sabe que yo ando en micro.",
+   "frase_neutralizada": "Juan siempre me presume su auto nuevo para darme envidia; sabe que yo ando en autobús.",
+   "nota": "Neutral cambiaba el sentido; se quitó 'carajo'."
+  },
+  {
+   "id": 896,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los vecinos me sacan pica subiendo fotos de sus vacaciones en Brasil mientras yo estoy trabajando.",
+   "frase_neutralizada": "Los vecinos me dan envidia a propósito subiendo fotos de sus vacaciones en Brasil mientras yo estoy trabajando.",
+   "nota": "Neutral invertía quién envidia a quién."
+  },
+  {
+   "id": 897,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi prima anda sacando pica con que entró a Medicina en la Chile.",
+   "frase_neutralizada": "Mi prima anda presumiendo de que entró a Medicina en la Universidad de Chile.",
+   "nota": "Neutral invertía el sentido; ahora ilustra presumir."
+  },
+  {
+   "id": 898,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La Martina anda sacando pica con su chaqueta nueva en todo el carrete.",
+   "frase_neutralizada": "Martina anda presumiendo su chaqueta nueva en toda la fiesta.",
+   "nota": "No contenía la expresión; 'pavones' era incorrecto."
+  },
+  {
+   "id": 899,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano me saca pica con la Play que le regalaron, porque a mí no me dieron nada.",
+   "frase_neutralizada": "Mi hermano me provoca presumiéndome la PlayStation que le regalaron, porque a mí no me dieron nada.",
+   "nota": "No contenía la expresión; se reformuló la situación."
+  },
+  {
+   "id": 900,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me caí en la escalera del metro y me saqué la ñoña, weón.",
+   "frase_neutralizada": "Me caí en la escalera del metro y me di un golpe tremendo.",
+   "nota": "Faltaba tilde en 'saqué'; neutral más precisa."
+  },
+  {
+   "id": 901,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Fui a cabecear en la pichanga, choqué con el arquero y me saqué la ñoña.",
+   "frase_neutralizada": "Fui a cabecear en el partido de fútbol, choqué con el portero y me di un golpe tremendo.",
+   "nota": "'Me tocó una bola' no era natural; nueva situación."
+  },
+  {
+   "id": 902,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me paré de golpe, choqué con la puerta del mueble de la cocina y me saqué la ñoña.",
+   "frase_neutralizada": "Me levanté de golpe, choqué con la puerta del mueble de la cocina y me golpeé fortísimo.",
+   "nota": "Frase forzada; nueva situación de golpe fuerte."
+  },
+  {
+   "id": 903,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me toquís la rodilla, que ayer me saqué la ñoña patinando.",
+   "frase_neutralizada": "No me toques la rodilla, que ayer me di un golpe tremendo patinando.",
+   "nota": "Neutral cambiaba tiempo y sentido; se dio contexto."
+  },
+  {
+   "id": 904,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico se tiró en skate por la bajada y se sacó la ñoña contra un poste.",
+   "frase_neutralizada": "El niño se lanzó en patineta por la bajada y se dio un golpe tremendo contra un poste.",
+   "nota": "Lo del rayo era absurdo; nueva situación verosímil."
+  },
+  {
+   "id": 905,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cállate, sacowea, no tenís idea de lo que estái hablando.",
+   "frase_neutralizada": "Cállate, idiota, no tienes idea de lo que estás hablando.",
+   "nota": "Copiaba el ejemplo; neutral omitía el insulto."
+  },
+  {
+   "id": 906,
+   "accion": "corregido",
+   "def": 6,
+   "frase_chilena": "¿Pa qué invitaste al Rodrigo? Es un saco wea, nadie quiere conversar con él.",
+   "frase_neutralizada": "¿Para qué invitaste a Rodrigo? Es un imbécil, nadie quiere conversar con él.",
+   "nota": "Frase demasiado corta; se dio contexto de persona sin aporte."
+  },
+  {
+   "id": 907,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No seai saco wea, bájate de la reja antes de que llegue el guardia.",
+   "frase_neutralizada": "No seas idiota, bájate de la reja antes de que llegue el guardia.",
+   "nota": "Se añadió conducta estúpida concreta; 'por favor' sobraba."
+  },
+  {
+   "id": 908,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "El saco wea del Pancho chocó el auto de su papá por andar mirando el celular.",
+   "frase_neutralizada": "El idiota de Pancho chocó el auto de su papá por ir mirando el celular.",
+   "nota": "'Se caló' sin sentido y neutral errónea."
+  },
+  {
+   "id": 909,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese saco wea se pasó toda la reunión diciendo puras tonteras.",
+   "frase_neutralizada": "Ese idiota se pasó toda la reunión diciendo solo tonterías.",
+   "nota": "Repetía el par 907; nueva situación."
+  },
+  {
+   "id": 910,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El saco de hueas del Kevin se olvidó de inscribir el ramo y perdió el semestre.",
+   "frase_neutralizada": "El estúpido de Kevin se olvidó de inscribir la asignatura y perdió el semestre.",
+   "nota": "No usaba la expresión; 'de huevas' es otro sentido."
+  },
+  {
+   "id": 911,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai saco de hueas, te estoy diciendo que no le prestís plata a ese tipo.",
+   "frase_neutralizada": "No seas estúpido, te estoy diciendo que no le prestes dinero a ese tipo.",
+   "nota": "Se dio contexto más concreto y voseo chileno."
+  },
+  {
+   "id": 912,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Quién fue el saco de hueas que dejó la puerta abierta y se arrancó el perro?",
+   "frase_neutralizada": "¿Quién fue el estúpido que dejó la puerta abierta y se escapó el perro?",
+   "nota": "Usaba la expresión como comparación sin sentido."
+  },
+  {
+   "id": 913,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi cuñado es un saco de huevas, metió todos sus ahorros en una estafa piramidal.",
+   "frase_neutralizada": "Mi cuñado es un estúpido, metió todos sus ahorros en una estafa piramidal.",
+   "nota": "Comparación absurda; ahora es insulto a una persona."
+  },
+  {
+   "id": 914,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, saco de hueas, te pasaste del paradero y ahora vamos a tener que caminar.",
+   "frase_neutralizada": "Oye, estúpido, te pasaste de la parada y ahora vamos a tener que caminar.",
+   "nota": "Uso confuso; ahora es insulto directo."
+  },
+  {
+   "id": 915,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te dije que no te fueras por la Costanera a esta hora, saco de weas, ahora estamos atascados.",
+   "frase_neutralizada": "Te dije que no te fueras por la Costanera a esta hora, tonto testarudo, ahora estamos atascados.",
+   "nota": "Neutral inventaba significado; ahora muestra porfía."
+  },
+  {
+   "id": 916,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, saco de weas, si el profe dijo que la prueba era el lunes, no el martes.",
+   "frase_neutralizada": "Oye, tonto testarudo, si el profesor dijo que el examen era el lunes, no el martes.",
+   "nota": "Neutral añadía información; nueva situación de llevar la contraria."
+  },
+  {
+   "id": 917,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano es un saco de weas, le dijeron que no comiera mariscos y igual se comió un mariscal.",
+   "frase_neutralizada": "Mi hermano es un tonto testarudo, le dijeron que no comiera mariscos y aun así se comió un plato de mariscos.",
+   "nota": "Frase sin sentido y concordancia de género errónea."
+  },
+  {
+   "id": 918,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ojalá mi hermana no se case con ese saco de weas, cada once familiar termina en pelea.",
+   "frase_neutralizada": "Ojalá mi hermana no se case con ese tonto testarudo, cada merienda familiar termina en pelea.",
+   "nota": "Frase poco natural; se dio contexto concreto."
+  },
+  {
+   "id": 919,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Deja de ser saco de weas y ponte el casco, que te puede pasar algo.",
+   "frase_neutralizada": "Deja de ser tan tonto y testarudo y ponte el casco, que te puede pasar algo.",
+   "nota": "Género incorrecto y frase sin sentido."
+  }
+ ]
+}

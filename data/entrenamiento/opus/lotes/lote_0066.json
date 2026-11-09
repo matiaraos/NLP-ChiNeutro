@@ -1,0 +1,340 @@
+{
+ "lote": 66,
+ "claves": [
+  "andar acumulado",
+  "acumulado",
+  "andar aguja",
+  "aguja",
+  "andar churrete",
+  "andar con la pera",
+  "andai con la pera",
+  "andar en la rama"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2570364,
+ "duracion_s": 90.7,
+ "pares": [
+  {
+   "id": 2640,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pancho anda acumulado desde que se casó, dice que la señora nunca quiere.",
+   "frase_neutralizada": "Pancho lleva mucho tiempo sin tener sexo desde que se casó; dice que su esposa nunca quiere.",
+   "nota": "Neutral agramatical ('mantenido abstenerse'); se agrega contexto que da sentido."
+  },
+  {
+   "id": 2641,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tú y mi primo andan acumulados, se nota, miran a todas las minas que pasan.",
+   "frase_neutralizada": "Tú y mi primo llevan mucho tiempo sin tener sexo, se nota; miran a todas las chicas que pasan.",
+   "nota": "Quitado 'andáis' (vosotros) y neutral agramatical."
+  },
+  {
+   "id": 2642,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te preocupís, mi pololo no anda acumulado, así que no va a andar mirando a otras.",
+   "frase_neutralizada": "No te preocupes, mi novio no lleva mucho tiempo sin tener sexo, así que no va a estar mirando a otras.",
+   "nota": "'No me preocupes' erróneo; neutral agramatical corregida."
+  },
+  {
+   "id": 2643,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te acordai de la Javi del colegio? Andaba más acumulada que la cresta en cuarto medio.",
+   "frase_neutralizada": "¿Te acuerdas de Javi, la del colegio? Hacía muchísimo tiempo que no tenía sexo en el último año de secundaria.",
+   "nota": "Frase poco natural y neutral agramatical; se reformuló."
+  },
+  {
+   "id": 2644,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llevo como un año sin pareja, ando más acumulado que monje tibetano.",
+   "frase_neutralizada": "Llevo como un año sin pareja; llevo más tiempo sin sexo que un monje tibetano.",
+   "nota": "Sentido invertido y neutral agramatical; ahora comparación con monje."
+  },
+  {
+   "id": 2645,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuidado con el Seba en el carrete, anda acumulado y se le tira a todas.",
+   "frase_neutralizada": "Cuidado con Seba en la fiesta, lleva mucho tiempo sin tener sexo y les coquetea a todas.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2646,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Salgamos esta noche po, que estoy acumulado y necesito conocer a alguien.",
+   "frase_neutralizada": "Salgamos esta noche, que llevo mucho tiempo sin tener sexo y necesito conocer a alguien.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2647,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Igual que tú, estoy acumulado desde que me separé, ya ni me acuerdo cómo era.",
+   "frase_neutralizada": "Igual que tú, llevo mucho tiempo sin tener sexo desde que me separé; ya ni me acuerdo cómo era.",
+   "nota": "Neutral agramatical; se alejó del ejemplo del diccionario."
+  },
+  {
+   "id": 2648,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Caro está súper acumulada, por eso anda tan mañosa toda la semana.",
+   "frase_neutralizada": "Caro lleva mucho tiempo sin tener sexo; por eso ha estado tan malhumorada toda la semana.",
+   "nota": "Mezclaba con casarse; neutral agramatical."
+  },
+  {
+   "id": 2649,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy acumulada, pero tampoco me voy a meter con cualquiera, ¿cachai?",
+   "frase_neutralizada": "Llevo mucho tiempo sin tener sexo, pero tampoco me voy a acostar con cualquiera, ¿entiendes?",
+   "nota": "Incoherencia de género y sentido contradictorio; neutral agramatical."
+  },
+  {
+   "id": 2650,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el centro tenís que andar aguja con el celular, que te lo sacan al toque.",
+   "frase_neutralizada": "En el centro tienes que estar atento con el celular, porque te lo roban enseguida.",
+   "nota": "No contenía la expresión; frase sin sentido."
+  },
+  {
+   "id": 2651,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando vuelvas tarde por el pasaje, anda aguja, que ahí han asaltado harto.",
+   "frase_neutralizada": "Cuando regreses tarde por el callejón, mantente alerta, que ahí han asaltado mucho.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2652,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ojo con ese perro, anda aguja que muerde sin avisar.",
+   "frase_neutralizada": "Cuidado con ese perro, mantente alerta, que muerde sin avisar.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2653,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu hermana se fue sola a la feria; dile que ande aguja con la cartera.",
+   "frase_neutralizada": "Tu hermana fue sola al mercado; dile que esté atenta con el bolso.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2654,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el estadio hay que andar aguja, en cualquier momento se arma la pelea.",
+   "frase_neutralizada": "En el estadio hay que estar atento, en cualquier momento empieza una pelea.",
+   "nota": "No contenía la expresión; neutral con errores."
+  },
+  {
+   "id": 2655,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este camino es peligroso de noche, así que vamos aguja, ¿ya?",
+   "frase_neutralizada": "Este camino es peligroso de noche, así que vamos atentos, ¿de acuerdo?",
+   "nota": "No contenía 'aguja'; errores ('peligro', 'precavados')."
+  },
+  {
+   "id": 2656,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En el metro a la hora punta hay que andar aguja, que los lanzas están por todos lados.",
+   "frase_neutralizada": "En el metro en hora pico hay que estar atento, que los carteristas están por todos lados.",
+   "nota": "Frase poco natural; se dio contexto concreto."
+  },
+  {
+   "id": 2657,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Rodrigo es súper aguja, se enteró del ascenso antes que todos y fue a hablar con el jefe.",
+   "frase_neutralizada": "Rodrigo es muy avispado; se enteró del ascenso antes que todos y fue a hablar con el jefe.",
+   "nota": "Faltaba matiz oportunista; 'un aguja' poco natural."
+  },
+  {
+   "id": 2658,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La Coni es terrible aguja, apenas vio el puesto libre en la pega lo pidió al tiro.",
+   "frase_neutralizada": "Coni es muy avispada; apenas vio el puesto libre en el trabajo, lo pidió de inmediato.",
+   "nota": "Copiaba ejemplo; neutral conservaba 'terrible' y cambiaba sentido."
+  },
+  {
+   "id": 2659,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anda aguja en el carrete, que a la Fran le echaron algo en el copete la otra vez.",
+   "frase_neutralizada": "Mantente atento en la fiesta, que a Fran le pusieron algo en la bebida la otra vez.",
+   "nota": "Def 3 con votos negativos y copia del ejemplo; cambiado a def 1."
+  },
+  {
+   "id": 2660,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tuviste suerte, yo ando churrete desde que comimos en ese chino.",
+   "frase_neutralizada": "Tuviste suerte; yo tengo diarrea desde que comimos en ese restaurante chino.",
+   "nota": "Errores gramaticales ('eres más suerte', 'andaste'); neutral imprecisa."
+  },
+  {
+   "id": 2661,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Justo cuando llegó la micro me di cuenta de que andaba churrete y tuve que volver.",
+   "frase_neutralizada": "Justo cuando llegó el autobús me di cuenta de que tenía diarrea y tuve que regresar.",
+   "nota": "'Cuando el rato llegó' sin sentido; 'andando' poco natural."
+  },
+  {
+   "id": 2662,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No como más mariscos en la playa, la última vez anduve churrete tres días.",
+   "frase_neutralizada": "No vuelvo a comer mariscos en la playa; la última vez tuve diarrea tres días.",
+   "nota": "No usaba 'andar churrete'; neutral perdía información."
+  },
+  {
+   "id": 2663,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me sirvas almuerzo, que ando churrete desde anoche.",
+   "frase_neutralizada": "No me sirvas almuerzo, que tengo diarrea desde anoche.",
+   "nota": "'Te lo digo que' agramatical; neutral más precisa."
+  },
+  {
+   "id": 2664,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ando churrete, así que no voy a poder ir al carrete del sábado.",
+   "frase_neutralizada": "Tengo diarrea, así que no voy a poder ir a la fiesta del sábado.",
+   "nota": "Gerundio poco natural; se ajustó la construcción."
+  },
+  {
+   "id": 2665,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y vai a pelear o no? Andai con la pera, puro bla bla no más.",
+   "frase_neutralizada": "¿Y vas a pelear o no? Tienes miedo, solo hablas y nada más.",
+   "nota": "No contenía la expresión; voseo rioplatense."
+  },
+  {
+   "id": 2666,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te desafié a tirarte del trampolín y te echaste pa' atrás, andai con la pera.",
+   "frase_neutralizada": "Te desafié a lanzarte del trampolín y te echaste para atrás; tienes miedo.",
+   "nota": "No contenía la expresión; frase incoherente."
+  },
+  {
+   "id": 2667,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Nico anda con la pera desde que le dijeron que lo andaban buscando en la pobla.",
+   "frase_neutralizada": "Nico anda con miedo desde que le dijeron que lo estaban buscando en el barrio.",
+   "nota": "Frase forzada; neutral usaba imperativo y cambiaba sentido."
+  },
+  {
+   "id": 2668,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mañana tengo que presentar la tesis y ando con la pera, no he dormido nada.",
+   "frase_neutralizada": "Mañana tengo que presentar la tesis y tengo miedo; no he dormido nada.",
+   "nota": "Contexto de restaurante sin sentido; neutral cambiaba persona."
+  },
+  {
+   "id": 2669,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "El gato apenas le bufó y el Benja salió arrancando, anda con la pera.",
+   "frase_neutralizada": "El gato apenas le bufó y Benja salió corriendo; tiene miedo.",
+   "nota": "Uso imperativo forzado; ahora describe a alguien asustado."
+  },
+  {
+   "id": 2670,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Le vai a contar a tu viejo lo del choque o andai con la pera?",
+   "frase_neutralizada": "¿Le vas a contar a tu papá lo del choque o tienes miedo?",
+   "nota": "'Le vas a contarle' agramatical; neutral cambiaba el sentido."
+  },
+  {
+   "id": 2671,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te inscribiste pal examen de grado y ahora no vai a ir; andai con la pera, reconócelo.",
+   "frase_neutralizada": "Te inscribiste para el examen de grado y ahora no vas a ir; tienes miedo, admítelo.",
+   "nota": "Se dio contexto más natural y coherente."
+  },
+  {
+   "id": 2672,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dijiste que te ibai a tirar en parapente y ahora te echai pa' atrás, andai con la pera.",
+   "frase_neutralizada": "Dijiste que te ibas a lanzar en parapente y ahora te echas para atrás; tienes miedo.",
+   "nota": "Frase vaga; se concretó la situación."
+  },
+  {
+   "id": 2673,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¿Que te da lata invitarla a salir? No, andai con la pera no más, atrévete.",
+   "frase_neutralizada": "¿Que te da pereza invitarla a salir? No, lo que pasa es que no te atreves, anímate.",
+   "nota": "Neutral cambiaba significado; ahora refleja excusa de flojera."
+  },
+  {
+   "id": 2674,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Dices que estai cansado pa' cantar en el karaoke, pero andai con la pera.",
+   "frase_neutralizada": "Dices que estás cansado para cantar en el karaoke, pero en realidad no te atreves.",
+   "nota": "Frase sin sentido; neutral explicaba la definición literalmente."
+  },
+  {
+   "id": 2675,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cómo no vai a saber dónde está la llave si la dejaste tú? Andai en la rama.",
+   "frase_neutralizada": "¿Cómo no vas a saber dónde está la llave si la dejaste tú? Andas perdido.",
+   "nota": "Faltaba signo de apertura; frase poco natural."
+  },
+  {
+   "id": 2676,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El profe explicó todo el proyecto y el Matías seguía en la rama, no cachó nada.",
+   "frase_neutralizada": "El profesor explicó todo el proyecto y Matías seguía perdido; no entendió nada.",
+   "nota": "Diálogo poco natural; se dio contexto claro."
+  },
+  {
+   "id": 2677,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, la tarea era pa' hoy, ¿andai en la rama o qué?",
+   "frase_neutralizada": "Oye, la tarea era para hoy, ¿no te enteraste o qué?",
+   "nota": "'Haciéndola en la rama' no es uso real."
+  },
+  {
+   "id": 2678,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Todos se rieron del chiste y yo andaba en la rama, ¿me lo explicai?",
+   "frase_neutralizada": "Todos se rieron del chiste y yo no entendí nada; ¿me lo explicas?",
+   "nota": "Def 2 con votos negativos y sin la expresión; cambiado a def 1."
+  },
+  {
+   "id": 2679,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuela anda en la rama con el WhatsApp, no sabe ni mandar un audio.",
+   "frase_neutralizada": "Mi abuela no entiende nada de WhatsApp; ni siquiera sabe enviar un audio.",
+   "nota": "Def 2 negativa y sentido literal de caminar; cambiado a def 1."
+  }
+ ]
+}

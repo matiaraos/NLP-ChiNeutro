@@ -1,0 +1,340 @@
+{
+ "lote": 20,
+ "claves": [
+  "regia oficial",
+  "relaja la vena",
+  "remojar el cochayuyo",
+  "retar",
+  "reto",
+  "retobao",
+  "ricarda",
+  "rico"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.20876030000000004,
+ "duracion_s": 76.9,
+ "pares": [
+  {
+   "id": 800,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mira, ahí va el loco de la esquina con su regia oficial, los dos con zapatillas de marca.",
+   "frase_neutralizada": "Mira, ahí va el chico de la esquina con su novia vulgar, los dos con zapatillas de marca.",
+   "nota": "Usaba la expresión como 'hombre maquillado'; es la pareja del flaite."
+  },
+  {
+   "id": 801,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La regia oficial del Kevin se demoró como una hora maquillándose pa ir al mall.",
+   "frase_neutralizada": "La novia vulgar de Kevin tardó como una hora en maquillarse para ir al centro comercial.",
+   "nota": "Sentido equivocado; ahora se refiere a la novia de un flaite."
+  },
+  {
+   "id": 802,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El flaite ese se agarró a combos porque un loco le miró a la regia oficial.",
+   "frase_neutralizada": "Ese tipo vulgar se peleó a puñetazos porque un tipo le miró a su novia.",
+   "nota": "La trataba como un 'look'; ahora es la pareja del flaite."
+  },
+  {
+   "id": 803,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo cambió de regia oficial otra vez, la nueva anda con unas calzas apretadísimas.",
+   "frase_neutralizada": "Mi primo cambió otra vez de novia vulgar; la nueva lleva unas mallas apretadísimas.",
+   "nota": "Sentido equivocado y error de concordancia; reescrito con el sentido correcto."
+  },
+  {
+   "id": 804,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la micro iba un cabro con su regia oficial, pegaditos escuchando reguetón a todo chancho.",
+   "frase_neutralizada": "En el autobús iba un chico con su novia vulgar, abrazados escuchando reguetón a todo volumen.",
+   "nota": "Usaba la expresión como estilo de maquillaje; corregido el sentido."
+  },
+  {
+   "id": 805,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, relaja la vena, si el profe dijo que la prueba se puede repetir.",
+   "frase_neutralizada": "Ya, cálmate, que el profesor dijo que el examen se puede repetir.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 806,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Relaja la vena, compadre, era una talla nomás.",
+   "frase_neutralizada": "Cálmate, amigo, era solo una broma.",
+   "nota": "No incluía la expresión y la neutral tenía error de género."
+  },
+  {
+   "id": 807,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, relaja la vena, no le gritís al garzón, que él no tiene la culpa.",
+   "frase_neutralizada": "Oye, cálmate, no le grites al mesero, que él no tiene la culpa.",
+   "nota": "Faltaba la expresión y había errores gramaticales."
+  },
+  {
+   "id": 808,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Relaja la vena, weón, si el choque fue chiquitito y el seguro paga todo.",
+   "frase_neutralizada": "Cálmate, hombre, el choque fue pequeñito y el seguro paga todo.",
+   "nota": "'Relaxa' no es la expresión; nueva situación."
+  },
+  {
+   "id": 809,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Relaja la vena, hay tiempo pa todo, todavía no cierran el banco.",
+   "frase_neutralizada": "Cálmate, hay tiempo para todo, todavía no cierran el banco.",
+   "nota": "Frase muy corta y genérica; se le añadió contexto."
+  },
+  {
+   "id": 810,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hoy día voy a remojar el cochayuyo con mi polola, sus papás se van a la playa.",
+   "frase_neutralizada": "Hoy voy a tener sexo con mi novia, sus padres se van a la playa.",
+   "nota": "Se agregó contexto y se ajustó el registro informal."
+  },
+  {
+   "id": 811,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pancho anda feliz de la vida porque por fin remojó el cochayuyo después de meses.",
+   "frase_neutralizada": "Pancho anda feliz de la vida porque por fin tuvo sexo después de meses.",
+   "nota": "Uso reflexivo incorrecto ('se remojara'), poco natural."
+  },
+  {
+   "id": 812,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¡Llegó el viernes, cabros, a remojar el cochayuyo se ha dicho!",
+   "frase_neutralizada": "¡Llegó el viernes, chicos, a tener sexo se ha dicho!",
+   "nota": "Ahora ilustra el grito celebratorio de la def. 2."
+  },
+  {
+   "id": 813,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hace como un año que no remojo el cochayuyo, estoy más seco que el Atacama.",
+   "frase_neutralizada": "Hace como un año que no tengo sexo, estoy más seco que el desierto.",
+   "nota": "Frase poco natural; nueva situación."
+  },
+  {
+   "id": 814,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Rodrigo salió del carrete gritando delante de todos que se iba a remojar el cochayuyo.",
+   "frase_neutralizada": "Rodrigo salió de la fiesta gritando delante de todos que se iba a tener sexo.",
+   "nota": "Era artificial; ahora ilustra el anuncio a gritos (def. 2)."
+  },
+  {
+   "id": 815,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegué a las cinco de la mañana y mi mamá me retó como dos horas.",
+   "frase_neutralizada": "Llegué a las cinco de la mañana y mi mamá me regañó como dos horas.",
+   "nota": "Futuro 'retaré' poco natural; neutral 'reprochar' impreciso."
+  },
+  {
+   "id": 816,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El jefe me retó delante de todos por llegar tarde a la reunión.",
+   "frase_neutralizada": "El jefe me regañó delante de todos por llegar tarde a la reunión.",
+   "nota": "Frase incoherente y 'interferas' agramatical."
+  },
+  {
+   "id": 817,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No retís al cabro chico, si el vaso se le cayó sin querer.",
+   "frase_neutralizada": "No regañes al niño, que el vaso se le cayó sin querer.",
+   "nota": "Frase sin sentido y neutral con 'te te' duplicado."
+  },
+  {
+   "id": 818,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si la profe te pilla con el celular en clases, te va a retar.",
+   "frase_neutralizada": "Si la profesora te descubre con el teléfono en clase, te va a regañar.",
+   "nota": "Neutral cambiaba la persona; defs 1 y 2 son idénticas."
+  },
+  {
+   "id": 819,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo me retó porque dejé la bici tirada en la lluvia.",
+   "frase_neutralizada": "Mi papá me regañó porque dejé la bicicleta tirada bajo la lluvia.",
+   "nota": "Neutral cambiaba la persona y el sentido; defs 1 y 2 iguales."
+  },
+  {
+   "id": 820,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me gané un reto del profe por copiar en la prueba.",
+   "frase_neutralizada": "Me gané un regaño del profesor por copiar en el examen.",
+   "nota": "Usaba 'retoar', inexistente; ahora 'reto' como sustantivo."
+  },
+  {
+   "id": 821,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá me echó un medio reto por no avisar que llegaba tarde.",
+   "frase_neutralizada": "Mi mamá me dio un regaño tremendo por no avisar que llegaba tarde.",
+   "nota": "Confundía con 'desafiar' y usaba un verbo inexistente."
+  },
+  {
+   "id": 822,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Prepárate pal reto, que tu papá ya vio cómo dejaste el auto.",
+   "frase_neutralizada": "Prepárate para el regaño, que tu papá ya vio cómo dejaste el auto.",
+   "nota": "Neutral cambiaba la persona y usaba 'retoarme'."
+  },
+  {
+   "id": 823,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Después del reto de la jefa, nadie más llegó atrasado a la pega.",
+   "frase_neutralizada": "Después del regaño de la jefa, nadie más llegó tarde al trabajo.",
+   "nota": "Usaba 'retoar', inexistente, y la frase era incoherente."
+  },
+  {
+   "id": 824,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Igual el reto fue merecido, po, si rayaste la pared entera.",
+   "frase_neutralizada": "De todos modos el regaño fue merecido, si garabateaste toda la pared.",
+   "nota": "Confundía con 'desafiar'; 'copa' y 'taza' no coincidían."
+  },
+  {
+   "id": 825,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición errónea (-24 votos): 'retobado' significa insolente, no cobarde."
+  },
+  {
+   "id": 826,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición errónea (-24 votos): 'retobado' significa insolente, no cobarde."
+  },
+  {
+   "id": 827,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición errónea (-24 votos): 'retobado' significa insolente, no cobarde."
+  },
+  {
+   "id": 828,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición errónea (-24 votos): 'retobado' significa insolente, no cobarde."
+  },
+  {
+   "id": 829,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición errónea (-24 votos): 'retobado' significa insolente, no cobarde."
+  },
+  {
+   "id": 830,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Viste a la vecina nueva? Está entera ricarda.",
+   "frase_neutralizada": "¿Viste a la vecina nueva? Está guapísima.",
+   "nota": "Frase poco natural; ahora 'ricarda' se usa como adjetivo coloquial."
+  },
+  {
+   "id": 831,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa ricarda del bar me miró como tres veces, voy a ir a hablarle.",
+   "frase_neutralizada": "Esa chica guapa del bar me miró como tres veces, voy a ir a hablarle.",
+   "nota": "Neutral perdía el matiz de atractivo."
+  },
+  {
+   "id": 832,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu hermana chica creció harto, ahora anda toda ricarda.",
+   "frase_neutralizada": "Tu hermana menor creció mucho, ahora está muy guapa.",
+   "nota": "Frase forzada; se ajustó al uso natural."
+  },
+  {
+   "id": 833,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el gimnasio hay puras ricardas, por eso el Seba va todos los días.",
+   "frase_neutralizada": "En el gimnasio solo hay chicas guapas, por eso Seba va todos los días.",
+   "nota": "Neutral perdía el sentido de atractivo; frase confusa."
+  },
+  {
+   "id": 834,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Subió una foto en bikini y quedó ricarda, todos le comentaron.",
+   "frase_neutralizada": "Subió una foto en bikini y salió guapísima, todos le comentaron.",
+   "nota": "'Ricarda en su clase' no tenía sentido."
+  },
+  {
+   "id": 835,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese cabro del gimnasio es demasiado rico, no puedo dejar de mirarlo.",
+   "frase_neutralizada": "Ese chico del gimnasio es demasiado atractivo, no puedo dejar de mirarlo.",
+   "nota": "Usaba 'rico en' (abundante), no 'atractivo'."
+  },
+  {
+   "id": 836,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, tu primo está rico, ¿tiene polola?",
+   "frase_neutralizada": "Oye, tu primo está guapo, ¿tiene novia?",
+   "nota": "Sentido equivocado; aplicado a un perro."
+  },
+  {
+   "id": 837,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La mina que atiende en la panadería es entera rica.",
+   "frase_neutralizada": "La chica que atiende en la panadería es muy guapa.",
+   "nota": "Aplicado a una casa; debe ser una persona atractiva."
+  },
+  {
+   "id": 838,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Encuentro que ese actor no es tan rico como dicen.",
+   "frase_neutralizada": "Creo que ese actor no es tan atractivo como dicen.",
+   "nota": "Usaba 'rico en' (abundancia), no el sentido de atractivo."
+  },
+  {
+   "id": 839,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche en el carrete había puros weones ricos y yo con la cara hinchada.",
+   "frase_neutralizada": "Anoche en la fiesta solo había tipos guapos y yo con la cara hinchada.",
+   "nota": "Sentido de abundancia; ahora se refiere a personas atractivas."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 11,
+ "claves": [
+  "cuico a",
+  "culear",
+  "culiao",
+  "culiado",
+  "cuma",
+  "cuncuna",
+  "curao",
+  "curado"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.21910480000000002,
+ "duracion_s": 84.7,
+ "pares": [
+  {
+   "id": 440,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa señora es súper cuica, no se compra nada que no sea de marca.",
+   "frase_neutralizada": "Esa señora es muy de clase alta y presumida, no se compra nada que no sea de marca.",
+   "nota": "Original agramatical (\"cuico alta\") y neutral explicaba la definición."
+  },
+  {
+   "id": 441,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué cuico ese político! Nunca se ha subido a una micro en su vida.",
+   "frase_neutralizada": "¡Qué elitista y de clase alta es ese político! Nunca se ha subido a un autobús en su vida.",
+   "nota": "Neutral era una paráfrasis forzada; se dio contexto natural."
+  },
+  {
+   "id": 442,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi compañero es re cuico, veranea en Europa todos los años y anda con pura ropa de marca.",
+   "frase_neutralizada": "Mi compañero es muy rico y presumido, veranea en Europa todos los años y solo usa ropa de marca.",
+   "nota": "Frase pobre; neutral añadía \"de derecha\" sin base."
+  },
+  {
+   "id": 443,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ella se hace la cuica, pero vive en la misma población que yo po.",
+   "frase_neutralizada": "Ella se hace pasar por alguien de clase alta, pero vive en el mismo barrio pobre que yo.",
+   "nota": "Original sin sentido; nueva situación con \"hacerse la cuica\"."
+  },
+  {
+   "id": 444,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa familia es cuica, tienen nana, chofer y casa en la playa.",
+   "frase_neutralizada": "Esa familia es de clase alta, tienen empleada doméstica, chofer y casa en la playa.",
+   "nota": "Falta de concordancia y neutral explicativa; se ajustó."
+  },
+  {
+   "id": 445,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esos dos se fueron temprano del carrete, seguro que se fueron a culear.",
+   "frase_neutralizada": "Esos dos se fueron temprano de la fiesta, seguro que se fueron a tener sexo.",
+   "nota": "Frase poco natural; se mantuvo registro vulgar."
+  },
+  {
+   "id": 446,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y culeaste con el mino del carrete o no?",
+   "frase_neutralizada": "¿Y tuviste sexo con el chico guapo de la fiesta o no?",
+   "nota": "Conjugación pronominal errónea y neutral incoherente."
+  },
+  {
+   "id": 447,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los vecinos culean todas las noches y no me dejan dormir, cachai.",
+   "frase_neutralizada": "Los vecinos tienen sexo todas las noches y no me dejan dormir, ¿entiendes?",
+   "nota": "Neutral agramatical; nueva situación más natural."
+  },
+  {
+   "id": 448,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pucha, llevo como seis meses sin culear.",
+   "frase_neutralizada": "Vaya, llevo como seis meses sin tener sexo.",
+   "nota": "Original redundante (\"noche... en la noche\")."
+  },
+  {
+   "id": 449,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo nos pilló culeando en el living.",
+   "frase_neutralizada": "Mi papá nos descubrió teniendo sexo en la sala.",
+   "nota": "Uso pronominal erróneo y neutral cambiaba significado."
+  },
+  {
+   "id": 450,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese culiao me robó el celular en la micro.",
+   "frase_neutralizada": "Ese desgraciado me robó el celular en el autobús.",
+   "nota": "Original incomprensible; culiao usado como adjetivo insultante."
+  },
+  {
+   "id": 451,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La vieja culiá del tercer piso me acusó con el conserje.",
+   "frase_neutralizada": "La maldita vieja del tercer piso me acusó con el portero.",
+   "nota": "Usaba \"culia\" como sustantivo \"desastre\"; sentido erróneo."
+  },
+  {
+   "id": 452,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El jefe culiao no nos quiere pagar las horas extra.",
+   "frase_neutralizada": "El desgraciado del jefe no nos quiere pagar las horas extra.",
+   "nota": "Sentido equivocado; ahora insulta a una persona."
+  },
+  {
+   "id": 453,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El árbitro culiao nos cobró un penal que no era.",
+   "frase_neutralizada": "El maldito árbitro nos marcó un penal que no era.",
+   "nota": "Usaba la palabra como sustantivo \"desastre\"; incorrecto."
+  },
+  {
+   "id": 454,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Otra vez el perro culiao del vecino se cagó en mi patio.",
+   "frase_neutralizada": "Otra vez el maldito perro del vecino se cagó en mi patio.",
+   "nota": "Original incomprensible y agramatical."
+  },
+  {
+   "id": 455,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El culiado tonto me chocó el auto y se fue sin dejar ni un número.",
+   "frase_neutralizada": "El maldito idiota me chocó el auto y se fue sin dejar siquiera un número.",
+   "nota": "Discordancia de género y contexto absurdo."
+  },
+  {
+   "id": 456,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese feo culiado se cree galán con todas las minas.",
+   "frase_neutralizada": "Ese maldito feo se cree galán con todas las chicas.",
+   "nota": "Original incomprensible."
+  },
+  {
+   "id": 457,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me hueís más, culiado, que ando de mal humor.",
+   "frase_neutralizada": "No me molestes más, imbécil, que estoy de mal humor.",
+   "nota": "Neutral omitía el insulto y tenía error de modo verbal."
+  },
+  {
+   "id": 458,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El culiado del taxista me cobró el doble por la carrera.",
+   "frase_neutralizada": "El desgraciado del taxista me cobró el doble por el viaje.",
+   "nota": "Original agramatical; neutral perdía el insulto."
+  },
+  {
+   "id": 459,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese loco culiado se puso a tirarle piedras a los autos.",
+   "frase_neutralizada": "Ese maldito loco se puso a tirarles piedras a los autos.",
+   "nota": "Original sin sentido; neutral cambiaba significado."
+  },
+  {
+   "id": 460,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegaron unos cumas al carrete con la gorra de lado y buzo, y se puso tenso el ambiente.",
+   "frase_neutralizada": "Llegaron unos tipos de aspecto vulgar y pendenciero a la fiesta, con la gorra de lado y pantalón deportivo, y el ambiente se puso tenso.",
+   "nota": "\"Chamuyudo\" no es chilenismo; neutral conservaba \"flaite\"."
+  },
+  {
+   "id": 461,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "No seai cuma, saluda y deja de hablar con la boca llena.",
+   "frase_neutralizada": "No seas tan vulgar, saluda y deja de hablar con la boca llena.",
+   "nota": "Frase forzada; ahora ilustra malos modales (def 4)."
+  },
+  {
+   "id": 462,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Ojo con los cumas que se juntan en la plaza, andan cogoteando gente.",
+   "frase_neutralizada": "Cuidado con los delincuentes que se juntan en la plaza, andan asaltando a la gente.",
+   "nota": "\"Trufa\" sin sentido; neutral incoherente."
+  },
+  {
+   "id": 463,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá no quiere que me junte con él porque dice que se viste muy cuma.",
+   "frase_neutralizada": "Mi mamá no quiere que me junte con él porque dice que se viste de forma muy vulgar.",
+   "nota": "Frase explicaba la definición; nueva situación natural."
+  },
+  {
+   "id": 464,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El cuma del pasaje ya ha caído preso como tres veces por robo.",
+   "frase_neutralizada": "El delincuente de mi calle ya ha estado preso como tres veces por robo.",
+   "nota": "Def 3 equivale a def 2; frase poco natural."
+  },
+  {
+   "id": 465,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira, hay una cuncuna verde subiendo por el tronco del árbol.",
+   "frase_neutralizada": "Mira, hay una oruga verde subiendo por el tronco del árbol.",
+   "nota": "Neutral explicativa; se usa \"oruga\"."
+  },
+  {
+   "id": 466,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No toquí esa cuncuna peluda, que te puede dar alergia.",
+   "frase_neutralizada": "No toques esa oruga peluda, que te puede dar alergia.",
+   "nota": "Neutral imprecisa (\"especie de insecto\"); nueva situación."
+  },
+  {
+   "id": 467,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico encontró una cuncuna en el patio y la metió en un frasco.",
+   "frase_neutralizada": "El niño encontró una oruga en el patio y la metió en un frasco.",
+   "nota": "Neutral perdía precisión (\"insecto\"); frase poco natural."
+  },
+  {
+   "id": 468,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Las cuncunas se comieron todas las hojas de los repollos de mi abuela.",
+   "frase_neutralizada": "Las orugas se comieron todas las hojas de los repollos de mi abuela.",
+   "nota": "Neutral con concordancia errónea; nueva situación."
+  },
+  {
+   "id": 469,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La profe nos mostró cómo una cuncuna se transforma en mariposa.",
+   "frase_neutralizada": "La maestra nos mostró cómo una oruga se transforma en mariposa.",
+   "nota": "Neutral imprecisa; frase poco natural."
+  },
+  {
+   "id": 470,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me acuerdo de nada del carrete, estaba demasiado curao.",
+   "frase_neutralizada": "No me acuerdo de nada de la fiesta, estaba demasiado borracho.",
+   "nota": "Neutral cambiaba \"sabría decir\"; se hizo más natural."
+  },
+  {
+   "id": 471,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pancho llegó curao a la pega y casi lo echan.",
+   "frase_neutralizada": "Pancho llegó borracho al trabajo y casi lo despiden.",
+   "nota": "Frase original sin sentido claro."
+  },
+  {
+   "id": 472,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Andai curao, compadre, pásame las llaves del auto.",
+   "frase_neutralizada": "Estás borracho, amigo, dame las llaves del auto.",
+   "nota": "\"Curao de la cara\" no existe; neutral absurda."
+  },
+  {
+   "id": 473,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío siempre se pone a cantar rancheras cuando anda curao.",
+   "frase_neutralizada": "Mi tío siempre se pone a cantar rancheras cuando está borracho.",
+   "nota": "Frase original incoherente."
+  },
+  {
+   "id": 474,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Perdón por lo que te dije anoche, estaba curao y no pensaba lo que decía.",
+   "frase_neutralizada": "Perdón por lo que te dije anoche, estaba borracho y no pensaba lo que decía.",
+   "nota": "Original incoherente en personas; se mantuvo la idea de disculpa."
+  },
+  {
+   "id": 475,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la fiesta todos terminaron curados antes de las doce.",
+   "frase_neutralizada": "En la fiesta todos terminaron borrachos antes de las doce.",
+   "nota": "\"Se metió curado\" y \"se hizo ebrio\" agramaticales."
+  },
+  {
+   "id": 476,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Toma agua, que estai muy curado y mañana vai a amanecer con caña.",
+   "frase_neutralizada": "Toma agua, que estás muy borracho y mañana vas a amanecer con resaca.",
+   "nota": "Usaba \"eres\" en vez de \"estás\"."
+  },
+  {
+   "id": 477,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cómo vai a manejar así, compadre? Estai súper curado.",
+   "frase_neutralizada": "¿Cómo vas a conducir así, amigo? Estás muy borracho.",
+   "nota": "Se dio registro chileno natural."
+  },
+  {
+   "id": 478,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los novios quedaron curados en su propio matrimonio y bailaron hasta las seis.",
+   "frase_neutralizada": "Los novios terminaron borrachos en su propia boda y bailaron hasta las seis.",
+   "nota": "\"Se volvieron curados\" antinatural; se cambió situación para variar."
+  },
+  {
+   "id": 479,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Quedé tan curado en el asado del sábado que me tuvieron que llevar en brazos a la casa.",
+   "frase_neutralizada": "Quedé tan borracho en la parrillada del sábado que me tuvieron que llevar en brazos a casa.",
+   "nota": "\"Te llevaste curado\" agramatical y sin sentido."
+  }
+ ]
+}

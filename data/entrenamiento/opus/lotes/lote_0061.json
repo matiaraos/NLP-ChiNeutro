@@ -1,0 +1,340 @@
+{
+ "lote": 61,
+ "claves": [
+  "a la chuna",
+  "a la hora del pico",
+  "a lo gringo",
+  "a lo maldito",
+  "a lo maton",
+  "a pata",
+  "a pata pela",
+  "a poto pelao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2838457,
+ "duracion_s": 103.9,
+ "pares": [
+  {
+   "id": 2440,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No estudié nada, así que en la prueba marqué todas las alternativas a la chuña.",
+   "frase_neutralizada": "No estudié nada, así que en el examen marqué todas las respuestas al azar.",
+   "nota": "Copiaba el ejemplo del diccionario y la neutral era forzada; situación nueva."
+  },
+  {
+   "id": 2441,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe armó los grupos a la chuña y me tocó con puros desconocidos.",
+   "frase_neutralizada": "El profesor armó los grupos al azar y me tocó solo con desconocidos.",
+   "nota": "Frase agramatical y poco natural; nueva situación de azar."
+  },
+  {
+   "id": 2442,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Nadie quería lavar la loza, así que mi mamá eligió a la chuña y le tocó a mi hermano.",
+   "frase_neutralizada": "Nadie quería lavar los platos, así que mi mamá eligió al azar y le tocó a mi hermano.",
+   "nota": "Uso forzado de la expresión; se mantiene la asignación de tarea al azar."
+  },
+  {
+   "id": 2443,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "El candidato tiraba poleras a la chuña y la gente se empujaba pa' agarrar una.",
+   "frase_neutralizada": "El candidato lanzaba camisetas a la multitud y la gente se empujaba para agarrar una.",
+   "nota": "Frase incoherente y con error gramatical; se ilustra el sentido de arrojar al montón."
+  },
+  {
+   "id": 2444,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "La novia tiró el ramo a la chuña y las solteras casi se agarraron de las mechas.",
+   "frase_neutralizada": "La novia lanzó el ramo a la multitud y las solteras casi se pelearon por él.",
+   "nota": "Sintaxis rota y la neutral omitía la expresión; se corrigió la escena."
+  },
+  {
+   "id": 2445,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿A qué hora te levantaste? A la hora del pico, como a las dos de la tarde.",
+   "frase_neutralizada": "¿A qué hora te levantaste? Tardísimo, como a las dos de la tarde.",
+   "nota": "Errata 'hra' y la neutral 'a la hora tardía' no era natural."
+  },
+  {
+   "id": 2446,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegué al paradero a la hora del pico y la micro ya se había ido.",
+   "frase_neutralizada": "Llegué a la parada tardísimo y el autobús ya se había ido.",
+   "nota": "La neutral era agramatical; se agregaron chilenismos naturales."
+  },
+  {
+   "id": 2447,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Javi trajo la carne a la hora del pico, cuando ya estábamos muertos de hambre.",
+   "frase_neutralizada": "Javi trajo la carne tardísimo, cuando ya estábamos muertos de hambre.",
+   "nota": "Frase incoherente y neutral forzada; se aclaró el retraso."
+  },
+  {
+   "id": 2448,
+   "accion": "corregido",
+   "def": 4,
+   "frase_chilena": "Puta, llegaste a la hora del pico a la fiesta, ya se estaban yendo todos.",
+   "frase_neutralizada": "Carajo, llegaste tardísimo a la fiesta, ya se estaban yendo todos.",
+   "nota": "Usaba 'venga' (España) y el sentido no quedaba claro."
+  },
+  {
+   "id": 2449,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Con este taco voy a llegar a la hora del pico a la pega.",
+   "frase_neutralizada": "Con este tráfico voy a llegar tardísimo al trabajo.",
+   "nota": "La frase sobre el programa de TV no ilustraba la demora."
+  },
+  {
+   "id": 2450,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Todos mis calzones están en la lavadora, así que voy a tener que ir a lo gringo al carrete.",
+   "frase_neutralizada": "Toda mi ropa interior está en la lavadora, así que voy a tener que ir sin ropa interior a la fiesta.",
+   "nota": "Traducía 'desnudo' y la frase era incoherente."
+  },
+  {
+   "id": 2451,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi abuelo confesó que en el matrimonio de mi tía andaba a lo gringo, ¡qué vergüenza!",
+   "frase_neutralizada": "Mi abuelo confesó que en la boda de mi tía andaba sin ropa interior, ¡qué vergüenza!",
+   "nota": "Construcción 'llevarse a lo gringo' era agramatical."
+  },
+  {
+   "id": 2452,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con ese vestido tan apretado, la Cata dice que tiene que andar a lo gringo pa' que no se le marque.",
+   "frase_neutralizada": "Con ese vestido tan apretado, Cata dice que tiene que andar sin ropa interior para que no se le marque.",
+   "nota": "'Vestido a lo gringo' no tenía sentido; ahora describe a la persona."
+  },
+  {
+   "id": 2453,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me puse el traje de baño abajo, se me olvidaron los calzones y volví de la playa a lo gringo.",
+   "frase_neutralizada": "Me puse el traje de baño debajo, se me olvidó la ropa interior y volví de la playa sin ropa interior.",
+   "nota": "Traducía 'desnudo' y la razón no tenía relación."
+  },
+  {
+   "id": 2454,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Dicen que el Pato va a la pega a lo gringo porque le da lata lavar.",
+   "frase_neutralizada": "Dicen que Pato va al trabajo sin ropa interior porque le da pereza lavar.",
+   "nota": "Neutral decía 'desnudo' y la frase era incoherente."
+  },
+  {
+   "id": 2455,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No alcancé a estudiar ni una cuestión, así que voy a dar la prueba a lo maldito.",
+   "frase_neutralizada": "No alcancé a estudiar nada, así que voy a presentar el examen sin preparación y que sea lo que Dios quiera.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 2456,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nico nunca había hecho surf y se tiró a lo maldito a una ola gigante.",
+   "frase_neutralizada": "Nico nunca había hecho surf y se lanzó sin pensarlo a una ola gigante, de forma temeraria.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 2457,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No tenía idea de cocinar, pero le hice la cena a mi suegra a lo maldito y quedó buena.",
+   "frase_neutralizada": "No sabía cocinar, pero le preparé la cena a mi suegra sin ninguna preparación y quedó buena.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 2458,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El arquero salió a lo maldito a cortar el centro y casi se saca la cresta con el poste.",
+   "frase_neutralizada": "El portero salió arriesgándose a cortar el centro y casi se da un golpe tremendo contra el poste.",
+   "nota": "No incluía la expresión ni el sentido de riesgo."
+  },
+  {
+   "id": 2459,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Se me acabó la plata y me vine de mochilero a lo maldito, sin saber dónde iba a dormir.",
+   "frase_neutralizada": "Se me acabó el dinero y me vine de mochilero arriesgándome, sin saber dónde iba a dormir.",
+   "nota": "No incluía la expresión y era incoherente."
+  },
+  {
+   "id": 2460,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La cena de anoche quedó a lo matón, la Jose cocina increíble.",
+   "frase_neutralizada": "La cena de anoche quedó excelente, Jose cocina increíble.",
+   "nota": "Se quitó la explicación redundante 'muy deliciosa'."
+  },
+  {
+   "id": 2461,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Viste el partido? El Alexis jugó a lo matón, se mandó dos goles.",
+   "frase_neutralizada": "¿Viste el partido? Alexis jugó excelente, metió dos goles.",
+   "nota": "'Chilote' mal usado como jugador; frase más natural."
+  },
+  {
+   "id": 2462,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La película de terror que vimos estuvo a lo matón, hay que ver la segunda.",
+   "frase_neutralizada": "La película de terror que vimos estuvo buenísima, hay que ver la segunda.",
+   "nota": "'Es a lo matón' sonaba poco natural; se usa 'estuvo'."
+  },
+  {
+   "id": 2463,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El concierto de anoche estuvo a lo matón, la banda tocó como tres horas.",
+   "frase_neutralizada": "El concierto de anoche estuvo excelente, la banda tocó como tres horas.",
+   "nota": "La frase original se contradecía."
+  },
+  {
+   "id": 2464,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cacha cómo me quedó la pieza después de pintarla, a lo matón.",
+   "frase_neutralizada": "Mira cómo me quedó el cuarto después de pintarlo, excelente.",
+   "nota": "La neutral perdía la expresión; el sentido no era 'excelente'."
+  },
+  {
+   "id": 2465,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Fui a pata al súper a comprar las cosas pa' la once.",
+   "frase_neutralizada": "Fui a pie al supermercado a comprar las cosas para la merienda.",
+   "nota": "'Caminar a pata' era redundante."
+  },
+  {
+   "id": 2466,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me gusta andar a pata, me canso altiro.",
+   "frase_neutralizada": "No me gusta andar a pie, me canso enseguida.",
+   "nota": "'Caminar a pata' era redundante; se agregó chilenismo natural."
+  },
+  {
+   "id": 2467,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No hay micro a esta hora, así que nos vamos a pata a la playa no más.",
+   "frase_neutralizada": "No hay autobús a esta hora, así que nos vamos a pie a la playa.",
+   "nota": "Frase poco natural; se dio un contexto más realista."
+  },
+  {
+   "id": 2468,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Se me acabó la plata de la Bip y me tuve que ir a pata hasta la casa.",
+   "frase_neutralizada": "Se me acabó el saldo de la tarjeta de transporte y me tuve que ir a pie hasta mi casa.",
+   "nota": "La frase original no sonaba chilena ni natural."
+  },
+  {
+   "id": 2469,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ni loco recorro todo el centro a pata, pidamos un Uber.",
+   "frase_neutralizada": "Ni loco recorro todo el centro a pie, pidamos un Uber.",
+   "nota": "'Caminar a pata' era redundante."
+  },
+  {
+   "id": 2470,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sácate los zapatos si querís, pero no andís a pata pelá en el patio que hay vidrios.",
+   "frase_neutralizada": "Quítate los zapatos si quieres, pero no andes descalzo en el patio que hay vidrios.",
+   "nota": "Frase incoherente (descalzo en discoteca, 'no te vas a enfriar')."
+  },
+  {
+   "id": 2471,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué andabai a pata pelá en el parque si estaba helando?",
+   "frase_neutralizada": "¿Por qué andabas descalzo en el parque si hacía mucho frío?",
+   "nota": "Neutral redundante y faltaban signos de interrogación."
+  },
+  {
+   "id": 2472,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Vamos a caminar a pata pelá por la orilla, la arena está rica.",
+   "frase_neutralizada": "Vamos a caminar descalzos por la orilla, la arena está agradable.",
+   "nota": "'Ven a pata pelá' era agramatical."
+  },
+  {
+   "id": 2473,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "En mi casa nadie entra con zapatos, todos andan a pata pelá o con calcetines.",
+   "frase_neutralizada": "En mi casa nadie entra con zapatos, todos andan descalzos o con calcetines.",
+   "nota": "La frase original era contradictoria."
+  },
+  {
+   "id": 2474,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El cabro chico salió a pata pelá a la calle a buscar la pelota.",
+   "frase_neutralizada": "El niño salió descalzo a la calle a buscar la pelota.",
+   "nota": "Def 3 dudosa y mezclada; se pasa al sentido de descalzo."
+  },
+  {
+   "id": 2475,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se le rajó el pantalón al Feña en la pichanga y quedó a poto pelao frente a todos.",
+   "frase_neutralizada": "Se le rompió el pantalón a Fer en el partido y quedó con el trasero al aire frente a todos.",
+   "nota": "Frase poco natural y error de concordancia 'el ropa'."
+  },
+  {
+   "id": 2476,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El bebé se sacó el pañal y anda a poto pelao por todo el living.",
+   "frase_neutralizada": "El bebé se quitó el pañal y anda con el trasero al aire por toda la sala.",
+   "nota": "Frase sin contexto ni sentido claro."
+  },
+  {
+   "id": 2477,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "En el carrete unos locos se tiraron a poto pelao a la piscina.",
+   "frase_neutralizada": "En la fiesta unos tipos se tiraron desnudos a la piscina.",
+   "nota": "Frase incoherente con el concierto gratis."
+  },
+  {
+   "id": 2478,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La playa estaba vacía, así que nos bañamos a poto pelao.",
+   "frase_neutralizada": "La playa estaba vacía, así que nos bañamos desnudos.",
+   "nota": "Aplicaba la expresión a la playa, no a personas."
+  },
+  {
+   "id": 2479,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Andamos a poto pelao, pero igual juntamos pa' comprarle un regalo a la Sofi.",
+   "frase_neutralizada": "Estamos sin un centavo, pero igual juntamos dinero para comprarle un regalo a Sofi.",
+   "nota": "El sentido era económico, no desnudez; se cambió a def 3."
+  }
+ ]
+}

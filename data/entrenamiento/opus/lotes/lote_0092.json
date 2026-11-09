@@ -1,0 +1,340 @@
+{
+ "lote": 92,
+ "claves": [
+  "hueco",
+  "hueca",
+  "huevear",
+  "irse al chancho",
+  "irse al patio de los callados",
+  "irse en cana",
+  "jote",
+  "jotear"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2326629,
+ "duracion_s": 84.3,
+ "pares": [
+  {
+   "id": 3680,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El hueco de la oficina llegó al asado con su pololo y nadie dijo nada, po.",
+   "frase_neutralizada": "El maricón de la oficina llegó a la parrillada con su novio y nadie dijo nada.",
+   "nota": "Original incoherente y sin sentido homosexual; nueva situación con registro grosero equivalente."
+  },
+  {
+   "id": 3681,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo cree que soy hueco porque me pinto las uñas, cachai.",
+   "frase_neutralizada": "Mi papá cree que soy maricón porque me pinto las uñas, ¿entiendes?",
+   "nota": "Original sin sentido homosexual; neutral no correspondía."
+  },
+  {
+   "id": 3682,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El compadre es más hueco, no cacha nada de lo que le explican.",
+   "frase_neutralizada": "El tipo es muy tonto, no entiende nada de lo que le explican.",
+   "nota": "Quité la redundancia 'sin cerebro' y 'sin sentido' de la neutral."
+  },
+  {
+   "id": 3683,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No quiero tomar el ramo con esa profe, el curso está lleno de huecos.",
+   "frase_neutralizada": "No quiero inscribir la materia con esa profesora, el curso está lleno de tontos.",
+   "nota": "La neutral cambiaba el significado ('alumnos sin clase')."
+  },
+  {
+   "id": 3684,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No sabía que el hueco que bailaba con mi amigo era su pololo.",
+   "frase_neutralizada": "No sabía que el maricón que bailaba con mi amigo era su novio.",
+   "nota": "La neutral omitía la expresión; ahora se aclara el sentido homosexual."
+  },
+  {
+   "id": 3685,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa mina es más hueca que un tambor, no sabe ni dónde queda Argentina.",
+   "frase_neutralizada": "Esa chica es más tonta que una piedra, no sabe ni dónde queda Argentina.",
+   "nota": "'Tonadas' era un error y la neutral cambiaba el número."
+  },
+  {
+   "id": 3686,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi prima es súper hueca, se pasa el día sacándose selfies y hablando de ropa.",
+   "frase_neutralizada": "Mi prima es muy tonta y superficial, se pasa el día tomándose selfies y hablando de ropa.",
+   "nota": "Original agramatical e incoherente; 'tonada' era un error."
+  },
+  {
+   "id": 3687,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La mina hueca me juró que su pololo era boxeador profesional, ni ahí con creerle.",
+   "frase_neutralizada": "La chica tonta me juró que su novio era boxeador profesional, no tengo ninguna intención de creerle.",
+   "nota": "Corregí 'tonada' por 'tonta' y añadí contexto natural."
+  },
+  {
+   "id": 3688,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le hagai caso, si es más hueca, todo lo que dice lo sacó de TikTok.",
+   "frase_neutralizada": "No le hagas caso, es muy tonta, todo lo que dice lo sacó de TikTok.",
+   "nota": "'Hueca de cabeza' forzado; 'tonada' era un error."
+  },
+  {
+   "id": 3689,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La hueca se creía abogada porque vio dos capítulos de una serie de tribunales.",
+   "frase_neutralizada": "La tonta se creía abogada porque vio dos capítulos de una serie de juicios.",
+   "nota": "La neutral cambiaba el número y usaba 'tonadas'."
+  },
+  {
+   "id": 3690,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Deja de huevear a tu hermana, que está estudiando para la prueba.",
+   "frase_neutralizada": "Deja de molestar a tu hermana, que está estudiando para el examen.",
+   "nota": "El verbo estaba sin conjugar y la frase era incoherente."
+  },
+  {
+   "id": 3691,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer el vecino nos estuvo hueveando toda la noche con la música a todo chancho.",
+   "frase_neutralizada": "Ayer el vecino nos estuvo molestando toda la noche con la música a todo volumen.",
+   "nota": "El verbo estaba sin conjugar ('te webear')."
+  },
+  {
+   "id": 3692,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Fuimos a la playa con los cabros y nos pasamos la tarde hueveando, filete.",
+   "frase_neutralizada": "Fuimos a la playa con los amigos y pasamos la tarde divirtiéndonos sin hacer nada, excelente.",
+   "nota": "Era agramatical; cambio al sentido 3 para cubrir más sentidos."
+  },
+  {
+   "id": 3693,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Llevai toda la mañana hueveando con el celular y no has hecho ni una tarea.",
+   "frase_neutralizada": "Llevas toda la mañana perdiendo el tiempo con el celular y no has hecho ni una tarea.",
+   "nota": "Era casi igual a 3694; ahora es una situación distinta."
+  },
+  {
+   "id": 3694,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi hermano ha estado hueveando en el patio todo el día en vez de ayudar a ordenar.",
+   "frase_neutralizada": "Mi hermano ha estado perdiendo el tiempo en el patio todo el día en vez de ayudar a ordenar.",
+   "nota": "'Pasando el tiempo' no transmitía la idea de no hacer nada útil."
+  },
+  {
+   "id": 3695,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pucha, te fuiste al chancho pidiéndole plata prestada al jefe el primer día.",
+   "frase_neutralizada": "Vaya, te pasaste de confianzudo pidiéndole dinero prestado al jefe el primer día.",
+   "nota": "No reflejaba la idea de ser patudo o confianzudo."
+  },
+  {
+   "id": 3696,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le dimos alojamiento una noche y se fue al chancho: se quedó tres semanas.",
+   "frase_neutralizada": "Le dimos alojamiento una noche y abusó de la confianza: se quedó tres semanas.",
+   "nota": "El sentido era incorrecto y la frase, incoherente."
+  },
+  {
+   "id": 3697,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te vayai al chancho con la suegra, mira que recién la conociste.",
+   "frase_neutralizada": "No te tomes tantas confianzas con la suegra, que apenas la conociste.",
+   "nota": "Lo interpretaba como 'estar seguro de sí'; el sentido era erróneo."
+  },
+  {
+   "id": 3698,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué te fuiste al chancho y le leíste los mensajes a tu polola sin preguntarle?",
+   "frase_neutralizada": "¿Por qué te pasaste de la raya y le leíste los mensajes a tu novia sin preguntarle?",
+   "nota": "La neutral era vaga y cambiaba el tiempo verbal."
+  },
+  {
+   "id": 3699,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me hablís así, cabro, te estai yendo al chancho con tanta confianza.",
+   "frase_neutralizada": "No me hables así, chico, te estás tomando demasiadas confianzas.",
+   "nota": "La neutral no expresaba el abuso de confianza."
+  },
+  {
+   "id": 3700,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La abuela se fue al patio de los callados esta mañana, tranquilita en su cama.",
+   "frase_neutralizada": "La abuela murió esta mañana, tranquila en su cama.",
+   "nota": "Usaba la expresión como lugar literal, no como verbo."
+  },
+  {
+   "id": 3701,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me contaron que el papá del Rodrigo se fue al patio de los callados.",
+   "frase_neutralizada": "Me contaron que el papá de Rodrigo murió.",
+   "nota": "Cambié la situación para que se distinga de los otros pares."
+  },
+  {
+   "id": 3702,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con lo que fuma tu tío, se va a ir al patio de los callados antes de los sesenta.",
+   "frase_neutralizada": "Con lo que fuma tu tío, se va a morir antes de los sesenta.",
+   "nota": "La pregunta era confusa y no coincidía con la neutral."
+  },
+  {
+   "id": 3703,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi perro se fue al patio de los callados hace tres días y la casa está más triste.",
+   "frase_neutralizada": "Mi perro murió hace tres días y la casa está más triste.",
+   "nota": "Era correcto; le añadí contexto natural."
+  },
+  {
+   "id": 3704,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si seguís manejando curao, te vai a ir al patio de los callados, hueón.",
+   "frase_neutralizada": "Si sigues manejando borracho, te vas a morir, idiota.",
+   "nota": "La pregunta descontextualizada no era natural; la neutral tenía 'Tu' sin tilde."
+  },
+  {
+   "id": 3705,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los pillaron robando en el súper y se fueron en cana.",
+   "frase_neutralizada": "Los atraparon robando en el supermercado y los arrestaron.",
+   "nota": "El sujeto de 'se los llevó' era ambiguo; ahora uso 'irse en cana'."
+  },
+  {
+   "id": 3706,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cabecilla de la banda se fue en cana después de la persecución.",
+   "frase_neutralizada": "El líder de la banda fue arrestado después de la persecución.",
+   "nota": "'Se llevó en cana' daba a entender que él arrestó a alguien."
+  },
+  {
+   "id": 3707,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche nos pararon los pacos y casi nos vamos en cana por andar sin carnet.",
+   "frase_neutralizada": "Anoche nos detuvo la policía y casi nos arrestan por andar sin documento de identidad.",
+   "nota": "Era redundante y poco natural; añadí rasgos chilenos."
+  },
+  {
+   "id": 3708,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El loco que intentó asaltar el banco se fue en cana al tiro.",
+   "frase_neutralizada": "El tipo que intentó asaltar el banco fue arrestado de inmediato.",
+   "nota": "'Tomado en cana' no se usa; ahora dice 'irse en cana'."
+  },
+  {
+   "id": 3709,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano se fue en cana por robarse un auto y mi mamá está destrozada.",
+   "frase_neutralizada": "Mi hermano fue arrestado por robar un auto y mi mamá está destrozada.",
+   "nota": "Quité la redundancia y la estructura se parecía a la de 3707."
+  },
+  {
+   "id": 3710,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese jote no deja de seguir a la Cami por toda la fiesta, ya me tiene chato.",
+   "frase_neutralizada": "Ese mujeriego no deja de seguir a Cami por toda la fiesta, ya me tiene harto.",
+   "nota": "Tenía errores ('persiguir') y usaba 'chancho' sin sentido."
+  },
+  {
+   "id": 3711,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El jote de la oficina siempre anda rondando a la practicante nueva.",
+   "frase_neutralizada": "El mujeriego de la oficina siempre anda rondando a la practicante nueva para conquistarla.",
+   "nota": "Era muy explicativa; la expresión se perdía en la neutral."
+  },
+  {
+   "id": 3712,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai jote, la mina vino con su pololo, déjala tranquila.",
+   "frase_neutralizada": "No seas pesado tratando de conquistarla, la chica vino con su novio, déjala tranquila.",
+   "nota": "Usaba 'chabones' (argentinismo) y era incoherente."
+  },
+  {
+   "id": 3713,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Pásame un jote con harto hielo, que hace un calor terrible.",
+   "frase_neutralizada": "Pásame un vino tinto con Coca-Cola con mucho hielo, que hace un calor terrible.",
+   "nota": "No había paralelismo entre ambas frases; ahora suena natural."
+  },
+  {
+   "id": 3714,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "En el cumple de la Fran tomamos puro jote porque no alcanzó pa' piscola.",
+   "frase_neutralizada": "En el cumpleaños de Fran solo tomamos vino tinto con Coca-Cola porque no alcanzó el dinero para pisco con Coca-Cola.",
+   "nota": "Original poco natural; nueva situación distinta."
+  },
+  {
+   "id": 3715,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ando joteando al chico de mi clase de inglés, pero ni me pesca.",
+   "frase_neutralizada": "Estoy coqueteando con el chico de mi clase de inglés, pero ni me hace caso.",
+   "nota": "'Jotearme con' era agramatical y la neutral muy rebuscada."
+  },
+  {
+   "id": 3716,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nico se pasó toda la fiesta joteándose a tu prima, ¿cachaste?",
+   "frase_neutralizada": "Nico se pasó toda la fiesta coqueteando con tu prima, ¿te diste cuenta?",
+   "nota": "'Nos jotamos' estaba mal conjugado y era recíproco sin sentido."
+  },
+  {
+   "id": 3717,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu amiga me tiene loco, ¿me ayudai a jotearla por Instagram?",
+   "frase_neutralizada": "Tu amiga me tiene loco, ¿me ayudas a coquetearle por Instagram?",
+   "nota": "No tenía sentido jotear a la propia novia."
+  },
+  {
+   "id": 3718,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Vamos al bar de la calle Suecia a jotear minas, que hoy no me voy solo pa' la casa.",
+   "frase_neutralizada": "Vamos al bar de la calle Suecia a tratar de seducir chicas, que hoy no me voy solo a casa.",
+   "nota": "Copiaba el ejemplo; ahora se nota la intención sexual del sentido 2."
+  },
+  {
+   "id": 3719,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Los cabros del curso se pasan el carrete entero joteando, pero nunca se agarran a nadie.",
+   "frase_neutralizada": "Los chicos del curso se pasan toda la fiesta tratando de seducir chicas, pero nunca se besan con nadie.",
+   "nota": "Era agramatical e incoherente ('es duro', 'no te cortejas')."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 31,
+ "claves": [
+  "suelta la papa",
+  "sutro o sutra",
+  "sutro",
+  "ta mal pelao el chancho",
+  "taban de la perra",
+  "taco",
+  "taldo",
+  "tamos listeilor"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2708523,
+ "duracion_s": 98.8,
+ "pares": [
+  {
+   "id": 1240,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, si empezaste a contar lo de la Cata, ahora suelta la papa no más.",
+   "frase_neutralizada": "Vamos, si ya empezaste a contar lo de Catalina, ahora termina de decirlo de una vez.",
+   "nota": "Original incoherente; nueva situación de secreto empezado a contar."
+  },
+  {
+   "id": 1241,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya se te escapó que es del curso, así que suelta la papa po, ¿quién te gusta?",
+   "frase_neutralizada": "Ya se te escapó que es de tu clase, así que dilo de una vez, ¿quién te gusta?",
+   "nota": "Original sin sentido; ahora ilustra terminar de revelar un secreto."
+  },
+  {
+   "id": 1242,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, dijiste 'si supieras lo que vi en la oficina' y te quedaste callado, suelta la papa.",
+   "frase_neutralizada": "Oye, dijiste 'si supieras lo que vi en la oficina' y te quedaste callado, cuéntalo ya.",
+   "nota": "Original agramatical e incoherente; reescrito con secreto a medias."
+  },
+  {
+   "id": 1243,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al final el Pedro soltó la papa y contó que lo habían echado de la pega.",
+   "frase_neutralizada": "Al final Pedro lo confesó y contó que lo habían despedido del trabajo.",
+   "nota": "Original no contenía la expresión; ahora conjugada en pasado."
+  },
+  {
+   "id": 1244,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te hagai el leso y suelta la papa, ¿con quién andabai anoche?",
+   "frase_neutralizada": "No te hagas el tonto y confiesa, ¿con quién andabas anoche?",
+   "nota": "Original sin la expresión y con vosotros; reescrito."
+  },
+  {
+   "id": 1245,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando dije 'meterlo' hablaba del pendrive, qué erí sutro, todo lo pensai pa'l otro lado.",
+   "frase_neutralizada": "Cuando dije 'meterlo' hablaba de la memoria USB, qué pervertido eres, todo lo piensas con doble sentido.",
+   "nota": "Neutral omitía la expresión y el sentido no correspondía."
+  },
+  {
+   "id": 1246,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Jaja, la Fran se rió altiro con el chiste del pepino, es más sutra.",
+   "frase_neutralizada": "Jaja, Francisca se rió enseguida con el chiste del pepino, es muy pervertida.",
+   "nota": "Frase confusa y mezclaba sentidos; nueva situación de doble sentido."
+  },
+  {
+   "id": 1247,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Dicen que el Benja se agarró a tres minas en el mismo carrete, es terrible sutro.",
+   "frase_neutralizada": "Dicen que Benjamín besó a tres chicas en la misma fiesta, es muy promiscuo.",
+   "nota": "Malinterpretaba 'compromisos' y género incorrecto; reescrito."
+  },
+  {
+   "id": 1248,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No le presentí tu pololo a la Coni, mira que es media sutra.",
+   "frase_neutralizada": "No le presentes tu novio a Constanza, mira que es algo promiscua.",
+   "nota": "Concordancia de género errónea y frase poco natural; contextualizada."
+  },
+  {
+   "id": 1249,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Me contó que en la cama quiere probar con esposas y todo, es más sutra de lo que pensaba.",
+   "frase_neutralizada": "Me contó que en la cama quiere probar con esposas y todo, es más atrevida sexualmente de lo que pensaba.",
+   "nota": "Neutral decía 'promiscuo'; ahora refleja audacia sexual sin límites."
+  },
+  {
+   "id": 1250,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nico es terrible sutro, tiene el historial del navegador lleno de cochinadas.",
+   "frase_neutralizada": "Nicolás es muy pervertido, tiene el historial del navegador lleno de cosas obscenas.",
+   "nota": "'Ese cara' y carne desollada no tenían sentido; reescrito."
+  },
+  {
+   "id": 1251,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi prima es bien sutra, siempre sale con chistes cochinos en los almuerzos familiares.",
+   "frase_neutralizada": "Mi prima es bastante pervertida, siempre sale con chistes sucios en las comidas familiares.",
+   "nota": "Quitado mexicanismo 'chingona' y concordancia de género corregida."
+  },
+  {
+   "id": 1252,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El primo de mi pololo es un sutro, me manda puros mensajes con doble sentido.",
+   "frase_neutralizada": "El primo de mi novio es un pervertido, me manda solo mensajes con doble sentido.",
+   "nota": "Corregido 'cosas feo' y añadido 'pololo' natural."
+  },
+  {
+   "id": 1253,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Qué sutro, wn, ¿te comiste el pan que se cayó al suelo del baño?",
+   "frase_neutralizada": "Qué cochino, oye, ¿te comiste el pan que se cayó al piso del baño?",
+   "nota": "Frase original poco natural; nueva situación de cochinada."
+  },
+  {
+   "id": 1254,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No seai sutro po, llevai una semana sin bañarte.",
+   "frase_neutralizada": "No seas cochino, llevas una semana sin bañarte.",
+   "nota": "Original incoherente; nueva frase sobre suciedad."
+  },
+  {
+   "id": 1255,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿El jefe se lleva un bono y nosotros nada? Ta mal pelao el chancho aquí.",
+   "frase_neutralizada": "¿El jefe recibe un bono y nosotros nada? Aquí el reparto es injusto.",
+   "nota": "No incluía la expresión; añadida en contexto laboral."
+  },
+  {
+   "id": 1256,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano se quedó con la casa y a mí me tocó el auto viejo, ta mal pelao el chancho.",
+   "frase_neutralizada": "Mi hermano se quedó con la casa y a mí me tocó el auto viejo, la herencia está mal repartida.",
+   "nota": "No incluía la expresión; ajustado a reparto de herencia."
+  },
+  {
+   "id": 1257,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Yo hice toda la presentación y la nota es igual pa' todos, ta mal pelao el chancho.",
+   "frase_neutralizada": "Yo hice toda la presentación y la calificación es igual para todos, eso es injusto.",
+   "nota": "Fiesta sin invitar no era reparto injusto; reescrito."
+  },
+  {
+   "id": 1258,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, a ti te sirvieron el pedazo más grande de torta, ta mal pelao el chancho.",
+   "frase_neutralizada": "Oye, a ti te sirvieron el trozo más grande de pastel, eso está mal repartido.",
+   "nota": "Faltaba la expresión; mantenida idea de reparto de comida."
+  },
+  {
+   "id": 1259,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los de arriba ganan millones y los profes una miseria, ta mal pelao el chancho en este país.",
+   "frase_neutralizada": "Los de arriba ganan millones y los profesores una miseria, la riqueza está mal repartida en este país.",
+   "nota": "Posición en fútbol no es reparto de bienes; reescrito."
+  },
+  {
+   "id": 1260,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Probaste los completos del carrito de la esquina? Taban de la perra.",
+   "frase_neutralizada": "¿Probaste los hot dogs del puesto de la esquina? Estaban buenísimos.",
+   "nota": "Original sin la expresión ni relación con el sentido."
+  },
+  {
+   "id": 1261,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Fuimos al concierto anoche y los teloneros taban de la perra, wn.",
+   "frase_neutralizada": "Oye, fuimos al concierto anoche y los teloneros estaban excelentes.",
+   "nota": "Original sin la expresión; nuevo contexto de concierto."
+  },
+  {
+   "id": 1262,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Las empanadas que hizo tu mamá pa' la once taban de la perra.",
+   "frase_neutralizada": "Las empanadas que hizo tu mamá para la merienda estaban buenísimas.",
+   "nota": "Original sin la expresión y agramatical."
+  },
+  {
+   "id": 1263,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, los regalos que te dieron pa' tu cumple taban de la perra.",
+   "frase_neutralizada": "Oye, los regalos que te dieron para tu cumpleaños estaban geniales.",
+   "nota": "Def 2 equivale a def 1 y tiene votos negativos; reescrito."
+  },
+  {
+   "id": 1264,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me prestaron unas zapatillas pa' la pichanga y taban de la perra, súper cómodas.",
+   "frase_neutralizada": "Me prestaron unos tenis para el partido con los amigos y estaban buenísimos, muy cómodos.",
+   "nota": "Original sin la expresión; unificado en def 1."
+  },
+  {
+   "id": 1265,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la hora punta la Alameda es puro taco, mejor ándate en metro.",
+   "frase_neutralizada": "En la hora de más tráfico la Alameda está totalmente congestionada, mejor vete en metro.",
+   "nota": "Frase rígida; más natural y neutral sin 'hora punta'."
+  },
+  {
+   "id": 1266,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Voy a llegar tarde a la reunión, estoy pegado en un taco en la Costanera.",
+   "frase_neutralizada": "Voy a llegar tarde a la reunión, estoy atrapado en un embotellamiento en la Costanera.",
+   "nota": "'Arribaré' cambiaba registro; frase más coloquial."
+  },
+  {
+   "id": 1267,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi polola se compró unos tacos rojos pa' la fiesta de la pega.",
+   "frase_neutralizada": "Mi novia se compró unos zapatos de tacón rojos para la fiesta del trabajo.",
+   "nota": "Ambiguo con comida; añadido color y rasgos chilenos."
+  },
+  {
+   "id": 1268,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Después del matrimonio terminé con los pies reventados por andar toda la noche con tacos.",
+   "frase_neutralizada": "Después de la boda terminé con los pies destrozados por andar toda la noche con tacones.",
+   "nota": "Frase plana; nueva situación más natural."
+  },
+  {
+   "id": 1269,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Pásame el taco y la tiza, que me toca tirar a la bola ocho.",
+   "frase_neutralizada": "Pásame el taco de billar y la tiza, que me toca tirar a la bola ocho.",
+   "nota": "Neutral cambiaba número y sentido; corregido."
+  },
+  {
+   "id": 1270,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando vi el meme le respondí con un taldo en el grupo, no podía parar de reírme.",
+   "frase_neutralizada": "Cuando vi el meme respondí en el grupo tecleando letras al azar, no podía parar de reírme.",
+   "nota": "Uso no natural; ahora refleja tecleo aleatorio por risa."
+  },
+  {
+   "id": 1271,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano se murió de la risa con el video y me contestó puro taldo.",
+   "frase_neutralizada": "Mi hermano se rió muchísimo con el video y me contestó solo letras al azar.",
+   "nota": "Original sin sentido; reescrito con respuesta escrita."
+  },
+  {
+   "id": 1272,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Anoche me pegué un taldo en la cama y casi boté a mi pololo al suelo.",
+   "frase_neutralizada": "Anoche hice un movimiento brusco en la cama y casi tiro a mi novio al suelo.",
+   "nota": "Neutral literal sin sentido; nueva situación de movimiento involuntario."
+  },
+  {
+   "id": 1273,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Cuando sonó el reguetón, el Seba se puso a bailar a puros taldos en la pista.",
+   "frase_neutralizada": "Cuando sonó el reguetón, Sebastián se puso a bailar con movimientos descontrolados en la pista.",
+   "nota": "Uso forzado; mantenida idea de baile, ahora natural."
+  },
+  {
+   "id": 1274,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "En la entrevista me puse nervioso y me salió un taldo que no tenía nada que ver.",
+   "frase_neutralizada": "En la entrevista me puse nervioso y dije una incoherencia que no tenía nada que ver.",
+   "nota": "Neutral agramatical ('di una incoherencia'); reformulado."
+  },
+  {
+   "id": 1275,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, chiquillos, tenemos las camisetas y los zapatos, tamos listeilor pa'l partido.",
+   "frase_neutralizada": "Bueno, chicos, tenemos las camisetas y los zapatos, estamos listos para el partido.",
+   "nota": "'Están tamos' agramatical; corregido."
+  },
+  {
+   "id": 1276,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Las maletas están en el auto y el perro con la vecina, tamos listeilor pa' salir.",
+   "frase_neutralizada": "Las maletas están en el auto y el perro con la vecina, estamos listos para salir.",
+   "nota": "Persona gramatical inconsistente; reformulado como afirmación."
+  },
+  {
+   "id": 1277,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya repasamos toda la materia anoche, tamos listeilor pa' la prueba.",
+   "frase_neutralizada": "Ya repasamos todo el contenido anoche, estamos listos para el examen.",
+   "nota": "Original incoherente; nueva situación de estudio."
+  },
+  {
+   "id": 1278,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Tamos listeilor o falta alguien por echarse bloqueador?",
+   "frase_neutralizada": "¿Estamos listos o falta alguien por ponerse protector solar?",
+   "nota": "Original contradictorio; nueva pregunta en contexto de playa."
+  },
+  {
+   "id": 1279,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, el carbón está prendido y la carne aliñada, tamos listeilor pa'l asado.",
+   "frase_neutralizada": "Bueno, el carbón está encendido y la carne sazonada, estamos listos para la parrillada.",
+   "nota": "Neutral cambiaba persona gramatical; reescrito."
+  }
+ ]
+}

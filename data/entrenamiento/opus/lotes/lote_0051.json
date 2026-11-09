@@ -1,0 +1,340 @@
+{
+ "lote": 51,
+ "claves": [
+  "pasarla chancho",
+  "pasarse rollos",
+  "pataleta",
+  "patio de los callados",
+  "patipelado",
+  "patiperro",
+  "pato",
+  "patudo"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2492044,
+ "duracion_s": 88.5,
+ "pares": [
+  {
+   "id": 2040,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Lo pasamos chancho en la cita del sábado, ni nos dimos cuenta de la hora.",
+   "frase_neutralizada": "La pasamos muy bien en la cita del sábado, ni nos dimos cuenta de la hora.",
+   "nota": "\"Cena chancho\" no existe; se usa la locución completa pasarlo chancho."
+  },
+  {
+   "id": 2041,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y, lo pasaste chancho en el carrete del finde?",
+   "frase_neutralizada": "¿Y qué tal, la pasaste muy bien en la fiesta del fin de semana?",
+   "nota": "La fiesta no \"pasa chancho\"; sujeto corregido y chilenismos neutralizados."
+  },
+  {
+   "id": 2042,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi pololo lo pasó chancho en el matrimonio de mi prima, bailó toda la noche.",
+   "frase_neutralizada": "Mi novio se divirtió muchísimo en la boda de mi prima, bailó toda la noche.",
+   "nota": "Faltaba el pronombre \"lo\"; nueva situación más natural."
+  },
+  {
+   "id": 2043,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Lo pasamos chancho en el concierto, cantamos todas las canciones de principio a fin.",
+   "frase_neutralizada": "Nos divertimos muchísimo en el concierto, cantamos todas las canciones de principio a fin.",
+   "nota": "Definiciones 1 y 2 equivalentes; frase ajustada levemente."
+  },
+  {
+   "id": 2044,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con la profe de historia siempre lo pasamos chancho en clases, es súper buena onda.",
+   "frase_neutralizada": "Con la maestra de historia siempre nos divertimos mucho en clase, es muy agradable.",
+   "nota": "Construcción \"la clase la pasamos chancho\" era agramatical."
+  },
+  {
+   "id": 2045,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El jefe no te tiene mala, te estai pasando rollos por un correo que ni leyó.",
+   "frase_neutralizada": "El jefe no te tiene antipatía, te estás imaginando cosas por un correo que ni siquiera leyó.",
+   "nota": "Original usaba la expresión como no tomarse en serio el trabajo."
+  },
+  {
+   "id": 2046,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te pasís rollos, si la Cata no te contestó es porque está en clases.",
+   "frase_neutralizada": "No te imagines cosas, si Cata no te contestó es porque está en clase.",
+   "nota": "Frase original confusa; neutral demasiado literal y explicativa."
+  },
+  {
+   "id": 2047,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te estás pasando rollos con que te van a echar, si en la pega te va súper bien.",
+   "frase_neutralizada": "Te estás imaginando cosas con que te van a despedir, si en el trabajo te va muy bien.",
+   "nota": "Original confundía con ser poco realista y tenía error de concordancia."
+  },
+  {
+   "id": 2048,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu polola solo salió a almorzar con un compañero, no te pasís más rollos.",
+   "frase_neutralizada": "Tu novia solo salió a almorzar con un compañero, ya no te imagines más cosas.",
+   "nota": "Copiaba el ejemplo y la neutral cambiaba el significado."
+  },
+  {
+   "id": 2049,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué te pasai rollos si nadie se enojó? La cena sigue siendo a las ocho.",
+   "frase_neutralizada": "¿Por qué te imaginas cosas si nadie se enojó? La cena sigue siendo a las ocho.",
+   "nota": "Puntuación y neutral explicativa corregidas."
+  },
+  {
+   "id": 2050,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Disculpa el ruido, el cabro chico está con pataleta porque no le compré un dulce.",
+   "frase_neutralizada": "Disculpa el ruido, el niño está haciendo un berrinche porque no le compré un dulce.",
+   "nota": "Pataleta es sustantivo, no adjetivo; neutral \"molesto\" perdía el sentido."
+  },
+  {
+   "id": 2051,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué le dio la pataleta a la guagua? Si recién comió.",
+   "frase_neutralizada": "¿Por qué le dio el berrinche al bebé? Si acaba de comer.",
+   "nota": "\"Pataletando\" no se usa; neutral corregida a berrinche."
+  },
+  {
+   "id": 2052,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La niña estuvo toda la tarde haciendo pataletas porque no la dejamos ir a la plaza.",
+   "frase_neutralizada": "La niña estuvo toda la tarde haciendo berrinches porque no la dejamos ir a la plaza.",
+   "nota": "Verbo inexistente reemplazado por \"hacer pataletas\"."
+  },
+  {
+   "id": 2053,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano no aguantó más las pataletas de su hijo y lo mandó a su pieza.",
+   "frase_neutralizada": "Mi hermano no aguantó más los berrinches de su hijo y lo mandó a su cuarto.",
+   "nota": "Neutral \"molestia\" no equivalía a berrinche; se añadió contexto infantil."
+  },
+  {
+   "id": 2054,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el súper el cabro chico se tiró al suelo con una pataleta por un chocolate.",
+   "frase_neutralizada": "En el supermercado el niño se tiró al suelo haciendo un berrinche por un chocolate.",
+   "nota": "\"Pataletito\" no existe y no ilustraba el sentido."
+  },
+  {
+   "id": 2055,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana tengo que ir al patio de los callados a dejarle flores a mi abuelo.",
+   "frase_neutralizada": "Mañana tengo que ir al cementerio a dejarle flores a mi abuelo.",
+   "nota": "Frase correcta pero escueta; se agregó contexto."
+  },
+  {
+   "id": 2056,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me gusta ir al patio de los callados, siempre salgo con la pena.",
+   "frase_neutralizada": "No me gusta ir al cementerio, siempre salgo triste.",
+   "nota": "Chilena y neutral no coincidían (\"quiero ir\" vs \"gusta ir\")."
+  },
+  {
+   "id": 2057,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo nunca voy al patio de los callados, prefiero no pensar en esas cosas po.",
+   "frase_neutralizada": "Yo nunca voy al cementerio, prefiero no pensar en esas cosas.",
+   "nota": "Ajuste menor de naturalidad."
+  },
+  {
+   "id": 2058,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si seguís manejando así, vai a terminar en el patio de los callados, compadre.",
+   "frase_neutralizada": "Si sigues manejando así, vas a terminar en el cementerio, amigo.",
+   "nota": "Frase original confusa y poco natural."
+  },
+  {
+   "id": 2059,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué vai todos los domingos al patio de los callados? ¿A quién visitai?",
+   "frase_neutralizada": "¿Por qué vas todos los domingos al cementerio? ¿A quién visitas?",
+   "nota": "Faltaban signos de interrogación; se agregó contexto."
+  },
+  {
+   "id": 2060,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuelo dice que en su juventud eran todos patipelados en la población.",
+   "frase_neutralizada": "Mi abuelo dice que en su juventud todos en el barrio eran muy pobres.",
+   "nota": "Aplicaba patipelado a comida, sentido inexistente."
+  },
+  {
+   "id": 2061,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El papá de la Javi no la deja pololear con ese cabro porque dice que es un patipelado.",
+   "frase_neutralizada": "El papá de Javi no la deja ser novia de ese chico porque dice que es un muerto de hambre.",
+   "nota": "Aplicaba patipelado a un auto, sentido inexistente."
+  },
+  {
+   "id": 2062,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ahora soy un patipelado, pero algún día voy a tener mi casa propia.",
+   "frase_neutralizada": "Ahora soy un pobretón, pero algún día voy a tener mi propia casa.",
+   "nota": "Neutral omitía la expresión; se usa como sustantivo, más natural."
+  },
+  {
+   "id": 2063,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa gente se cree mucho, pero son igual de patipelados que nosotros.",
+   "frase_neutralizada": "Esa gente se cree mucho, pero es igual de pobre que nosotros.",
+   "nota": "Aplicaba patipelado a un traje, sentido inexistente."
+  },
+  {
+   "id": 2064,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Cuando chico jugaba a la pelota con los patipelados de la cuadra, todos descalzos en la tierra.",
+   "frase_neutralizada": "Cuando era niño jugaba fútbol con los niños pobres de la cuadra, todos descalzos en la tierra.",
+   "nota": "Frase original sin sentido (\"rehén de los patipelados\")."
+  },
+  {
+   "id": 2065,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tía es re patiperra, este año ya fue a Perú y Bolivia, y ahora anda en México.",
+   "frase_neutralizada": "Mi tía es muy viajera, este año ya fue a Perú y Bolivia, y ahora está en México.",
+   "nota": "Usaba patiperro como \"vamos\"; sentido incorrecto."
+  },
+  {
+   "id": 2066,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde que jubiló, mi papá se puso patiperro y no para en la casa.",
+   "frase_neutralizada": "Desde que se jubiló, mi papá se volvió muy viajero y casi nunca está en casa.",
+   "nota": "Usaba patiperro como estar dispuesto; sentido incorrecto."
+  },
+  {
+   "id": 2067,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Soy medio patiperro, el finde me fui pedaleando hasta la playa y volví caminando.",
+   "frase_neutralizada": "Soy algo andariego, el fin de semana me fui en bicicleta hasta la playa y volví caminando.",
+   "nota": "Usaba patiperro como interjección; sentido incorrecto."
+  },
+  {
+   "id": 2068,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con la mochila al hombro y sin plata, ese gallo patiperro se recorrió todo Atacama.",
+   "frase_neutralizada": "Con la mochila al hombro y sin dinero, ese tipo trotamundos recorrió todo Atacama.",
+   "nota": "Usaba patiperro como \"de acuerdo\"; sentido incorrecto."
+  },
+  {
+   "id": 2069,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi polola es súper patiperra, no se pierde ninguna caminata al cerro los fines de semana.",
+   "frase_neutralizada": "Mi novia es muy andariega, no se pierde ninguna caminata al cerro los fines de semana.",
+   "nota": "Sentido incorrecto y puntuación defectuosa."
+  },
+  {
+   "id": 2070,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No puedo ir al carrete, ando pato hasta fin de mes.",
+   "frase_neutralizada": "No puedo ir a la fiesta, estoy sin dinero hasta fin de mes.",
+   "nota": "Frase incoherente; neutral cambiaba el sentido a \"sin costo\"."
+  },
+  {
+   "id": 2071,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estoy pato, ¿me prestai dos lucas pa' la micro?",
+   "frase_neutralizada": "Estoy sin dinero, ¿me prestas dos mil pesos para el autobús?",
+   "nota": "Frase forzada y poco natural."
+  },
+  {
+   "id": 2072,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Al tata le tuvieron que pasar el pato porque no se podía levantar de la cama.",
+   "frase_neutralizada": "Al abuelo le tuvieron que pasar el orinal porque no se podía levantar de la cama.",
+   "nota": "\"Aparato de orinación\" no es neutral; se usa orinal."
+  },
+  {
+   "id": 2073,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Enfermera, ¿me puede traer el pato? No alcanzo a llegar al baño.",
+   "frase_neutralizada": "Enfermera, ¿me puede traer el orinal? No alcanzo a llegar al baño.",
+   "nota": "Neutral inventaba término; situación diferenciada."
+  },
+  {
+   "id": 2074,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Después de pagar el arriendo quedé pato, así que este mes no salgo.",
+   "frase_neutralizada": "Después de pagar el alquiler me quedé sin dinero, así que este mes no salgo.",
+   "nota": "Def 3 (beso) dudosa y copiaba el ejemplo; se usa def 1."
+  },
+  {
+   "id": 2075,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai patudo, esa es mi polera, sácatela altiro.",
+   "frase_neutralizada": "No seas aprovechado, esa es mi camiseta, quítatela ahora mismo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2076,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué patudo el Felipe, se llevó mi bici sin preguntarme y me la devolvió rota.",
+   "frase_neutralizada": "Qué aprovechado es Felipe, se llevó mi bicicleta sin preguntarme y me la devolvió rota.",
+   "nota": "No contenía la expresión; neutral cambiaba el sentido."
+  },
+  {
+   "id": 2077,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi compañero de depto es tan patudo que se come mis yogures del refri sin preguntar.",
+   "frase_neutralizada": "Mi compañero de departamento es tan aprovechado que se come mis yogures del refrigerador sin preguntar.",
+   "nota": "No contenía la expresión y era agramatical."
+  },
+  {
+   "id": 2078,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Más encima de llegar tarde, el patudo pidió aumento de sueldo.",
+   "frase_neutralizada": "Además de llegar tarde, el descarado pidió un aumento de sueldo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2079,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¡Qué patuda la señora! Se coló en la fila del banco como si nada.",
+   "frase_neutralizada": "¡Qué descarada la señora! Se metió adelante en la fila del banco como si nada.",
+   "nota": "No contenía la expresión."
+  }
+ ]
+}

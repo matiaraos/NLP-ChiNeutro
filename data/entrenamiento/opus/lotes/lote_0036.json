@@ -1,0 +1,340 @@
+{
+ "lote": 36,
+ "claves": [
+  "tirarse las weas",
+  "tocar el violin",
+  "tole tole",
+  "tontorron",
+  "tracala",
+  "tranquilein john wayne",
+  "tula",
+  "tulachi"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2446399,
+ "duracion_s": 86.0,
+ "pares": [
+  {
+   "id": 1440,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y qué hiciste todo el día? Nada po, me tiré las weas en la cama viendo series.",
+   "frase_neutralizada": "¿Y qué hiciste todo el día? Nada, estuve holgazaneando en la cama viendo series.",
+   "nota": "El original no contenía la expresión."
+  },
+  {
+   "id": 1441,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros del grupo se tiraron las weas y yo tuve que hacer todo el informe solo.",
+   "frase_neutralizada": "Los chicos del grupo no hicieron nada y yo tuve que hacer todo el informe solo.",
+   "nota": "No ir a una fiesta no ilustra flojear; situación nueva."
+  },
+  {
+   "id": 1442,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿No estai avanzando en el proyecto? Te estai tirando las weas como siempre, po.",
+   "frase_neutralizada": "¿No estás avanzando en el proyecto? Estás holgazaneando como siempre.",
+   "nota": "Agregué el signo de apertura y el habla chilena; mejoré la neutral."
+  },
+  {
+   "id": 1443,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿No me vai a ayudar con la cena? Ahí estai tirándote las weas en el sillón.",
+   "frase_neutralizada": "¿No me vas a ayudar con la cena? Ahí estás sin hacer nada en el sillón.",
+   "nota": "Agregué el signo de apertura y una conjugación chilena natural."
+  },
+  {
+   "id": 1444,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El jefe salió temprano y todos en la oficina se pusieron a tirarse las weas toda la tarde.",
+   "frase_neutralizada": "El jefe salió temprano y todos en la oficina se pusieron a holgazanear toda la tarde.",
+   "nota": "No ir a jugar no es flojear; situación nueva."
+  },
+  {
+   "id": 1445,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No quiero ir al cine con la Cata y su pololo, voy a estar puro tocando el violín.",
+   "frase_neutralizada": "No quiero ir al cine con Cata y su novio, voy a estar sobrando todo el rato.",
+   "nota": "El original no usaba la expresión, sino «el violín que sobra»."
+  },
+  {
+   "id": 1446,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Siempre que salgo con mis amigos casados termino tocando el violín, todos van en pareja menos yo.",
+   "frase_neutralizada": "Siempre que salgo con mis amigos casados termino sobrando, todos van en pareja menos yo.",
+   "nota": "Usé el verbo «tocar el violín» en lugar de «el violín»."
+  },
+  {
+   "id": 1447,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué fome el viaje a la playa, me tocó tocar el violín con mi hermana y su pololo.",
+   "frase_neutralizada": "Qué aburrido el viaje a la playa, me tocó estar sobrando con mi hermana y su novio.",
+   "nota": "Copiaba el ejemplo y la neutral conservaba «fome»."
+  },
+  {
+   "id": 1448,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Oye, tu amigo no nos deja solos ni un rato, está todo el día tocando el violín al lado de nosotros.",
+   "frase_neutralizada": "Oye, tu amigo no nos deja solos ni un rato, está todo el día pegado a nosotros sin darnos intimidad.",
+   "nota": "No usaba la expresión, era agramatical y la neutral era absurda."
+  },
+  {
+   "id": 1449,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Cada vez que le quería dar un beso a la Feña, aparecía su prima tocando el violín.",
+   "frase_neutralizada": "Cada vez que quería darle un beso a Fernanda, aparecía su prima y no nos dejaba solos.",
+   "nota": "No usaba la expresión y la neutral era una «música inquietante» absurda."
+  },
+  {
+   "id": 1450,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando el árbitro anuló el gol se armó la tole tole en el estadio.",
+   "frase_neutralizada": "Cuando el árbitro anuló el gol se armó un gran alboroto en el estadio.",
+   "nota": "El original no contenía la expresión."
+  },
+  {
+   "id": 1451,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no lo hagai, mira que se va a armar la tole tole.",
+   "frase_neutralizada": "Oye, no lo hagas, mira que se va a armar un gran alboroto.",
+   "nota": "Corregí los signos de exclamación y añadí habla chilena."
+  },
+  {
+   "id": 1452,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después del triunfo de la Roja se armó la tole tole en Plaza Italia.",
+   "frase_neutralizada": "Después del triunfo de la selección chilena se armó un gran alboroto en Plaza Italia.",
+   "nota": "La neutral decía «manifestación» y cambiaba el sentido."
+  },
+  {
+   "id": 1453,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si invitamos a los primos al cumpleaños, ya sabís que se va a armar la tole tole.",
+   "frase_neutralizada": "Si invitamos a los primos al cumpleaños, ya sabes que se va a armar un gran alboroto.",
+   "nota": "Ajusté el contexto y añadí voseo chileno."
+  },
+  {
+   "id": 1454,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No quiero ir a la reunión de apoderados, seguro se arma la tole tole con lo de la directora.",
+   "frase_neutralizada": "No quiero ir a la reunión de padres, seguro se arma un gran alboroto por lo de la directora.",
+   "nota": "Hice la situación más concreta y natural."
+  },
+  {
+   "id": 1455,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye tontorrón, le echaste azúcar en vez de sal a la sopa.",
+   "frase_neutralizada": "Oye, tonto, le echaste azúcar en vez de sal a la sopa.",
+   "nota": "«Has equivocado» era agramatical en la neutral."
+  },
+  {
+   "id": 1456,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No, tontorrón, así no se enchufa, lo pusiste al revés.",
+   "frase_neutralizada": "No, tonto, así no se conecta, lo pusiste al revés.",
+   "nota": "La neutral omitía el insulto; puse un error concreto."
+  },
+  {
+   "id": 1457,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, tontorrón, te dije que la micro pasaba por la otra esquina.",
+   "frase_neutralizada": "Ya, tonto, te dije que el autobús pasaba por la otra esquina.",
+   "nota": "La frase era incoherente y la neutral omitía la expresión."
+  },
+  {
+   "id": 1458,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué te pasó, tontorrón? Te pusiste el chaleco al revés.",
+   "frase_neutralizada": "¿Qué te pasó, tonto? Te pusiste el suéter al revés.",
+   "nota": "La neutral omitía la expresión; puse un error menor concreto."
+  },
+  {
+   "id": 1459,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai tontorrón, se te quedaron las llaves adentro del auto otra vez.",
+   "frase_neutralizada": "No seas tonto, se te quedaron las llaves dentro del auto otra vez.",
+   "nota": "Era redundante y vaga; puse un error concreto."
+  },
+  {
+   "id": 1460,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegó una tracalá de gente a la fiesta y no alcanzó el copete.",
+   "frase_neutralizada": "Llegó un montón de gente a la fiesta y no alcanzó el alcohol.",
+   "nota": "«Fiesta de la tracala» no tenía sentido."
+  },
+  {
+   "id": 1461,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mira la tracalá de cabros que está haciendo fila pa' la tocata.",
+   "frase_neutralizada": "Mira el montón de chicos que está haciendo fila para el concierto.",
+   "nota": "La frase original era incomprensible."
+  },
+  {
+   "id": 1462,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Esta semana me salió una tracalá de problemas con el auto.",
+   "frase_neutralizada": "Esta semana me salieron un montón de problemas con el auto.",
+   "nota": "Agregué contexto y la tilde de la variante."
+  },
+  {
+   "id": 1463,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ayer los ladrones se llevaron una tracalá de cosas de la tienda.",
+   "frase_neutralizada": "Ayer los ladrones se llevaron un montón de cosas de la tienda.",
+   "nota": "Mejoré la naturalidad y la tilde."
+  },
+  {
+   "id": 1464,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Toda la tracalá de amigos me fue a ver al hospital, ni cabían en la pieza.",
+   "frase_neutralizada": "Todo el grupo de amigos me fue a ver al hospital, ni cabían en la habitación.",
+   "nota": "«Mi tracala» no era natural; destaqué la cantidad."
+  },
+  {
+   "id": 1465,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, no te compliquí tanto la vida, tranquilein John Wayne.",
+   "frase_neutralizada": "Ya, no te compliques tanto la vida, tómalo con calma.",
+   "nota": "Hice la frase más natural con voseo chileno."
+  },
+  {
+   "id": 1466,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranquilein John Wayne, lo que tenga que pasar va a pasar no más.",
+   "frase_neutralizada": "Tranquilo, lo que tenga que pasar va a pasar.",
+   "nota": "La neutral era agramatical (no preocuparte)."
+  },
+  {
+   "id": 1467,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranquilein John Wayne, si perdemos este partido no se acaba el mundo.",
+   "frase_neutralizada": "Tranquilo, si perdemos este partido no se acaba el mundo.",
+   "nota": "La neutral omitía la expresión."
+  },
+  {
+   "id": 1468,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tranquilein John Wayne, no te pongai a gritarle al garzón, ya viene tu pedido.",
+   "frase_neutralizada": "Tranquilo, no te pongas a gritarle al mesero, ya viene tu pedido.",
+   "nota": "La frase era incoherente y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 1469,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tranquilein John Wayne, que el examen lo podís dar de nuevo en diciembre.",
+   "frase_neutralizada": "Tranquilo, que el examen lo puedes presentar de nuevo en diciembre.",
+   "nota": "La frase contradecía el sentido de calma."
+  },
+  {
+   "id": 1470,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El weón se curó y salió corriendo en pelota con la tula al aire por la plaza.",
+   "frase_neutralizada": "El tipo se emborrachó y salió corriendo desnudo con el pene al aire por la plaza.",
+   "nota": "Era poco natural y la neutral añadía «erecto»."
+  },
+  {
+   "id": 1471,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ponte calzoncillos po, que con ese short se te ve la tula.",
+   "frase_neutralizada": "Ponte calzoncillos, que con ese short se te ve el pene.",
+   "nota": "Era incoherente y la neutral inventaba información."
+  },
+  {
+   "id": 1472,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico se pegó con la bicicleta justo en la tula y quedó llorando.",
+   "frase_neutralizada": "El niño se golpeó con la bicicleta justo en el pene y quedó llorando.",
+   "nota": "La «bebida energética» es una broma, no un uso real."
+  },
+  {
+   "id": 1473,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese weón se cree la raja porque anda diciendo que tiene la tula grande.",
+   "frase_neutralizada": "Ese tipo se cree lo máximo porque anda diciendo que tiene el pene grande.",
+   "nota": "La «bebida energética» es una broma; usé el sentido real."
+  },
+  {
+   "id": 1474,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Lo llevaron al doctor porque le dolía la tula cada vez que hacía pichí.",
+   "frase_neutralizada": "Lo llevaron al médico porque le dolía el pene cada vez que orinaba.",
+   "nota": "Las defs 1 y 3 son el mismo sentido; puse una situación distinta."
+  },
+  {
+   "id": 1475,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Dicen que el pololo de la Juanita es tulachi, por eso anda comprándose autos grandes.",
+   "frase_neutralizada": "Dicen que el novio de Juanita tiene el pene pequeño, por eso anda comprándose autos grandes.",
+   "nota": "El original no contenía la expresión."
+  },
+  {
+   "id": 1476,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese abogado será muy seco, pero en el camarín todos cacharon que era tulachi.",
+   "frase_neutralizada": "Ese abogado será muy bueno, pero en el vestuario todos se dieron cuenta de que tenía el pene pequeño.",
+   "nota": "La neutral borraba el significado de la expresión."
+  },
+  {
+   "id": 1477,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Feña terminó con el Pepe porque era tulachi, me contó todo.",
+   "frase_neutralizada": "Fernanda terminó con Pepe porque tenía el pene pequeño, me contó todo.",
+   "nota": "Usaba tulachi como «persona» y la neutral perdía el sentido."
+  },
+  {
+   "id": 1478,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te riai, weón, que en el colegio a ti también te decían tulachi.",
+   "frase_neutralizada": "No te rías, idiota, que en la escuela a ti también te molestaban diciendo que tenías el pene pequeño.",
+   "nota": "«Hombrecito» no conservaba el significado; las defs 1 y 2 son iguales."
+  },
+  {
+   "id": 1479,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese gil se hace el galán, pero la mina con la que salió dice que es tulachi.",
+   "frase_neutralizada": "Ese tonto se hace el galán, pero la chica con la que salió dice que tiene el pene pequeño.",
+   "nota": "«Tulachón» no es una variante y la neutral cambiaba el sentido."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 26,
+ "claves": [
+  "se me calento el hocico",
+  "se me cayo el carnet",
+  "se me echo la yegua",
+  "se me hecho la yegua",
+  "se puso la 10",
+  "se te hace",
+  "seco",
+  "sendo"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.26559879999999997,
+ "duracion_s": 98.5,
+ "pares": [
+  {
+   "id": 1040,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, con estas dos chelas se me calentó el hocico, vamos a comprar más a la botillería.",
+   "frase_neutralizada": "Bueno, con estas dos cervezas me dieron más ganas de tomar, vamos a comprar más a la licorería.",
+   "nota": "Contexto sin alcohol y neutral incoherente; nueva situación tras beber."
+  },
+  {
+   "id": 1041,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Viendo tu foto con esa chela heladita se me calentó el hocico, ¿nos juntamos a tomar algo?",
+   "frase_neutralizada": "Viendo tu foto con esa cerveza bien fría me dieron ganas de tomar, ¿nos reunimos a beber algo?",
+   "nota": "Pregunta agramatical en segunda persona; reescrito con antojo de beber."
+  },
+  {
+   "id": 1042,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tomé una copa de vino nomás y se me calentó el hocico, ¿abrimos otra botella?",
+   "frase_neutralizada": "Solo me tomé una copa de vino y me dieron ganas de seguir tomando, ¿abrimos otra botella?",
+   "nota": "Neutral sin sentido ('echado a la cabeza', 'taza de vino'); corregida."
+  },
+  {
+   "id": 1043,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tomé una chela en el primer tiempo y se me calentó el hocico, pásame otra po.",
+   "frase_neutralizada": "Me tomé una cerveza en el primer tiempo y me dieron ganas de seguir tomando, pásame otra.",
+   "nota": "Neutral errónea; se aclara que ya había bebido antes."
+  },
+  {
+   "id": 1044,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Pasé por fuera del bar y vi a todos con su schop, se me calentó el hocico al tiro.",
+   "frase_neutralizada": "Pasé por fuera del bar y vi a todos con su cerveza de barril; de inmediato me dieron ganas de tomar.",
+   "nota": "Usaba la expresión con salsa picante, sentido equivocado."
+  },
+  {
+   "id": 1045,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Les dije a los cabros de la pega que jugaba con Tazos y nadie cachó, se me cayó el carnet.",
+   "frase_neutralizada": "Les dije a los chicos del trabajo que jugaba con Tazos y nadie entendió; se me notó la edad.",
+   "nota": "Frase incoherente; nueva situación de quedar en evidencia como mayor."
+  },
+  {
+   "id": 1046,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le pregunté a mi sobrina si tenía Fotolog y me miró raro, se me cayó el carnet.",
+   "frase_neutralizada": "Le pregunté a mi sobrina si tenía Fotolog y me miró raro; se me notó la edad.",
+   "nota": "Frase sin sentido; reescrita con referencia generacional."
+  },
+  {
+   "id": 1047,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Puse un tema de Los Prisioneros en el carrete y los cabros chicos ni lo cacharon, se me cayó el carnet.",
+   "frase_neutralizada": "Puse una canción de Los Prisioneros en la fiesta y los jóvenes ni la conocían; se me notó la edad.",
+   "nota": "No había contexto generacional; reescrito."
+  },
+  {
+   "id": 1048,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Encontré mis casetes de Chancho en Piedra en la casa de mi mamá y se me cayó el carnet.",
+   "frase_neutralizada": "Encontré mis casetes de Chancho en Piedra en la casa de mi mamá y me di cuenta de lo viejo que soy.",
+   "nota": "'La chuqui' inventado y neutral incompleta; se concreta la nostalgia."
+  },
+  {
+   "id": 1049,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me acordé de cuando me compré mi primera guitarra en el Persa, hace como treinta años, se me cayó el carnet.",
+   "frase_neutralizada": "Me acordé de cuando compré mi primera guitarra en el mercado de pulgas, hace unos treinta años; qué viejo soy.",
+   "nota": "Neutral omitía la expresión y era redundante; corregida."
+  },
+  {
+   "id": 1050,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Iba a ir al concierto, pero se me echó la yegua y me quedé en la casa.",
+   "frase_neutralizada": "Iba a ir al concierto, pero se me quitaron las ganas y me quedé en casa.",
+   "nota": "Falta tilde en 'echó'; frase más natural."
+  },
+  {
+   "id": 1051,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después de la semana que tuve se me echó la yegua, este finde no salgo ni a comprar pan.",
+   "frase_neutralizada": "Después de la semana que tuve estoy agotado; este fin de semana no salgo ni a comprar pan.",
+   "nota": "Tilde y naturalidad; frase poco chilena."
+  },
+  {
+   "id": 1052,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cabros, se me echó la yegua, vayan ustedes al carrete y mañana me cuentan.",
+   "frase_neutralizada": "Chicos, se me quitaron las ganas; vayan ustedes a la fiesta y mañana me cuentan.",
+   "nota": "Explicaba el sentido ('no tengo energía'); quitado y tilde corregida."
+  },
+  {
+   "id": 1053,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llevo dos horas con la tarea de cálculo y se me echó la yegua, la termino mañana.",
+   "frase_neutralizada": "Llevo dos horas con la tarea de cálculo y ya no tengo ánimo; la termino mañana.",
+   "nota": "Tilde y contexto más concreto."
+  },
+  {
+   "id": 1054,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El jefe quería que me quedara haciendo horas extra, pero se me echó la yegua y me fui.",
+   "frase_neutralizada": "El jefe quería que me quedara haciendo horas extra, pero estaba agotado y me fui.",
+   "nota": "Tilde y frase más natural."
+  },
+  {
+   "id": 1055,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llevábamos tres horas jugando taca-taca y se me echó la yegua, mejor me voy.",
+   "frase_neutralizada": "Llevábamos tres horas jugando futbolito de mesa y ya no tengo ganas; mejor me voy.",
+   "nota": "Usaba 'se me hace'; corregido a forma correcta 'se me echó'."
+  },
+  {
+   "id": 1056,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu tía no paraba de hablar y se me echó la yegua, casi me quedo dormido en la mesa.",
+   "frase_neutralizada": "Tu tía no paraba de hablar y me quedé sin ánimo; casi me quedo dormido en la mesa.",
+   "nota": "Forma verbal errónea y 'tú tía' mal acentuado."
+  },
+  {
+   "id": 1057,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué querís hacer esta noche? Yo cacho que me quedo acostado, se me echó la yegua.",
+   "frase_neutralizada": "¿Qué quieres hacer esta noche? Creo que me quedo acostado, estoy desganado.",
+   "nota": "Voseo rioplatense 'querés' y forma errónea; corregido."
+  },
+  {
+   "id": 1058,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Íbamos a pintar la pieza hoy día, pero después de almuerzo se me echó la yegua.",
+   "frase_neutralizada": "Íbamos a pintar el cuarto hoy, pero después del almuerzo me quedé sin ganas.",
+   "nota": "Frase incoherente con el sentido; nueva situación."
+  },
+  {
+   "id": 1059,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No voy a ir al desfile del 19, se me echó la yegua con tanta fonda.",
+   "frase_neutralizada": "No voy a ir al desfile del 19 de septiembre; me quedé sin ánimo después de tantas fiestas patrias.",
+   "nota": "Forma 'se me hace' errónea; contexto más chileno."
+  },
+  {
+   "id": 1060,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pancho nos llevó a todos en su auto después del carrete, se puso la 10.",
+   "frase_neutralizada": "Pancho nos llevó a todos en su auto después de la fiesta; se lució.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1061,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se me quedó la billetera y mi suegro pagó la cuenta entera, se puso la 10.",
+   "frase_neutralizada": "Olvidé la billetera y mi suegro pagó toda la cuenta; se portó de maravilla.",
+   "nota": "No contenía la expresión y era agramatical."
+  },
+  {
+   "id": 1062,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Cami me prestó sus apuntes el día antes de la prueba, se puso la 10.",
+   "frase_neutralizada": "Cami me prestó sus apuntes el día antes del examen; me salvó.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1063,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se cortó la luz en el cumpleaños y el vecino trajo un generador, se puso la 10.",
+   "frase_neutralizada": "Se fue la luz en el cumpleaños y el vecino trajo un generador; se lució.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1064,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, te pusiste la 10 con el asado, nadie más se había acordado de comprar carbón.",
+   "frase_neutralizada": "Oye, te luciste con el asado, nadie más se había acordado de comprar carbón.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1065,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, contéstale el teléfono a tu ex, ¿o se te hace?",
+   "frase_neutralizada": "Vamos, contéstale el teléfono a tu ex, ¿o no te atreves?",
+   "nota": "Usaba 'no te hace' y neutral agramatical."
+  },
+  {
+   "id": 1066,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Sácala a bailar de una vez, ¿o se te hace, compadre?",
+   "frase_neutralizada": "Sácala a bailar de una vez, ¿o te da miedo, amigo?",
+   "nota": "Expresión mal usada y neutral agramatical."
+  },
+  {
+   "id": 1067,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Métete a la pichanga con los grandes, ¿o se te hace?",
+   "frase_neutralizada": "Únete al partido informal con los grandes, ¿o no te atreves?",
+   "nota": "'No te hace' incorrecto; neutral agramatical."
+  },
+  {
+   "id": 1068,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dijiste que le ibai a pedir el descuento al jefe, pero se te hace, ¿cierto?",
+   "frase_neutralizada": "Dijiste que le ibas a pedir el descuento al jefe, pero no te atreves, ¿verdad?",
+   "nota": "Neutral cambiaba a tercera persona; defs 1-3 son un solo sentido."
+  },
+  {
+   "id": 1069,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hace meses que querís hablar con el abogado pa'l divorcio, pero se te hace po.",
+   "frase_neutralizada": "Hace meses que quieres hablar con el abogado para el divorcio, pero no te atreves.",
+   "nota": "Neutral cambiaba la persona gramatical; frase más natural."
+  },
+  {
+   "id": 1070,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Seba es seco pa la guitarra, debería tocar en una banda.",
+   "frase_neutralizada": "Seba es muy bueno para la guitarra, debería tocar en una banda.",
+   "nota": "Muy cercana al ejemplo; ajustada y más chilena."
+  },
+  {
+   "id": 1071,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te achiquís po, si erís seco pa cocinar, tu lasaña es la raja.",
+   "frase_neutralizada": "No te desanimes, si eres muy bueno para cocinar; tu lasaña es buenísima.",
+   "nota": "Frase incoherente y neutral no correspondía."
+  },
+  {
+   "id": 1072,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi prima es seca pa las leyes, ganó su primer juicio al tiro.",
+   "frase_neutralizada": "Mi prima es muy buena para las leyes; ganó su primer juicio enseguida.",
+   "nota": "Frase pobre; definiciones equivalentes unificadas en def 1."
+  },
+  {
+   "id": 1073,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pregúntale al Nico, que es seco pa la química y te explica todo en cinco minutos.",
+   "frase_neutralizada": "Pregúntale a Nico, que es muy bueno para la química y te explica todo en cinco minutos.",
+   "nota": "Frase sin sentido ('no te dejes engañar'); nueva situación."
+  },
+  {
+   "id": 1074,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese profe es seco pa la historia, se sabe todas las fechas de memoria.",
+   "frase_neutralizada": "Ese profesor es muy bueno para la historia; se sabe todas las fechas de memoria.",
+   "nota": "Frase más natural; definiciones equivalentes unificadas."
+  },
+  {
+   "id": 1075,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le hagái cariño a ese sendo perro, que es más bravo que la cresta.",
+   "frase_neutralizada": "No acaricies a ese perro enorme, que es muy bravo.",
+   "nota": "Neutral con error ('acercues') y frase poco natural."
+  },
+  {
+   "id": 1076,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi vieja compró el sendo pavo pa Navidad, no cabe ni en el horno.",
+   "frase_neutralizada": "Mi mamá compró un pavo enorme para Navidad; no cabe ni en el horno.",
+   "nota": "Redundante ('sendo... gigantesco'); uso chileno con artículo definido."
+  },
+  {
+   "id": 1077,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuelo sacó el sendo zapallo de la huerta, pesa como diez kilos.",
+   "frase_neutralizada": "Mi abuelo sacó una calabaza enorme del huerto; pesa como diez kilos.",
+   "nota": "Frase sin sentido; defs equivalentes, nueva situación."
+  },
+  {
+   "id": 1078,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Nos tocó el sendo taco en la Costanera, estuvimos dos horas parados.",
+   "frase_neutralizada": "Nos tocó un embotellamiento enorme en la autopista; estuvimos dos horas detenidos.",
+   "nota": "Usaba 'sendo' como rápido; sentido erróneo."
+  },
+  {
+   "id": 1079,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me metí en el sendo problema con el computador, se me borró la tesis entera.",
+   "frase_neutralizada": "Tengo un problema enorme con la computadora: se me borró toda la tesis.",
+   "nota": "Casi copiaba el ejemplo; se usa el artículo chileno 'el sendo'."
+  }
+ ]
+}

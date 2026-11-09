@@ -1,0 +1,340 @@
+{
+ "lote": 84,
+ "claves": [
+  "fuiste bueno",
+  "full pega",
+  "funa",
+  "funado",
+  "funar",
+  "gallo",
+  "gandose las moneas",
+  "garabato"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2669973,
+ "duracion_s": 99.4,
+ "pares": [
+  {
+   "id": 3360,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Pensaste que no te iba a pillar copiando? Fuiste bueno, gordo, le voy a contar al profe.",
+   "frase_neutralizada": "¿Pensaste que no te iba a descubrir copiando? Estás perdido, gordo, le voy a contar al profesor.",
+   "nota": "La neutral mantenía la expresión y no había amenaza clara."
+  },
+  {
+   "id": 3361,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si mi mamá ve que le rayaste el auto, fuiste bueno, hermano.",
+   "frase_neutralizada": "Si mi mamá ve que le rayaste el auto, estás muerto, hermano.",
+   "nota": "La expresión no tenía sentido de amenaza y la neutral cambiaba abuela por abuelo."
+  },
+  {
+   "id": 3362,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te tocó contra el mejor del torneo en primera ronda? Fuiste bueno, Marcos.",
+   "frase_neutralizada": "¿Te tocó contra el mejor del torneo en la primera ronda? Ya perdiste, Marcos.",
+   "nota": "Ahora es perder antes de jugar; la neutral mantenía la expresión."
+  },
+  {
+   "id": 3363,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Fuiste bueno, Juan! El jefe cachó que llegaste tarde otra vez.",
+   "frase_neutralizada": "¡Estás perdido, Juan! El jefe se dio cuenta de que llegaste tarde otra vez.",
+   "nota": "La original era agramatical y sin sentido claro."
+  },
+  {
+   "id": 3364,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Fuiste buena, Isabel, la profe ya está corrigiendo la prueba y no estudiaste nada.",
+   "frase_neutralizada": "Estás perdida, Isabel, la profesora ya está corrigiendo el examen y no estudiaste nada.",
+   "nota": "Ahora enfatiza el fracaso; se ajustó el género y se quitó la expresión de la neutral."
+  },
+  {
+   "id": 3365,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Única definición con votos negativos; no describe un uso real establecido."
+  },
+  {
+   "id": 3366,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Única definición con votos negativos; no describe un uso real establecido."
+  },
+  {
+   "id": 3367,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Única definición con votos negativos; no describe un uso real establecido."
+  },
+  {
+   "id": 3368,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Única definición con votos negativos; no describe un uso real establecido."
+  },
+  {
+   "id": 3369,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Única definición con votos negativos; no describe un uso real establecido."
+  },
+  {
+   "id": 3370,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi ex me hizo una funa en Facebook por no pagar la pensión y ahora todos me miran feo.",
+   "frase_neutralizada": "Mi ex publicó una denuncia contra mí en Facebook para exponerme por no pagar la pensión alimenticia, y ahora todos me miran mal.",
+   "nota": "La neutral copiaba la definición; además, era casi igual al ejemplo del diccionario."
+  },
+  {
+   "id": 3371,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Viste la funa que le hicieron al dueño del local por no pagarle a los garzones?",
+   "frase_neutralizada": "¿Viste la denuncia que publicaron en redes contra el dueño del local por no pagarles a los meseros?",
+   "nota": "Repetía la situación anterior y la neutral copiaba la definición."
+  },
+  {
+   "id": 3372,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Y a la Feña la funai o no? Va a venir al carrete.",
+   "frase_neutralizada": "¿Y a Fernanda la conoces o no? Va a venir a la fiesta.",
+   "nota": "Frase demasiado corta y la neutral era agramatical (\"sabes a ella\")."
+  },
+  {
+   "id": 3373,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si el taxista te cobró de más, hazle una funa en el grupo del barrio, po.",
+   "frase_neutralizada": "Si el taxista te cobró de más, publica una denuncia contra él en el grupo del barrio para exponerlo.",
+   "nota": "Era demasiado corta; se cambió al sentido principal, que tiene más votos."
+  },
+  {
+   "id": 3374,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Dejé las paltas en la bolsa toda la semana y se me funaron enteras.",
+   "frase_neutralizada": "Dejé los aguacates en la bolsa toda la semana y se me pudrieron todos.",
+   "nota": "Era casi una copia del ejemplo; se amplió la situación."
+  },
+  {
+   "id": 3375,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira, ahí va el funao por robar en el súper del barrio.",
+   "frase_neutralizada": "Mira, ahí va el tipo al que expusieron públicamente por robar en el supermercado del barrio.",
+   "nota": "La frase chilena no contenía la expresión."
+  },
+  {
+   "id": 3376,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa mina es la funada por estafar con las entradas del concierto.",
+   "frase_neutralizada": "Esa chica es a la que expusieron públicamente por estafar con las entradas del concierto.",
+   "nota": "La frase chilena no contenía la expresión."
+  },
+  {
+   "id": 3377,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Pancho quedó funado en el grupo del curso por no pagar su parte del asado.",
+   "frase_neutralizada": "Francisco quedó expuesto en el grupo del curso por no pagar su parte del asado.",
+   "nota": "Usaba \"funao\" con un sentido equivocado y la neutral no tenía sentido."
+  },
+  {
+   "id": 3378,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Con lo que publicaste ayer quedaste más funao que la cresta, todos te están pelando.",
+   "frase_neutralizada": "Con lo que publicaste ayer quedaste totalmente expuesto, todos te están criticando.",
+   "nota": "El sentido era incorrecto y la neutral no correspondía."
+  },
+  {
+   "id": 3379,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Al alcalde lo tienen funado en todas las redes por la corrupción.",
+   "frase_neutralizada": "Al alcalde lo tienen denunciado y expuesto en todas las redes por la corrupción.",
+   "nota": "Usaba el verbo funar en vez de \"funado\"; se pasó a participio."
+  },
+  {
+   "id": 3380,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Voy a funar al Juan, que se robó la maleta de mi prima en el terminal.",
+   "frase_neutralizada": "Voy a denunciar a Juan, que se robó la maleta de mi prima en la terminal.",
+   "nota": "La frase chilena no contenía la expresión."
+  },
+  {
+   "id": 3381,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "El Rodrigo me funó con la polola, le contó que yo andaba en el carrete.",
+   "frase_neutralizada": "Rodrigo me delató con mi novia, le contó que yo estaba en la fiesta.",
+   "nota": "Repetía el par anterior; ahora ilustra el sentido de delatar."
+  },
+  {
+   "id": 3382,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Vamos a funar al alcalde afuera de la muni por robarse la plata del presupuesto.",
+   "frase_neutralizada": "Vamos a hacer una protesta de repudio contra el alcalde afuera de la municipalidad por robarse el dinero del presupuesto.",
+   "nota": "Se agregó el acto público frente a la sede y un tono más natural."
+  },
+  {
+   "id": 3383,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Los trabajadores funaron al jefe en Twitter por no darles implementos de seguridad.",
+   "frase_neutralizada": "Los trabajadores denunciaron públicamente al jefe en Twitter por no darles equipo de seguridad.",
+   "nota": "Se cambió a denuncia en redes para que la situación sea distinta."
+  },
+  {
+   "id": 3384,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Llegaron los pacos y nos funaron el carrete justo cuando estaba bueno.",
+   "frase_neutralizada": "Llegó la policía y nos arruinó la fiesta justo cuando estaba buena.",
+   "nota": "La original no tenía sentido; ahora ilustra \"echar a perder\"."
+  },
+  {
+   "id": 3385,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué gallo anda hablando así de mí?",
+   "frase_neutralizada": "¿Qué tipo anda hablando así de mí?",
+   "nota": "Era demasiado corta y le faltaban signos; se completó la frase."
+  },
+  {
+   "id": 3386,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién es ese gallo que se está mudando al depto de al lado?",
+   "frase_neutralizada": "¿Quién es ese tipo que se está mudando al departamento de al lado?",
+   "nota": "Tenía una errata (\"mudiando\") y la neutral cambiaba el significado."
+  },
+  {
+   "id": 3387,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me topé con el gallo que me vendió el auto y ni me saludó.",
+   "frase_neutralizada": "Me encontré con el tipo que me vendió el auto y ni siquiera me saludó.",
+   "nota": "La frase original era incoherente."
+  },
+  {
+   "id": 3388,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El gallo de la portería es súper buena onda, siempre me saluda.",
+   "frase_neutralizada": "El tipo de la portería es muy amable, siempre me saluda.",
+   "nota": "La neutral cambiaba al plural; se mejoró la naturalidad."
+  },
+  {
+   "id": 3389,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Un gallo me paró en la calle pa preguntarme la hora y después me pidió plata.",
+   "frase_neutralizada": "Un tipo me detuvo en la calle para preguntarme la hora y después me pidió dinero.",
+   "nota": "La frase original no tenía sentido."
+  },
+  {
+   "id": 3390,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Cata se está ganando las moneas con el jefe pa que le den el ascenso.",
+   "frase_neutralizada": "Catalina está haciendo méritos con el jefe para que le den el ascenso.",
+   "nota": "Faltaba el pronombre \"se\" y la persona ante quien hace méritos."
+  },
+  {
+   "id": 3391,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cabro chico se está ganando las moneas con la abuela pa que le compre la Play.",
+   "frase_neutralizada": "El niño está haciendo méritos con su abuela para que le compre la PlayStation.",
+   "nota": "Faltaba el pronombre \"se\"; la situación era poco natural."
+  },
+  {
+   "id": 3392,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi cuñado se anda ganando las moneas con mi suegra, hasta le lava el auto.",
+   "frase_neutralizada": "Mi cuñado anda haciendo méritos con mi suegra, hasta le lava el auto.",
+   "nota": "Una abogada ganando un juicio no corresponde al sentido."
+  },
+  {
+   "id": 3393,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Benja se está ganando las moneas con el profe guía pa que lo recomiende pa la beca.",
+   "frase_neutralizada": "Benjamín está haciendo méritos con el profesor guía para que lo recomiende para la beca.",
+   "nota": "Faltaba el pronombre \"se\" y la persona ante quien hace méritos."
+  },
+  {
+   "id": 3394,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese diputado se está ganando las moneas con el presidente pa quedar de ministro.",
+   "frase_neutralizada": "Ese diputado está haciendo méritos con el presidente para quedar como ministro.",
+   "nota": "Faltaba el pronombre \"se\"; ahora hace méritos ante alguien."
+  },
+  {
+   "id": 3395,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuela se enoja cuando decimos garabatos en la mesa.",
+   "frase_neutralizada": "Mi abuela se enoja cuando decimos groserías en la mesa.",
+   "nota": "No contenía la expresión; usaba un garabato en vez de mencionarlo."
+  },
+  {
+   "id": 3396,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico aprendió un garabato nuevo en el colegio y se lo anda diciendo a todos.",
+   "frase_neutralizada": "El niño aprendió una grosería nueva en la escuela y se la anda diciendo a todos.",
+   "nota": "No contenía la expresión y la frase no tenía sentido."
+  },
+  {
+   "id": 3397,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, no tirís tanto garabato, que los niños están escuchando.",
+   "frase_neutralizada": "Ya, no digas tantas groserías, que los niños están escuchando.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3398,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El árbitro lo echó por tirarle un garabato en la cara.",
+   "frase_neutralizada": "El árbitro lo expulsó por decirle una grosería en la cara.",
+   "nota": "La def. 2 tiene votos negativos; se pasó al sentido principal."
+  },
+  {
+   "id": 3399,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al locutor se le escapó un garabato en pleno programa en vivo y quedó la escoba.",
+   "frase_neutralizada": "Al locutor se le escapó una grosería en pleno programa en vivo y se armó un escándalo.",
+   "nota": "La def. 2 tiene votos negativos; se pasó al sentido principal."
+  }
+ ]
+}

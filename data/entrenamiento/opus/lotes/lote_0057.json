@@ -1,0 +1,340 @@
+{
+ "lote": 57,
+ "claves": [
+  "plop",
+  "po",
+  "poleron",
+  "pololo",
+  "poner el gorro",
+  "ponerle pino",
+  "ponerse la camiseta",
+  "ponerse las pilas"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.223765,
+ "duracion_s": 75.9,
+ "pares": [
+  {
+   "id": 2280,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me contó que se iba a casar con la ex de su hermano y quedé plop.",
+   "frase_neutralizada": "Me contó que se iba a casar con la ex de su hermano y me quedé sin palabras.",
+   "nota": "\"Plopa\" no existe; ahora se usa \"quedar plop\" para expresar desconcierto."
+  },
+  {
+   "id": 2281,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pato contó un chiste tan fome que todos quedamos plop.",
+   "frase_neutralizada": "Pato contó un chiste tan malo que todos nos quedamos desconcertados.",
+   "nota": "Plop no indica que la broma guste; ahora refleja un chiste fome."
+  },
+  {
+   "id": 2282,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le pregunté a la profe por la nota y me habló puros tecnicismos, quedé plop.",
+   "frase_neutralizada": "Le pregunté a la profesora por la nota y solo me habló con tecnicismos; no entendí nada.",
+   "nota": "Plop no es un verbo; se usa ahora para expresar incomprensión."
+  },
+  {
+   "id": 2283,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegué a la pega a las siete y me dijeron que había paro, ¡plop!",
+   "frase_neutralizada": "Llegué al trabajo a las siete y me dijeron que había huelga. ¡Me quedé de una pieza!",
+   "nota": "Uso sin sentido; ahora plop es una interjección de desconcierto."
+  },
+  {
+   "id": 2284,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Cami me dijo que me quería y al otro día me bloqueó, quedé plop, cachai.",
+   "frase_neutralizada": "Cami me dijo que me quería y al día siguiente me bloqueó; me quedé desconcertado, ¿entiendes?",
+   "nota": "Plop no es un verbo; la versión neutral no correspondía."
+  },
+  {
+   "id": 2285,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Apúrate po, que vamos a llegar tarde a la plaza.",
+   "frase_neutralizada": "Apúrate, que vamos a llegar tarde a la plaza.",
+   "nota": "La versión neutral añadía una pregunta inventada; ahora po se usa como muletilla."
+  },
+  {
+   "id": 2286,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si no te alcanza la plata, pídele a tu papá po.",
+   "frase_neutralizada": "Si no te alcanza el dinero, pídele a tu papá, pues.",
+   "nota": "La versión neutral inventaba un significado; se reemplazó \"plata\"."
+  },
+  {
+   "id": 2287,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No po, si yo nunca te dije eso, estai inventando.",
+   "frase_neutralizada": "No, yo nunca te dije eso, estás inventando.",
+   "nota": "Las definiciones 1 a 5 son el mismo sentido; se cambió la situación."
+  },
+  {
+   "id": 2288,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, te paso a ver mañana después de la pega.",
+   "frase_neutralizada": "Bueno, paso a verte mañana después del trabajo.",
+   "nota": "La frase era poco natural; se agregó \"ya po\" y se neutralizó \"pega\"."
+  },
+  {
+   "id": 2289,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y cómo estai po? Hace tiempo que no te veía.",
+   "frase_neutralizada": "¿Y cómo estás? Hace tiempo que no te veía.",
+   "nota": "La versión neutral repetía la pregunta; ahora usa el voseo chileno."
+  },
+  {
+   "id": 2290,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llévate un polerón pa la fiesta, que en la noche refresca harto.",
+   "frase_neutralizada": "Llévate una sudadera para la fiesta, que en la noche hace bastante frío.",
+   "nota": "Faltaba la tilde en polerón; se agregó más contexto."
+  },
+  {
+   "id": 2291,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué calor, me voy a sacar el polerón al tiro.",
+   "frase_neutralizada": "Qué calor, me voy a quitar la sudadera ahora mismo.",
+   "nota": "Ponerse un polerón con calor era ilógico; ahora se lo saca."
+  },
+  {
+   "id": 2292,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se me quedó el polerón en el colegio, ¿me prestai el tuyo?",
+   "frase_neutralizada": "Se me quedó la sudadera en el colegio, ¿me prestas la tuya?",
+   "nota": "Mezclaba polerón y suéter; ahora la frase es coherente."
+  },
+  {
+   "id": 2293,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Quiero comprarme un polerón, ¿sabís dónde los venden baratos?",
+   "frase_neutralizada": "Quiero comprarme una sudadera, ¿sabes dónde las venden baratas?",
+   "nota": "Se añadió la tilde y el voseo chileno."
+  },
+  {
+   "id": 2294,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este polerón me pica, ¿te tinca si lo cambio por el gris con capucha?",
+   "frase_neutralizada": "Esta sudadera me pica, ¿te parece si la cambio por la gris con capucha?",
+   "nota": "Mezclaba polerón y sudadera; se neutralizó \"te tinca\"."
+  },
+  {
+   "id": 2295,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Esos dos que están bailando juntos son pololos o solo amigos?",
+   "frase_neutralizada": "¿Esos dos que están bailando juntos son novios o solo amigos?",
+   "nota": "\"Es pololo y polola\" no era natural; las definiciones 1, 2 y 3 son el mismo sentido."
+  },
+  {
+   "id": 2296,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi pololo me invitó a comer sushi pa nuestro aniversario.",
+   "frase_neutralizada": "Mi novio me invitó a comer sushi para nuestro aniversario.",
+   "nota": "Llamar \"mi pololo\" al novio para saludarlo no es natural; se escribió una situación nueva."
+  },
+  {
+   "id": 2297,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Fran terminó con el pololo y está pa la cagá.",
+   "frase_neutralizada": "Fran terminó con su novio y está fatal.",
+   "nota": "La frase repetía la situación; la neutral tenía un error de concordancia."
+  },
+  {
+   "id": 2298,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "Este fin de semana me salió un pololo pintando una casa en Maipú.",
+   "frase_neutralizada": "Este fin de semana me salió un trabajo ocasional pintando una casa en Maipú.",
+   "nota": "Se agregó el sentido de trabajo pequeño, que es de uso real."
+  },
+  {
+   "id": 2299,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "Ando haciendo pololos de gásfiter mientras encuentro una pega fija.",
+   "frase_neutralizada": "Estoy haciendo trabajos ocasionales de plomería mientras encuentro un trabajo fijo.",
+   "nota": "La definición 3 repetía el sentido de novio; ahora es trabajo informal."
+  },
+  {
+   "id": 2300,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me enteré que el Rodrigo le puso el gorro a la polola con su mejor amiga.",
+   "frase_neutralizada": "Me enteré de que Rodrigo engañó a su novia con su mejor amiga.",
+   "nota": "El sentido era confuso; ahora la infidelidad queda clara."
+  },
+  {
+   "id": 2301,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿tú creís que la Vale le está poniendo el gorro al Seba?",
+   "frase_neutralizada": "Oye, ¿tú crees que Vale está engañando a Seba?",
+   "nota": "Faltaba la persona engañada; la versión neutral no correspondía."
+  },
+  {
+   "id": 2302,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi ex me puso el gorro como tres veces y yo ni cachaba.",
+   "frase_neutralizada": "Mi ex me puso los cuernos como tres veces y yo ni me daba cuenta.",
+   "nota": "Se hizo más natural y se cambió el tiempo verbal al uso chileno."
+  },
+  {
+   "id": 2303,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si me llegai a poner el gorro, terminamos al tiro, ¿estamos?",
+   "frase_neutralizada": "Si llegas a engañarme, terminamos de inmediato, ¿de acuerdo?",
+   "nota": "La frase original era poco natural; ahora es una advertencia de pareja."
+  },
+  {
+   "id": 2304,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al compadre le pusieron el gorro con el vecino y fue el último en enterarse.",
+   "frase_neutralizada": "A mi amigo le pusieron los cuernos con el vecino y fue el último en enterarse.",
+   "nota": "\"Ponerle el gorro a mi novia\" es incoherente; la neutral cambiaba de persona."
+  },
+  {
+   "id": 2305,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cabros, quedan dos días pa la entrega, hay que ponerle pino.",
+   "frase_neutralizada": "Chicos, quedan dos días para la entrega, hay que esforzarse.",
+   "nota": "La versión neutral era literal y forzada."
+  },
+  {
+   "id": 2306,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si le ponís pino al local, en un par de meses se te llena de clientes.",
+   "frase_neutralizada": "Si te esfuerzas con el local, en un par de meses se te llena de clientes.",
+   "nota": "La versión neutral era literal; se agregó el voseo chileno."
+  },
+  {
+   "id": 2307,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le puse harto pino al ensayo y me saqué un siete.",
+   "frase_neutralizada": "Me esforcé mucho en el ensayo y saqué la nota máxima.",
+   "nota": "La versión neutral era literal; ahora la acción está en pasado."
+  },
+  {
+   "id": 2308,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ponle pino a la presentación, mira que el jefe va a estar viendo.",
+   "frase_neutralizada": "Esfuérzate en la presentación, que el jefe va a estar mirando.",
+   "nota": "\"Añade empeño a ti\" era agramatical."
+  },
+  {
+   "id": 2309,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Los cabros chicos le pusieron pino al aseo y la casa quedó impeque.",
+   "frase_neutralizada": "Los niños se esforzaron con la limpieza y la casa quedó impecable.",
+   "nota": "\"Ponerle pino a tus hijos\" no tenía sentido."
+  },
+  {
+   "id": 2310,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la final todos se pusieron la camiseta y corrieron hasta el último minuto.",
+   "frase_neutralizada": "En la final todos se comprometieron con el equipo y corrieron hasta el último minuto.",
+   "nota": "La frase era incoherente y tenía un regionalismo (\"tío\")."
+  },
+  {
+   "id": 2311,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da risa que ahora se ponga la camiseta por el Colo si antes ni veía fútbol.",
+   "frase_neutralizada": "Me da risa que ahora defienda al Colo-Colo si antes ni veía fútbol.",
+   "nota": "La versión neutral tenía \"se apoya\", que es agramatical."
+  },
+  {
+   "id": 2312,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo me pongo la camiseta por la Roja aunque pierda todos los partidos.",
+   "frase_neutralizada": "Yo apoyo a la selección chilena aunque pierda todos los partidos.",
+   "nota": "Errores gramaticales: \"a mí me pongo\" y \"pierdemos\"."
+  },
+  {
+   "id": 2313,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi colega nunca se pone la camiseta por la empresa, hace lo justo y se va.",
+   "frase_neutralizada": "Mi colega nunca se compromete con la empresa, hace lo mínimo y se va.",
+   "nota": "La frase usaba el sentido literal; ahora es compromiso laboral."
+  },
+  {
+   "id": 2314,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si los vecinos no se ponen la camiseta, la junta de vecinos no va a funcionar.",
+   "frase_neutralizada": "Si los vecinos no se comprometen, la junta de vecinos no va a funcionar.",
+   "nota": "Se corrigió el modo verbal y se dio un contexto más claro."
+  },
+  {
+   "id": 2315,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Andai medio volado, ponte las pilas que mañana hay que entregar el informe.",
+   "frase_neutralizada": "Estás algo distraído, concéntrate que mañana hay que entregar el informe.",
+   "nota": "La versión neutral agregaba una recomendación; ahora es más natural."
+  },
+  {
+   "id": 2316,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si no te ponís las pilas, te vai a echar el ramo de nuevo.",
+   "frase_neutralizada": "Si no te esfuerzas, vas a reprobar la materia de nuevo.",
+   "nota": "La frase era forzada y redundante."
+  },
+  {
+   "id": 2317,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El negocio anda mal, tenemos que ponernos las pilas con las ventas este mes.",
+   "frase_neutralizada": "El negocio va mal, tenemos que esforzarnos con las ventas este mes.",
+   "nota": "La versión neutral agregaba una recomendación que no estaba."
+  },
+  {
+   "id": 2318,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tengo que poner las pilas con el inglés si quiero postular a la beca.",
+   "frase_neutralizada": "Tengo que esforzarme con el inglés si quiero solicitar la beca.",
+   "nota": "\"Lenguaje extranjero\" era poco natural."
+  },
+  {
+   "id": 2319,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano se puso las pilas y terminó la tesis en dos meses.",
+   "frase_neutralizada": "Mi hermano se esforzó y terminó la tesis en dos meses.",
+   "nota": "Copiaba el ejemplo del diccionario; se escribió una situación nueva."
+  }
+ ]
+}

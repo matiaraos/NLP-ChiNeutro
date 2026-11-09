@@ -1,0 +1,340 @@
+{
+ "lote": 12,
+ "claves": [
+  "dale",
+  "dale tu corte",
+  "dale corte",
+  "dar cosa",
+  "dar jugo",
+  "darle color",
+  "de cajon",
+  "de carton"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2773673,
+ "duracion_s": 104.4,
+ "pares": [
+  {
+   "id": 480,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te paso a buscar el sábado pa' ir a la fiesta? —Dale, a las diez.",
+   "frase_neutralizada": "¿Paso por ti el sábado para ir a la fiesta? —Está bien, a las diez.",
+   "nota": "Quité redundancia 'por supuesto' y añadí rasgos chilenos naturales."
+  },
+  {
+   "id": 481,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Vemos esa película esta noche? —Dale, yo llevo las cabritas.",
+   "frase_neutralizada": "¿Vemos esa película esta noche? —Bueno, yo llevo las palomitas.",
+   "nota": "'Dale' respondía a una opinión; ahora acepta una propuesta."
+  },
+  {
+   "id": 482,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿me prestai tu cargador un rato? —Dale, está en mi mochila.",
+   "frase_neutralizada": "Oye, ¿me prestas tu cargador un rato? —Está bien, está en mi mochila.",
+   "nota": "Uso incorrecto como muletilla interrogativa y error gramatical."
+  },
+  {
+   "id": 483,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mándame la foto de tu tatuaje cuando llegues a la casa. —Dale, te la mando al tiro.",
+   "frase_neutralizada": "Mándame la foto de tu tatuaje cuando llegues a casa. —De acuerdo, te la mando enseguida.",
+   "nota": "'Dale' no aceptaba nada; ahora responde a una petición."
+  },
+  {
+   "id": 484,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si querís, ponemos tu canción favorita en el auto. —Dale, súbele el volumen.",
+   "frase_neutralizada": "Si quieres, ponemos tu canción favorita en el auto. —Está bien, súbele el volumen.",
+   "nota": "'Dale' no expresaba aceptación de propuesta; se rehízo el diálogo."
+  },
+  {
+   "id": 485,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pa' la presentación no sigai el formato de siempre, dale tu corte.",
+   "frase_neutralizada": "Para la presentación no sigas el formato de siempre, dale tu propio estilo.",
+   "nota": "Faltaba la expresión; se mantuvo la idea de ser original."
+  },
+  {
+   "id": 486,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa canción la han tocado mil veces, así que dale tu corte cuando la cantís.",
+   "frase_neutralizada": "Esa canción la han tocado mil veces, así que dale tu propio estilo cuando la cantes.",
+   "nota": "No contenía la expresión y era incoherente."
+  },
+  {
+   "id": 487,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El traje es clásico, pero con esas zapatillas rojas le diste tu corte, compadre.",
+   "frase_neutralizada": "El traje es clásico, pero con esos zapatos deportivos rojos le diste tu propio estilo, amigo.",
+   "nota": "Faltaba la expresión; se conservó el tema del atuendo."
+  },
+  {
+   "id": 488,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tú que te las sabís todas en la pelota, sale a la cancha y dale tu corte.",
+   "frase_neutralizada": "Tú que sabes tanto de fútbol, sal a la cancha y luce lo que sabes.",
+   "nota": "Neutral no reflejaba lucirse; se dio contexto natural."
+  },
+  {
+   "id": 489,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No te dé vergüenza cantar en el karaoke, sube y dale tu corte, po.",
+   "frase_neutralizada": "No te dé vergüenza cantar en el karaoke, sube y lúcete.",
+   "nota": "'No seas pedante' contradecía el sentido de animar a lucirse."
+  },
+  {
+   "id": 490,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hoy tenís la entrevista, así que plancha la camisa y dale corte.",
+   "frase_neutralizada": "Hoy tienes la entrevista, así que plancha la camisa y arréglate con estilo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 491,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pa'l matrimonio del Pancho hay que darle corte, nada de ir en zapatillas.",
+   "frase_neutralizada": "Para la boda de Pancho hay que vestirse con elegancia, nada de ir con zapatos deportivos.",
+   "nota": "No contenía la expresión y no tenía sentido."
+  },
+  {
+   "id": 492,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ponte la chaqueta de cuero y los lentes oscuros, dale corte esta noche.",
+   "frase_neutralizada": "Ponte la chaqueta de cuero y las gafas de sol, vístete con estilo esta noche.",
+   "nota": "Usaba 'un dale corte' como sustantivo, agramatical."
+  },
+  {
+   "id": 493,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si vai a conocer a los suegros, dale corte, compadre, no llegues en buzo.",
+   "frase_neutralizada": "Si vas a conocer a tus suegros, arréglate con estilo, amigo, no llegues en ropa deportiva.",
+   "nota": "Uso sustantivado incorrecto de la expresión."
+  },
+  {
+   "id": 494,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, pa' la foto del curso dale corte con el terno nuevo.",
+   "frase_neutralizada": "Oye, para la foto del grupo luce elegante con el traje nuevo.",
+   "nota": "Uso sustantivado incorrecto; neutral cambiaba el sentido."
+  },
+  {
+   "id": 495,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da cosa hablar de mi polola delante de sus amigos.",
+   "frase_neutralizada": "Me da vergüenza hablar de mi novia delante de sus amigos.",
+   "nota": "No usaba 'dar cosa'; se corrigió la estructura."
+  },
+  {
+   "id": 496,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da cosa ver esa película de terror sola en la noche.",
+   "frase_neutralizada": "Me da miedo ver esa película de terror sola de noche.",
+   "nota": "Correcto; se añadió contexto para naturalidad."
+  },
+  {
+   "id": 497,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me da cosa pedirle aumento de sueldo al jefe, cachai.",
+   "frase_neutralizada": "Me da vergüenza pedirle un aumento de sueldo al jefe, ¿sabes?",
+   "nota": "Correcto; se añadió rasgo chileno y se ajustó neutral."
+  },
+  {
+   "id": 498,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me da cosa comer en ese carrito, se ve súper cochino.",
+   "frase_neutralizada": "Me da asco comer en ese puesto, se ve muy sucio.",
+   "nota": "'Dar cosa a alguien' es uso inexistente."
+  },
+  {
+   "id": 499,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me da cosa ver cuando le sacan sangre a alguien, me pongo blanco.",
+   "frase_neutralizada": "Me impresiona mucho ver cuando le sacan sangre a alguien, me pongo pálido.",
+   "nota": "Contexto ambiguo; asco por un cantante no encajaba bien."
+  },
+  {
+   "id": 500,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, deja de dar jugo con el celular y ponte a trabajar en el proyecto.",
+   "frase_neutralizada": "Ya, deja de perder el tiempo con el celular y ponte a trabajar en el proyecto.",
+   "nota": "Estructura interrogativa incoherente y casi copia del ejemplo."
+  },
+  {
+   "id": 501,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tú siempre estai dando jugo en las reuniones y nunca aportai nada.",
+   "frase_neutralizada": "Tú siempre estás diciendo tonterías en las reuniones y nunca aportas nada.",
+   "nota": "Se añadió voseo chileno y contexto más concreto."
+  },
+  {
+   "id": 502,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Rodrigo se tomó como cinco piscolas y ahora está puro dando jugo en el sillón.",
+   "frase_neutralizada": "Rodrigo se tomó como cinco tragos y ahora está borracho en el sofá sin hacer nada.",
+   "nota": "Faltaba la borrachera propia de la definición 2."
+  },
+  {
+   "id": 503,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Si vai a llegar curado a dar jugo al asado, mejor no vengai.",
+   "frase_neutralizada": "Si vas a llegar borracho a estorbar en la parrillada sin ayudar, mejor no vengas.",
+   "nota": "No había borrachera; la frase era forzada."
+  },
+  {
+   "id": 504,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Anoche el Juan se curó y empezó a dar jugo, le gritó a todos lo que pensaba de ellos.",
+   "frase_neutralizada": "Anoche Juan se emborrachó y se descontroló, les gritó a todos lo que pensaba de ellos.",
+   "nota": "Error gramatical 'empezó a dando'; faltaba descontrol por ebriedad."
+  },
+  {
+   "id": 505,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, no le dei tanto color, si fue un choque chiquitito no más.",
+   "frase_neutralizada": "Ya, no exageres tanto, fue solo un choque pequeño.",
+   "nota": "Frase incoherente; se aclaró el sentido de exagerar."
+  },
+  {
+   "id": 506,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué le estai dando tanto color a que llegué diez minutos tarde?",
+   "frase_neutralizada": "¿Por qué estás exagerando tanto porque llegué diez minutos tarde?",
+   "nota": "No contenía la expresión y tenía errores ortográficos."
+  },
+  {
+   "id": 507,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá le dio color a la nota roja y ahora estoy castigado todo el mes.",
+   "frase_neutralizada": "Mi mamá exageró con la mala calificación y ahora estoy castigado todo el mes.",
+   "nota": "No contenía la expresión; 'manchar' malinterpretado."
+  },
+  {
+   "id": 508,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "¡Ponle color, compadre, que la pista es tuya!",
+   "frase_neutralizada": "¡Dale con todo, amigo, que la pista es tuya!",
+   "nota": "No contenía la expresión; ahora ilustra animar a alguien."
+  },
+  {
+   "id": 509,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Defiende tu idea con ganas, ponle color, no seai tímido.",
+   "frase_neutralizada": "Defiende tu idea con ganas, ponle entusiasmo, no seas tímido.",
+   "nota": "Neutral usaba voseo rioplatense 'animá'; se usó variante 'ponerle'."
+  },
+  {
+   "id": 510,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con esas pistas, cae de cajón que fue un robo.",
+   "frase_neutralizada": "Con esas pistas, es obvio que fue un robo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 511,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si no estudiaste nada, era de cajón que te iba a ir mal en la prueba.",
+   "frase_neutralizada": "Si no estudiaste nada, era obvio que te iba a ir mal en el examen.",
+   "nota": "Explicación 'evidente' no encajaba; contexto forzado."
+  },
+  {
+   "id": 512,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cae de cajón que ella sabía del viaje, si fue la que compró los pasajes.",
+   "frase_neutralizada": "Es evidente que ella sabía del viaje, si fue ella quien compró los boletos.",
+   "nota": "Lo obvio era ilógico; se reformuló la evidencia."
+  },
+  {
+   "id": 513,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con el taco que hay, es de cajón que vamos a llegar tarde.",
+   "frase_neutralizada": "Con el tráfico que hay, es obvio que vamos a llegar tarde.",
+   "nota": "Definición 2 dudosa; se usó el sentido 'obvio'."
+  },
+  {
+   "id": 514,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si te llama después de un año sin hablarte, de cajón que necesita algo.",
+   "frase_neutralizada": "Si te llama después de un año sin hablarte, es obvio que necesita algo.",
+   "nota": "Frase agramatical; definición 2 no es uso real."
+  },
+  {
+   "id": 515,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Nico es de cartón, un día es de izquierda y al otro de derecha, según con quién ande.",
+   "frase_neutralizada": "Nico es muy falso, un día es de izquierda y al otro de derecha, según con quién ande.",
+   "nota": "Contexto vago y 'está' incorrecto; se mostró falta de convicción."
+  },
+  {
+   "id": 516,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los políticos son todos de cartón, prometen una cosa y después votan lo que les conviene.",
+   "frase_neutralizada": "Los políticos son todos falsos, prometen una cosa y después votan lo que les conviene.",
+   "nota": "'No me creo en' agramatical y 'están' incorrecto."
+  },
+  {
+   "id": 517,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Ese equipo es de cartón, no le ha ganado a nadie en todo el torneo.",
+   "frase_neutralizada": "Ese equipo es muy malo, no le ha ganado a nadie en todo el torneo.",
+   "nota": "Auto 'de cartón' sonaba literal; se usó equipo insignificante."
+  },
+  {
+   "id": 518,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "La Cami es fan de cartón, se sabe una sola canción y ya se compró la polera.",
+   "frase_neutralizada": "Cami es una fan falsa, se sabe una sola canción y ya se compró la camiseta.",
+   "nota": "Libro 'de cartón' no es uso real; ahora fan falsa."
+  },
+  {
+   "id": 519,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "No seai de cartón, tírate al agua igual que todos.",
+   "frase_neutralizada": "No seas cobarde, lánzate al agua como todos los demás.",
+   "nota": "Error de concordancia 'son falso'; se concretó la situación."
+  }
+ ]
+}

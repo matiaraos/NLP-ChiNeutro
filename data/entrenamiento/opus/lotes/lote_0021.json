@@ -1,0 +1,340 @@
+{
+ "lote": 21,
+ "claves": [
+  "rin rin raja",
+  "rompecatre",
+  "roto",
+  "roto con plata",
+  "rusia",
+  "rusio",
+  "rucio",
+  "sacar la chucha"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2568359,
+ "duracion_s": 95.0,
+ "pares": [
+  {
+   "id": 840,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿quién me hizo rin-rin raja ayer? Me levanté a abrir pa' nada.",
+   "frase_neutralizada": "Oye, ¿quién me tocó el timbre y salió corriendo ayer? Me levanté a abrir para nada.",
+   "nota": "Error gramatical ('bromó') y neutral forzada; se añadió contexto natural."
+  },
+  {
+   "id": 841,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros chicos de la cuadra se lo pasan haciendo rin-rin raja en todas las casas.",
+   "frase_neutralizada": "Los niños de la cuadra se pasan el día tocando el timbre en todas las casas y saliendo corriendo.",
+   "nota": "'Rin-rin rajando' no se usa; nueva situación con niños del barrio."
+  },
+  {
+   "id": 842,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, hagámosle rin-rin raja a la vecina pesada del 3B, ¿te tinca?",
+   "frase_neutralizada": "Bueno, toquémosle el timbre a la vecina pesada del 3B y salgamos corriendo, ¿te parece?",
+   "nota": "Neutral añadía 'voy a ver si puedo'; se ajustó y naturalizó."
+  },
+  {
+   "id": 843,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando chico me pillaron haciendo rin-rin raja y mi mamá me castigó una semana.",
+   "frase_neutralizada": "Cuando era niño me descubrieron tocando timbres y saliendo corriendo, y mi mamá me castigó una semana.",
+   "nota": "Neutral incoherente ('puerta de mi cumpleaños'); situación nueva."
+  },
+  {
+   "id": 844,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me hicieron rin-rin raja como tres veces esta noche y ya me tienen chato.",
+   "frase_neutralizada": "Me tocaron el timbre y salieron corriendo como tres veces esta noche, y ya me tienen harto.",
+   "nota": "Situación poco verosímil; nueva frase con molestia reiterada."
+  },
+  {
+   "id": 845,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi compadre se cree el medio rompecatre, pero la polola dice otra cosa.",
+   "frase_neutralizada": "Mi amigo se cree un amante muy desenfrenado, pero su novia dice otra cosa.",
+   "nota": "No contenía 'rompecatre'; frase nueva con la expresión."
+  },
+  {
+   "id": 846,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi amiga dice que el pololo nuevo es entero rompecatre, jaja.",
+   "frase_neutralizada": "Mi amiga dice que su novio nuevo es un amante sumamente desenfrenado, jaja.",
+   "nota": "No contenía la expresión y la neutral cambiaba la persona."
+  },
+  {
+   "id": 847,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la luna de miel fue puro rompecatre, volvieron con la cama del hotel quebrada.",
+   "frase_neutralizada": "En la luna de miel fue puro sexo desenfrenado; volvieron con la cama del hotel rota.",
+   "nota": "Faltaba la expresión; se mantuvo la idea de recién casados."
+  },
+  {
+   "id": 848,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuidado con el Pancho, que tiene fama de rompecatre.",
+   "frase_neutralizada": "Cuidado con Pancho, que tiene fama de ser un amante desenfrenado.",
+   "nota": "Faltaba 'rompecatre' y neutral cambiaba tú por usted."
+  },
+  {
+   "id": 849,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los vecinos de arriba son unos rompecatres, no nos dejan dormir con el ruido.",
+   "frase_neutralizada": "Los vecinos de arriba tienen un sexo tan desenfrenado que no nos dejan dormir con el ruido.",
+   "nota": "Sin la expresión y neutral confusa; situación nueva."
+  },
+  {
+   "id": 850,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿No podís hablar sin garabatos? No seai roto.",
+   "frase_neutralizada": "¿No puedes hablar sin groserías? No seas maleducado.",
+   "nota": "Frase chilena antinatural y neutral omitía 'roto'."
+  },
+  {
+   "id": 851,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese gallo es más roto, le gritó a la cajera delante de todos.",
+   "frase_neutralizada": "Ese tipo es de lo más maleducado; le gritó a la cajera delante de todos.",
+   "nota": "Comparación con perro callejero rara; se dio contexto de mala educación."
+  },
+  {
+   "id": 852,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué roto el Javier, llegó a la once y ni saludó a mi mamá.",
+   "frase_neutralizada": "Qué maleducado es Javier, llegó a la merienda y ni saludó a mi mamá.",
+   "nota": "Neutral agramatical y sin sentido; situación nueva."
+  },
+  {
+   "id": 853,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no seai roto, la fila empieza allá atrás.",
+   "frase_neutralizada": "Oye, no seas maleducado, la fila empieza allá atrás.",
+   "nota": "Usaba 'roto' como 'confundido'; se corrigió al sentido de maleducado."
+  },
+  {
+   "id": 854,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No comai con la boca abierta po, te ves súper roto.",
+   "frase_neutralizada": "No comas con la boca abierta, te ves muy ordinario.",
+   "nota": "Agramatical; defs 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 855,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El vecino se compró una camioneta enorme y pone reguetón a todo chancho; típico roto con plata.",
+   "frase_neutralizada": "El vecino se compró una camioneta enorme y pone reguetón a todo volumen; típico nuevo rico sin modales.",
+   "nota": "La frase explicaba el significado; nueva situación."
+  },
+  {
+   "id": 856,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese roto con plata se va a casar con una modelo y anda presumiendo por todo Instagram.",
+   "frase_neutralizada": "Ese nuevo rico sin clase se va a casar con una modelo y anda presumiendo por todo Instagram.",
+   "nota": "Neutral perdía la idea de riqueza; se naturalizó."
+  },
+  {
+   "id": 857,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Por más que se vista de marca, la Kathy sigue siendo una rota con plata.",
+   "frase_neutralizada": "Por más que se vista de marca, Kathy sigue siendo una nueva rica sin modales.",
+   "nota": "Frase negaba la expresión y neutral agramatical; defs 1 y 2 equivalentes."
+  },
+  {
+   "id": 858,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegó el roto con plata al restorán tratando pésimo a los garzones, como si fuera el dueño.",
+   "frase_neutralizada": "Llegó el nuevo rico maleducado al restaurante tratando pésimo a los meseros, como si fuera el dueño.",
+   "nota": "Neutral excesivamente explicativa; se concretó la situación."
+  },
+  {
+   "id": 859,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi jefe es un roto con plata: tiene lucas pa' tirar pa'l techo, pero no saluda a nadie.",
+   "frase_neutralizada": "Mi jefe es un nuevo rico sin modales: tiene muchísimo dinero, pero no saluda a nadie.",
+   "nota": "Frase sin sentido claro; situación nueva."
+  },
+  {
+   "id": 860,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿quién es la rusia que llegó con tu prima?",
+   "frase_neutralizada": "Oye, ¿quién es la rubia que llegó con tu prima?",
+   "nota": "No contenía 'rusia' y usaba voseo rioplatense."
+  },
+  {
+   "id": 861,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La rusia del curso se sacó la mejor nota en la prueba.",
+   "frase_neutralizada": "La rubia de la clase sacó la mejor nota en el examen.",
+   "nota": "No contenía la expresión; frase nueva."
+  },
+  {
+   "id": 862,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La Cami se pasó a rusia con tinte de supermercado y le quedó el pelo como paja.",
+   "frase_neutralizada": "Cami se tiñó de rubia con tinte de supermercado y le quedó el pelo como paja.",
+   "nota": "No contenía 'rusia'; frase nueva sobre teñido."
+  },
+  {
+   "id": 863,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No sé por qué la Javi se hizo rusia, el pelo oscuro le quedaba mil veces mejor.",
+   "frase_neutralizada": "No sé por qué Javi se tiñó de rubia; el pelo oscuro le quedaba mucho mejor.",
+   "nota": "No contenía la expresión y era agramatical."
+  },
+  {
+   "id": 864,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hija nació rusia igual que el papá y todos le preguntan de dónde salió.",
+   "frase_neutralizada": "Mi hija nació rubia igual que su papá y todos le preguntan de dónde salió así.",
+   "nota": "Sin la expresión; def 3 descartada por votos negativos."
+  },
+  {
+   "id": 865,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese cabro es rusio natural, no se tiñe, salió igual al abuelo.",
+   "frase_neutralizada": "Ese chico es rubio natural, no se tiñe; salió igual a su abuelo.",
+   "nota": "No contenía 'rusio'; se usa el sentido de rubio."
+  },
+  {
+   "id": 866,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Espérate, ¿la mina que vai a ver es la rusia de ojos claros?",
+   "frase_neutralizada": "Espera, ¿la chica que vas a ver es la rubia de ojos claros?",
+   "nota": "Error de concordancia; neutral cambiaba el sentido a rubio artificial."
+  },
+  {
+   "id": 867,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye rusio, ¿me prestai el encendedor?",
+   "frase_neutralizada": "Oye, rubio, ¿me prestas el encendedor?",
+   "nota": "Usaba 'rucia' y def 2 con votos negativos."
+  },
+  {
+   "id": 868,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El pololo de mi hermana es rusio y se pone rojo como camarón en la playa.",
+   "frase_neutralizada": "El novio de mi hermana es rubio y se pone rojo como un camarón en la playa.",
+   "nota": "Usaba 'rucio' y def de votos negativos; ahora def 1."
+  },
+  {
+   "id": 869,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando chica era entera rusia, pero ahora tengo el pelo castaño.",
+   "frase_neutralizada": "Cuando era niña era muy rubia, pero ahora tengo el pelo castaño.",
+   "nota": "Usaba 'rucia' y neutral confusa; frase nueva."
+  },
+  {
+   "id": 870,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, rucio, ¿cuánto te salió la decoloración en la pelu?",
+   "frase_neutralizada": "Oye, rubio teñido, ¿cuánto te costó la decoloración en la peluquería?",
+   "nota": "Frase agramatical y sin sentido; situación nueva."
+  },
+  {
+   "id": 871,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Igual encontraba lindo al rucio, pero al final no era pa' mí.",
+   "frase_neutralizada": "La verdad es que me parecía guapo el chico del pelo teñido de rubio, pero al final no era para mí.",
+   "nota": "Se naturalizó la frase chilena y se corrigió concordancia."
+  },
+  {
+   "id": 872,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El rucio del fondo no pescó ni una en la charla de historia.",
+   "frase_neutralizada": "El chico del pelo teñido de rubio que estaba al fondo no prestó nada de atención en la charla de historia.",
+   "nota": "Errores ortográficos y gramaticales ('entiendiera', 'se entendiera nada')."
+  },
+  {
+   "id": 873,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la playa me topé con el rucio que trabajaba conmigo, casi no lo reconocí.",
+   "frase_neutralizada": "En la playa me encontré con el chico del pelo teñido de rubio que trabajaba conmigo; casi no lo reconocí.",
+   "nota": "Frase vaga ('en el sol'); se dio contexto coherente."
+  },
+  {
+   "id": 874,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ese rucio de la esquina me está mirando súper raro.",
+   "frase_neutralizada": "Oye, ese chico de la esquina con el pelo teñido de rubio me está mirando muy raro.",
+   "nota": "Se naturalizó el registro coloquial y se quitó 'Por Dios'."
+  },
+  {
+   "id": 875,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si me seguís haciendo perder el tiempo, te voy a sacar la chucha.",
+   "frase_neutralizada": "Si me sigues haciendo perder el tiempo, te voy a partir la cara.",
+   "nota": "Frase y neutral agramaticales; registro grosero mantenido."
+  },
+  {
+   "id": 876,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese gallo te va a sacar la chucha si le seguís molestando a la polola.",
+   "frase_neutralizada": "Ese tipo te va a dar una paliza si sigues molestando a su novia.",
+   "nota": "Frase poco natural; se añadió registro chileno y contexto."
+  },
+  {
+   "id": 877,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me pasé de copas y el guardia de la disco me sacó la chucha.",
+   "frase_neutralizada": "Me pasé de copas y el guardia de la discoteca me dio una paliza.",
+   "nota": "Agramatical y mezcla tú/usted; situación nueva."
+  },
+  {
+   "id": 878,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Me saqué la chucha en la bici bajando el cerro, quedé entero raspado.",
+   "frase_neutralizada": "Me di un golpazo en la bici bajando el cerro; quedé todo raspado.",
+   "nota": "Neutral dejaba 'potito'; def 2 es broma; ahora sentido de caída."
+  },
+  {
+   "id": 879,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Cuidado con la escalera, que está mojada y te podís sacar la chucha.",
+   "frase_neutralizada": "Cuidado con la escalera, que está mojada y te puedes dar un golpazo.",
+   "nota": "No contenía la expresión; nueva frase sobre golpearse."
+  }
+ ]
+}

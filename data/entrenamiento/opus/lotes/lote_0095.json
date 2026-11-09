@@ -1,0 +1,340 @@
+{
+ "lote": 95,
+ "claves": [
+  "las weas",
+  "la zorra",
+  "lanza",
+  "larry",
+  "lata",
+  "latero",
+  "lesear",
+  "lesiando"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23956209999999997,
+ "duracion_s": 82.6,
+ "pares": [
+  {
+   "id": 3800,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con este calor y el pantalón apretado ando con las weas cocidas.",
+   "frase_neutralizada": "Con este calor y el pantalón apretado tengo los huevos cocidos.",
+   "nota": "Original no contenía la expresión; frase nueva con sentido de testículos."
+  },
+  {
+   "id": 3801,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me llegó un pelotazo justo en las weas y quedé tirado en el pasto.",
+   "frase_neutralizada": "Me dieron un pelotazo justo en los huevos y quedé tirado en el césped.",
+   "nota": "Usaba 'las weas' como sujeto absurdo; neutral literal sin sentido."
+  },
+  {
+   "id": 3802,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Andar tanto rato en bici me dejó las weas adormecidas, po.",
+   "frase_neutralizada": "Andar tanto rato en bicicleta me dejó los huevos adormecidos.",
+   "nota": "Original no contenía la expresión."
+  },
+  {
+   "id": 3803,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El doctor me dijo que me revisara las weas por si tenía algún bulto raro.",
+   "frase_neutralizada": "El médico me dijo que me revisara los huevos por si tenía algún bulto raro.",
+   "nota": "Original no contenía la expresión."
+  },
+  {
+   "id": 3804,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuidado con el perro, que la otra vez casi me muerde las weas.",
+   "frase_neutralizada": "Cuidado con el perro, que la otra vez casi me muerde los huevos.",
+   "nota": "Original no contenía la expresión."
+  },
+  {
+   "id": 3805,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llovió toda la tarde en el matrimonio y quedó la zorra en el jardín.",
+   "frase_neutralizada": "Llovió toda la tarde en la boda y el jardín quedó hecho un desastre.",
+   "nota": "Usaba 'la zorra' como sustantivo literal; neutral cambiaba sentido."
+  },
+  {
+   "id": 3806,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me contaron que en el viaje de estudios quedó la zorra, pero nadie me dice qué pasó.",
+   "frase_neutralizada": "Me contaron que en el viaje de estudios se armó un desastre, pero nadie me dice qué pasó.",
+   "nota": "Neutral 'quedó la desgracia' era incorrecta; se ajustó situación."
+  },
+  {
+   "id": 3807,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¡El concierto estuvo la zorra! Nunca había visto una banda tocar así.",
+   "frase_neutralizada": "¡El concierto estuvo genial! Nunca había visto a una banda tocar así.",
+   "nota": "Se naturalizó la frase y se igualaron tiempos verbales."
+  },
+  {
+   "id": 3808,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tu idea para la decoración de la boda está la zorra, te pasaste.",
+   "frase_neutralizada": "Tu idea para la decoración de la boda es genial, te luciste.",
+   "nota": "Neutral cambiaba significado ('no me dejes engañado')."
+  },
+  {
+   "id": 3809,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se cortó la luz en plena oficina y quedó la zorra con todos los computadores apagados.",
+   "frase_neutralizada": "Se cortó la luz en plena oficina y fue un caos con todas las computadoras apagadas.",
+   "nota": "Def 3 mezclaba sentidos; uso incorrecto como adjetivo de máquina."
+  },
+  {
+   "id": 3810,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa esquina está llena de lanzas, no saquís el celular ahí.",
+   "frase_neutralizada": "Esa esquina está llena de ladrones, no saques el celular ahí.",
+   "nota": "Confundía 'lanzazo' (robo) con 'lanza' (ladrón)."
+  },
+  {
+   "id": 3811,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ojo con la mochila, que hace un rato andaba un lanza en la micro.",
+   "frase_neutralizada": "Cuidado con la mochila, que hace un rato había un ladrón en el autobús.",
+   "nota": "'No me dejes el ojo' era agramatical; se reformuló."
+  },
+  {
+   "id": 3812,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Un lanza le arrancó la cartera a mi tía en pleno centro.",
+   "frase_neutralizada": "Un ladrón le arrancó el bolso a mi tía en pleno centro.",
+   "nota": "Usaba 'lanzazos' como personas; contexto de casa no era vía pública."
+  },
+  {
+   "id": 3813,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los guardias del metro pillaron al lanza que andaba robando celulares.",
+   "frase_neutralizada": "Los guardias del metro atraparon al ladrón que andaba robando celulares.",
+   "nota": "Defs 1 y 2 iguales; se hizo más natural."
+  },
+  {
+   "id": 3814,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El lanza se hacía el turista en el parque pa' sacarle la billetera a la gente.",
+   "frase_neutralizada": "El ladrón se hacía pasar por turista en el parque para sacarle la billetera a la gente.",
+   "nota": "'Haciendo su tarea' sonaba artificial; se concretó la situación."
+  },
+  {
+   "id": 3815,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le pregunté por la plata que me debe y se hizo el larry.",
+   "frase_neutralizada": "Le pregunté por el dinero que me debe y se hizo el desentendido.",
+   "nota": "'Una pura Larry' no es uso real; falta 'hacerse el'."
+  },
+  {
+   "id": 3816,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te hagai el larry, si sabís perfecto que te tocaba lavar la loza.",
+   "frase_neutralizada": "No te hagas el desentendido, si sabes perfectamente que te tocaba lavar los platos.",
+   "nota": "'No me hagas la Larry' era incorrecto; estructura es 'hacerse el larry'."
+  },
+  {
+   "id": 3817,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe preguntó quién rompió la ventana y todos se hicieron los larry.",
+   "frase_neutralizada": "El profesor preguntó quién rompió la ventana y todos se hicieron los desentendidos.",
+   "nota": "Uso exclamativo sin sentido; neutral incoherente."
+  },
+  {
+   "id": 3818,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando le preguntan por la polola, el Pancho se hace el larry al tiro.",
+   "frase_neutralizada": "Cuando le preguntan por su novia, Pancho se hace el desentendido de inmediato.",
+   "nota": "Defs iguales; neutral original cambiaba sentido y era agramatical."
+  },
+  {
+   "id": 3819,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la pega se están haciendo los larry con el bono que nos prometieron.",
+   "frase_neutralizada": "En el trabajo se están haciendo los desentendidos con el bono que nos prometieron.",
+   "nota": "Duplicaba otro par; neutral agramatical ('no evades')."
+  },
+  {
+   "id": 3820,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué lata el domingo sin fútbol, no hay nada que hacer en la casa.",
+   "frase_neutralizada": "Qué aburrido el domingo sin fútbol, no hay nada que hacer en casa.",
+   "nota": "Se agregó tilde y contexto; sentido correcto."
+  },
+  {
+   "id": 3821,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La charla de marketing fue una lata, casi me quedo dormido.",
+   "frase_neutralizada": "La charla de marketing fue un aburrimiento, casi me quedo dormido.",
+   "nota": "'Hay que lata' agramatical; concordancia errónea en neutral."
+  },
+  {
+   "id": 3822,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Me da lata levantarme temprano mañana pa' ir al banco.",
+   "frase_neutralizada": "Me da pereza levantarme temprano mañana para ir al banco.",
+   "nota": "Se cubre sentido de flojera (defs 3 y 4 iguales)."
+  },
+  {
+   "id": 3823,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Qué lata que la Javi no pueda venir a la cena, po.",
+   "frase_neutralizada": "Qué pena que Javi no pueda venir a la cena.",
+   "nota": "Faltaba tilde y sujeto; se naturalizó."
+  },
+  {
+   "id": 3824,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Me dio lata que no me invitaran al cumpleaños de mi primo.",
+   "frase_neutralizada": "Me dio pena que no me invitaran al cumpleaños de mi primo.",
+   "nota": "Neutral cambiaba tiempo verbal; situación repetida con otro par."
+  },
+  {
+   "id": 3825,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué latero el cliente ese, llama todos los días pidiendo cosas y nunca compra nada.",
+   "frase_neutralizada": "Qué pesado ese cliente, llama todos los días pidiendo cosas y nunca compra nada.",
+   "nota": "Frases agramaticales en ambas versiones."
+  },
+  {
+   "id": 3826,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai latero, si ya te dije que mañana te ayudo con la mudanza.",
+   "frase_neutralizada": "No seas pesado, ya te dije que mañana te ayudo con la mudanza.",
+   "nota": "Contexto incoherente; se ajustó a persona fastidiosa."
+  },
+  {
+   "id": 3827,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe de historia es súper latero, habla dos horas de lo mismo.",
+   "frase_neutralizada": "El profesor de historia es muy aburrido, habla dos horas de lo mismo.",
+   "nota": "Frases agramaticales ('no se deja de preguntar')."
+  },
+  {
+   "id": 3828,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi vecino es más latero, alega por el ruido, por la basura, por todo.",
+   "frase_neutralizada": "Mi vecino es pesadísimo, se queja del ruido, de la basura, de todo.",
+   "nota": "Estructura forzada 'que latero que'; se naturalizó."
+  },
+  {
+   "id": 3829,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los invitados fueron unos lateros, estuvieron toda la noche hablando de sus viajes.",
+   "frase_neutralizada": "Los invitados fueron unos aburridos, estuvieron toda la noche hablando de sus viajes.",
+   "nota": "Defs 1 y 2 iguales; situación ajustada."
+  },
+  {
+   "id": 3830,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros chicos se pusieron a lesear en la mesa y botaron el jugo.",
+   "frase_neutralizada": "Los niños se pusieron a jugar en la mesa y tiraron el jugo.",
+   "nota": "'Hacer lesear' agramatical; neutral forzada."
+  },
+  {
+   "id": 3831,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Dejen de lesear y pónganse a estudiar, que mañana tienen prueba.",
+   "frase_neutralizada": "Dejen de tontear y pónganse a estudiar, que mañana tienen examen.",
+   "nota": "'Yo leso' es incorrecto; conjugación es 'leseo'."
+  },
+  {
+   "id": 3832,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estábamos leseando en la oficina y justo entró el jefe.",
+   "frase_neutralizada": "Estábamos tonteando en la oficina y justo entró el jefe.",
+   "nota": "Usaba 'lesear' como leer o mirar; sentido equivocado."
+  },
+  {
+   "id": 3833,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El sábado vamos a ir al parque a lesear un rato con la pelota.",
+   "frase_neutralizada": "El sábado vamos a ir al parque a jugar un rato con la pelota.",
+   "nota": "Sentido correcto; se dio un tono más natural."
+  },
+  {
+   "id": 3834,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano anda puro leseando con el celular en vez de ayudar en la casa.",
+   "frase_neutralizada": "Mi hermano solo anda jugando con el celular en vez de ayudar en casa.",
+   "nota": "Usaba 'lesear' como venerar; sentido equivocado."
+  },
+  {
+   "id": 3835,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Ganaste la rifa? Ya, me estai lesiando, no te creo.",
+   "frase_neutralizada": "¿Ganaste la rifa? No, me estás tomando el pelo, no te creo.",
+   "nota": "Neutral agramatical ('estás me burlando')."
+  },
+  {
+   "id": 3836,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, no estoy lesiando, de verdad me ofrecieron la pega en Concepción.",
+   "frase_neutralizada": "Oye, no estoy bromeando, de verdad me ofrecieron el trabajo en Concepción.",
+   "nota": "Frases incoherentes y agramaticales."
+  },
+  {
+   "id": 3837,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros estaban lesiando en el patio cuando empezó a llover.",
+   "frase_neutralizada": "Los niños estaban jugando en el patio cuando empezó a llover.",
+   "nota": "Usaba 'lesiar' como doler o molestar; sentido equivocado."
+  },
+  {
+   "id": 3838,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Andai puro lesiando, ponte serio que te estoy hablando de algo importante.",
+   "frase_neutralizada": "Solo estás bromeando, ponte serio que te estoy hablando de algo importante.",
+   "nota": "Incoherente y neutral agramatical ('no me burles')."
+  },
+  {
+   "id": 3839,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estábamos lesiando con el Pato por WhatsApp y se nos pasó la hora.",
+   "frase_neutralizada": "Estábamos bromeando con Pato por WhatsApp y se nos pasó la hora.",
+   "nota": "Usaba 'lesiar' como molestar; sentido equivocado."
+  }
+ ]
+}

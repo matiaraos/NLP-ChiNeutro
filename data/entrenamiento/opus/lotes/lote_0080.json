@@ -1,0 +1,340 @@
+{
+ "lote": 80,
+ "claves": [
+  "facha",
+  "fachero",
+  "facho",
+  "facho pobre",
+  "falacia",
+  "falacias",
+  "falopa",
+  "farala"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2640851,
+ "duracion_s": 94.7,
+ "pares": [
+  {
+   "id": 3200,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, cacha la facha del Pedro pa' la fiesta, se vino todo de terno.",
+   "frase_neutralizada": "Oye, mira cómo se vistió Pedro para la fiesta, vino todo de traje.",
+   "nota": "Original incoherente y neutral cambiaba el sentido; nueva situación sobre vestimenta."
+  },
+  {
+   "id": 3201,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con esa facha no te van a dejar entrar a la disco, cámbiate po.",
+   "frase_neutralizada": "Vestido así no te van a dejar entrar a la discoteca, cámbiate.",
+   "nota": "Usaba facha como vocativo 'mujer', sentido inexistente."
+  },
+  {
+   "id": 3202,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La novia tenía una facha preciosa, el vestido le quedaba perfecto.",
+   "frase_neutralizada": "La novia se veía preciosa, el vestido le quedaba perfecto.",
+   "nota": "Frase forzada ('la bella de la boda'); se naturalizó manteniendo la novia."
+  },
+  {
+   "id": 3203,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La vecina es terrible facha, anda diciendo que con Pinochet se vivía mejor.",
+   "frase_neutralizada": "La vecina es muy pinochetista, anda diciendo que con Pinochet se vivía mejor.",
+   "nota": "'Facha de Pinochet' poco natural; se dio contexto real."
+  },
+  {
+   "id": 3204,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi tía es más facha que la cresta, en el almuerzo peleó con todos defendiendo a los milicos.",
+   "frase_neutralizada": "Mi tía es pinochetista a más no poder, en el almuerzo peleó con todos defendiendo a los militares.",
+   "nota": "Era una pregunta metalingüística, no un uso real."
+  },
+  {
+   "id": 3205,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu primo es harto fachero, siempre anda con zapatillas nuevas y la ropa bien combinada.",
+   "frase_neutralizada": "Tu primo tiene mucho estilo, siempre anda con zapatillas deportivas nuevas y la ropa bien combinada.",
+   "nota": "'Fachero troop' sin sentido."
+  },
+  {
+   "id": 3206,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No creo que ese weón sea tan fachero, se viste igual que todos.",
+   "frase_neutralizada": "No creo que ese tipo tenga tanto estilo, se viste igual que todos.",
+   "nota": "Se dio contexto y se ajustó la neutral."
+  },
+  {
+   "id": 3207,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te veís re fachero con esa chaqueta de cuero, ¿dónde la compraste?",
+   "frase_neutralizada": "Te ves con mucho estilo con esa chaqueta de cuero, ¿dónde la compraste?",
+   "nota": "Frase original poco natural; defs 1-3 son el mismo sentido."
+  },
+  {
+   "id": 3208,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, no te hagái el fachero, si esa polera te la prestó tu hermano.",
+   "frase_neutralizada": "Oye, no te hagas el que tiene estilo, si esa camiseta te la prestó tu hermano.",
+   "nota": "Errores de concordancia y neutral sin sentido."
+  },
+  {
+   "id": 3209,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué fachero el cabro chico con su jockey rojo.",
+   "frase_neutralizada": "Qué estilo tiene el niño con su gorra roja.",
+   "nota": "Se añadieron chilenismos naturales y se corrigió la neutral."
+  },
+  {
+   "id": 3210,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tío es terrible facho, se la pasa defendiendo a los empresarios en la once.",
+   "frase_neutralizada": "Mi tío es muy fascista, se la pasa defendiendo a los empresarios en la merienda.",
+   "nota": "Facho aplicado a 'política' y neutral 'abominables' cambiaba el sentido."
+  },
+  {
+   "id": 3211,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Porque no voté por tu candidata ya me andai diciendo facho, no seai exagerado.",
+   "frase_neutralizada": "Porque no voté por tu candidata ya me andas diciendo fascista, no seas exagerado.",
+   "nota": "Frase poco natural; se ilustra el uso contra quien opina distinto."
+  },
+  {
+   "id": 3212,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El concejal nuevo tiene cara de facho, puro hablar de mano dura y orden.",
+   "frase_neutralizada": "El concejal nuevo tiene cara de fascista, solo habla de mano dura y orden.",
+   "nota": "Copiaba el ejemplo del diccionario."
+  },
+  {
+   "id": 3213,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros de la U le dicen facho al profe porque está en contra de la gratuidad.",
+   "frase_neutralizada": "Los chicos de la universidad le dicen fascista al profesor porque está en contra de la educación gratuita.",
+   "nota": "Usaba vosotros y copiaba ejemplo; def 3 es polémica etimológica."
+  },
+  {
+   "id": 3214,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le hablís de política a mi abuelo, es más facho que la cresta.",
+   "frase_neutralizada": "No le hables de política a mi abuelo, es fascista a más no poder.",
+   "nota": "Def 4 es opinión etimológica, no un uso real."
+  },
+  {
+   "id": 3215,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los de la otra cuadra son puros fachos pobres, viven allegados y votan por el candidato de los empresarios.",
+   "frase_neutralizada": "Los de la otra cuadra son puros derechistas pobres, viven en casa de familiares y votan por el candidato de los empresarios.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 3216,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sus papás son fachos pobres, pero ellos salieron re de izquierda en la U.",
+   "frase_neutralizada": "Sus padres son derechistas pobres, pero ellos se volvieron muy de izquierda en la universidad.",
+   "nota": "Contraste ilógico con 'estudiantes de derecho'; neutral omitía la pobreza."
+  },
+  {
+   "id": 3217,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dicen que los fachos pobres de la comuna le dieron el triunfo al alcalde.",
+   "frase_neutralizada": "Dicen que los derechistas pobres de la zona le dieron el triunfo al alcalde.",
+   "nota": "Contradicción con Bachelet; defs 1, 2 y 5 son el mismo sentido."
+  },
+  {
+   "id": 3218,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "El Jorge es terrible facho pobre, anda con zapatillas de marca compradas en cuotas y defiende a los ricos.",
+   "frase_neutralizada": "Jorge es un derechista pobre total, anda con zapatillas deportivas de marca compradas a plazos y defiende a los ricos.",
+   "nota": "Faltaba 'pobre' en la expresión; neutral era una definición."
+  },
+  {
+   "id": 3219,
+   "accion": "corregido",
+   "def": 4,
+   "frase_chilena": "Ese facho pobre se endeuda hasta el cuello y anda creyendo que los cuicos lo van a aceptar.",
+   "frase_neutralizada": "Ese derechista pobre se endeuda hasta el cuello y cree que los ricos lo van a aceptar.",
+   "nota": "Era una definición disfrazada; se hizo frase natural."
+  },
+  {
+   "id": 3220,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me vengái con falacias, sé que anoche no estabai en la casa.",
+   "frase_neutralizada": "No me vengas con mentiras, sé que anoche no estabas en casa.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 3221,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese gallo vive inventando falacias pa' no pagar lo que debe.",
+   "frase_neutralizada": "Ese tipo vive inventando mentiras para no pagar lo que debe.",
+   "nota": "No incluía la expresión; neutral redundante 'mentiras falsas'."
+  },
+  {
+   "id": 3222,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Puras falacias hablai cuando tomai, mejor ándate a acostar.",
+   "frase_neutralizada": "Dices puras tonterías cuando bebes, mejor vete a dormir.",
+   "nota": "No incluía la expresión y mezclaba tonterías con mentiras."
+  },
+  {
+   "id": 3223,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No estoy ni ahí con escuchar las falacias del jefe sobre el aumento de sueldo.",
+   "frase_neutralizada": "No tengo ningún interés en escuchar las mentiras del jefe sobre el aumento de sueldo.",
+   "nota": "Frase neutra sin rasgos chilenos; se dio contexto coloquial."
+  },
+  {
+   "id": 3224,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "El profe habló pura falacia toda la clase, no entendí nada.",
+   "frase_neutralizada": "El profesor dijo puras tonterías toda la clase, no entendí nada.",
+   "nota": "Neutral decía mentira en vez de tonterías; frase poco natural."
+  },
+  {
+   "id": 3225,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si sabís que eso no es cierto, ¡son puras falacias tuyas!",
+   "frase_neutralizada": "Si sabes que eso no es cierto, ¡son puras mentiras tuyas!",
+   "nota": "Se agregó registro chileno y se ajustó la neutral."
+  },
+  {
+   "id": 3226,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El político ese prometió puras falacias en la campaña y nadie le creyó.",
+   "frase_neutralizada": "Ese político prometió solo mentiras en la campaña y nadie le creyó.",
+   "nota": "'No me creas' era incoherente."
+  },
+  {
+   "id": 3227,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le creái a la tele, esa noticia es pura falacia.",
+   "frase_neutralizada": "No le creas a la televisión, esa noticia es pura mentira.",
+   "nota": "Neutral cambiaba la persona ('no me creo')."
+  },
+  {
+   "id": 3228,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le dijiste puras falacias al profe pa' que te subiera la nota, ¿cierto?",
+   "frase_neutralizada": "Le dijiste puras mentiras al profesor para que te subiera la nota, ¿verdad?",
+   "nota": "Agramatical y la neutral invertía el sentido."
+  },
+  {
+   "id": 3229,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dejen de hablar falacias del Pancho, que él no está aquí pa' defenderse.",
+   "frase_neutralizada": "Dejen de decir mentiras sobre Pancho, que él no está aquí para defenderse.",
+   "nota": "Redundante y con error de concordancia en la neutral."
+  },
+  {
+   "id": 3230,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El loco no ha dormido en dos días, anda con la nariz roja de tanta falopa.",
+   "frase_neutralizada": "El tipo no ha dormido en dos días, anda con la nariz roja de tanta cocaína.",
+   "nota": "Frase original incomprensible y neutral distinta."
+  },
+  {
+   "id": 3231,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer el Felipe tuvo un atado con los pacos por andar con falopa.",
+   "frase_neutralizada": "Ayer Felipe tuvo un problema con la policía por andar con droga.",
+   "nota": "'Traste' no es chileno; se usó 'atado' y se dio contexto."
+  },
+  {
+   "id": 3232,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué te pasa? Andai más acelerado que la cresta, ¿te metiste falopa?",
+   "frase_neutralizada": "¿Qué te pasa? Estás aceleradísimo, ¿te metiste droga?",
+   "nota": "Pregunta poco natural; se hizo situación coherente."
+  },
+  {
+   "id": 3233,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En esa fiesta corría la falopa como agua, yo me fui temprano.",
+   "frase_neutralizada": "En esa fiesta corría la droga como agua, yo me fui temprano.",
+   "nota": "Neutral añadía información inexistente."
+  },
+  {
+   "id": 3234,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al vecino lo pillaron vendiendo falopa en la plaza.",
+   "frase_neutralizada": "Al vecino lo atraparon vendiendo droga en la plaza.",
+   "nota": "Frase demasiado corta y poco natural."
+  },
+  {
+   "id": 3235,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién es esa farala que se fue con el Diego? Cacho que la he visto en Instagram.",
+   "frase_neutralizada": "¿Quién es esa chica popular que se fue con Diego? Creo que la he visto en Instagram.",
+   "nota": "Se agregó contexto natural y registro chileno."
+  },
+  {
+   "id": 3236,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde que salió en ese video de TikTok, mi prima se puso re farala.",
+   "frase_neutralizada": "Desde que salió en ese video de TikTok, mi prima se volvió muy popular.",
+   "nota": "Frase forzada; todas las definiciones son el mismo sentido."
+  },
+  {
+   "id": 3237,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro más farala del liceo se cambió a mi curso y todas andan locas.",
+   "frase_neutralizada": "El chico más popular de la escuela se cambió a mi grupo y todas andan locas por él.",
+   "nota": "Usaba farala para actor famoso, no persona popular local."
+  },
+  {
+   "id": 3238,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira, ese loco farala que está cantando en el karaoke tiene caleta de seguidores.",
+   "frase_neutralizada": "Mira, ese tipo popular que está cantando en el karaoke tiene muchísimos seguidores.",
+   "nota": "Final incoherente ('tiene la voz'); se completó la idea."
+  },
+  {
+   "id": 3239,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ir al mall con ella es lata, es tan farala que cada dos pasos alguien la saluda.",
+   "frase_neutralizada": "Ir al centro comercial con ella es aburrido, es tan popular que cada dos pasos alguien la saluda.",
+   "nota": "Frase incompleta y con error de concordancia."
+  }
+ ]
+}

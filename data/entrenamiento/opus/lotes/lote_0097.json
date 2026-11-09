@@ -1,0 +1,340 @@
+{
+ "lote": 97,
+ "claves": [
+  "machucado",
+  "machucao",
+  "machucao a",
+  "mala cuea",
+  "malacuea",
+  "mala leche",
+  "malaya",
+  "mamon"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2774023,
+ "duracion_s": 105.5,
+ "pares": [
+  {
+   "id": 3880,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estas manzanas vienen todas machucadas, ¿cómo te las vendieron así en la feria?",
+   "frase_neutralizada": "Estas manzanas vienen todas golpeadas, ¿cómo te las vendieron así en el mercado?",
+   "nota": "Carne machucada sonaba raro; se cambió por fruta golpeada."
+  },
+  {
+   "id": 3881,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Después de la pichanga quedé con la rodilla toda machucada, no la puedo ni doblar.",
+   "frase_neutralizada": "Después del partido de fútbol quedé con la rodilla toda golpeada, ni siquiera puedo doblarla.",
+   "nota": "Un camino machucado no es un uso real."
+  },
+  {
+   "id": 3882,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No echís esas peras al carro, están machucadas y se van a poner negras altiro.",
+   "frase_neutralizada": "No pongas esas peras en el carrito, están golpeadas y se van a poner negras enseguida.",
+   "nota": "Pelota machucada y ser machucada no eran naturales."
+  },
+  {
+   "id": 3883,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se me cayó una piedra encima y quedé con la mano machucada, po.",
+   "frase_neutralizada": "Se me cayó una piedra encima y quedé con la mano golpeada.",
+   "nota": "Se usó el participio machucada en lugar del verbo."
+  },
+  {
+   "id": 3884,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los tomates llegaron todos machucados en la caja, hubo que botar la mitad.",
+   "frase_neutralizada": "Los tomates llegaron todos golpeados en la caja, hubo que tirar la mitad.",
+   "nota": "Frase original agramatical y sin sentido."
+  },
+  {
+   "id": 3885,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué onda, machucao? ¿Qué es de tu vida? Hace rato que no te veía.",
+   "frase_neutralizada": "¿Qué tal, amigo? ¿Qué ha sido de tu vida? Hacía tiempo que no te veía.",
+   "nota": "Se dio un tono más natural de saludo chileno."
+  },
+  {
+   "id": 3886,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Machucao, te veo medio bajoneado, ¿te puedo ayudar en algo?",
+   "frase_neutralizada": "Amigo, te veo algo decaído, ¿te puedo ayudar en algo?",
+   "nota": "Frase más natural, la neutral conserva el sentido."
+  },
+  {
+   "id": 3887,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Wena, machucao, ¿cómo te fue hoy en la pega?",
+   "frase_neutralizada": "Hola, amigo, ¿cómo te fue hoy en el trabajo?",
+   "nota": "La frase original era forzada y tenía un error gramatical."
+  },
+  {
+   "id": 3888,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Después del partido quedé todo machucao, me pegaron patadas por todos lados.",
+   "frase_neutralizada": "Después del partido quedé todo golpeado, me dieron patadas por todos lados.",
+   "nota": "Usaba machucao como 'amigo', no como 'golpeado'."
+  },
+  {
+   "id": 3889,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Al Pancho lo asaltaron anoche y quedó todo machucao, con la cara hinchada.",
+   "frase_neutralizada": "A Pancho lo asaltaron anoche y quedó todo golpeado, con la cara hinchada.",
+   "nota": "Usaba el sentido de amigo; se pasó a golpeado."
+  },
+  {
+   "id": 3890,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, machucao, la micro era la otra, ¿no viste el letrero?",
+   "frase_neutralizada": "Oye, tonto, el autobús era el otro, ¿no viste el letrero?",
+   "nota": "Usaba el sentido 'mal vestido', que es una definición rechazada."
+  },
+  {
+   "id": 3891,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La machucá de mi prima dejó las llaves adentro del auto otra vez.",
+   "frase_neutralizada": "La tonta de mi prima dejó las llaves dentro del auto otra vez.",
+   "nota": "Frase incoherente con un sentido rechazado."
+  },
+  {
+   "id": 3892,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi hermano me agarró a combos y quedé todo machucao, po.",
+   "frase_neutralizada": "Mi hermano me dio de puñetazos y quedé todo golpeado.",
+   "nota": "La neutral tenía 'herició', que no existe; se alejó del ejemplo."
+  },
+  {
+   "id": 3893,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El perro del vecino atacó al mío y lo dejó entero machucao.",
+   "frase_neutralizada": "El perro del vecino atacó al mío y lo dejó muy lastimado.",
+   "nota": "La neutral tenía 'heririó', que no existe."
+  },
+  {
+   "id": 3894,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai machucao, ¿cómo vai a firmar un contrato sin leerlo?",
+   "frase_neutralizada": "No seas tonto, ¿cómo vas a firmar un contrato sin leerlo?",
+   "nota": "Usaba una definición con votos negativos y no tenía sentido."
+  },
+  {
+   "id": 3895,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué mala cuea, llegué al paradero justo cuando se iba la micro.",
+   "frase_neutralizada": "Qué mala suerte, llegué a la parada justo cuando se iba el autobús.",
+   "nota": "Frase incoherente y con 'mal cuea' mal escrito."
+  },
+  {
+   "id": 3896,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El equipo local tuvo harta mala cuea en el torneo, se le lesionaron tres jugadores.",
+   "frase_neutralizada": "El equipo local tuvo mucha mala suerte en el torneo, se le lesionaron tres jugadores.",
+   "nota": "'Fue una mala cuea' no se dice; se cambió a 'tuvo mala cuea'."
+  },
+  {
+   "id": 3897,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ando con una mala cuea terrible desde que se me rompió el celular.",
+   "frase_neutralizada": "Tengo una mala suerte terrible desde que se me rompió el celular.",
+   "nota": "Decía 'mal cuea' y la estructura no era natural."
+  },
+  {
+   "id": 3898,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Pucha, tuve mala cuea, justo el día de la entrevista se cortó la luz y no pude conectarme.",
+   "frase_neutralizada": "Vaya, tuve mala suerte: justo el día de la entrevista se cortó la luz y no pude conectarme.",
+   "nota": "Uso incorrecto y la neutral cambiaba el significado."
+  },
+  {
+   "id": 3899,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué mala cuea en el viaje, no encontramos el hotel y tuvimos que dormir en el auto.",
+   "frase_neutralizada": "Qué mala suerte tuvimos en el viaje, no encontramos el hotel y tuvimos que dormir en el auto.",
+   "nota": "'Fue una mala cuea' sonaba forzado; neutral 'desgracia' no era exacta."
+  },
+  {
+   "id": 3900,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ando con una malacuea hoy día, se me cayó el café encima y perdí la micro.",
+   "frase_neutralizada": "Hoy tengo muy mala suerte, se me cayó el café encima y perdí el autobús.",
+   "nota": "Frase incoherente; la neutral no decía 'mala suerte'."
+  },
+  {
+   "id": 3901,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué malacuea, otra vez me tocó a mí hacer el informe.",
+   "frase_neutralizada": "Qué mala suerte, otra vez me tocó a mí hacer el informe.",
+   "nota": "'Malazar' no es neutro y 'maldito malacuea' no es natural."
+  },
+  {
+   "id": 3902,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Soy demasiado malacuea, nunca me gano nada en las rifas.",
+   "frase_neutralizada": "Tengo demasiada mala suerte, nunca gano nada en las rifas.",
+   "nota": "La frase original no tenía sentido."
+  },
+  {
+   "id": 3903,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué malacuea, justo el día que llegué tarde el jefe estaba en la puerta.",
+   "frase_neutralizada": "Qué mala suerte, justo el día que llegué tarde el jefe estaba en la puerta.",
+   "nota": "'Me ha puesto malacuea' no se dice."
+  },
+  {
+   "id": 3904,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tuvimos pura malacuea en el viaje, se nos pinchó un neumático y llovió todo el fin de semana.",
+   "frase_neutralizada": "Tuvimos muy mala suerte en el viaje, se nos pinchó un neumático y llovió todo el fin de semana.",
+   "nota": "'El malacuea' era agramatical y 'malazar' no es neutro."
+  },
+  {
+   "id": 3905,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa mina es mala leche, nunca nos presta los apuntes.",
+   "frase_neutralizada": "Esa chica es antipática, nunca nos presta los apuntes.",
+   "nota": "La neutral contradecía la chilena al decir 'nos deja en paz'."
+  },
+  {
+   "id": 3906,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te metai con ese loco, es súper mala leche.",
+   "frase_neutralizada": "No te metas con ese tipo, es muy antipático.",
+   "nota": "La neutral dejaba el chilenismo 'mala onda' y era demasiado formal."
+  },
+  {
+   "id": 3907,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Felipe es mala leche, cada vez que lo necesito me deja botado.",
+   "frase_neutralizada": "Felipe es muy antipático, cada vez que lo necesito me deja solo.",
+   "nota": "Frase original confusa; se dejó más natural."
+  },
+  {
+   "id": 3908,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La profe nueva es más mala leche, no nos dejó salir ni cinco minutos antes.",
+   "frase_neutralizada": "La profesora nueva es muy antipática, no nos dejó salir ni cinco minutos antes.",
+   "nota": "Se cambió la situación para no repetir la del par 3909."
+  },
+  {
+   "id": 3909,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai mala leche, préstale la pelota al cabro chico un rato.",
+   "frase_neutralizada": "No seas antipático, préstale el balón al niño un rato.",
+   "nota": "Repetía la frase anterior y 'lío' no corresponde a 'desastre'."
+  },
+  {
+   "id": 3910,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erís pura malaya pal ajedrez, te gané en cinco jugadas.",
+   "frase_neutralizada": "Eres malísimo para el ajedrez, te gané en cinco jugadas.",
+   "nota": "Se agregó el voseo chileno; la neutral no era natural."
+  },
+  {
+   "id": 3911,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La película que me recomendaste era pura malaya, me quedé dormido a la mitad.",
+   "frase_neutralizada": "La película que me recomendaste era malísima, me quedé dormido a la mitad.",
+   "nota": "Frase demasiado formal; la neutral era redundante."
+  },
+  {
+   "id": 3912,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Javier es entero malaya, hace todo lo que le dice la polola sin chistar.",
+   "frase_neutralizada": "Javier no tiene ninguna personalidad, hace todo lo que le dice su novia sin protestar.",
+   "nota": "La frase explicaba el significado; ahora lo muestra con una situación."
+  },
+  {
+   "id": 3913,
+   "accion": "corregido",
+   "def": 4,
+   "frase_chilena": "La Coni se cree bailarina profesional, pero es más malaya pa bailar.",
+   "frase_neutralizada": "Coni se cree bailarina profesional, pero es malísima para bailar.",
+   "nota": "El sentido era 'mala para algo', no la definición 2."
+  },
+  {
+   "id": 3914,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Esos cabros son pura malaya, siempre andan molestando a los más chicos.",
+   "frase_neutralizada": "Esos chicos son muy mala gente, siempre andan molestando a los más pequeños.",
+   "nota": "Casi copiaba el ejemplo y 'niai' quedaba mal neutralizado."
+  },
+  {
+   "id": 3915,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Rodrigo es súper mamón, la llama como cinco veces al día pa contarle todo.",
+   "frase_neutralizada": "Rodrigo es muy apegado a su madre, la llama como cinco veces al día para contarle todo.",
+   "nota": "Lo del abuelo no tenía sentido; la neutral omitía la expresión."
+  },
+  {
+   "id": 3916,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi pololo es tan mamón que no se va de vacaciones si no viene la mamá.",
+   "frase_neutralizada": "Mi novio es tan apegado a su madre que no se va de vacaciones si ella no viene.",
+   "nota": "La frase original era forzada y la neutral omitía la expresión."
+  },
+  {
+   "id": 3917,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No seai mamón, tírate al agua, si no está tan helada.",
+   "frase_neutralizada": "No seas miedoso, métete al agua, no está tan fría.",
+   "nota": "'No te rajes' es mexicano y la puntuación estaba mal."
+  },
+  {
+   "id": 3918,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ese cabro chico es más mamón, le da miedo hasta subirse al resbalín.",
+   "frase_neutralizada": "Ese niño es muy miedoso, le da miedo hasta subirse al tobogán.",
+   "nota": "Frase poco natural; se agregó contexto chileno."
+  },
+  {
+   "id": 3919,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cada vez que pelea con la polola, el mamón del Diego corre donde la mamá a llorar.",
+   "frase_neutralizada": "Cada vez que pelea con su novia, el niño de mamá de Diego corre a casa de su madre a llorar.",
+   "nota": "Frase incomprensible; la definición 3 es dudosa y se usó la 1."
+  }
+ ]
+}

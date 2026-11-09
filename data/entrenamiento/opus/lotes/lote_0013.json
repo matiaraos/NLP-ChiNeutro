@@ -1,0 +1,340 @@
+{
+ "lote": 13,
+ "claves": [
+  "de la perra",
+  "de pana",
+  "dejate de wear",
+  "deja de wear",
+  "dejar pagando",
+  "del corte",
+  "dele cotele",
+  "denantes"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2516555,
+ "duracion_s": 88.7,
+ "pares": [
+  {
+   "id": 520,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi pololo me cagó con otra, estoy de la perra.",
+   "frase_neutralizada": "Mi novio me engañó con otra, me siento fatal.",
+   "nota": "Añadí chilenismos naturales; 'mal de ánimo' sonaba forzado."
+  },
+  {
+   "id": 521,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El jefe no me dio el aumento y quedé de la perra, no tengo ganas de nada.",
+   "frase_neutralizada": "El jefe no me dio el aumento y quedé fatal, no tengo ganas de nada.",
+   "nota": "Eliminé el redundante 'como un perro'."
+  },
+  {
+   "id": 522,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La fiesta estuvo de la perra, puro reguetón viejo y nadie bailaba.",
+   "frase_neutralizada": "La fiesta estuvo malísima, solo había reguetón viejo y nadie bailaba.",
+   "nota": "Sentido invertido: la expresión significa malo, no genial."
+  },
+  {
+   "id": 523,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me resfrié y amanecí de la perra, no voy a poder salir esta noche.",
+   "frase_neutralizada": "Me resfrié y amanecí fatal, no voy a poder salir esta noche.",
+   "nota": "Malestar físico, no de ánimo; corregí 'me dieron un resfriado'."
+  },
+  {
+   "id": 524,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La carretera está de la perra, llena de hoyos por todos lados.",
+   "frase_neutralizada": "La carretera está pésima, llena de baches por todos lados.",
+   "nota": "No contenía la expresión; la incluí."
+  },
+  {
+   "id": 525,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Cómo estai, amiga? —Estoy de pana, recién volví de vacaciones.",
+   "frase_neutralizada": "—¿Cómo estás, amiga? —Estoy muy bien, acabo de volver de vacaciones.",
+   "nota": "Diálogo ampliado para que suene natural."
+  },
+  {
+   "id": 526,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, el carrete de anoche estuvo de pana, hay que repetirlo.",
+   "frase_neutralizada": "Oye, la fiesta de anoche estuvo genial, hay que repetirla.",
+   "nota": "'Es de pana, carajo' no es natural; 'carajo' no es chileno."
+  },
+  {
+   "id": 527,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El desayuno que hicimos esta mañana quedó de pana.",
+   "frase_neutralizada": "El desayuno que preparamos esta mañana quedó excelente.",
+   "nota": "Ajusté tiempo verbal para coherencia."
+  },
+  {
+   "id": 528,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Hoy no ando muy de pana, cachai, mejor me quedo en la casa.",
+   "frase_neutralizada": "Hoy no estoy muy bien, ¿sabes?, mejor me quedo en casa.",
+   "nota": "Más coloquial chileno; '¿sabes?' reemplazado por 'cachai'."
+  },
+  {
+   "id": 529,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "El asado que hizo tu papá estaba de pana, la carne era de primera.",
+   "frase_neutralizada": "El asado que hizo tu papá estaba buenísimo, la carne era de primera.",
+   "nota": "'De pana' no significa 'correcta'; nuevo par de calidad."
+  },
+  {
+   "id": 530,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué hacís aquí, Ñico? Dejate de wear y anda a hacer tus tareas.",
+   "frase_neutralizada": "¿Qué haces aquí, Nico? Deja de molestar y ve a hacer tus tareas.",
+   "nota": "Añadí contexto; neutral sin voseo chileno."
+  },
+  {
+   "id": 531,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dejate de wear, weón, que estoy tratando de dormir.",
+   "frase_neutralizada": "Deja de molestar, hombre, que estoy tratando de dormir.",
+   "nota": "Eliminé la redundancia 'No me molestes'."
+  },
+  {
+   "id": 532,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mamá, dile al Benja que se deje de wear, me tiene chato.",
+   "frase_neutralizada": "Mamá, dile a Benja que deje de molestar, me tiene harto.",
+   "nota": "Decírselo grosero a la mamá no era natural."
+  },
+  {
+   "id": 533,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dejate de wear, mi amor, que estoy manejando y me desconcentrai.",
+   "frase_neutralizada": "Deja de molestar, mi amor, que estoy manejando y me desconcentras.",
+   "nota": "'Eso, eso' no tenía sentido; añadí contexto."
+  },
+  {
+   "id": 534,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dejate de wear y dime al tiro qué querís.",
+   "frase_neutralizada": "Deja de molestar y dime de una vez qué quieres.",
+   "nota": "Frase original poco natural; reformulada coloquial."
+  },
+  {
+   "id": 535,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Deja de wear con los mensajes, te dije que te iba a llamar después.",
+   "frase_neutralizada": "Deja de molestar con los mensajes, te dije que te iba a llamar después.",
+   "nota": "Original incoherente y neutral cambiaba el sentido."
+  },
+  {
+   "id": 536,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Deja de wear con la música tan fuerte, que hay gente trabajando.",
+   "frase_neutralizada": "Deja de molestar con la música tan fuerte, que hay gente trabajando.",
+   "nota": "Original incoherente y neutral agramatical ('si gustas')."
+  },
+  {
+   "id": 537,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Deja de wear con la comida, cabro chico, y cómete la sopa!",
+   "frase_neutralizada": "¡Deja de molestar con la comida, niño, y cómete la sopa!",
+   "nota": "Neutral agramatical ('hacer enfermo'); simplifiqué."
+  },
+  {
+   "id": 538,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, deja de wear con las bromas, no es na' gracioso.",
+   "frase_neutralizada": "Ya, deja de molestar con las bromas, no es nada gracioso.",
+   "nota": "Añadí rasgos coloquiales chilenos."
+  },
+  {
+   "id": 539,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Deja de wear y ayúdame a limpiar la cocina, que llegan visitas.",
+   "frase_neutralizada": "Deja de molestar y ayúdame a limpiar la cocina, que vienen visitas.",
+   "nota": "'Cacharro' no chileno y neutral cambiaba el sentido."
+  },
+  {
+   "id": 540,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Quedó de pasar a buscarme a las nueve y me dejó pagando, nunca llegó.",
+   "frase_neutralizada": "Quedó en pasar a buscarme a las nueve y me dejó plantado, nunca llegó.",
+   "nota": "Personas gramaticales inconsistentes entre ambas frases."
+  },
+  {
+   "id": 541,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me dejaron pagando afuera del cine, estuve más de una hora esperando y nadie llegó.",
+   "frase_neutralizada": "Me dejaron plantado afuera del cine, estuve más de una hora esperando y nadie llegó.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 542,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pato me dejó pagando, dijo que me iba a reemplazar en la pega y nunca apareció.",
+   "frase_neutralizada": "Pato me falló, dijo que me iba a reemplazar en el trabajo y nunca apareció.",
+   "nota": "Aclaré que no cumplió; más natural."
+  },
+  {
+   "id": 543,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En el debate la Cata lo dejó pagando con sus argumentos, el loco no supo qué decir.",
+   "frase_neutralizada": "En el debate, Cata lo dejó en ridículo con sus argumentos, el tipo no supo qué decir.",
+   "nota": "Corregí 'le dejó' y conservé toda la información."
+  },
+  {
+   "id": 544,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El delantero dejó pagando al arquero con un amague y la metió por abajo.",
+   "frase_neutralizada": "El delantero dejó en ridículo al portero con una finta y la metió por abajo.",
+   "nota": "Neutral forzada; además copiaba el ejemplo."
+  },
+  {
+   "id": 545,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa camisa está del corte, ¿la compraste en un outlet?",
+   "frase_neutralizada": "Esa camisa está genial, ¿la compraste en una tienda de descuento?",
+   "nota": "Neutral contenía chilenismo 'pulenta'."
+  },
+  {
+   "id": 546,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El arroz con pollo que hiciste te quedó del corte, ¿me dai más?",
+   "frase_neutralizada": "El arroz con pollo que hiciste te quedó buenísimo, ¿me das más?",
+   "nota": "Neutral contenía 'pulento' y cambiaba el tiempo verbal."
+  },
+  {
+   "id": 547,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mira las zapatillas que anda trayendo ese cabro, están del corte.",
+   "frase_neutralizada": "Mira las zapatillas deportivas que lleva ese chico, están geniales.",
+   "nota": "Más natural; neutral cambiaba 'chico' por 'hombre'."
+  },
+  {
+   "id": 548,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Escucha este tema, está del corte, lo tengo pegado todo el día.",
+   "frase_neutralizada": "Escucha esta canción, está buenísima, la tengo pegada todo el día.",
+   "nota": "Frase más natural y coloquial."
+  },
+  {
+   "id": 549,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Ese golazo de anoche fue del corte, lo mejor que he visto en mi vida.",
+   "frase_neutralizada": "Ese golazo de anoche fue espectacular, lo mejor que he visto en mi vida.",
+   "nota": "'Estar del corte' aplicado a persona confuso; nuevo par."
+  },
+  {
+   "id": 550,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Bailai bacán, así que en la fiesta sale a la pista y dale tu cotele.",
+   "frase_neutralizada": "Bailas muy bien, así que en la fiesta sal a la pista y lúcete.",
+   "nota": "Frase más natural; neutral simplificada."
+  },
+  {
+   "id": 551,
+   "accion": "corregido",
+   "def": 4,
+   "frase_chilena": "Mañana tenís la entrevista de pega, anda tranquilo y dale tu cotele.",
+   "frase_neutralizada": "Mañana tienes la entrevista de trabajo, ve tranquilo y lúcete.",
+   "nota": "Contexto laboral más creíble; registro coloquial."
+  },
+  {
+   "id": 552,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ando dándole cotele con mi vestido nuevo, todos en la oficina me lo han celebrado.",
+   "frase_neutralizada": "Estoy luciendo mi vestido nuevo, todos en la oficina me lo han elogiado.",
+   "nota": "Neutral forzada ('de forma destacable')."
+  },
+  {
+   "id": 553,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi hermano anda dándole cotele con el auto nuevo por todo el barrio.",
+   "frase_neutralizada": "Mi hermano anda presumiendo el auto nuevo por todo el barrio.",
+   "nota": "Casi copiaba el ejemplo del diccionario."
+  },
+  {
+   "id": 554,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Ponte el vestido que te compraste pa'l matrimonio y dale tu cotele, vai a quedar regia.",
+   "frase_neutralizada": "Ponte el vestido que te compraste para la boda y lúcete, vas a quedar guapísima.",
+   "nota": "Neutral cambiaba el sentido; añadí contexto natural."
+  },
+  {
+   "id": 555,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Denantes saqué la basura, así que no te preocupí.",
+   "frase_neutralizada": "Hace un rato saqué la basura, así que no te preocupes.",
+   "nota": "Usaba 'denantes' como muletilla; significa 'hace un rato'."
+  },
+  {
+   "id": 556,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te llamó la Javi denantes, preguntando si ibai a la fiesta.",
+   "frase_neutralizada": "Te llamó Javi hace un rato, preguntando si ibas a la fiesta.",
+   "nota": "Sentido erróneo; la neutral omitía la expresión."
+  },
+  {
+   "id": 557,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Denantes tenía el reloj puesto y ahora no lo encuentro por ningún lado.",
+   "frase_neutralizada": "Hace un momento tenía el reloj puesto y ahora no lo encuentro por ningún lado.",
+   "nota": "Sentido erróneo; ahora expresa tiempo reciente."
+  },
+  {
+   "id": 558,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué me dijiste denantes? No te escuché bien con la bulla.",
+   "frase_neutralizada": "¿Qué me dijiste hace un rato? No te escuché bien con el ruido.",
+   "nota": "Sentido erróneo; 'denantes' no es interjección."
+  },
+  {
+   "id": 559,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Sonó tu celular denantes, pero no alcancé a contestar.",
+   "frase_neutralizada": "Sonó tu celular hace un rato, pero no alcancé a contestar.",
+   "nota": "Sentido erróneo y diálogo incoherente."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 23,
+ "claves": [
+  "sacowea",
+  "salir de vuelo",
+  "salpica",
+  "salta pal lao",
+  "salta reclamante",
+  "salto la liebre",
+  "salto lejos el mani",
+  "sangre por sangre guaton byron"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.27490240000000005,
+ "duracion_s": 100.8,
+ "pares": [
+  {
+   "id": 920,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erís muy sacowea, ¿cómo se te ocurre echarle cerveza al café?",
+   "frase_neutralizada": "Eres muy imbécil, ¿cómo se te ocurre echarle cerveza al café?",
+   "nota": "Frase forzada y neutral con tiempos incoherentes; se naturalizó con voseo chileno."
+  },
+  {
+   "id": 921,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El sacowea del Matías dejó las llaves adentro del auto con el motor prendido.",
+   "frase_neutralizada": "El imbécil de Matías dejó las llaves dentro del auto con el motor encendido.",
+   "nota": "Situación absurda e inverosímil; nueva situación realista."
+  },
+  {
+   "id": 922,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai sacowea, po, si le contestai así al profe te van a echar.",
+   "frase_neutralizada": "No seas imbécil; si le contestas así al profesor, te van a expulsar.",
+   "nota": "Plantilla repetida y poco natural; nueva situación. Def 2 duplica la 1."
+  },
+  {
+   "id": 923,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Puta el sacowea, se fue a la playa sin bloqueador y quedó como camarón.",
+   "frase_neutralizada": "Qué imbécil, se fue a la playa sin protector solar y quedó rojo como un camarón.",
+   "nota": "Plantilla repetida; nueva situación. Def 2 duplica la 1."
+  },
+  {
+   "id": 924,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "¿Cachai que el sacowea de mi primo le mandó a su polola un mensaje que era pa' otra mina?",
+   "frase_neutralizada": "¿Sabes que el imbécil de mi primo le mandó a su novia un mensaje que era para otra chica?",
+   "nota": "Frase sin sentido (teléfono y cartera); nueva situación natural."
+  },
+  {
+   "id": 925,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando sonó el timbre del recreo, los cabros chicos salieron de vuelo al patio.",
+   "frase_neutralizada": "Cuando sonó el timbre del recreo, los niños salieron a toda prisa al patio.",
+   "nota": "No contenía la expresión; nuevo par."
+  },
+  {
+   "id": 926,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me llamó mi vieja pa' decirme que se estaba quemando la cocina y salí de vuelo de la pega.",
+   "frase_neutralizada": "Me llamó mi mamá para decirme que se estaba quemando la cocina y salí a toda prisa del trabajo.",
+   "nota": "Uso anunciado por la policía poco natural; nueva situación."
+  },
+  {
+   "id": 927,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros salieron de vuelo de la sala apenas escucharon la alarma.",
+   "frase_neutralizada": "Los muchachos salieron a toda prisa del aula apenas escucharon la alarma.",
+   "nota": "\"Decidieron salir de vuelo\" sonaba forzado; se simplificó."
+  },
+  {
+   "id": 928,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Apenas se abrió la puerta salimos de vuelo pa' que no nos pillaran.",
+   "frase_neutralizada": "Apenas se abrió la puerta, salimos a toda prisa para que no nos descubrieran.",
+   "nota": "\"Que lo vean\" incoherente; se corrigió la concordancia."
+  },
+  {
+   "id": 929,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando empezó el incendio, la familia entera salió de vuelo de la casa.",
+   "frase_neutralizada": "Cuando empezó el incendio, toda la familia salió a toda prisa de la casa.",
+   "nota": "Error \"se enciendió\"; neutral conservaba la misma falta."
+  },
+  {
+   "id": 930,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué hací aquí? Salpica pa' tu casa mejor.",
+   "frase_neutralizada": "¿Qué haces aquí? Mejor vete a tu casa.",
+   "nota": "No contenía la expresión; se incorporó con la misma idea."
+  },
+  {
+   "id": 931,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, estamos hablando algo privado con la Cata, así que salpica nomás.",
+   "frase_neutralizada": "Oye, estamos hablando algo privado con Cata, así que vete.",
+   "nota": "No contenía la expresión ni el sentido; nuevo par."
+  },
+  {
+   "id": 932,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, salpica, que tengo que estudiar y me estai puro distrayendo.",
+   "frase_neutralizada": "Ya, vete, que tengo que estudiar y no haces más que distraerme.",
+   "nota": "No contenía la expresión; nueva situación."
+  },
+  {
+   "id": 933,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Terminamos hace un año, así que salpica y deja de buscarme.",
+   "frase_neutralizada": "Terminamos hace un año, así que vete y deja de buscarme.",
+   "nota": "No contenía la expresión y tenía error gramatical."
+  },
+  {
+   "id": 934,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué me mirai tanto? Salpica, loco.",
+   "frase_neutralizada": "¿Qué me miras tanto? Lárgate, oye.",
+   "nota": "No contenía la expresión; se añadió manteniendo la situación."
+  },
+  {
+   "id": 935,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Que te sacaste un siete en cálculo? Salta pal lao, si no fuiste a ninguna clase.",
+   "frase_neutralizada": "¿Que sacaste la nota máxima en cálculo? Sí, cómo no, si no fuiste a ninguna clase.",
+   "nota": "No contenía la expresión; nueva mentira evidente."
+  },
+  {
+   "id": 936,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—Me compré un celular de oro. —Salta pal lao, si andai pidiendo plata prestada.",
+   "frase_neutralizada": "—Me compré un teléfono de oro. —Sí, cómo no, si andas pidiendo dinero prestado.",
+   "nota": "No contenía la expresión; se añadió el diálogo."
+  },
+  {
+   "id": 937,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Que te preste mi cuaderno pa' que copiís todo? Salta pal lao, estudia tú.",
+   "frase_neutralizada": "¿Que te preste mi cuaderno para que copies todo? Ni lo sueñes, estudia tú.",
+   "nota": "Neutral agramatical (\"voy a te pasar\"); falta el pedido descarado."
+  },
+  {
+   "id": 938,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Querís que te haga la tarea de inglés y además te la imprima? Salta pal lao.",
+   "frase_neutralizada": "¿Quieres que te haga la tarea de inglés y además te la imprima? Ni lo sueñes.",
+   "nota": "Frase incoherente (pedir ayuda en tu tarea); se rehízo la petición."
+  },
+  {
+   "id": 939,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Que te preste el auto pa' irte a la playa todo el fin de semana? Salta pal lao, compadre.",
+   "frase_neutralizada": "¿Que te preste el auto para irte a la playa todo el fin de semana? Ni lo sueñes, amigo.",
+   "nota": "Tenía \"coche\", poco chileno; faltaba el pedido descarado."
+  },
+  {
+   "id": 940,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, vamos a ver la de terror, ¿o salta reclamante?",
+   "frase_neutralizada": "Bueno, vamos a ver la de terror, ¿o alguien se opone?",
+   "nota": "No contenía la expresión; se mantuvo la elección de película."
+  },
+  {
+   "id": 941,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me toca a mí repartir las cartas, ¿salta reclamante?",
+   "frase_neutralizada": "Me toca a mí repartir las cartas, ¿alguien tiene algún reclamo?",
+   "nota": "Uso y neutral incoherentes; se reformuló como pregunta al grupo."
+  },
+  {
+   "id": 942,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cada uno pone cinco lucas pa'l asado, ¿salta reclamante?",
+   "frase_neutralizada": "Cada uno pone cinco mil pesos para el asado, ¿alguien se opone?",
+   "nota": "No tenía relación con la expresión; nuevo par."
+  },
+  {
+   "id": 943,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Nos juntamos el sábado a las ocho en la casa del Nico, ¿salta reclamante?",
+   "frase_neutralizada": "Nos reunimos el sábado a las ocho en la casa de Nico, ¿alguien se opone?",
+   "nota": "Sin expresión y con errores gramaticales; nuevo par."
+  },
+  {
+   "id": 944,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, voy a apagar el aire acondicionado, ¿salta reclamante o no?",
+   "frase_neutralizada": "Bueno, voy a apagar el aire acondicionado, ¿alguien se queja o no?",
+   "nota": "Frase sin sentido y sin la expresión; nuevo par."
+  },
+  {
+   "id": 945,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llevo meses mandando currículums, pero en cualquier momento me salta la liebre.",
+   "frase_neutralizada": "Llevo meses enviando currículums, pero en cualquier momento se me va a dar la oportunidad.",
+   "nota": "Uso forzado (pista para que salte); nueva situación de espera."
+  },
+  {
+   "id": 946,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Sigue jugando al Loto todas las semanas, que algún día te va a saltar la liebre.",
+   "frase_neutralizada": "Sigue jugando a la lotería todas las semanas, que algún día te va a llegar la suerte.",
+   "nota": "Frase incoherente (\"me voy a llamar\"); nuevo par."
+  },
+  {
+   "id": 947,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Por fin me saltó la liebre: me aceptaron en la universidad que quería.",
+   "frase_neutralizada": "Por fin se me dio: me aceptaron en la universidad que quería.",
+   "nota": "\"Salto de la liebre\" literal y sin sentido; nuevo par."
+  },
+  {
+   "id": 948,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando volvamos a ver a la Javi en el carrete, vai a ver cómo te salta la liebre.",
+   "frase_neutralizada": "Cuando volvamos a ver a Javi en la fiesta, vas a ver cómo por fin se te da con ella.",
+   "nota": "Error de tiempo (\"vemos\") y neutral atribuía el éxito a la chica."
+  },
+  {
+   "id": 949,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ten paciencia nomás, que tarde o temprano te va a saltar la liebre con el ascenso.",
+   "frase_neutralizada": "Ten paciencia, que tarde o temprano se te va a dar el ascenso.",
+   "nota": "Usaba \"salir la liebre\"; se corrigió el verbo y se concretó."
+  },
+  {
+   "id": 950,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—¿Y de qué están hablando ustedes dos? —Saltó lejos el maní, esta es conversa privada.",
+   "frase_neutralizada": "—¿Y de qué están hablando ustedes dos? —Qué entrometido, esta es una conversación privada.",
+   "nota": "Sin expresión e incomprensible; nuevo diálogo con intruso."
+  },
+  {
+   "id": 951,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, saltó lejos el maní, ¿no veís que estoy hablando por teléfono con mi polola?",
+   "frase_neutralizada": "Oye, qué entrometido, ¿no ves que estoy hablando por teléfono con mi novia?",
+   "nota": "No contenía la expresión; se mantuvo la idea de conversación privada."
+  },
+  {
+   "id": 952,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le contaba un cahuín a la Pame en la micro y la señora de al lado preguntó \"¿y qué pasó?\"; saltó lejos el maní.",
+   "frase_neutralizada": "Le contaba un chisme a Pame en el autobús y la señora de al lado preguntó \"¿y qué pasó?\"; qué entrometida.",
+   "nota": "No contenía la expresión ni el sentido; nuevo par."
+  },
+  {
+   "id": 953,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "—Mejor pidan pizza, no sushi. —Saltó lejos el maní, si tú ni siquiera vai a comer.",
+   "frase_neutralizada": "—Mejor pidan pizza, no sushi. —Mira quién se mete, si tú ni siquiera vas a comer.",
+   "nota": "Expresión mal usada y omitida en la neutral; se armó diálogo."
+  },
+  {
+   "id": 954,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "—Yo creo que deberíai terminar con tu pololo. —¡Saltó lejos el maní! ¿Quién te pidió opinión?",
+   "frase_neutralizada": "—Yo creo que deberías terminar con tu novio. —¡Mira quién se mete! ¿Quién te pidió tu opinión?",
+   "nota": "Expresión sin sentido en contexto; nuevo diálogo con entrometido."
+  },
+  {
+   "id": 955,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me rayaste el auto en el carrete, así que sangre por sangre, guatón Byron: te voy a rayar el tuyo.",
+   "frase_neutralizada": "Me rayaste el auto en la fiesta, así que ojo por ojo: te voy a rayar el tuyo.",
+   "nota": "Faltaba \"guatón Byron\" y sonaba formal; se concretó la venganza."
+  },
+  {
+   "id": 956,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Molestaron a mi hermana chica en el colegio; sangre por sangre, guatón Byron, esto no se queda así.",
+   "frase_neutralizada": "Molestaron a mi hermana menor en la escuela; ojo por ojo, esto no se queda así.",
+   "nota": "Usaba \"hicisteis\" (vosotros) y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 957,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ustedes nos ganaron la final el año pasado, pero sangre por sangre, guatón Byron: este año se la cobramos.",
+   "frase_neutralizada": "Ustedes nos ganaron la final el año pasado, pero ojo por ojo: este año nos desquitamos.",
+   "nota": "Frase vaga y sin la expresión completa; nuevo par."
+  },
+  {
+   "id": 958,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La empresa me echó sin causa; sangre por sangre, guatón Byron, los voy a demandar hasta el último peso.",
+   "frase_neutralizada": "La empresa me despidió sin causa; ojo por ojo, los voy a demandar hasta el último centavo.",
+   "nota": "Faltaba \"guatón Byron\" y la gramática era forzada (\"le vengaré\")."
+  },
+  {
+   "id": 959,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te comiste mi yogur del refri, ¿cierto? Sangre por sangre, guatón Byron, mañana me como tus galletas.",
+   "frase_neutralizada": "Te comiste mi yogur del refrigerador, ¿verdad? Ojo por ojo, mañana me como tus galletas.",
+   "nota": "Frase agramatical y gentilicio peyorativo; nueva situación."
+  }
+ ]
+}

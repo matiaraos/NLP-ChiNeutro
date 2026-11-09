@@ -1,0 +1,340 @@
+{
+ "lote": 39,
+ "claves": [
+  "volarse",
+  "voy altoque",
+  "wacala",
+  "wachito",
+  "washito",
+  "waje",
+  "washito rico",
+  "washita rica"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2080505,
+ "duracion_s": 72.6,
+ "pares": [
+  {
+   "id": 1560,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros se juntan en la plaza todas las noches a volarse.",
+   "frase_neutralizada": "Los muchachos se juntan en la plaza todas las noches a drogarse.",
+   "nota": "No incluía la expresión; nueva frase sobre drogarse."
+  },
+  {
+   "id": 1561,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo dejó la pega y ahora pasa volándose todo el día, po.",
+   "frase_neutralizada": "Mi primo dejó el trabajo y ahora se pasa drogándose todo el día.",
+   "nota": "Usaba volarse como gastar dinero; frase sin sentido."
+  },
+  {
+   "id": 1562,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En esa fiesta todos se estaban volando en el patio, así que me fui altiro.",
+   "frase_neutralizada": "En esa fiesta todos se estaban drogando en el patio, así que me fui enseguida.",
+   "nota": "Neutral decía divertirse; ahora refleja el sentido de drogarse."
+  },
+  {
+   "id": 1563,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si vai a volarte, por lo menos no lo hagai delante de tu hermano chico.",
+   "frase_neutralizada": "Si te vas a drogar, por lo menos no lo hagas delante de tu hermano menor.",
+   "nota": "Frase incoherente sin sentido de drogas."
+  },
+  {
+   "id": 1564,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi vieja me pilló volándome en la pieza y quedó la cagada.",
+   "frase_neutralizada": "Mi mamá me descubrió drogándome en el cuarto y se armó un lío tremendo.",
+   "nota": "Usaba volarse como pasar vacaciones; sentido equivocado."
+  },
+  {
+   "id": 1565,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Voy altoque, mándame la ubicación no más.",
+   "frase_neutralizada": "Voy enseguida, solo mándame la ubicación.",
+   "nota": "No contenía la expresión; frase incoherente."
+  },
+  {
+   "id": 1566,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Espérame en la esquina, voy altoque, estoy terminando de vestirme.",
+   "frase_neutralizada": "Espérame en la esquina, voy enseguida, estoy terminando de vestirme.",
+   "nota": "Usaba al tiro en vez de altoque; neutral conservaba chilenismo."
+  },
+  {
+   "id": 1567,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mamá, voy altoque a comprar el pan y vuelvo.",
+   "frase_neutralizada": "Mamá, voy enseguida a comprar el pan y vuelvo.",
+   "nota": "No contenía la expresión; neutral agramatical."
+  },
+  {
+   "id": 1568,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, jefe, voy altoque a buscar los papeles a la oficina.",
+   "frase_neutralizada": "Bien, jefe, voy enseguida a buscar los documentos a la oficina.",
+   "nota": "No contenía la expresión; errores gramaticales."
+  },
+  {
+   "id": 1569,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No se vayan sin mí, voy altoque, estoy pagando la cuenta.",
+   "frase_neutralizada": "No se vayan sin mí, voy enseguida, estoy pagando la cuenta.",
+   "nota": "No contenía la expresión; frase incoherente."
+  },
+  {
+   "id": 1570,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Wacala, el pan tenía hongos y me comí la mitad.",
+   "frase_neutralizada": "¡Qué asco! El pan tenía moho y me comí la mitad.",
+   "nota": "Usaba wacala como pena; sentido equivocado."
+  },
+  {
+   "id": 1571,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién dejó los calcetines sucios arriba de la mesa? Wacala.",
+   "frase_neutralizada": "¿Quién dejó los calcetines sucios encima de la mesa? Qué asco.",
+   "nota": "Wacala mal usado como adjetivo; ahora es interjección de asco."
+  },
+  {
+   "id": 1572,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Wacala, el perro se revolcó en el barro y ahora se quiere subir a la cama.",
+   "frase_neutralizada": "¡Qué asco! El perro se revolcó en el barro y ahora se quiere subir a la cama.",
+   "nota": "Frase confusa y neutral cambiaba el significado."
+  },
+  {
+   "id": 1573,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Este café de máquina sabe a remedio, wacala.",
+   "frase_neutralizada": "Este café de máquina sabe a medicina, qué asco.",
+   "nota": "Error gramatical y uso forzado como adjetivo."
+  },
+  {
+   "id": 1574,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuela me hizo comer guatitas y wacala, casi las devuelvo.",
+   "frase_neutralizada": "Mi abuela me hizo comer tripas de res y, qué asco, casi las vomito.",
+   "nota": "Contradictorio: asqueroso pero me gusta; nueva situación."
+  },
+  {
+   "id": 1575,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, el primo de la Javi está terrible wachito, preséntamelo po.",
+   "frase_neutralizada": "Oye, el primo de Javi es muy guapo, preséntamelo.",
+   "nota": "Frase poco natural; neutral usaba hermoso, poco adecuado."
+  },
+  {
+   "id": 1576,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El nuevo del curso es wachito, todas las minas andan locas con él.",
+   "frase_neutralizada": "El nuevo de la clase es guapo, todas las chicas están locas por él.",
+   "nota": "Concordancia incorrecta y frase poco natural."
+  },
+  {
+   "id": 1577,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese gallo del gimnasio es más wachito, cachai, y encima es simpático.",
+   "frase_neutralizada": "Ese tipo del gimnasio es muy guapo, ¿sabes?, y además es simpático.",
+   "nota": "Usaba wachito para mujer; error de género."
+  },
+  {
+   "id": 1578,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi pololo se cree el más wachito porque se cortó el pelo.",
+   "frase_neutralizada": "Mi novio se cree el más guapo porque se cortó el pelo.",
+   "nota": "Concordancia gente wachito incorrecta; nueva situación."
+  },
+  {
+   "id": 1579,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hermana, el cantante ese es wachito, pero canta como las weas.",
+   "frase_neutralizada": "Amiga, ese cantante es guapo, pero canta como la mierda.",
+   "nota": "Usaba wachito para mujer; error de género."
+  },
+  {
+   "id": 1580,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, washito, no llorís, mañana vamos a ir al parque.",
+   "frase_neutralizada": "Ya, cariño, no llores, mañana vamos a ir al parque.",
+   "nota": "Neutral perdía el trato cariñoso; nueva situación natural."
+  },
+  {
+   "id": 1581,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi washito lindo, ¿me esperai pa almorzar juntos?",
+   "frase_neutralizada": "Mi cariño lindo, ¿me esperas para almorzar juntos?",
+   "nota": "Neutral traducía rico literalmente; se evita confusión con washito rico."
+  },
+  {
+   "id": 1582,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi sobrino es un washito, siempre me trae dibujitos cuando lo visito.",
+   "frase_neutralizada": "Mi sobrino es un amor, siempre me trae dibujitos cuando lo visito.",
+   "nota": "Usaba washito como propietario; sentido equivocado."
+  },
+  {
+   "id": 1583,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi washita, te quiero caleta, gracias por cuidarme cuando estuve enferma.",
+   "frase_neutralizada": "Cariño, te quiero muchísimo, gracias por cuidarme cuando estuve enferma.",
+   "nota": "Error de género (un washita) y uso poco natural."
+  },
+  {
+   "id": 1584,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Buenas noches, washito, que duermas bien y sueñes bonito.",
+   "frase_neutralizada": "Buenas noches, cariño, que duermas bien y tengas lindos sueños.",
+   "nota": "Usaba washito como conversación; sentido equivocado."
+  },
+  {
+   "id": 1585,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Anoche me pegué tremendo waje en el baño de la disco.",
+   "frase_neutralizada": "Anoche vomité muchísimo en el baño de la discoteca.",
+   "nota": "Construcción errónea y neutral agramatical."
+  },
+  {
+   "id": 1586,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico se pegó un waje en el auto por las curvas.",
+   "frase_neutralizada": "El niño vomitó en el auto por las curvas.",
+   "nota": "Usaba waje como malestar, no como vomitar."
+  },
+  {
+   "id": 1587,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si seguís tomando así, te vai a pegar un waje en la micro.",
+   "frase_neutralizada": "Si sigues bebiendo así, vas a vomitar en el autobús.",
+   "nota": "Usaba waje como náuseas; frase incoherente."
+  },
+  {
+   "id": 1588,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me pegué un waje después de comer ese completo de la esquina, nunca más.",
+   "frase_neutralizada": "Vomité después de comer ese hot dog de la esquina, nunca más.",
+   "nota": "Construcción errónea y neutral sin sentido de vomitar."
+  },
+  {
+   "id": 1589,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El perro se pegó un waje en la alfombra y nadie lo quiere limpiar.",
+   "frase_neutralizada": "El perro vomitó en la alfombra y nadie lo quiere limpiar.",
+   "nota": "Usaba waje como malestar; neutral agramatical."
+  },
+  {
+   "id": 1590,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Amiga, mira ese washito rico que está en la caja, anda a pedirle el número.",
+   "frase_neutralizada": "Amiga, mira a ese chico tan guapo que está en la caja, ve a pedirle el número.",
+   "nota": "Género incorrecto y neutral cambiaba el número."
+  },
+  {
+   "id": 1591,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El salvavidas de la playa es un washito rico, yo me ahogo a propósito.",
+   "frase_neutralizada": "El salvavidas de la playa está buenísimo, yo me ahogo a propósito.",
+   "nota": "Frase incoherente y neutral poco natural."
+  },
+  {
+   "id": 1592,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi ex se puso washito rico después de ir al gimnasio, qué rabia.",
+   "frase_neutralizada": "Mi ex se puso guapísimo después de ir al gimnasio, qué rabia.",
+   "nota": "Neutral cambiaba el número; definiciones 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 1593,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa washita rica que bailó contigo te estuvo mirando toda la noche, weón.",
+   "frase_neutralizada": "Esa chica tan atractiva que bailó contigo te estuvo mirando toda la noche, amigo.",
+   "nota": "Le hizo un beso es agramatical; nueva situación natural."
+  },
+  {
+   "id": 1594,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Washito ricooo!, le gritaron las chiquillas al bombero que pasaba.",
+   "frase_neutralizada": "¡Guapísimo!, le gritaron las chicas al bombero que pasaba.",
+   "nota": "Frase poco natural; definiciones 1 y 2 equivalen."
+  },
+  {
+   "id": 1595,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegó una washita rica nueva a la oficina y todos los gallos andan nerviosos.",
+   "frase_neutralizada": "Llegó una chica nueva muy guapa a la oficina y todos los hombres andan nerviosos.",
+   "nota": "Neutral cambiaba a plural; frase explicaba el significado."
+  },
+  {
+   "id": 1596,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Viste a la washita rica que atiende en la panadería? Siempre me sonríe.",
+   "frase_neutralizada": "¿Viste a la chica tan guapa que atiende en la panadería? Siempre me sonríe.",
+   "nota": "Neutral cambiaba el número; frase poco natural."
+  },
+  {
+   "id": 1597,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi compadre anda con una washita rica y no sé cómo la conquistó.",
+   "frase_neutralizada": "Mi amigo sale con una mujer guapísima y no sé cómo la conquistó.",
+   "nota": "Muy parecida al ejemplo del diccionario; nueva situación."
+  },
+  {
+   "id": 1598,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hola, washita rica, ¿te puedo invitar a un copete?",
+   "frase_neutralizada": "Hola, preciosa, ¿te puedo invitar a una copa?",
+   "nota": "Frase poco natural; definiciones 1 y 2 equivalen."
+  },
+  {
+   "id": 1599,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Habían puras washitas ricas en el carrete de anoche, cachai.",
+   "frase_neutralizada": "Solo había mujeres guapísimas en la fiesta de anoche, ¿sabes?",
+   "nota": "Frase y neutral sin sentido claro; se unificó el sentido."
+  }
+ ]
+}

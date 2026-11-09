@@ -1,0 +1,340 @@
+{
+ "lote": 52,
+ "claves": [
+  "pava",
+  "payasear",
+  "pechar",
+  "pedir fiado",
+  "pega",
+  "pegarse el alcachofazo",
+  "pegarse el show",
+  "pegarse la cacha"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2649562,
+ "duracion_s": 95.6,
+ "pares": [
+  {
+   "id": 2080,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mija, no seai pava, la puerta se abre pa' adentro, no pa' afuera.",
+   "frase_neutralizada": "Hija, no seas tonta, la puerta se abre hacia adentro, no hacia afuera.",
+   "nota": "'Pavarse' no existe; se usa como adjetivo y se corrige 'distrajes'."
+  },
+  {
+   "id": 2081,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no seai pavo, ese mensaje era una broma, ¿cómo te lo creíste?",
+   "frase_neutralizada": "Oye, no seas tonto, ese mensaje era una broma, ¿cómo te lo creíste?",
+   "nota": "Se eliminaron el verbo inexistente 'pavarse' y el error 'distrajes'."
+  },
+  {
+   "id": 2082,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ay amiga, qué pava, ¿cómo te fuiste a caer de la bici por ir mirando el celular?",
+   "frase_neutralizada": "Ay, amiga, qué tonta, ¿cómo te caíste de la bicicleta por ir mirando el celular?",
+   "nota": "La versión neutral cambiaba el sentido; se añadió el contexto del despiste."
+  },
+  {
+   "id": 2083,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se me quedaron las llaves adentro del auto otra vez, soy tan pava.",
+   "frase_neutralizada": "Se me quedaron las llaves dentro del auto otra vez, soy tan tonta.",
+   "nota": "Copiaba el ejemplo y la neutral era errónea; se hizo una situación nueva."
+  },
+  {
+   "id": 2084,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Rodrigo es súper pavo, le pasó plata a un desconocido que le contó una historia triste.",
+   "frase_neutralizada": "Rodrigo es muy tonto, le dio dinero a un desconocido que le contó una historia triste.",
+   "nota": "'Pava' se aplica a personas, no a ideas."
+  },
+  {
+   "id": 2085,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, deja de payasear con la plata del arriendo, que esto es en serio.",
+   "frase_neutralizada": "Ya, deja de bromear con el dinero del alquiler, que esto es en serio.",
+   "nota": "Se corrigieron 'payasando' y 'estás bromear', y se quitó 'carajo'."
+  },
+  {
+   "id": 2086,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué andai payaseando en la cocina? Vai a quebrar algo.",
+   "frase_neutralizada": "¿Por qué andas haciendo tonterías en la cocina? Vas a romper algo.",
+   "nota": "No usaba el verbo payasear; se incorporó."
+  },
+  {
+   "id": 2087,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe nos echó de la sala por payasear toda la clase.",
+   "frase_neutralizada": "El profesor nos echó del salón por hacer tonterías toda la clase.",
+   "nota": "La frase original no tenía sentido ni incluía el verbo."
+  },
+  {
+   "id": 2088,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío se pasó payaseando en el cumpleaños y todos se cagaron de la risa.",
+   "frase_neutralizada": "Mi tío estuvo bromeando todo el cumpleaños y todos se murieron de la risa.",
+   "nota": "La frase original no tenía sentido y la neutral era contradictoria."
+  },
+  {
+   "id": 2089,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Siempre estai payaseando, ¿cuándo vai a hablar en serio?",
+   "frase_neutralizada": "Siempre estás bromeando, ¿cuándo vas a hablar en serio?",
+   "nota": "Se corrigieron 'estás bromear' y 'no te vas a enserio'."
+  },
+  {
+   "id": 2090,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi cuñado lleva tres meses pechando en mi casa y no pone ni pa'l pan.",
+   "frase_neutralizada": "Mi cuñado lleva tres meses viviendo de aprovechado en mi casa y no aporta ni para el pan.",
+   "nota": "Se añadió contexto natural y se arreglaron los signos de exclamación."
+  },
+  {
+   "id": 2091,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No es justo que te pasís pechando en el depto y no aportís ni con el gas.",
+   "frase_neutralizada": "No es justo que vivas de aprovechado en el departamento y no pongas ni para el gas.",
+   "nota": "La neutral perdía el sentido de abuso ('pasando tiempo')."
+  },
+  {
+   "id": 2092,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Felipe se fue a pechar donde la polola y ni siquiera lava los platos.",
+   "frase_neutralizada": "Felipe se fue a vivir de aprovechado a casa de su novia y ni siquiera lava los platos.",
+   "nota": "Era poco natural; se creó una situación distinta."
+  },
+  {
+   "id": 2093,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Nico me pechó la cámara pal paseo y ya van dos meses que no me la devuelve.",
+   "frase_neutralizada": "Nico me pidió prestada la cámara para el paseo y ya lleva dos meses sin devolvérmela.",
+   "nota": "Uso erróneo 'pechando de'; se corrigió 'pediendo'."
+  },
+  {
+   "id": 2094,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Siempre me andai pechando plata pal almuerzo y nunca me la devolvís.",
+   "frase_neutralizada": "Siempre me andas pidiendo dinero prestado para el almuerzo y nunca me lo devuelves.",
+   "nota": "La frase era incoherente ('No me preocupes', 'pechar de ella')."
+  },
+  {
+   "id": 2095,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le pedí fiado un litro de leche a la señora del almacén y le pago el viernes.",
+   "frase_neutralizada": "Le pedí a crédito un litro de leche a la señora de la tienda y se lo pago el viernes.",
+   "nota": "No incluía la expresión 'pedir fiado'."
+  },
+  {
+   "id": 2096,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el negocio de la esquina ya no se puede pedir fiado, el caballero puso un letrero.",
+   "frase_neutralizada": "En la tienda de la esquina ya no se puede comprar a crédito, el señor puso un letrero.",
+   "nota": "Hablaba de un préstamo, no de pedir fiado."
+  },
+  {
+   "id": 2097,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me quedé sin plata a fin de mes y tuve que pedir fiado el pan y los huevos.",
+   "frase_neutralizada": "Me quedé sin dinero a fin de mes y tuve que pedir a crédito el pan y los huevos.",
+   "nota": "Hablaba de un préstamo de computadora, no de pedir fiado."
+  },
+  {
+   "id": 2098,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuela le pedía fiado a la vecina del almacén y anotaban todo en un cuaderno.",
+   "frase_neutralizada": "Mi abuela le pedía a crédito a la vecina de la tienda y anotaban todo en un cuaderno.",
+   "nota": "No tenía la expresión y la neutral traía un error ('me comprometió')."
+  },
+  {
+   "id": 2099,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, no le pidai fiado a don Lucho, que todavía le debís lo de la semana pasada.",
+   "frase_neutralizada": "Oye, no le pidas a crédito a don Lucho, que todavía le debes lo de la semana pasada.",
+   "nota": "Hablaba de prestar un coche, no de pedir fiado."
+  },
+  {
+   "id": 2100,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano anda buscando pega hace como seis meses y nada, está complicado.",
+   "frase_neutralizada": "Mi hermano lleva como seis meses buscando trabajo y nada, está difícil.",
+   "nota": "Copiaba el ejemplo y no tenía 'pega'."
+  },
+  {
+   "id": 2101,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me salió una pega en Antofagasta, así que me voy a vivir pa'l norte.",
+   "frase_neutralizada": "Me salió un trabajo en Antofagasta, así que me voy a vivir al norte.",
+   "nota": "No contenía la palabra 'pega'."
+  },
+  {
+   "id": 2102,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya no quiero más pega de oficina, me quiero dedicar a la cocina.",
+   "frase_neutralizada": "Ya no quiero más trabajo de oficina, me quiero dedicar a la cocina.",
+   "nota": "Se completó la frase para que sonara natural."
+  },
+  {
+   "id": 2103,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Necesito una pega luego pa poder pagar las cuentas, ¿cachai?",
+   "frase_neutralizada": "Necesito un trabajo pronto para poder pagar las cuentas, ¿entiendes?",
+   "nota": "Def 2 equivale a la 1; se cambió 'facturas' por 'cuentas'."
+  },
+  {
+   "id": 2104,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Estoy aburrido de la pega en la central, puros turnos de noche y el jefe encima.",
+   "frase_neutralizada": "Estoy harto del trabajo en la central, solo turnos de noche y el jefe encima de mí.",
+   "nota": "Se usó el sentido de trabajo pesado para no repetir la def 1."
+  },
+  {
+   "id": 2105,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando vi la cuenta de la luz me pegué el alcachofazo de que tenía que dejar de usar la estufa.",
+   "frase_neutralizada": "Cuando vi la factura de la luz me di cuenta de golpe de que tenía que dejar de usar el calefactor.",
+   "nota": "No tenía la expresión y copiaba el ejemplo."
+  },
+  {
+   "id": 2106,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Después de tres años pololeando me pegué el alcachofazo de que ella nunca me había querido.",
+   "frase_neutralizada": "Después de tres años de noviazgo me di cuenta de golpe de que ella nunca me había querido.",
+   "nota": "El contexto del festival no tenía sentido."
+  },
+  {
+   "id": 2107,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me pegué el alcachofazo cuando supe que mi compañero andaba buscando pega: la empresa iba a cerrar.",
+   "frase_neutralizada": "Me di cuenta de golpe cuando supe que mi compañero estaba buscando trabajo: la empresa iba a cerrar.",
+   "nota": "Faltaba aquello de lo que se daba cuenta; la neutral era poco natural."
+  },
+  {
+   "id": 2108,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me pegué el alcachofazo y dejé de pelear con mi viejo por puras tonteras.",
+   "frase_neutralizada": "Recapacité y dejé de pelear con mi papá por puras tonterías.",
+   "nota": "Gramática rota en ambas versiones ('Habiéndome que despertar')."
+  },
+  {
+   "id": 2109,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Si querís ser buen papá, tenís que pegarte el alcachofazo y dejar el carrete.",
+   "frase_neutralizada": "Si quieres ser buen papá, tienes que recapacitar y dejar las fiestas.",
+   "nota": "'Has de' no es natural; se usó registro chileno."
+  },
+  {
+   "id": 2110,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si te curai en la cena de la empresa, vai a terminar pegándote el show.",
+   "frase_neutralizada": "Si te emborrachas en la cena de la empresa, vas a terminar armando un escándalo.",
+   "nota": "Contexto incoherente; se ajustó al sentido de escándalo."
+  },
+  {
+   "id": 2111,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La señora se pegó el show en el banco porque la tuvieron una hora esperando.",
+   "frase_neutralizada": "La señora armó un escándalo en el banco porque la tuvieron una hora esperando.",
+   "nota": "La frase original era incoherente."
+  },
+  {
+   "id": 2112,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La cabra se agarró con un caballero en la micro y se pegó tremendo show.",
+   "frase_neutralizada": "La muchacha se peleó con un señor en el autobús y armó tremendo escándalo.",
+   "nota": "La neutral cambiaba la estructura y el sentido."
+  },
+  {
+   "id": 2113,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Los vecinos se pegan el show todos los fines de semana bailando en el patio a grito pelado.",
+   "frase_neutralizada": "Los vecinos hacen el ridículo todos los fines de semana bailando en el patio a gritos.",
+   "nota": "Era vaga y faltaba un signo de exclamación."
+  },
+  {
+   "id": 2114,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Manuel se subió a la mesa a bailar en calzoncillos y se pegó el medio show.",
+   "frase_neutralizada": "Manuel se subió a la mesa a bailar en calzoncillos e hizo un ridículo enorme.",
+   "nota": "La neutral decía 'desnudo', distinto de ropa interior."
+  },
+  {
+   "id": 2115,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Recién me pegué la cacha de que mañana era tu matrimonio, perdona.",
+   "frase_neutralizada": "Acabo de darme cuenta de que mañana es tu boda, perdona.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2116,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Te pegaste la cacha de que el profe no vino hoy?",
+   "frase_neutralizada": "¿Te diste cuenta de que el profesor no vino hoy?",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2117,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, pégate la cacha, te están cobrando de más en la boleta.",
+   "frase_neutralizada": "Oye, fíjate bien, te están cobrando de más en el recibo.",
+   "nota": "No tenía la expresión y la neutral traía un error ('ofro')."
+  },
+  {
+   "id": 2118,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ni me pegué la cacha de que la fiesta era el sábado y no el viernes.",
+   "frase_neutralizada": "Ni me di cuenta de que la fiesta era el sábado y no el viernes.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2119,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con suerte me pegué la cacha de que hoy era tu cumpleaños, por eso no te traje tarjeta.",
+   "frase_neutralizada": "Apenas me di cuenta de que hoy era tu cumpleaños, por eso no te traje tarjeta.",
+   "nota": "Usaba la expresión como 'recordar'; se corrigió el sentido."
+  }
+ ]
+}

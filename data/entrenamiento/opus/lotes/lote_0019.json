@@ -1,0 +1,340 @@
+{
+ "lote": 19,
+ "claves": [
+  "ramo",
+  "rasca",
+  "raspando",
+  "rati",
+  "reclame",
+  "regalon",
+  "regalonear",
+  "regia"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2089788,
+ "duracion_s": 73.2,
+ "pares": [
+  {
+   "id": 760,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estoy complicado con un ramo de física, ¿me podís ayudar con los ejercicios?",
+   "frase_neutralizada": "Tengo problemas con una asignatura de física, ¿me puedes ayudar con los ejercicios?",
+   "nota": "No incluía 'ramo'; se agregó con voseo chileno."
+  },
+  {
+   "id": 761,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese ramo de química me está dando mucha pega, po, puros informes.",
+   "frase_neutralizada": "Esa asignatura de química me está dando mucho trabajo, solo informes.",
+   "nota": "Neutral traducía 'ramo' como 'tema'; ahora es 'asignatura'."
+  },
+  {
+   "id": 762,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En el ramo de lingüística vamos a ver puros temas de gramática.",
+   "frase_neutralizada": "En la asignatura de lingüística vamos a ver solo temas de gramática.",
+   "nota": "La chilena usaba 'curso' en vez de 'ramo'."
+  },
+  {
+   "id": 763,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿En qué ramos de ingeniería te enseñan a programar?",
+   "frase_neutralizada": "¿En qué asignaturas de ingeniería te enseñan a programar?",
+   "nota": "'Temas' era incorrecto; se usó 'asignaturas'."
+  },
+  {
+   "id": 764,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No sé si tomar ese ramo de biología, me da miedo echármelo.",
+   "frase_neutralizada": "No sé si inscribir esa asignatura de biología, me da miedo reprobarla.",
+   "nota": "Neutral era agramatical y usaba 'tema'."
+  },
+  {
+   "id": 765,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El celular que me compré en la feria es súper rasca, se apagó a la semana.",
+   "frase_neutralizada": "El celular que compré en el mercado callejero es de muy mala calidad, se apagó a la semana.",
+   "nota": "Usaba 'rasca' como verbo o como 'feo'."
+  },
+  {
+   "id": 766,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me voy a comprar esa camisa, se ve rasca, la tela parece plástico.",
+   "frase_neutralizada": "No me voy a comprar esa camisa, se ve de mala calidad, la tela parece plástico.",
+   "nota": "Neutral decía 'fea'; el sentido es de mala calidad."
+  },
+  {
+   "id": 767,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sus amigos son medios rascas, llegaron a la fiesta gritando y tirando garabatos.",
+   "frase_neutralizada": "Sus amigos son bastante ordinarios, llegaron a la fiesta gritando y diciendo groserías.",
+   "nota": "Sentido era 'poco atractivas'; ahora es 'ordinario', de bajo nivel."
+  },
+  {
+   "id": 768,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa cerveza es muy rasca, prefiero tomarme un vino tinto.",
+   "frase_neutralizada": "Esa cerveza es de muy mala calidad, prefiero tomar un vino tinto.",
+   "nota": "Sintaxis rara y neutral sin el significado de 'rasca'."
+  },
+  {
+   "id": 769,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué rasca el hotel, las sábanas estaban rotas y no había agua caliente.",
+   "frase_neutralizada": "Qué hotel tan malo, las sábanas estaban rotas y no había agua caliente.",
+   "nota": "Usaba el verbo 'rascar'; nuevo ejemplo de mala calidad."
+  },
+  {
+   "id": 770,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Alcancé a entregar la tarea raspando, faltaba un minuto pa' que cerraran.",
+   "frase_neutralizada": "Alcancé a entregar la tarea justo a tiempo, faltaba un minuto para que cerraran.",
+   "nota": "Frase original sin sentido claro."
+  },
+  {
+   "id": 771,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pasé el examen raspando, me saqué un cuatro justo.",
+   "frase_neutralizada": "Aprobé el examen por muy poco, saqué justo la nota mínima para aprobar.",
+   "nota": "'Fue raspando de aprobar' era agramatical."
+  },
+  {
+   "id": 772,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con lo que gano llego raspando a fin de mes, no me sobra ni una luca.",
+   "frase_neutralizada": "Con lo que gano llego con lo justo a fin de mes, no me sobra ni un peso.",
+   "nota": "Frase incoherente; se mantuvo la idea de alcanzar apenas."
+  },
+  {
+   "id": 773,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegamos raspando al aeropuerto, ya estaban cerrando el embarque.",
+   "frase_neutralizada": "Llegamos con el tiempo justo al aeropuerto, ya estaban cerrando el embarque.",
+   "nota": "Usaba 'raspando' como 'frío', un sentido inexistente."
+  },
+  {
+   "id": 774,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la reunión del club el proyecto se aprobó raspando, ganó por un voto.",
+   "frase_neutralizada": "En la reunión del club el proyecto se aprobó por muy poco, ganó por un voto.",
+   "nota": "'Habló raspando' no tiene sentido."
+  },
+  {
+   "id": 775,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los ratis llegaron a allanar la casa de los que robaban autos.",
+   "frase_neutralizada": "Los detectives de la policía llegaron a allanar la casa de los que robaban autos.",
+   "nota": "No incluía 'rati'."
+  },
+  {
+   "id": 776,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si llegan los ratis preguntando por mí, diles que no me conocís.",
+   "frase_neutralizada": "Si llegan los detectives de la policía preguntando por mí, diles que no me conoces.",
+   "nota": "'No tienes rati' no tenía sentido."
+  },
+  {
+   "id": 777,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese rati me quedó mirando todo el rato, cacho que me estaba siguiendo.",
+   "frase_neutralizada": "Ese detective de la policía se me quedó mirando todo el tiempo, creo que me estaba siguiendo.",
+   "nota": "La neutral era agramatical."
+  },
+  {
+   "id": 778,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo quedó en la escuela de la PDI, va a ser rati.",
+   "frase_neutralizada": "Mi primo entró en la escuela de la Policía de Investigaciones, va a ser detective.",
+   "nota": "Def 2 es etimología; se pasó a def 1."
+  },
+  {
+   "id": 779,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Afuera del banco había puros ratis de civil esperando a los asaltantes.",
+   "frase_neutralizada": "Afuera del banco solo había detectives vestidos de civil esperando a los asaltantes.",
+   "nota": "Def 2 es etimología y no usaba 'rati'."
+  },
+  {
+   "id": 780,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Viste el reclame nuevo de ropa interior? Sale lleno de modelos.",
+   "frase_neutralizada": "¿Viste el anuncio nuevo de ropa interior? Sale lleno de modelos.",
+   "nota": "El 'tu reclame' dirigido a alguien era poco natural."
+  },
+  {
+   "id": 781,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa marca de cerveza siempre saca unos reclames buenísimos pal Dieciocho.",
+   "frase_neutralizada": "Esa marca de cerveza siempre saca unos anuncios buenísimos para las Fiestas Patrias.",
+   "nota": "Se hizo más natural y se añadió un contexto chileno."
+  },
+  {
+   "id": 782,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Odio ver tele en la noche, cada cinco minutos cortan pa' meter reclames.",
+   "frase_neutralizada": "Odio ver televisión de noche, cada cinco minutos cortan para meter anuncios.",
+   "nota": "Confundía 'reclame' con 'reclamar'."
+  },
+  {
+   "id": 783,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pasaron un reclame de una olla y no alcancé a cachar de qué marca era.",
+   "frase_neutralizada": "Pasaron un anuncio de una olla y no alcancé a ver de qué marca era.",
+   "nota": "'No veo ese reclame' era incoherente."
+  },
+  {
+   "id": 784,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la radio ponen el mismo reclame de celulares como diez veces al día.",
+   "frase_neutralizada": "En la radio ponen el mismo anuncio de celulares como diez veces al día.",
+   "nota": "La neutral cambiaba el significado de la pregunta."
+  },
+  {
+   "id": 785,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La más chica es la regalona del papá, le compra todo lo que pide.",
+   "frase_neutralizada": "La menor es la consentida de su papá, le compra todo lo que pide.",
+   "nota": "Frase muy pobre; nueva situación familiar."
+  },
+  {
+   "id": 786,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la pega todos saben que el Juan es el regalón del jefe.",
+   "frase_neutralizada": "En el trabajo todos saben que Juan es el favorito del jefe.",
+   "nota": "Era poco natural; se pasó al contexto laboral."
+  },
+  {
+   "id": 787,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La profe tiene sus regalones, a ellos nunca les baja nota por atraso.",
+   "frase_neutralizada": "La profesora tiene sus favoritos, a ellos nunca les baja la nota por atraso.",
+   "nota": "Era repetitiva; nueva situación escolar."
+  },
+  {
+   "id": 788,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuela tiene un nieto regalón y ese soy yo, cachai.",
+   "frase_neutralizada": "Mi abuela tiene un nieto favorito y ese soy yo, ¿entiendes?",
+   "nota": "Había error de género 'regalón… la única'."
+  },
+  {
+   "id": 789,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu hermana es la regalona de mi mamá, a ella nunca la reta.",
+   "frase_neutralizada": "Tu hermana es la consentida de mi mamá, a ella nunca la regaña.",
+   "nota": "La neutral perdía el sujeto y era redundante."
+  },
+  {
+   "id": 790,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hoy estoy enfermo, así que quiero que me regaloneen todo el día.",
+   "frase_neutralizada": "Hoy estoy enfermo, así que quiero que me mimen todo el día.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 791,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Andai triste, ven pa'cá que te regaloneo un rato, mi amor.",
+   "frase_neutralizada": "Estás triste, ven acá que te mimo un rato, mi amor.",
+   "nota": "Se pasó a forma verbal y frase más natural."
+  },
+  {
+   "id": 792,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá me regalonea caleta cuando voy a verla el fin de semana.",
+   "frase_neutralizada": "Mi mamá me consiente muchísimo cuando voy a verla el fin de semana.",
+   "nota": "'No me regalonees, tío' sonaba poco natural."
+  },
+  {
+   "id": 793,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estai regaloneando demasiado al perro, después no va a querer dormir solo.",
+   "frase_neutralizada": "Estás mimando demasiado al perro, después no va a querer dormir solo.",
+   "nota": "Era poco natural; se añadió contexto y voseo."
+  },
+  {
+   "id": 794,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer no me regaloneaste nada, ¿por qué hoy andai tan cariñoso?",
+   "frase_neutralizada": "Ayer no me mimaste nada, ¿por qué hoy estás tan cariñoso?",
+   "nota": "La neutral invertía las personas (te/me)."
+  },
+  {
+   "id": 795,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegaste regia a la fiesta, todos te quedaron mirando.",
+   "frase_neutralizada": "Llegaste muy bien arreglada a la fiesta, todos se quedaron mirándote.",
+   "nota": "'Está atraer' era agramatical."
+  },
+  {
+   "id": 796,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano se puso terno y quedó regio pa' pedirle la mano a la polola.",
+   "frase_neutralizada": "Mi hermano se puso traje y quedó muy elegante para pedirle la mano a su novia.",
+   "nota": "'Chino' era un uso confuso; se hizo más natural."
+  },
+  {
+   "id": 797,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ponte el vestido negro, que con ese quedai regia pa' la disco.",
+   "frase_neutralizada": "Ponte el vestido negro, que con ese quedas muy bien arreglada para la discoteca.",
+   "nota": "Era poco natural; se usó un contexto típico."
+  },
+  {
+   "id": 798,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermana iba regia en su matrimonio, el vestido le quedaba perfecto.",
+   "frase_neutralizada": "Mi hermana estaba muy elegante en su boda, el vestido le quedaba perfecto.",
+   "nota": "El adjetivo antepuesto era artificial."
+  },
+  {
+   "id": 799,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El entrenador llegó regio a la final, con terno y corbata.",
+   "frase_neutralizada": "El entrenador llegó muy elegante a la final, con traje y corbata.",
+   "nota": "El uso atributivo era forzado y no se relacionaba con la vestimenta."
+  }
+ ]
+}

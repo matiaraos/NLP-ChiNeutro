@@ -1,0 +1,340 @@
+{
+ "lote": 62,
+ "claves": [
+  "a toda raja",
+  "achorarse",
+  "achorar",
+  "achuntar",
+  "acusete",
+  "africano",
+  "agarrar",
+  "agarrar pal chuleteo"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2502972,
+ "duracion_s": 89.2,
+ "pares": [
+  {
+   "id": 2480,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El partido estuvo a toda raja, lo pasamos chancho toda la noche.",
+   "frase_neutralizada": "El partido estuvo increíble, nos divertimos mucho toda la noche.",
+   "nota": "'lo pasamos la noche' agramatical; añadido chilenismo y neutralizado."
+  },
+  {
+   "id": 2481,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La comida de ese local está a toda raja, quiero volver el finde.",
+   "frase_neutralizada": "La comida de ese local es increíble, quiero volver el fin de semana.",
+   "nota": "Neutral cambiaba número; frase más natural."
+  },
+  {
+   "id": 2482,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No sé si el concierto va a estar a toda raja, pero igual vamos po.",
+   "frase_neutralizada": "No sé si el concierto va a ser increíble, pero de todas formas vamos.",
+   "nota": "Error de modo verbal en la neutral ('será')."
+  },
+  {
+   "id": 2483,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Iba en la micro escuchando la canción a toda raja con los audífonos.",
+   "frase_neutralizada": "Iba en el autobús escuchando la canción a todo volumen con los audífonos.",
+   "nota": "Situación más natural y chilena; neutralizado 'micro'."
+  },
+  {
+   "id": 2484,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi tío pone la música a toda raja cuando se está duchando, no se escucha nada más.",
+   "frase_neutralizada": "Mi tío pone la música a todo volumen cuando se está duchando, no se oye nada más.",
+   "nota": "Frase algo rara; se precisó la situación."
+  },
+  {
+   "id": 2485,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranquilo, compadre, no es pa achorarse por algo tan chico.",
+   "frase_neutralizada": "Tranquilo, amigo, no hay por qué ponerse insolente por algo tan pequeño.",
+   "nota": "No contenía la expresión; se incluyó."
+  },
+  {
+   "id": 2486,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro se achoró con el profe y lo mandaron a inspectoría.",
+   "frase_neutralizada": "El muchacho se puso insolente con el profesor y lo mandaron a la oficina del inspector.",
+   "nota": "'achúches' no existe; sentido errado de broma."
+  },
+  {
+   "id": 2487,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si te achorai con los guardias, no te van a dejar entrar al estadio.",
+   "frase_neutralizada": "Si te pones insolente con los guardias, no te van a dejar entrar al estadio.",
+   "nota": "No contenía la expresión; neutral con error 'interferas'."
+  },
+  {
+   "id": 2488,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te achorís conmigo, que yo no te he hecho nada.",
+   "frase_neutralizada": "No te pongas insolente conmigo, que yo no te he hecho nada.",
+   "nota": "No contenía la expresión; se usó la forma chilena."
+  },
+  {
+   "id": 2489,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los hinchas se achoraron cuando les pidieron el carnet en la entrada.",
+   "frase_neutralizada": "Los aficionados se pusieron insolentes cuando les pidieron el documento de identidad en la entrada.",
+   "nota": "'achúches' inexistente; sentido de informalidad equivocado."
+  },
+  {
+   "id": 2490,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No vengai a achorarte aquí en mi pasaje, que te va a ir mal.",
+   "frase_neutralizada": "No vengas a hacerte el valiente aquí en mi calle, que te va a ir mal.",
+   "nota": "'achando la cabeza' inexistente; neutral incoherente."
+  },
+  {
+   "id": 2491,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El nuevo llegó achorado a la pega, creyéndose el jefe de todos.",
+   "frase_neutralizada": "El nuevo llegó con actitud prepotente al trabajo, creyéndose el jefe de todos.",
+   "nota": "'achas' no es la expresión; sentido de tontería errado."
+  },
+  {
+   "id": 2492,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te achorís conmigo, mira que yo tengo la razón y lo sabís.",
+   "frase_neutralizada": "No te pongas altanero conmigo, que yo tengo la razón y lo sabes.",
+   "nota": "Forma verbal inventada 'aches'; corregida."
+  },
+  {
+   "id": 2493,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Buena, el Pancho se achoró con un asado pa todos el sábado.",
+   "frase_neutralizada": "Qué bien, Pancho nos sorprendió invitando un asado para todos el sábado.",
+   "nota": "Copiaba el ejemplo; neutral conservaba modismos."
+  },
+  {
+   "id": 2494,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Rodrigo se achoró y se mandó un discurso en el matrimonio sin preparar nada.",
+   "frase_neutralizada": "Rodrigo se animó y dio un discurso en la boda sin haber preparado nada.",
+   "nota": "Forma inventada y sentido incoherente."
+  },
+  {
+   "id": 2495,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tírale la piedra a la lata, a ver si le achuntai.",
+   "frase_neutralizada": "Tírale la piedra a la lata, a ver si le das.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2496,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le achunté a todas las preguntas de la prueba de historia, ¡no lo puedo creer!",
+   "frase_neutralizada": "Acerté todas las preguntas del examen de historia, ¡no lo puedo creer!",
+   "nota": "Usaba la expresión como 'corregir'; gramática errónea."
+  },
+  {
+   "id": 2497,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Mi abuelo siempre le achuntaba al resultado de los partidos antes de que empezaran.",
+   "frase_neutralizada": "Mi abuelo siempre adivinaba el resultado de los partidos antes de que empezaran.",
+   "nota": "Sentido 'adivinar' corresponde a def 3; construcción chilena con 'le'."
+  },
+  {
+   "id": 2498,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Le achunté! Esa era la micro que nos dejaba en el centro.",
+   "frase_neutralizada": "¡Acerté! Ese era el autobús que nos dejaba en el centro.",
+   "nota": "Def 2 duplica def 1; situación más clara."
+  },
+  {
+   "id": 2499,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "No tenía idea de la respuesta, puse cualquier cosa y le achunté de pura suerte.",
+   "frase_neutralizada": "No tenía idea de la respuesta, puse cualquier cosa y adiviné por pura suerte.",
+   "nota": "Usaba la expresión como 'engañar', sentido falso."
+  },
+  {
+   "id": 2500,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu hermana es terrible acusete, le contó todo a mi mamá altiro.",
+   "frase_neutralizada": "Tu hermana es muy soplona, le contó todo a mi mamá de inmediato.",
+   "nota": "Frase incoherente; neutral explicaba en vez de traducir."
+  },
+  {
+   "id": 2501,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai acusete, si le decís a la profe que copiamos nos anotan a todos.",
+   "frase_neutralizada": "No seas soplón; si le dices a la profesora que copiamos, nos sancionan a todos.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2502,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Se fue de acusete con el jefe porque le quité el turno del sábado.",
+   "frase_neutralizada": "Fue a acusarme con el jefe por venganza, porque le quité el turno del sábado.",
+   "nota": "No contenía la expresión; se agregó matiz de venganza."
+  },
+  {
+   "id": 2503,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué acusete el Felipe! Le fue a contar al inspector que nos capeamos la clase.",
+   "frase_neutralizada": "¡Qué soplón es Felipe! Le fue a contar al inspector que nos saltamos la clase.",
+   "nota": "Concordancia errónea 'mala delator'; situación más natural."
+  },
+  {
+   "id": 2504,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico es súper acusete, todo lo que hacemos se lo cuenta a la abuela.",
+   "frase_neutralizada": "El niño es muy soplón, todo lo que hacemos se lo cuenta a la abuela.",
+   "nota": "Confundía acusete con mentir; neutral omitía expresión."
+  },
+  {
+   "id": 2505,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, no seai lento, tómate el corto a lo africano.",
+   "frase_neutralizada": "Vamos, no seas lento, tómate el shot metiéndote el vaso entero en la boca.",
+   "nota": "'de un modo sencillo' cambiaba el sentido."
+  },
+  {
+   "id": 2506,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En el carrete del sábado todos terminamos tomando a lo africano.",
+   "frase_neutralizada": "En la fiesta del sábado todos terminamos bebiendo con el vaso entero metido en la boca.",
+   "nota": "Neutral con significado equivocado."
+  },
+  {
+   "id": 2507,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nacho se tomó el tequila a lo africano y casi se atora con el vaso.",
+   "frase_neutralizada": "Nacho se tomó el tequila metiéndose el vaso entero en la boca y casi se ahoga con el vaso.",
+   "nota": "Frase incoherente y neutral agramatical."
+  },
+  {
+   "id": 2508,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cachai cómo se toma a lo africano? Te enseño con este cortito.",
+   "frase_neutralizada": "¿Sabes cómo se bebe metiéndose el vaso entero en la boca? Te enseño con este shot.",
+   "nota": "Casi duplicaba 2505; neutral con sentido errado."
+  },
+  {
+   "id": 2509,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pa mi cumpleaños me desafiaron a tomarme tres corridas a lo africano.",
+   "frase_neutralizada": "En mi cumpleaños me desafiaron a tomarme tres rondas metiéndome el vaso entero en la boca.",
+   "nota": "Neutral con sentido errado; frase acortada y más natural."
+  },
+  {
+   "id": 2510,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche en la fiesta me agarré a la Javi, ¡no lo podía creer!",
+   "frase_neutralizada": "Anoche en la fiesta me besé con Javi, ¡no lo podía creer!",
+   "nota": "Interpretaba 'agarrar' como encontrarse; sentido errado."
+  },
+  {
+   "id": 2511,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Diego y la Fran se agarraron toda la noche en el sillón.",
+   "frase_neutralizada": "Diego y Fran estuvieron besándose y tocándose toda la noche en el sofá.",
+   "nota": "Sentido de encontrarse equivocado."
+  },
+  {
+   "id": 2512,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo dice que se va a agarrar a la amiga de su polola en el matrimonio.",
+   "frase_neutralizada": "Mi primo dice que se va a besar con la amiga de su novia en la boda.",
+   "nota": "Usaba comer literal; def 2 equivale a def 1."
+  },
+  {
+   "id": 2513,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pillaron a los cabros agarrando en la sala después de clases.",
+   "frase_neutralizada": "Descubrieron a los chicos besándose y manoseándose en el salón después de clases.",
+   "nota": "Usaba comer helado; sentido literal equivocado."
+  },
+  {
+   "id": 2514,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me agarré a mi ex en la disco y ahora no sé qué hacer.",
+   "frase_neutralizada": "Me besé con mi ex en la discoteca y ahora no sé qué hacer.",
+   "nota": "Neutral cambiaba persona y sentido; def 3 duplica def 1."
+  },
+  {
+   "id": 2515,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si te ven con ese corte de pelo, te van a agarrar pal chuleteo toda la semana.",
+   "frase_neutralizada": "Si te ven con ese corte de pelo, se van a burlar de ti toda la semana.",
+   "nota": "Frase incoherente y neutral con sentido distinto."
+  },
+  {
+   "id": 2516,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te acordai cuando te agarramos pal chuleteo en el paseo de curso? Perdón, nos pasamos.",
+   "frase_neutralizada": "¿Te acuerdas de cuando nos burlamos de ti en la excursión del curso? Perdón, nos excedimos.",
+   "nota": "Neutral agramatical; 'lastimado' añadía sentido físico."
+  },
+  {
+   "id": 2517,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En el colegio me agarraban pal chuleteo porque era el más chico del curso.",
+   "frase_neutralizada": "En la escuela se burlaban de mí porque era el más pequeño de la clase.",
+   "nota": "Conjugación y persona incoherentes entre ambas frases."
+  },
+  {
+   "id": 2518,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué me agarrai pal chuleteo? Si el regalo lo elegí con cariño.",
+   "frase_neutralizada": "¿Por qué te burlas de mí? Si el regalo lo elegí con cariño.",
+   "nota": "Uso reflexivo erróneo y tiempos inconsistentes."
+  },
+  {
+   "id": 2519,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la pega lo van a agarrar pal chuleteo por haberse equivocado en la factura.",
+   "frase_neutralizada": "En el trabajo se van a burlar de él por haberse equivocado en la factura.",
+   "nota": "Sujeto y número inconsistentes; neutralizado 'pega'."
+  }
+ ]
+}

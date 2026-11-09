@@ -1,0 +1,340 @@
+{
+ "lote": 45,
+ "claves": [
+  "mirarse el ombligo",
+  "miti mota",
+  "moco tendido",
+  "monedita de oro",
+  "mosca",
+  "mostrar la hilacha",
+  "mote con huesillo",
+  "muere de viejo y no de sapo"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.25586270000000005,
+ "duracion_s": 92.7,
+ "pares": [
+  {
+   "id": 1800,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, no te podís quedar mirándote el ombligo todo el día, ponte a trabajar.",
+   "frase_neutralizada": "Vamos, no puedes quedarte sin hacer nada todo el día, ponte a trabajar.",
+   "nota": "Frase incoherente y neutral cambiaba el sentido; ahora es flojear."
+  },
+  {
+   "id": 1801,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué estái mirándote el ombligo en clases? Ponte a estudiar luego.",
+   "frase_neutralizada": "¿Por qué estás sin hacer nada en clase? Ponte a estudiar pronto.",
+   "nota": "Gramática corregida; neutral decía distraerse en vez de no hacer nada."
+  },
+  {
+   "id": 1802,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Deja de mirarte el ombligo y haz la tarea, que mañana hay que entregarla.",
+   "frase_neutralizada": "Deja de holgazanear y haz la tarea, que mañana hay que entregarla.",
+   "nota": "Gramática agramatical y sentido contradictorio corregidos."
+  },
+  {
+   "id": 1803,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo me voy a la pega y tú te quedai en la casa mirándote el ombligo, ¿cierto?",
+   "frase_neutralizada": "Yo me voy al trabajo y tú te quedas en la casa sin hacer nada, ¿verdad?",
+   "nota": "Neutral no correspondía; se reformuló la situación con el sentido correcto."
+  },
+  {
+   "id": 1804,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El jefe pilló a los cabros mirándose el ombligo en plena hora de trabajo.",
+   "frase_neutralizada": "El jefe sorprendió a los muchachos holgazaneando en pleno horario de trabajo.",
+   "nota": "Original agramatical e incoherente; nueva situación."
+  },
+  {
+   "id": 1805,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo hambre pero no me alcanza pa una pizza entera, ¿la pedimos miti mota?",
+   "frase_neutralizada": "Tengo hambre pero no me alcanza para una pizza entera, ¿la pedimos a medias?",
+   "nota": "Neutral decía 'juntos'; el sentido es dividir a medias."
+  },
+  {
+   "id": 1806,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Compremos el quitasol miti mota, así nos sale más barato a los dos.",
+   "frase_neutralizada": "Compremos la sombrilla a medias, así nos sale más barato a los dos.",
+   "nota": "Error ortográfico y neutral omitía 'a medias'."
+  },
+  {
+   "id": 1807,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Pa la once querís palta o queso? Miti mota, échale de las dos cosas.",
+   "frase_neutralizada": "Para la merienda, ¿quieres aguacate o queso? De las dos, ponle de ambas cosas.",
+   "nota": "Original sin sentido ('tiza'); ahora ilustra sentido 'ambos'."
+  },
+  {
+   "id": 1808,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hoy cocino yo, pero la cuenta del súper la pagamos miti mota.",
+   "frase_neutralizada": "Hoy cocino yo, pero la cuenta del supermercado la pagamos a medias.",
+   "nota": "Uso incorrecto de la expresión; nueva frase con reparto a medias."
+  },
+  {
+   "id": 1809,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Nos ganamos la plata del bingo, así que nos la repartimos miti mota.",
+   "frase_neutralizada": "Ganamos el dinero del bingo, así que nos lo repartimos en partes iguales.",
+   "nota": "Usaba la expresión como 'juntos'; incorrecto."
+  },
+  {
+   "id": 1810,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando lo vi llegar al aeropuerto me puse a llorar a moco tendido.",
+   "frase_neutralizada": "Cuando lo vi llegar al aeropuerto me puse a llorar desconsoladamente.",
+   "nota": "Neutral imprecisa ('dolorosamente'); se añadió contexto."
+  },
+  {
+   "id": 1811,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Javi terminó con el pololo y se quedó llorando a moco tendido toda la noche.",
+   "frase_neutralizada": "Javiera terminó con su novio y se quedó llorando desconsoladamente toda la noche.",
+   "nota": "Expresión sin verbo llorar; frase incoherente."
+  },
+  {
+   "id": 1812,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me acordé de mi abuelo y me puse a llorar a moco tendido en la micro.",
+   "frase_neutralizada": "Me acordé de mi abuelo y me puse a llorar desconsoladamente en el autobús.",
+   "nota": "Neutral 'muy triste' no reflejaba intensidad del llanto."
+  },
+  {
+   "id": 1813,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con el final de la película quedé llorando a moco tendido, igual me dio vergüenza.",
+   "frase_neutralizada": "Con el final de la película terminé llorando desconsoladamente, aunque me dio vergüenza.",
+   "nota": "'Filme' poco natural; se ajustó registro coloquial."
+  },
+  {
+   "id": 1814,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando vimos cómo quedó la casa después del incendio, lloramos a moco tendido.",
+   "frase_neutralizada": "Cuando vimos cómo quedó la casa después del incendio, lloramos desconsoladamente.",
+   "nota": "Correcto pero genérico; se dio contexto concreto."
+  },
+  {
+   "id": 1815,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira, ahí viene la monedita de oro, seguro que va a empezar a dar cátedra.",
+   "frase_neutralizada": "Mira, ahí viene el que se cree lo máximo, seguro que va a empezar a dar lecciones.",
+   "nota": "Copiaba el ejemplo; neutral perdía el matiz de creerse el mejor."
+  },
+  {
+   "id": 1816,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Felipe se cree monedita de oro porque sacó un siete en la prueba.",
+   "frase_neutralizada": "Felipe se cree lo máximo porque sacó la nota máxima en el examen.",
+   "nota": "Frase incoherente; ahora expresa arrogancia."
+  },
+  {
+   "id": 1817,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Desde que ganó el torneo de tenis anda como monedita de oro y ya ni saluda.",
+   "frase_neutralizada": "Desde que ganó el torneo de tenis anda creyéndose superior a todos y ya ni saluda.",
+   "nota": "Usaba sentido elogioso; la expresión es despectiva."
+  },
+  {
+   "id": 1818,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi cuñada se cree la monedita de oro de la familia, según ella nadie le llega.",
+   "frase_neutralizada": "Mi cuñada se cree la mejor de la familia, según ella nadie se le compara.",
+   "nota": "Aplicaba la expresión a un cuadro; debe ser persona."
+  },
+  {
+   "id": 1819,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la oficina el nuevo se cree monedita de oro, como si nadie más supiera hacer la pega.",
+   "frase_neutralizada": "En la oficina el nuevo se cree lo máximo, como si nadie más supiera hacer el trabajo.",
+   "nota": "Sentido elogioso incorrecto; ahora es alguien que se cree superior."
+  },
+  {
+   "id": 1820,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te mando el contrato, hazle una mosca abajo y me lo devolvís escaneado.",
+   "frase_neutralizada": "Te envío el contrato, fírmalo abajo y me lo devuelves escaneado.",
+   "nota": "No contenía la expresión 'mosca'."
+  },
+  {
+   "id": 1821,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No dejís que el Pato arregle el auto, es como las moscas: donde se para, la caga.",
+   "frase_neutralizada": "No dejes que Patricio arregle el auto, es de los que arruinan todo lo que tocan.",
+   "nota": "Sentido de molestia incorrecto; ahora es alguien que arruina todo."
+  },
+  {
+   "id": 1822,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegó el courier y le hice una mosca cualquiera en el recibo, no más.",
+   "frase_neutralizada": "Llegó el mensajero y le puse una firma cualquiera en el recibo, nada más.",
+   "nota": "Mezclaba sentidos y neutral cambiaba número; se usa sentido de firma."
+  },
+  {
+   "id": 1823,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, el profe necesita que le hagai una mosca en la lista de asistencia.",
+   "frase_neutralizada": "Oye, el profesor necesita que firmes la lista de asistencia.",
+   "nota": "Definición 3 con votos negativos, descartada; se usa sentido de firma."
+  },
+  {
+   "id": 1824,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tengo la mano cansada de tanto hacer moscas en los papeles de la notaría.",
+   "frase_neutralizada": "Tengo la mano cansada de tanto firmar los papeles de la notaría.",
+   "nota": "Definición 3 no es uso real; se usa sentido de firma."
+  },
+  {
+   "id": 1825,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se curó en el matrimonio y empezó a gritar garabatos, mostró la hilacha altiro.",
+   "frase_neutralizada": "Se emborrachó en la boda y empezó a gritar groserías; enseguida dejó ver su falta de educación.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1826,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se hacía el fino, pero cuando el mozo se equivocó mostró la hilacha y lo trató pésimo.",
+   "frase_neutralizada": "Se hacía el refinado, pero cuando el mesero se equivocó dejó ver lo ordinario que es y lo trató pésimo.",
+   "nota": "Frase incomprensible y sin la expresión."
+  },
+  {
+   "id": 1827,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, no mostrís la hilacha, come con la boca cerrada que estamos donde mis suegros.",
+   "frase_neutralizada": "Vamos, no seas ordinario, come con la boca cerrada que estamos en casa de mis suegros.",
+   "nota": "No contenía la expresión; neutral cambiaba el sentido."
+  },
+  {
+   "id": 1828,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mejor cállate, que con ese comentario sobre su ex estái mostrando la hilacha.",
+   "frase_neutralizada": "Mejor cállate, que con ese comentario sobre su ex estás diciendo algo fuera de lugar.",
+   "nota": "Frase pobre y neutral con 'callate' sin tilde y sentido impreciso."
+  },
+  {
+   "id": 1829,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Andai mostrando la hilacha con esos chistes en plena reunión, córtala.",
+   "frase_neutralizada": "Te estás pasando de la raya con esos chistes en plena reunión, ya basta.",
+   "nota": "Casi copiaba el ejemplo; se creó situación nueva."
+  },
+  {
+   "id": 1830,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pa las fiestas patrias no puede faltar un mote con huesillo bien heladito.",
+   "frase_neutralizada": "Para las fiestas patrias no puede faltar un postre de trigo con duraznos secos bien frío.",
+   "nota": "Frase poco natural; neutral 'mote' sigue siendo chilenismo."
+  },
+  {
+   "id": 1831,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿No te gusta el mote con huesillo? Pucha, no sabís lo que te perdís.",
+   "frase_neutralizada": "¿No te gusta el postre de trigo con duraznos secos? Vaya, no sabes lo que te pierdes.",
+   "nota": "Frase incoherente; neutral mantenía el chilenismo 'mote'."
+  },
+  {
+   "id": 1832,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "He probado hartos postres, pero el mote con huesillo de mi abuela está de otro planeta.",
+   "frase_neutralizada": "He probado muchos postres, pero el de trigo con duraznos secos que hace mi abuela es buenísimo.",
+   "nota": "Neutral conservaba 'mote' y cambiaba tratamiento."
+  },
+  {
+   "id": 1833,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hace un calor terrible, vamos a comprarnos un mote con huesillo al carrito de la esquina.",
+   "frase_neutralizada": "Hace un calor terrible, vamos a comprarnos un postre de trigo con duraznos secos al puesto de la esquina.",
+   "nota": "Para el desayuno no es verosímil; nueva situación."
+  },
+  {
+   "id": 1834,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cada vez que subimos al cerro San Cristóbal nos tomamos un mote con huesillo arriba.",
+   "frase_neutralizada": "Cada vez que subimos al cerro San Cristóbal nos tomamos arriba un postre de trigo con duraznos secos.",
+   "nota": "'Ordenar' es anglicismo; neutral mantenía 'mote'."
+  },
+  {
+   "id": 1835,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y vo qué andai preguntando con quién salí anoche? Muere de viejo y no de sapo.",
+   "frase_neutralizada": "¿Y tú por qué preguntas con quién salí anoche? No te metas en lo que no te importa.",
+   "nota": "Neutral malinterpretaba 'sapo'; significa chismoso, no se traduce literal."
+  },
+  {
+   "id": 1836,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La vecina se lo pasa pegada a la ventana; muere de viejo y no de sapo, señora.",
+   "frase_neutralizada": "La vecina se pasa el día pegada a la ventana; métete en tus asuntos, señora.",
+   "nota": "Sin contexto de chisme; neutral cambiaba el sentido."
+  },
+  {
+   "id": 1837,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, deja de leer mis mensajes por encima del hombro, muere de viejo y no de sapo.",
+   "frase_neutralizada": "Oye, deja de leer mis mensajes por encima del hombro, no seas entrometido.",
+   "nota": "Neutral inventaba significado; ahora reprende al entrometido."
+  },
+  {
+   "id": 1838,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando el compañero me preguntó cuánto ganaba, le dije: muere de viejo y no de sapo.",
+   "frase_neutralizada": "Cuando el compañero me preguntó cuánto ganaba, le dije: no te metas en lo que no te importa.",
+   "nota": "Errores de concordancia y sentido equivocado."
+  },
+  {
+   "id": 1839,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tía anda preguntando si estoy pololeando; muere de viejo y no de sapo, tía.",
+   "frase_neutralizada": "Mi tía anda preguntando si tengo novio; no te metas en lo que no te importa, tía.",
+   "nota": "Sin contexto de copucheo; neutral no conservaba el sentido."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 47,
+ "claves": [
+  "no estoy ni ahi",
+  "no estoy ni al metro",
+  "no le doy pauta",
+  "no me calza",
+  "no me da ni pelota",
+  "no pasa na",
+  "nurdo",
+  "ojitos de piscina"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.235293,
+ "duracion_s": 81.7,
+ "pares": [
+  {
+   "id": 1880,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No estoy ni ahí con tu fiesta, prefiero quedarme en la casa viendo series.",
+   "frase_neutralizada": "Tu fiesta no me interesa para nada, prefiero quedarme en casa viendo series.",
+   "nota": "La versión neutra traducía «ahí» literalmente; se quitó la redundancia."
+  },
+  {
+   "id": 1881,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no estoy ni ahí con tus consejos, déjame tomar mis propias decisiones po.",
+   "frase_neutralizada": "Oye, tus consejos no me importan, déjame tomar mis propias decisiones.",
+   "nota": "Se quitó el añadido sin sentido «no me encontraré de acuerdo»."
+  },
+  {
+   "id": 1882,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi viejo quiere que estudie Derecho, pero yo no estoy ni ahí con esa carrera.",
+   "frase_neutralizada": "Mi papá quiere que estudie Derecho, pero a mí esa carrera no me interesa para nada.",
+   "nota": "«En cuanto a» no era natural y la neutra traía un añadido erróneo."
+  },
+  {
+   "id": 1883,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No estoy ni ahí con lo que decís de la reforma, encuentro que estai súper equivocado.",
+   "frase_neutralizada": "No estoy de acuerdo con lo que dices de la reforma, creo que estás muy equivocado.",
+   "nota": "Frase chilena rígida; se volvió coloquial."
+  },
+  {
+   "id": 1884,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No estoy ni ahí con vender el auto, nos va a hacer falta pa' ir a la pega.",
+   "frase_neutralizada": "No estoy de acuerdo con vender el auto, nos va a hacer falta para ir al trabajo.",
+   "nota": "La neutra cambiaba la persona (venderme/venderte); se aclaró la situación."
+  },
+  {
+   "id": 1885,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi polola quiere que vaya al cumpleaños de su tía, pero no estoy ni al metro.",
+   "frase_neutralizada": "Mi novia quiere que vaya al cumpleaños de su tía, pero no tengo ningún interés.",
+   "nota": "La frase original no contenía la expresión."
+  },
+  {
+   "id": 1886,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Weón, no estoy ni al metro con tus historias de la pega, cambia el tema.",
+   "frase_neutralizada": "Oye, tus historias del trabajo no me interesan nada, cambia de tema.",
+   "nota": "La frase original no contenía la expresión."
+  },
+  {
+   "id": 1887,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermana ve puros realities, pero yo no estoy ni al metro con esos programas.",
+   "frase_neutralizada": "Mi hermana solo ve realities, pero a mí esos programas no me interesan para nada.",
+   "nota": "Se le dio más contexto y naturalidad."
+  },
+  {
+   "id": 1888,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Todos hablan de la peli nueva de superhéroes, pero no estoy ni al metro, cachai.",
+   "frase_neutralizada": "Todos hablan de la película nueva de superhéroes, pero no me interesa para nada, ¿entiendes?",
+   "nota": "Situación ampliada para que suene natural."
+  },
+  {
+   "id": 1889,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe se puso a hablar de su viaje a Europa y yo no estaba ni al metro.",
+   "frase_neutralizada": "El profesor se puso a hablar de su viaje a Europa y a mí no me interesaba para nada.",
+   "nota": "Era casi igual a otras; nueva situación de charla aburrida."
+  },
+  {
+   "id": 1890,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese gallo anda hablando puras weás de mí, pero no le doy pauta.",
+   "frase_neutralizada": "Ese tipo anda diciendo puras tonterías de mí, pero no le hago caso.",
+   "nota": "No contenía la expresión y la neutra cambiaba el sentido."
+  },
+  {
+   "id": 1891,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi vieja me reta todo el día por el pelo, pero yo no le doy pauta.",
+   "frase_neutralizada": "Mi mamá me regaña todo el día por mi pelo, pero yo no le hago caso.",
+   "nota": "La frase original no contenía la expresión."
+  },
+  {
+   "id": 1892,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me llegan mil mensajes del grupo del curso, pero no les doy pauta.",
+   "frase_neutralizada": "Me llegan mil mensajes del grupo de la clase, pero no les presto atención.",
+   "nota": "La frase original no contenía la expresión."
+  },
+  {
+   "id": 1893,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro me anda tirando onda hace rato, pero yo no le doy pauta.",
+   "frase_neutralizada": "El chico lleva un rato coqueteándome, pero yo no le presto atención.",
+   "nota": "La frase original no contenía la expresión."
+  },
+  {
+   "id": 1894,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si te molestan en el colegio, no les dai pauta y listo, se aburren solos.",
+   "frase_neutralizada": "Si te molestan en el colegio, no les haces caso y listo, se aburren solos.",
+   "nota": "La frase original no contenía la expresión."
+  },
+  {
+   "id": 1895,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me calza tu versión, la Cata me contó algo súper distinto de lo que pasó.",
+   "frase_neutralizada": "Tu versión no concuerda, Catalina me contó algo muy distinto de lo que pasó.",
+   "nota": "La neutra tenía una lógica errónea («por lo tanto»); se simplificó."
+  },
+  {
+   "id": 1896,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No me calza que digai que estabai en tu casa si tu mamá dijo que saliste.",
+   "frase_neutralizada": "No tiene sentido que digas que estabas en tu casa si tu mamá dijo que saliste.",
+   "nota": "Era repetitiva y la neutra tenía una conclusión ilógica."
+  },
+  {
+   "id": 1897,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me dijiste que el proyecto estaba listo, pero el jefe dice otra cosa, no me calza.",
+   "frase_neutralizada": "Me dijiste que el proyecto estaba listo, pero el jefe dice otra cosa; no concuerda.",
+   "nota": "Se quitó el «por lo tanto» ilógico de la neutra."
+  },
+  {
+   "id": 1898,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No me calzan las fechas, ¿cómo vai a haber llegado el lunes si el pasaje dice martes?",
+   "frase_neutralizada": "Las fechas no coinciden, ¿cómo vas a haber llegado el lunes si el boleto dice martes?",
+   "nota": "Era repetitiva y la neutra era ilógica; nueva situación."
+  },
+  {
+   "id": 1899,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Algo no me calza en la cuenta, pagamos cuarenta lucas y la boleta dice treinta.",
+   "frase_neutralizada": "Algo no cuadra en la cuenta, pagamos cuarenta mil pesos y el recibo dice treinta mil.",
+   "nota": "Era repetitiva y la neutra tenía errores de concordancia y lógica."
+  },
+  {
+   "id": 1900,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le escribo todos los días a la Fran y no me da ni pelota.",
+   "frase_neutralizada": "Le escribo todos los días a Francisca y no me hace ni caso.",
+   "nota": "No contenía la expresión y no tenía sentido."
+  },
+  {
+   "id": 1901,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi jefe no me da ni pelota cuando le propongo ideas nuevas en las reuniones.",
+   "frase_neutralizada": "Mi jefe no me hace caso cuando le propongo ideas nuevas en las reuniones.",
+   "nota": "Se usaba como «no me interesa»; el sentido real es que otro te ignora."
+  },
+  {
+   "id": 1902,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me puse mi mejor pinta pa' la fiesta y el Seba ni me dio pelota.",
+   "frase_neutralizada": "Me puse mi mejor ropa para la fiesta y Sebastián ni me prestó atención.",
+   "nota": "El sentido estaba invertido y la gramática era errónea («me da a»)."
+  },
+  {
+   "id": 1903,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El gato no me da ni pelota, solo se acerca cuando quiere comida.",
+   "frase_neutralizada": "El gato no me hace ningún caso, solo se acerca cuando quiere comida.",
+   "nota": "El sentido estaba invertido y la gramática era errónea."
+  },
+  {
+   "id": 1904,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le reclamé al profe por la nota, pero no me dio ni pelota y siguió con la clase.",
+   "frase_neutralizada": "Le reclamé al profesor por la nota, pero no me hizo ni caso y siguió con la clase.",
+   "nota": "El sentido estaba invertido y la gramática era errónea."
+  },
+  {
+   "id": 1905,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—¿Me prestai tu auto pal finde? —No pasa na, la última vez me lo devolviste sin bencina.",
+   "frase_neutralizada": "—¿Me prestas tu auto para el fin de semana? —De ninguna manera, la última vez me lo devolviste sin gasolina.",
+   "nota": "El uso era incoherente; es una negativa tajante como respuesta."
+  },
+  {
+   "id": 1906,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—¿Vamos a trotar a las seis de la mañana? —No pasa na, yo a esa hora estoy durmiendo.",
+   "frase_neutralizada": "—¿Vamos a correr a las seis de la mañana? —Ni loco, yo a esa hora estoy durmiendo.",
+   "nota": "Uso incoherente; ahora es una respuesta negativa a una invitación."
+  },
+  {
+   "id": 1907,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—Oye, ¿te gusta el Matías? —No pasa na, es puro amigo no más.",
+   "frase_neutralizada": "—Oye, ¿te gusta Matías? —Para nada, es solo un amigo.",
+   "nota": "La neutra cambiaba el sentido; ahora es una negación en un diálogo."
+  },
+  {
+   "id": 1908,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—Hoy día te toca lavar la loza. —No pasa na, la lavé ayer y anteayer.",
+   "frase_neutralizada": "—Hoy te toca lavar los platos. —De ninguna manera, los lavé ayer y anteayer.",
+   "nota": "La estructura no era natural; nueva situación de negativa."
+  },
+  {
+   "id": 1909,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—¿Te comiste mi yogur? —No pasa na, yo ni he abierto el refri.",
+   "frase_neutralizada": "—¿Te comiste mi yogur? —Para nada, yo ni siquiera he abierto el refrigerador.",
+   "nota": "«Ver el cine» era agramatical; ahora es una negación en un diálogo."
+  },
+  {
+   "id": 1910,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le pidai que cocine, si es más ñurdo pa' la cocina, se le quema hasta el agua.",
+   "frase_neutralizada": "No le pidas que cocine, es muy torpe en la cocina, se le quema hasta el agua.",
+   "nota": "El inicio no tenía sentido; se mantuvo la idea de la cocina."
+  },
+  {
+   "id": 1911,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erí tan ñurdo con el computador, ¿no sabís ni conectar el mouse?",
+   "frase_neutralizada": "Eres tan torpe con la computadora, ¿ni siquiera sabes conectar el mouse?",
+   "nota": "Se le dio un registro coloquial chileno natural."
+  },
+  {
+   "id": 1912,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El chofer de la micro era más ñurdo, casi se sube a la vereda en la curva.",
+   "frase_neutralizada": "El conductor del autobús era muy torpe, casi se sube a la acera en la curva.",
+   "nota": "Pasarse un semáforo en rojo es imprudencia, no torpeza; se unificó con la def 1."
+  },
+  {
+   "id": 1913,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Soy súper ñurdo pa'l fútbol, siempre me eligen al último cuando arman equipos.",
+   "frase_neutralizada": "Soy muy malo para el fútbol, siempre me eligen al último cuando arman los equipos.",
+   "nota": "«Una ñurdo» tenía mal la concordancia; se unificó con la def 1."
+  },
+  {
+   "id": 1914,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano es ñurdo pa' la guitarra, lleva un año y no se sabe ni una canción.",
+   "frase_neutralizada": "Mi hermano es muy malo para la guitarra, lleva un año y no se sabe ni una canción.",
+   "nota": "La neutra traducía «zurdo»; el sentido real es poco hábil."
+  },
+  {
+   "id": 1915,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu polola es la ojitos de piscina que estaba bailando en la disco, ¿cierto?",
+   "frase_neutralizada": "Tu novia es la chica de ojos claros que estaba bailando en la discoteca, ¿verdad?",
+   "nota": "La pregunta final era incoherente y se mejoró la puntuación."
+  },
+  {
+   "id": 1916,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, la ojitos de piscina de la caja me sonrió cuando le pagué.",
+   "frase_neutralizada": "Oye, la chica de ojos claros de la caja me sonrió cuando le pagué.",
+   "nota": "La frase original era incomprensible."
+  },
+  {
+   "id": 1917,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tocó sentarme al lado de un ojitos de piscina en el bus y no pude dejar de mirarlo.",
+   "frase_neutralizada": "Me tocó sentarme al lado de un chico de ojos claros en el autobús y no pude dejar de mirarlo.",
+   "nota": "La frase original era agramatical."
+  },
+  {
+   "id": 1918,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te lo puedo creer, la ojitos de piscina es la hermana del alcalde.",
+   "frase_neutralizada": "No te lo puedo creer, la chica de ojos claros es la hermana del alcalde.",
+   "nota": "Había un error de concordancia («ese ... la hermana»)."
+  },
+  {
+   "id": 1919,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cachai que el ojitos de piscina de la fiesta me pidió el Insta.",
+   "frase_neutralizada": "¿Sabías que el chico de ojos claros de la fiesta me pidió el Instagram?",
+   "nota": "La frase original era confusa y en la neutra cambiaba el género."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 6,
+ "claves": [
+  "cleta",
+  "coa",
+  "cocavi",
+  "cogotear",
+  "cogotero",
+  "coima",
+  "colectivo",
+  "coleto"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2304633,
+ "duracion_s": 83.7,
+ "pares": [
+  {
+   "id": 240,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No tenís que traer la cleta, yo te paso a buscar en el auto.",
+   "frase_neutralizada": "No tienes que traer la bicicleta, yo paso a buscarte en el auto.",
+   "nota": "Frase original poco natural; se agregó voseo chileno y contexto claro."
+  },
+  {
+   "id": 241,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Dónde dejaste estacionada la cleta? No la encuentro por ningún lado.",
+   "frase_neutralizada": "¿Dónde dejaste estacionada la bicicleta? No la encuentro por ningún lado.",
+   "nota": "La pregunta original sonaba forzada y poco natural."
+  },
+  {
+   "id": 242,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana te llevo en la cleta al parque, te lo prometo.",
+   "frase_neutralizada": "Mañana te llevo en la bicicleta al parque, te lo prometo.",
+   "nota": "Se ajustó el orden y se mantuvo el tiempo verbal en la neutral."
+  },
+  {
+   "id": 243,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me robaron la cleta afuera de la pega, estoy chato.",
+   "frase_neutralizada": "Me robaron la bicicleta afuera del trabajo, estoy harto.",
+   "nota": "La original era incoherente; nueva situación distinta."
+  },
+  {
+   "id": 244,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si querís ir al estadio, ándate en cleta, que las micros vienen repletas.",
+   "frase_neutralizada": "Si quieres ir al estadio, vete en bicicleta, que los autobuses vienen repletos.",
+   "nota": "Se cambió 'autobús' por 'micro' en la chilena y se naturalizó."
+  },
+  {
+   "id": 245,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hay un montón de palabras del coa que la gente usa sin cachar de dónde vienen.",
+   "frase_neutralizada": "Hay muchas palabras de la jerga carcelaria que la gente usa sin saber de dónde vienen.",
+   "nota": "'Sacar a la coa' no existe; nueva frase con sentido correcto."
+  },
+  {
+   "id": 246,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Weón, no te entiendo ni una cuando me hablai en coa.",
+   "frase_neutralizada": "Oye, no te entiendo nada cuando me hablas en jerga carcelaria.",
+   "nota": "Conjugación errónea 'entendes' y neutral con persona equivocada."
+  },
+  {
+   "id": 247,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros de la pobla se tiran palabras en coa pa' hacerse los choros.",
+   "frase_neutralizada": "Los chicos del barrio usan palabras de la jerga carcelaria para hacerse los rudos.",
+   "nota": "'Tener coa' no tiene sentido; nueva situación."
+  },
+  {
+   "id": 248,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Dicen que el coa de ahora no es el mismo que hablaban los antiguos en la cana.",
+   "frase_neutralizada": "Dicen que la jerga carcelaria de ahora no es la misma que hablaban los antiguos en la cárcel.",
+   "nota": "Frase original incoherente; se reescribió con sentido real."
+  },
+  {
+   "id": 249,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La carta que me mandó desde la cana venía escrita entera en coa.",
+   "frase_neutralizada": "La carta que me mandó desde la cárcel venía escrita toda en jerga carcelaria.",
+   "nota": "'Es coa' era incorrecto; se precisó 'escrita en coa'."
+  },
+  {
+   "id": 250,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pal paseo de curso cada uno lleva su cocaví, ¿ya?",
+   "frase_neutralizada": "Para el paseo del curso cada uno lleva su propia comida, ¿de acuerdo?",
+   "nota": "Usaba cocaví referido a una persona; sentido erróneo."
+  },
+  {
+   "id": 251,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya tengo listo el cocaví pa'l viaje a la playa: sánguches, fruta y bebidas.",
+   "frase_neutralizada": "Ya tengo lista la comida para el viaje a la playa: sándwiches, fruta y refrescos.",
+   "nota": "Frase original rígida; se naturalizó manteniendo la idea del viaje."
+  },
+  {
+   "id": 252,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranqui, yo llevo el cocaví pa' desayunar en el bus.",
+   "frase_neutralizada": "Tranquilo, yo llevo comida para desayunar en el autobús.",
+   "nota": "La neutral cambiaba la persona ('trajo'); corregido."
+  },
+  {
+   "id": 253,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Siempre que salimos a terreno llevamos cocaví, porque allá no hay ni un negocio.",
+   "frase_neutralizada": "Siempre que hacemos salidas de campo llevamos comida, porque allá no hay ninguna tienda.",
+   "nota": "Se naturalizó con contexto de excursión."
+  },
+  {
+   "id": 254,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Gracias por el cocaví, tía, me lo como en la parada a medio camino.",
+   "frase_neutralizada": "Gracias por la comida para el viaje, tía, me la como en la parada a mitad de camino.",
+   "nota": "Se añadió contexto de viaje para ajustarse a la definición."
+  },
+  {
+   "id": 255,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me cogotearon la cleta saliendo del metro, el loco me amenazó con un cuchillo.",
+   "frase_neutralizada": "Me robaron la bicicleta saliendo del metro, el tipo me amenazó con un cuchillo.",
+   "nota": "Error de concordancia 'la barrio'; se naturalizó la frase."
+  },
+  {
+   "id": 256,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Guarda bien la cartera, que en esta micro cogotean a cada rato.",
+   "frase_neutralizada": "Guarda bien la cartera, que en este autobús roban a cada rato.",
+   "nota": "'Gato' no se entiende como ladrón; frase reformulada."
+  },
+  {
+   "id": 257,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Menos mal que no me cogotearon nada en la fiesta, había puro flaite.",
+   "frase_neutralizada": "Menos mal que no me robaron nada en la fiesta, había pura gente de mala pinta.",
+   "nota": "Se añadió contexto para mayor naturalidad."
+  },
+  {
+   "id": 258,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Unos cabros andaban cogoteando a los turistas en el cerro Santa Lucía.",
+   "frase_neutralizada": "Unos chicos andaban asaltando a los turistas en el cerro Santa Lucía.",
+   "nota": "Neutral cambiaba el sujeto; se naturalizó la chilena."
+  },
+  {
+   "id": 259,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si te intentan cogotear, pásale el celu nomás, no te hagai el valiente.",
+   "frase_neutralizada": "Si intentan asaltarte, dale el celular y ya, no te hagas el valiente.",
+   "nota": "Pedir por favor no ser asaltado resultaba poco natural."
+  },
+  {
+   "id": 260,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El tipo de la esquina tiene pinta de cogotero, crucemos mejor la calle.",
+   "frase_neutralizada": "El tipo de la esquina tiene pinta de ladrón, mejor crucemos la calle.",
+   "nota": "Copiaba el ejemplo; neutral cambiaba número y tenía error 'mejores'."
+  },
+  {
+   "id": 261,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Javi no es ninguna cogotera, es estudiante de derecho, no seai prejuicioso.",
+   "frase_neutralizada": "Javi no es ninguna ladrona, es estudiante de derecho, no seas prejuicioso.",
+   "nota": "Concordancia de género en la neutral corregida."
+  },
+  {
+   "id": 262,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Cuidado, viene un cogotero arrancando con una cartera!",
+   "frase_neutralizada": "¡Cuidado, viene un ladrón huyendo con una cartera!",
+   "nota": "Frase original poco natural; se añadió contexto."
+  },
+  {
+   "id": 263,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Un cogotero me sacó el celular de la mano en el paradero.",
+   "frase_neutralizada": "Un ladrón me arrebató el celular de la mano en la parada del autobús.",
+   "nota": "Se evitó la redundancia de 'mi' y se naturalizó."
+  },
+  {
+   "id": 264,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al final pillaron al cogotero que andaba asaltando gente en la plaza.",
+   "frase_neutralizada": "Al final atraparon al asaltante que andaba robando a la gente en la plaza.",
+   "nota": "Copiaba el error 'cogoterom'; defs 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 265,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En esa muni se mueven puras coimas, así cualquiera gana la licitación.",
+   "frase_neutralizada": "En ese municipio solo se mueven sobornos, así cualquiera gana la licitación.",
+   "nota": "'Está coima' era agramatical; se reformuló."
+  },
+  {
+   "id": 266,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ni se te ocurra ofrecerle una coima al inspector, que nos van a meter presos.",
+   "frase_neutralizada": "Ni se te ocurra ofrecerle un soborno al inspector, que nos van a meter presos.",
+   "nota": "'Coimar' no se usa; se usó el sustantivo coima."
+  },
+  {
+   "id": 267,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dicen que el árbitro recibió coima pa' cobrar ese penal.",
+   "frase_neutralizada": "Dicen que el árbitro recibió un soborno para pitar ese penal.",
+   "nota": "Verbo inexistente 'coimó'; se usó el sustantivo."
+  },
+  {
+   "id": 268,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El guardia le pidió una coima pa' dejarlo entrar sin entrada.",
+   "frase_neutralizada": "El guardia le pidió un soborno para dejarlo entrar sin boleto.",
+   "nota": "Errores de conjugación y verbo inexistente; situación nueva."
+  },
+  {
+   "id": 269,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Nosotros nunca hemos pagado coima pa' sacar un permiso, todo por la buena.",
+   "frase_neutralizada": "Nosotros nunca hemos pagado sobornos para sacar un permiso, todo de forma legal.",
+   "nota": "'Coimamos' no se usa; se usó el sustantivo."
+  },
+  {
+   "id": 270,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llevo media hora esperando y no pasa ni un colectivo pa' Ñuñoa.",
+   "frase_neutralizada": "Llevo media hora esperando y no pasa ni un taxi compartido para Ñuñoa.",
+   "nota": "Copiaba el ejemplo; 'taxi' solo no refleja la ruta fija."
+  },
+  {
+   "id": 271,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo nunca tomo el colectivo de Gran Avenida, los choferes manejan como locos.",
+   "frase_neutralizada": "Yo nunca tomo el taxi compartido de Gran Avenida, los choferes manejan como locos.",
+   "nota": "'Me vengo con' era poco natural; neutral precisada."
+  },
+  {
+   "id": 272,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Por fin llegó el colectivo! Súbete adelante, que atrás vamos tres.",
+   "frase_neutralizada": "¡Por fin llegó el taxi compartido! Súbete adelante, que atrás vamos tres.",
+   "nota": "Neutral 'taxi' perdía el sentido de transporte compartido."
+  },
+  {
+   "id": 273,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "A esta hora ya no hay colectivos pa' San Bernardo, vai a tener que tomar micro.",
+   "frase_neutralizada": "A esta hora ya no hay taxis compartidos para San Bernardo, vas a tener que tomar el autobús.",
+   "nota": "'En esta hora' incorrecto; neutral precisada."
+  },
+  {
+   "id": 274,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El colectivo sale más caro que la micro, pero te deja casi en la puerta.",
+   "frase_neutralizada": "El taxi compartido sale más caro que el autobús, pero te deja casi en la puerta.",
+   "nota": "Frase original incompleta y sin tilde en 'sí'."
+  },
+  {
+   "id": 275,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, me voy en coleto, la micro se demora una eternidad.",
+   "frase_neutralizada": "Oye, me voy en taxi compartido, el autobús tarda una eternidad.",
+   "nota": "Coleto no es autobús; 'T1' no tenía sentido."
+  },
+  {
+   "id": 276,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿qué coleto me deja cerca del Mall Plaza Vespucio?",
+   "frase_neutralizada": "Oye, ¿qué taxi compartido me deja cerca del centro comercial Plaza Vespucio?",
+   "nota": "Coleto traducido erróneamente como autobús; lugar inexistente."
+  },
+  {
+   "id": 277,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo que ir al centro en la tarde, ¿qué coleto me sirve desde acá?",
+   "frase_neutralizada": "Tengo que ir al centro por la tarde, ¿qué taxi compartido me sirve desde aquí?",
+   "nota": "Defs 1-3 son el mismo sentido; se corrigió 'autobús'."
+  },
+  {
+   "id": 278,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Apúrate, que si no se te va el último coleto y vai a tener que caminar.",
+   "frase_neutralizada": "Apúrate, que si no se te va el último taxi compartido y vas a tener que caminar.",
+   "nota": "La original era agramatical e incomprensible."
+  },
+  {
+   "id": 279,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me bajé del coleto y se me quedó la mochila adentro, ¡qué mala cueva!",
+   "frase_neutralizada": "Me bajé del taxi compartido y se me quedó la mochila adentro, ¡qué mala suerte!",
+   "nota": "'Oi, oi' antinatural; coleto mal traducido como autobús."
+  }
+ ]
+}
