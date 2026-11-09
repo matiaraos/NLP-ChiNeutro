@@ -1,0 +1,340 @@
+{
+ "lote": 77,
+ "claves": [
+  "calentar la sopa",
+  "calienta sopa",
+  "califa",
+  "callampa",
+  "callampaso",
+  "callampear",
+  "callampin bombin",
+  "calleuque el loro"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2699617,
+ "duracion_s": 98.2,
+ "pares": [
+  {
+   "id": 3080,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Coni se pasó toda la fiesta calentándome la sopa y al final se fue con su pololo.",
+   "frase_neutralizada": "Coni se pasó toda la fiesta provocándome y excitándome, y al final se fue con su novio.",
+   "nota": "Original agramatical («voy a te») y neutral sin el sentido sexual."
+  },
+  {
+   "id": 3081,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, no le calentís la sopa al Pato si no te gusta, después anda sufriendo.",
+   "frase_neutralizada": "Oye, no andes provocando a Pato si no te gusta, después se queda sufriendo.",
+   "nota": "Agramatical y neutral vaga; nueva situación con voseo chileno."
+  },
+  {
+   "id": 3082,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La mina me calienta la sopa por Instagram hace un mes, pero cuando le digo de juntarnos, se corre.",
+   "frase_neutralizada": "La chica lleva un mes coqueteándome y provocándome por Instagram, pero cuando le propongo vernos, se echa para atrás.",
+   "nota": "Neutral perdía la seducción; se reforzó el sentido de dejar esperando."
+  },
+  {
+   "id": 3083,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Mi jefe me calienta la sopa con el ascenso pa que me quede hasta tarde, pero nunca concreta nada.",
+   "frase_neutralizada": "Mi jefe me ilusiona con el ascenso para que me quede hasta tarde, pero nunca concreta nada.",
+   "nota": "Copiaba «el/la x» del diccionario; nuevo par para el sentido de manipulación."
+  },
+  {
+   "id": 3084,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Me escribió puras cosas ricas toda la noche y después no llegó; me calentó la sopa no más.",
+   "frase_neutralizada": "Me escribió cosas excitantes toda la noche y después no llegó; solo me dejó con las ganas.",
+   "nota": "Explicaba la expresión y la neutral cambiaba el sentido («me decepciono»)."
+  },
+  {
+   "id": 3085,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu prima es terrible calienta sopa, no le hagái caso.",
+   "frase_neutralizada": "Tu prima provoca a todos y nunca concreta nada, no le hagas caso.",
+   "nota": "Usaba el verbo, no el sustantivo; frase incoherente."
+  },
+  {
+   "id": 3086,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te ilusionís con el Seba, es más calienta sopa que la cresta.",
+   "frase_neutralizada": "No te ilusiones con Seba, siempre provoca y nunca concreta nada.",
+   "nota": "Frase sin sentido y sin el sustantivo «calienta sopa»."
+  },
+  {
+   "id": 3087,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Bloqueé a esa calienta sopa, ya me tenía chato.",
+   "frase_neutralizada": "Bloqueé a esa chica que me provocaba y nunca concretaba nada, ya me tenía harto.",
+   "nota": "Sentido equivocado («interesar sexualmente»); ahora designa a la persona."
+  },
+  {
+   "id": 3088,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuidado con el profe de zumba, dicen que es puro calienta sopa.",
+   "frase_neutralizada": "Cuidado con el profesor de zumba, dicen que solo provoca y nunca concreta nada.",
+   "nota": "Neutral cambiaba la persona; no usaba el sustantivo."
+  },
+  {
+   "id": 3089,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y vos creís que soy calienta sopa? Si yo nunca te di boleto.",
+   "frase_neutralizada": "¿Y tú crees que te provoqué para después dejarte con las ganas? Si nunca te di pie.",
+   "nota": "Personas gramaticales incoherentes; sentido equivocado."
+  },
+  {
+   "id": 3090,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No invitís al Nacho al baby shower, es un califa y va a andar tirando tallas pesadas.",
+   "frase_neutralizada": "No invites a Nacho al baby shower, siempre está pensando en sexo y va a andar haciendo bromas subidas de tono.",
+   "nota": "Neutral era definición literal; frase sin contexto."
+  },
+  {
+   "id": 3091,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo es demasiado califa, ve una película de monos animados y le encuentra doble sentido.",
+   "frase_neutralizada": "Mi primo piensa en sexo todo el tiempo; ve una película de dibujos animados y le encuentra doble sentido.",
+   "nota": "«No te hables» sin sentido; neutral usaba voseo rioplatense."
+  },
+  {
+   "id": 3092,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Andai muy califa hoy día, ¿qué te dio?",
+   "frase_neutralizada": "Estás muy excitado hoy, ¿qué te pasó?",
+   "nota": "Confundía «caliente» con calor ambiental."
+  },
+  {
+   "id": 3093,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi pololo se pone califa apenas me ve con vestido.",
+   "frase_neutralizada": "Mi novio se excita apenas me ve con vestido.",
+   "nota": "«Califa como nada» no es natural; nueva situación."
+  },
+  {
+   "id": 3094,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, no seai califa, estamos hablando de trabajo.",
+   "frase_neutralizada": "Ya, no estés pensando en sexo, estamos hablando de trabajo.",
+   "nota": "Frase incoherente; neutral era definición literal."
+  },
+  {
+   "id": 3095,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me vale callampa lo que diga tu mamá, yo voy igual al carrete.",
+   "frase_neutralizada": "Me importa un carajo lo que diga tu mamá, yo voy igual a la fiesta.",
+   "nota": "Neutral perdía la persona («me») y el registro; frase muy corta."
+  },
+  {
+   "id": 3096,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "Este cargador chino vale callampa, se dañó en dos días.",
+   "frase_neutralizada": "Este cargador chino no vale nada, se dañó en dos días.",
+   "nota": "Repetía def 1; ahora sentido de algo sin valor."
+  },
+  {
+   "id": 3097,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El callampa del Rodrigo se fue y no me ayudó a ordenar.",
+   "frase_neutralizada": "El imbécil de Rodrigo se fue y no me ayudó a ordenar.",
+   "nota": "«Chancho callampa» no es natural; nueva frase de insulto."
+  },
+  {
+   "id": 3098,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Échale callampas a la salsa pa que quede más rica.",
+   "frase_neutralizada": "Échale champiñones a la salsa para que quede más rica.",
+   "nota": "Frase incomprensible; ahora sentido de hongo."
+  },
+  {
+   "id": 3099,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pucha, a mí la farándula me vale callampa, cambia el canal.",
+   "frase_neutralizada": "Vaya, a mí los chismes de famosos me importan un carajo, cambia el canal.",
+   "nota": "Redundante y casi idéntica a otro par; nueva situación."
+  },
+  {
+   "id": 3100,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me fui de callampaso por llegar a las cinco de la mañana del carrete.",
+   "frase_neutralizada": "Me regañaron por llegar a las cinco de la mañana de la fiesta.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3101,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pancho se fue de callampaso con el jefe por llegar atrasado otra vez.",
+   "frase_neutralizada": "A Pancho lo regañó el jefe por llegar tarde otra vez.",
+   "nota": "Interpretaba «salir» literalmente; sentido es ser regañado."
+  },
+  {
+   "id": 3102,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu pololo se fue de callampaso por mandarle mensajes a tu amiga.",
+   "frase_neutralizada": "Tu novio se ganó un regaño por mandarle mensajes a tu amiga.",
+   "nota": "Neutral lo leía como salir de la habitación."
+  },
+  {
+   "id": 3103,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros se fueron de callampaso con la inspectora por faltarle el respeto al profe.",
+   "frase_neutralizada": "Los chicos se ganaron un regaño de la inspectora por faltarle el respeto al profesor.",
+   "nota": "Sentido literal de salir; causa invertida."
+  },
+  {
+   "id": 3104,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Rompí el florero de mi abuela y obvio que me fui de callampaso.",
+   "frase_neutralizada": "Rompí el jarrón de mi abuela y obviamente me regañaron.",
+   "nota": "Uso agramatical y sentido equivocado."
+  },
+  {
+   "id": 3105,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La profe me callampeó por no traer la tarea.",
+   "frase_neutralizada": "La profesora me regañó por no traer la tarea.",
+   "nota": "Neutral usaba sentido musical, no el de regañar."
+  },
+  {
+   "id": 3106,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No lo callampees tanto, si el cabro chico no lo hizo a propósito.",
+   "frase_neutralizada": "No lo regañes tanto, el niño no lo hizo a propósito.",
+   "nota": "Frase agramatical; neutral imprecisa."
+  },
+  {
+   "id": 3107,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El taxista me callampeó por cerrar la puerta muy fuerte.",
+   "frase_neutralizada": "El taxista me regañó por cerrar la puerta muy fuerte.",
+   "nota": "Neutral decía «exageró»; faltaba tilde y motivo."
+  },
+  {
+   "id": 3108,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si llegai tarde otra vez, tu viejo te va a callampear feo.",
+   "frase_neutralizada": "Si llegas tarde otra vez, tu papá te va a regañar duro.",
+   "nota": "Def 2 sin uso real; se cambió a regañar."
+  },
+  {
+   "id": 3109,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me callampearon en el pasillo del colegio por andar corriendo.",
+   "frase_neutralizada": "Me regañaron en el pasillo del colegio por andar corriendo.",
+   "nota": "Sentido «agarrar» dudoso; se pasó a regañar."
+  },
+  {
+   "id": 3110,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le compramos una torta sorpresa al Mati, así que callampín bombín, ¿ya?",
+   "frase_neutralizada": "Le compramos un pastel sorpresa a Mati, así que guarda el secreto, ¿sí?",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3111,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Lo de mi renuncia todavía no lo sabe nadie en la oficina, tú callampín bombín.",
+   "frase_neutralizada": "Todavía nadie en la oficina sabe lo de mi renuncia; tú no digas nada.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3112,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Cuando el profe preguntó quién había sido, te quedaste callampín bombín y me culparon a mí.",
+   "frase_neutralizada": "Cuando el profesor preguntó quién había sido, te quedaste callado y me culparon a mí.",
+   "nota": "Usaba la expresión como verbo, agramatical."
+  },
+  {
+   "id": 3113,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Por qué te quedaste callampín bombín en la reunión si sabías la verdad?",
+   "frase_neutralizada": "¿Por qué te quedaste callado en la reunión si sabías la verdad?",
+   "nota": "Faltaba verbo «quedarse»; frase agramatical."
+  },
+  {
+   "id": 3114,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Tu amigo vio todo el choque y se quedó callampín bombín cuando llegaron los pacos.",
+   "frase_neutralizada": "Tu amigo vio todo el choque y se quedó callado cuando llegó la policía.",
+   "nota": "Contradictorio (callado mientras hablaba); defs 2 y 3 unificadas."
+  },
+  {
+   "id": 3115,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Vi al Felipe con otra mina en el mall, pero tú calleuque el loro, ¿cachai?",
+   "frase_neutralizada": "Vi a Felipe con otra chica en el centro comercial, pero tú no digas nada, ¿entiendes?",
+   "nota": "Sentido es guardar secreto, no bajar el volumen."
+  },
+  {
+   "id": 3116,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le saqué plata de la billetera a mi papá; tú, calleuque el loro.",
+   "frase_neutralizada": "Saqué dinero de la billetera de mi papá; tú no digas nada.",
+   "nota": "Frase incoherente; ahora pide guardar un secreto."
+  },
+  {
+   "id": 3117,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mañana nos vamos a hacer la cimarra, así que calleuque el loro con la profe.",
+   "frase_neutralizada": "Mañana vamos a faltar a clases sin permiso, así que no le digas nada a la profesora.",
+   "nota": "Contradictorio: pedía callar a quien escucha la historia."
+  },
+  {
+   "id": 3118,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya sé que escuchaste la pelea de mis viejos; calleuque el loro, porfa.",
+   "frase_neutralizada": "Ya sé que escuchaste la pelea de mis papás; no digas nada, por favor.",
+   "nota": "Sentido equivocado; defs 1 y 2 unificadas."
+  },
+  {
+   "id": 3119,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, Juan, lo del paseo a la playa es sorpresa pa la María, así que calleuque el loro.",
+   "frase_neutralizada": "Oye, Juan, el paseo a la playa es una sorpresa para María, así que no digas nada.",
+   "nota": "Copiaba el ejemplo y tenía error («no le dices»)."
+  }
+ ]
+}

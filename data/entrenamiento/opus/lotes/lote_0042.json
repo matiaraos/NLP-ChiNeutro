@@ -1,0 +1,340 @@
+{
+ "lote": 42,
+ "claves": [
+  "weno",
+  "weon",
+  "weona",
+  "weon cagao",
+  "weonaje",
+  "weta",
+  "witrear",
+  "y bosnia"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.26276649999999996,
+ "duracion_s": 97.4,
+ "pares": [
+  {
+   "id": 1680,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Weno, si no querís ir, me voy solo no más.",
+   "frase_neutralizada": "Bueno, si no quieres ir, me voy solo.",
+   "nota": "Frase original incoherente; neutral usaba 'bien' y signos mal puestos."
+  },
+  {
+   "id": 1681,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Weno, el restorán estaba caro, pero la comida era buenísima.",
+   "frase_neutralizada": "Bueno, el restaurante estaba caro, pero la comida era buenísima.",
+   "nota": "'Weno' se traduce por 'bueno'; se corrigieron los signos de la neutral."
+  },
+  {
+   "id": 1682,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Weno, igual esto me sirve pa'l proyecto, así que lo guardo.",
+   "frase_neutralizada": "Bueno, de todas formas esto me sirve para el proyecto, así que lo guardo.",
+   "nota": "Se cambió 'bien' por 'bueno' y se hizo más natural la frase chilena."
+  },
+  {
+   "id": 1683,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Weno, ¿y qué tal la película? ¿Valió la pena o no?",
+   "frase_neutralizada": "Bueno, ¿y qué tal la película? ¿Valió la pena o no?",
+   "nota": "Neutral decía 'bien'; se cambió por 'bueno' y se amplió la frase."
+  },
+  {
+   "id": 1684,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Weno, no te preocupís, yo te ayudo con la mudanza el sábado.",
+   "frase_neutralizada": "Bueno, no te preocupes, yo te ayudo con la mudanza el sábado.",
+   "nota": "Se cambió 'bien' por 'bueno' y se agregó voseo chileno natural."
+  },
+  {
+   "id": 1685,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Weon, pásame el cargador, que me estoy quedando sin batería.",
+   "frase_neutralizada": "Amigo, pásame el cargador, que me estoy quedando sin batería.",
+   "nota": "Usaba 'weon' como objeto; ahora es vocativo amistoso."
+  },
+  {
+   "id": 1686,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Tengo que contarle algo a ese weon antes de que se vaya.",
+   "frase_neutralizada": "Tengo que contarle algo a ese tipo antes de que se vaya.",
+   "nota": "Se asignó al sentido 'tipo' y se completó la frase."
+  },
+  {
+   "id": 1687,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Ese weon se creyó todo el cuento que le inventaron los cabros.",
+   "frase_neutralizada": "Ese tonto se creyó toda la historia que le inventaron los muchachos.",
+   "nota": "Frase original incoherente; neutral decía 'loca', que no es el sentido."
+  },
+  {
+   "id": 1688,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No seai weon, ¿cómo vai a dejar el auto abierto en plena calle?",
+   "frase_neutralizada": "No seas idiota, ¿cómo vas a dejar el auto abierto en plena calle?",
+   "nota": "'Chica weon' tenía mal la concordancia y 'loca' cambiaba el sentido."
+  },
+  {
+   "id": 1689,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cachai, weon, que la Coni se va a vivir a Australia?",
+   "frase_neutralizada": "¿Sabes, amigo, que Coni se va a vivir a Australia?",
+   "nota": "La frase original no tenía sentido; ahora es vocativo entre amigos."
+  },
+  {
+   "id": 1690,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa weona me debe plata hace meses y se hace la lesa.",
+   "frase_neutralizada": "Esa idiota me debe dinero desde hace meses y se hace la desentendida.",
+   "nota": "Frase incoherente; 'desagradables' no es el sentido de la expresión."
+  },
+  {
+   "id": 1691,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Weona, te extrañé caleta, ¿cuándo nos juntamos a tomar once?",
+   "frase_neutralizada": "Amiga, te extrañé muchísimo, ¿cuándo nos reunimos a merendar?",
+   "nota": "'Agradable' era incorrecto y la gramática estaba mal; ahora es vocativo amistoso."
+  },
+  {
+   "id": 1692,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai weona, si él no te pesca, déjalo ir no más.",
+   "frase_neutralizada": "No seas tonta, si él no te hace caso, déjalo ir.",
+   "nota": "'Agresiva' cambiaba el sentido; se cambió por 'tonta'."
+  },
+  {
+   "id": 1693,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Erí weona? Te dije que el carrete era el sábado, no hoy.",
+   "frase_neutralizada": "¿Eres tonta? Te dije que la fiesta era el sábado, no hoy.",
+   "nota": "'Agresiva' era incorrecto; se agregó contexto y voseo chileno."
+  },
+  {
+   "id": 1694,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Esa weona está loca, se tiñó el pelo verde pa' la fiesta.",
+   "frase_neutralizada": "Esa tipa está loca, se tiñó el pelo de verde para la fiesta.",
+   "nota": "Se hizo más natural y se agregó contexto; 'mujer' pasa a 'tipa' (informal)."
+  },
+  {
+   "id": 1695,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El weon cagao no quiso convidarnos ni una papa frita.",
+   "frase_neutralizada": "El tacaño de mierda no quiso convidarnos ni una papa frita.",
+   "nota": "La neutral era literal y formal; 'bocadillo' no es chileno."
+  },
+  {
+   "id": 1696,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese weon cagao no me regaló ni una tarjeta pa' mi cumpleaños.",
+   "frase_neutralizada": "Ese tacaño de mierda no me regaló ni una tarjeta para mi cumpleaños.",
+   "nota": "'Weona cagona' no es la expresión; neutral demasiado formal."
+  },
+  {
+   "id": 1697,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai weon cagao, presta la pelota un rato, si no se te va a gastar.",
+   "frase_neutralizada": "No seas un tacaño de mierda, presta el balón un rato, que no se te va a gastar.",
+   "nota": "Gramática rota ('jugar conmigo'); neutral literal y formal."
+  },
+  {
+   "id": 1698,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El weon cagao de mi tío se ganó la lotería y no le dio ni una luca a nadie.",
+   "frase_neutralizada": "El tacaño de mierda de mi tío se ganó la lotería y no le dio ni mil pesos a nadie.",
+   "nota": "Frase original incoherente con errores verbales."
+  },
+  {
+   "id": 1699,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Es un weon cagao, siempre pide que lo inviten y nunca pone ni una moneda.",
+   "frase_neutralizada": "Es un tacaño de mierda, siempre pide que lo inviten y nunca pone ni una moneda.",
+   "nota": "'Favoritos' era un error y no mostraba tacañería; neutral muy formal."
+  },
+  {
+   "id": 1700,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegó todo el weonaje del curso al asado y no alcanzó la carne.",
+   "frase_neutralizada": "Llegó toda la gente de la clase a la parrillada y no alcanzó la carne.",
+   "nota": "La chilena no contenía la expresión y copiaba el ejemplo."
+  },
+  {
+   "id": 1701,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Había un weonaje en el metro que no se podía ni respirar.",
+   "frase_neutralizada": "Había muchísima gente en el metro, tanta que no se podía ni respirar.",
+   "nota": "Usaba 'weonaje' como sinónimo de reunión; frase poco natural."
+  },
+  {
+   "id": 1702,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Espérame, tengo que juntar al weonaje pa'l partido del domingo.",
+   "frase_neutralizada": "Espérame, tengo que reunir a la gente para el partido del domingo.",
+   "nota": "'Mi weonaje' no es natural; se agregó contexto."
+  },
+  {
+   "id": 1703,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El weonaje de la oficina se puso a tirar fuegos artificiales adentro.",
+   "frase_neutralizada": "El grupo de idiotas de la oficina se puso a lanzar fuegos artificiales dentro.",
+   "nota": "Frase original agramatical y sin sentido."
+  },
+  {
+   "id": 1704,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mira el weonaje gritando en la plaza a las cuatro de la mañana.",
+   "frase_neutralizada": "Mira a ese montón de idiotas gritando en la plaza a las cuatro de la mañana.",
+   "nota": "Copiaba el ejemplo del diccionario y 'que anda' quedaba incompleto."
+  },
+  {
+   "id": 1705,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, te pasaste de weta, ¿cómo le vai a contar el secreto a la Javi?",
+   "frase_neutralizada": "Oye, qué tonto fuiste, ¿cómo le vas a contar el secreto a Javi?",
+   "nota": "Frase forzada y poco chilena; la neutral cambiaba el sentido."
+  },
+  {
+   "id": 1706,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Amiga, erí entera weta, ¿cómo le creíste ese cuento?",
+   "frase_neutralizada": "Amiga, eres muy tonta, ¿cómo le creíste ese cuento?",
+   "nota": "No concordaba el género ('tonto' con 'amiga'); frase poco natural."
+  },
+  {
+   "id": 1707,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Puta que soy weta, dejé las llaves adentro del auto.",
+   "frase_neutralizada": "Mierda, qué tonto soy, dejé las llaves dentro del auto.",
+   "nota": "'Pichanga weta' no tiene sentido; neutral sin concordancia."
+  },
+  {
+   "id": 1708,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai weta, compadre, relájate un poco que no es pa' tanto.",
+   "frase_neutralizada": "No seas tonto, amigo, relájate un poco que no es para tanto.",
+   "nota": "Se ajustó el voseo chileno; def unificada porque todas significan lo mismo."
+  },
+  {
+   "id": 1709,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe es medio weta, se le olvidó que había prueba y llegó sin nada.",
+   "frase_neutralizada": "El profesor es medio tonto, se le olvidó que había examen y llegó sin nada.",
+   "nota": "Repetía otra frase y dejaba voseo ('aferrés') en la neutral."
+  },
+  {
+   "id": 1710,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese pollo estaba malo, estuve witreando toda la noche.",
+   "frase_neutralizada": "Ese pollo estaba malo, estuve vomitando toda la noche.",
+   "nota": "Mal construida; 'enfermar' no es vomitar."
+  },
+  {
+   "id": 1711,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Para el auto, que voy a witrear con tanta curva.",
+   "frase_neutralizada": "Detén el auto, que voy a vomitar con tantas curvas.",
+   "nota": "Neutral traducía 'enfermar' en vez de 'vomitar'."
+  },
+  {
+   "id": 1712,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tomó tanto en el carrete que terminó witreando en el patio.",
+   "frase_neutralizada": "Bebió tanto en la fiesta que terminó vomitando en el patio.",
+   "nota": "Frase incoherente y mal traducida como 'enfermando'."
+  },
+  {
+   "id": 1713,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El perro witreó en la alfombra y nadie quiere limpiar.",
+   "frase_neutralizada": "El perro vomitó en la alfombra y nadie quiere limpiar.",
+   "nota": "Tenía un imperativo sin sentido y la neutral era absurda."
+  },
+  {
+   "id": 1714,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si me subo a esa montaña rusa de nuevo, witreo altiro.",
+   "frase_neutralizada": "Si me subo a esa montaña rusa otra vez, vomito enseguida.",
+   "nota": "Usaba un sentido figurado inventado ('dejar')."
+  },
+  {
+   "id": 1715,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Yo voy a pedir un completo, ¿y bosnia?",
+   "frase_neutralizada": "Yo voy a pedir un perro caliente, ¿y tú?",
+   "nota": "Faltaba contexto para el '¿y tú?'."
+  },
+  {
+   "id": 1716,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo voy a jugar a la pelota el sábado, ¿y bosnia?",
+   "frase_neutralizada": "Yo voy a jugar fútbol el sábado, ¿y tú?",
+   "nota": "No concordaba la persona entre chilena y neutral; signos corregidos."
+  },
+  {
+   "id": 1717,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, dime flojo, ¿y bosnia, que no te levantai antes del mediodía?",
+   "frase_neutralizada": "Ya, dime perezoso, ¿y tú, que no te levantas antes del mediodía?",
+   "nota": "Frase sin sentido; ahora se usa como réplica a una crítica."
+  },
+  {
+   "id": 1718,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo ando pato este mes, ¿y bosnia, tenís plata pa' salir?",
+   "frase_neutralizada": "Yo estoy sin dinero este mes, ¿y tú, tienes dinero para salir?",
+   "nota": "Se unificó en def 1 porque 'bonia' es error ortográfico y significa lo mismo."
+  },
+  {
+   "id": 1719,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Fran ya está en la playa, ¿y bosnia, cuándo te vai?",
+   "frase_neutralizada": "Fran ya está en la playa, ¿y tú, cuándo te vas?",
+   "nota": "Se usó la forma correcta 'bosnia'; el '¿y tú?' ahora tiene sentido."
+  }
+ ]
+}

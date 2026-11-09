@@ -1,0 +1,340 @@
+{
+ "lote": 29,
+ "claves": [
+  "sicoseado",
+  "sicosiado",
+  "sicosear",
+  "sipo",
+  "skt1",
+  "soa",
+  "sobate pa callado",
+  "soltar las trenzas"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2563612,
+ "duracion_s": 94.6,
+ "pares": [
+  {
+   "id": 1160,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy sicoseado con la entrevista de mañana, no he podido dormir nada.",
+   "frase_neutralizada": "Estoy angustiado por la entrevista de mañana, no he podido dormir nada.",
+   "nota": "Usaba 'me sicoseo' en vez del adjetivo; se ajustó la forma."
+  },
+  {
+   "id": 1161,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No andís tan sicoseada con la cena, va a salir todo bien, po.",
+   "frase_neutralizada": "No estés tan angustiada por la cena, todo va a salir bien.",
+   "nota": "'No me sicosees' cambiaba el sentido; ahora usa el adjetivo."
+  },
+  {
+   "id": 1162,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi mamá anda sicoseada con la operación, aunque el doctor dijo que era algo de rutina.",
+   "frase_neutralizada": "Mi mamá está angustiada por la operación, aunque el doctor dijo que era algo de rutina.",
+   "nota": "Forma verbal incorrecta; se usó el adjetivo con su sentido."
+  },
+  {
+   "id": 1163,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Quedé sicoseado con los exámenes de sangre, cachai, y el doctor dice que es pura precaución.",
+   "frase_neutralizada": "Quedé angustiado por los exámenes de sangre, ¿sabes?, y el doctor dice que es solo por precaución.",
+   "nota": "Error de género y forma verbal; se rehízo la frase."
+  },
+  {
+   "id": 1164,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Cata está sicoseada porque la boda es en dos meses y no tiene nada listo.",
+   "frase_neutralizada": "Catalina está angustiada porque la boda es en dos meses y no tiene nada listo.",
+   "nota": "'No me sicosees' no correspondía; ahora usa el adjetivo."
+  },
+  {
+   "id": 1165,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ando sicosiado, siento que los pacos me vienen siguiendo desde la plaza.",
+   "frase_neutralizada": "Ando paranoico, siento que la policía me viene siguiendo desde la plaza.",
+   "nota": "'Sicosiado que' era agramatical; se dejó más natural."
+  },
+  {
+   "id": 1166,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy sicosiado, siento que todos en la pega me miran raro.",
+   "frase_neutralizada": "Estoy paranoico, siento que todos en el trabajo me miran raro.",
+   "nota": "Construcción agramatical y neutral con otro tiempo verbal."
+  },
+  {
+   "id": 1167,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ando sicosiado con ese mensaje raro, no lo voy a abrir ni cagando.",
+   "frase_neutralizada": "Estoy paranoico con ese mensaje raro, no lo voy a abrir ni loco.",
+   "nota": "Faltaba el verbo; se corrigió la construcción."
+  },
+  {
+   "id": 1168,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ando sicosiado, me tinca que el ex de la Javi me anda buscando pa pegarme.",
+   "frase_neutralizada": "Estoy paranoico, presiento que el ex de Javiera me está buscando para golpearme.",
+   "nota": "Se ajustó al sentido de sentirse perseguido."
+  },
+  {
+   "id": 1169,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mamá, ando sicosiado, cada vez que salgo pienso que nos van a entrar a robar.",
+   "frase_neutralizada": "Mamá, estoy paranoico, cada vez que salgo pienso que van a entrar a robarnos.",
+   "nota": "Se corrigió 'sicosiado que', que era agramatical."
+  },
+  {
+   "id": 1170,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese loco me anda sicoseando, me sigue pa todos lados y ya me tiene chato.",
+   "frase_neutralizada": "Ese tipo me está haciendo sentir perseguido, me sigue a todas partes y ya me tiene harto.",
+   "nota": "No incluía la expresión; además tenía un error gramatical."
+  },
+  {
+   "id": 1171,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, no me sicosees con tus historias de fantasmas, que después no duermo.",
+   "frase_neutralizada": "Ya, no me pongas paranoico con tus historias de fantasmas, que después no puedo dormir.",
+   "nota": "No incluía la expresión y la frase era incoherente."
+  },
+  {
+   "id": 1172,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi jefe me sicosea todo el día, se pasa mirando mi pantalla cada cinco minutos.",
+   "frase_neutralizada": "Mi jefe me hace sentir vigilado todo el día, se la pasa mirando mi pantalla cada cinco minutos.",
+   "nota": "No incluía la expresión; se agregó."
+  },
+  {
+   "id": 1173,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Anoche me sicoseé solo en la casa, pensaba que alguien andaba en el patio.",
+   "frase_neutralizada": "Anoche me puse paranoico solo en la casa, pensaba que alguien andaba en el patio.",
+   "nota": "No incluía la expresión y tenía errores ortográficos."
+  },
+  {
+   "id": 1174,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Después del pito me fui en la terrible sicoséa, juraba que todos me estaban mirando.",
+   "frase_neutralizada": "Después de fumar marihuana me puse muy paranoico, juraba que todos me estaban mirando.",
+   "nota": "Lo interpretaba como 'persecución' literal; ahora es paranoia."
+  },
+  {
+   "id": 1175,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Jugamos una pichanga mañana? —Sipo, yo me apunto.",
+   "frase_neutralizada": "—¿Jugamos un partido de fútbol mañana? —Sí, claro, yo me apunto.",
+   "nota": "La frase no sonaba natural; se ajustó el diálogo."
+  },
+  {
+   "id": 1176,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Vamos a la playa el finde? —Sipo, hace siglos que no me meto al mar.",
+   "frase_neutralizada": "—¿Vamos a la playa el fin de semana? —Sí, claro, hace siglos que no me meto al mar.",
+   "nota": "La respuesta no era coherente con la pregunta."
+  },
+  {
+   "id": 1177,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Vai a ir al carrete de la Feña? —Sipo, si me invitó ella misma.",
+   "frase_neutralizada": "—¿Vas a ir a la fiesta de Fernanda? —Sí, claro, si me invitó ella misma.",
+   "nota": "Era poco natural; se agregaron rasgos chilenos."
+  },
+  {
+   "id": 1178,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Pasai a comprar el pan? —Sipo, y aprovecho de traer fruta.",
+   "frase_neutralizada": "—¿Pasas a comprar el pan? —Sí, claro, y aprovecho para traer fruta.",
+   "nota": "Se dejó más natural y se neutralizó 'aprovecho de'."
+  },
+  {
+   "id": 1179,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Te gustó el pastel de choclo? —Sipo, estaba la raja.",
+   "frase_neutralizada": "—¿Te gustó el pastel de maíz? —Sí, claro, estaba buenísimo.",
+   "nota": "Error de género ('el comida') y respuesta forzada."
+  },
+  {
+   "id": 1180,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oe, skt1 po, si ya estamos todos en la plaza.",
+   "frase_neutralizada": "Oye, comparte un cigarro de marihuana, que ya estamos todos en la plaza.",
+   "nota": "Usaba 'skt1' como sustantivo y sin sentido."
+  },
+  {
+   "id": 1181,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Weón, si tenís hierba guardada, skt1 antes de entrar al carrete.",
+   "frase_neutralizada": "Oye, si tienes marihuana guardada, comparte un cigarro antes de entrar a la fiesta.",
+   "nota": "La frase original no tenía sentido."
+  },
+  {
+   "id": 1182,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, compadre, skt1 que mañana yo pongo el próximo.",
+   "frase_neutralizada": "Vamos, amigo, comparte un cigarro de marihuana, que mañana yo pongo el siguiente.",
+   "nota": "Era incoherente; se usa como petición de convidar."
+  },
+  {
+   "id": 1183,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mañana a las seis en mi casa, y tú skt1, que te toca.",
+   "frase_neutralizada": "Mañana a las seis en mi casa, y tú comparte un cigarro de marihuana, que te toca.",
+   "nota": "Se tomaba como objeto; ahora tiene su sentido real."
+  },
+  {
+   "id": 1184,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Skt1 po, hermano, que ando pato y no he fumado nada en toda la semana.",
+   "frase_neutralizada": "Comparte un cigarro de marihuana, hermano, que no tengo dinero y no he fumado nada en toda la semana.",
+   "nota": "La frase original era incomprensible."
+  },
+  {
+   "id": 1185,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Buenas, soa Mora, ¿qué va a llevar hoy?",
+   "frase_neutralizada": "Buenos días, señora Mora, ¿qué va a llevar hoy?",
+   "nota": "No usaba 'soa'; además mezclaba 'usted' y 'tú'."
+  },
+  {
+   "id": 1186,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Soa, se le quedaron las tijeras arriba del escritorio.",
+   "frase_neutralizada": "Señora, se le olvidaron las tijeras encima del escritorio.",
+   "nota": "No incluía la expresión; se corrigió el trato."
+  },
+  {
+   "id": 1187,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La soa del kiosco me fió el pan porque andaba sin plata.",
+   "frase_neutralizada": "La señora del quiosco me vendió el pan a crédito porque no tenía dinero.",
+   "nota": "No incluía la expresión y la puntuación era errónea."
+  },
+  {
+   "id": 1188,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oiga, soa, ¿no ha visto un aro de oro que se me cayó por aquí?",
+   "frase_neutralizada": "Oiga, señora, ¿no ha visto un arete de oro que se me cayó por aquí?",
+   "nota": "No incluía 'soa'; se dejó más natural."
+  },
+  {
+   "id": 1189,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Disculpe, soa Carmen, pero no voy a poder ir al cumpleaños de su hija.",
+   "frase_neutralizada": "Disculpe, señora Carmen, pero no voy a poder ir al cumpleaños de su hija.",
+   "nota": "No incluía la expresión; se agregó."
+  },
+  {
+   "id": 1190,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te dije que no te subieras al techo, así que sóbate pa callao no más.",
+   "frase_neutralizada": "Te dije que no te subieras al techo, así que ahora aguántate y no te quejes.",
+   "nota": "No incluía la expresión y no tenía sentido."
+  },
+  {
+   "id": 1191,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te caíste de la bici por andar sin manos? Sóbate pa callado, po.",
+   "frase_neutralizada": "¿Te caíste de la bicicleta por andar sin manos? Pues aguántate y no te quejes.",
+   "nota": "La versión neutral cambiaba el significado."
+  },
+  {
+   "id": 1192,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te pegaste con la puerta del auto, sóbate pa callao y súbete luego.",
+   "frase_neutralizada": "Te golpeaste con la puerta del auto; aguántate, no te quejes y súbete rápido.",
+   "nota": "No incluía la expresión y la frase era incoherente."
+  },
+  {
+   "id": 1193,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te quemaste con la olla por no usar el paño, sóbate pa callao, amiga.",
+   "frase_neutralizada": "Te quemaste con la olla por no usar el trapo; aguántate y no te quejes, amiga.",
+   "nota": "El sentido estaba mal: no se trataba de un golpe merecido."
+  },
+  {
+   "id": 1194,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Te mordió el perro? Si te dije que no lo molestarai, sóbate pa callao.",
+   "frase_neutralizada": "¿Te mordió el perro? Te dije que no lo molestaras; ahora aguántate y no te quejes.",
+   "nota": "Se la decía a un perro y la culpa no correspondía."
+  },
+  {
+   "id": 1195,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde que sus papás se fueron de viaje, al Nico se le soltaron las trenzas y carretea todos los días.",
+   "frase_neutralizada": "Desde que sus padres se fueron de viaje, Nicolás se desató y sale de fiesta todos los días.",
+   "nota": "No incluía la expresión y tenía errores gramaticales."
+  },
+  {
+   "id": 1196,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi prima vivió encerrada con la abuela, pero se fue a Santiago y se le soltaron las trenzas.",
+   "frase_neutralizada": "Mi prima vivió encerrada con la abuela, pero se fue a Santiago y se desató por completo.",
+   "nota": "No incluía la expresión; se escribió un caso nuevo."
+  },
+  {
+   "id": 1197,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Apenas terminó con el pololo celoso, a la Sofi se le soltaron las trenzas.",
+   "frase_neutralizada": "En cuanto terminó con el novio celoso, Sofía se desató por completo.",
+   "nota": "Copiaba casi igual el ejemplo del diccionario; se cambió el contexto."
+  },
+  {
+   "id": 1198,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Como el jefe nuevo no vigila a nadie, a todos en la oficina se les soltaron las trenzas.",
+   "frase_neutralizada": "Como el jefe nuevo no vigila a nadie, todos en la oficina se desataron.",
+   "nota": "No incluía la expresión; se escribió una situación nueva."
+  },
+  {
+   "id": 1199,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "A mi hijo se le soltaron las trenzas cuando salió del colegio y se fue a vivir solo.",
+   "frase_neutralizada": "Mi hijo se desató cuando terminó la escuela y se fue a vivir solo.",
+   "nota": "El tiempo verbal no era natural y la neutral era agramatical."
+  }
+ ]
+}

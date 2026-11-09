@@ -1,0 +1,94 @@
+{
+ "lote": 100,
+ "claves": [
+  "me tinca",
+  "mear"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.0746967,
+ "duracion_s": 27.9,
+ "pares": [
+  {
+   "id": 4000,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tinca que el Pedro anda pololeando, se lo pasa todo el día chateando con el celular.",
+   "frase_neutralizada": "Sospecho que Pedro tiene novia, se pasa todo el día chateando con el celular.",
+   "nota": "No contenía la expresión; nueva frase con sentido de sospecha."
+  },
+  {
+   "id": 4001,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tinca estudiar en la casa pa'l examen, en la biblioteca hay mucho ruido.",
+   "frase_neutralizada": "Me parece mejor estudiar en casa para el examen, en la biblioteca hay mucho ruido.",
+   "nota": "Situación poco natural; se ajustó contexto y se agregó rasgo chileno."
+  },
+  {
+   "id": 4002,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me tinca almorzar en ese restorán, se ve medio cochino.",
+   "frase_neutralizada": "No me convence almorzar en ese restaurante, se ve algo sucio.",
+   "nota": "Frase chilena poco natural y neutral cambiaba el sentido."
+  },
+  {
+   "id": 4003,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tinca que el Juan fue el que se robó el auto, andaba súper nervioso.",
+   "frase_neutralizada": "Sospecho que Juan fue el que robó el auto, estaba muy nervioso.",
+   "nota": "Neutral agramatical («Me sospecho»); corregido y frase más natural."
+  },
+  {
+   "id": 4004,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me tinca que el partido va a terminar empatado, los dos equipos están súper parejos.",
+   "frase_neutralizada": "Me parece que el partido va a terminar empatado, los dos equipos están muy parejos.",
+   "nota": "Futuro poco coloquial; se naturalizó y amplió contexto."
+  },
+  {
+   "id": 4005,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estábamos en la fila del cine y al Jorge le dieron ganas de mear, así que perdimos el puesto.",
+   "frase_neutralizada": "Estábamos en la fila del cine y a Jorge le dieron ganas de orinar, así que perdimos el lugar.",
+   "nota": "Frase plana; se dio contexto más natural y chileno."
+  },
+  {
+   "id": 4006,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Ana le dijo al Tomás que fuera a mear antes de salir, que el viaje era largo po.",
+   "frase_neutralizada": "Ana le dijo a Tomás que fuera a orinar antes de salir, porque el viaje era largo.",
+   "nota": "Se agregó contexto y rasgos chilenos; neutral sin muletillas."
+  },
+  {
+   "id": 4007,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿quién se meó en el baño y no tiró la cadena? Qué asco, ctm.",
+   "frase_neutralizada": "Oye, ¿quién orinó en el baño y no tiró la cadena? Qué asco, mierda.",
+   "nota": "Frase incoherente y neutral suavizaba groserías; definiciones 1 y 2 fusionadas."
+  },
+  {
+   "id": 4008,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estaba en plena reunión de pega y me andaba meando, pero el jefe no paraba de hablar.",
+   "frase_neutralizada": "Estaba en plena reunión de trabajo y tenía muchas ganas de orinar, pero el jefe no paraba de hablar.",
+   "nota": "Se cambió a primera persona más natural con «pega»."
+  },
+  {
+   "id": 4009,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, deja de mear en la muralla, weón, que viene el paco.",
+   "frase_neutralizada": "Ya, deja de orinar en la pared, tonto, que viene el policía.",
+   "nota": "Frase sin sentido y «por favor» inventado; nueva situación coloquial."
+  }
+ ]
+}

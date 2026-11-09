@@ -1,0 +1,340 @@
+{
+ "lote": 30,
+ "claves": [
+  "sonao",
+  "sopeado",
+  "sopeao",
+  "sopiao",
+  "soplame este ojo",
+  "soy entero echizo",
+  "su tonto",
+  "subirse por el chorro"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24007699999999996,
+ "duracion_s": 84.3,
+ "pares": [
+  {
+   "id": 1200,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esta torta está soñá, es la mejor que he probado en mi vida.",
+   "frase_neutralizada": "Este pastel está buenísimo, es el mejor que he probado en mi vida.",
+   "nota": "No incluía la expresión; se añadió 'soñá' y se cambió torta por pastel."
+  },
+  {
+   "id": 1201,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Un fin de semana en la playa sería soñao, po.",
+   "frase_neutralizada": "Un fin de semana en la playa sería ideal.",
+   "nota": "No incluía la expresión; ahora la usa con el sentido de deseado."
+  },
+  {
+   "id": 1202,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este restorán de comida chilena es soñao, tenís que venir conmigo.",
+   "frase_neutralizada": "Este restaurante de comida chilena es buenísimo, tienes que venir conmigo.",
+   "nota": "La neutral añadía información; se ajustó y se agregó contexto natural."
+  },
+  {
+   "id": 1203,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué regalito más soñao me trajiste, gracias!",
+   "frase_neutralizada": "¡Qué regalo tan maravilloso me trajiste, gracias!",
+   "nota": "'Es un soñao' no es natural; se usa como adjetivo."
+  },
+  {
+   "id": 1204,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi pega nueva está soñá: trabajo desde la casa y pagan bien.",
+   "frase_neutralizada": "Mi nuevo trabajo es ideal: trabajo desde casa y pagan bien.",
+   "nota": "La original no tenía la expresión ni relación con el sentido."
+  },
+  {
+   "id": 1205,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y por qué llegaste tan sopeado a la fiesta? ¿Viniste corriendo?",
+   "frase_neutralizada": "¿Y por qué llegaste tan sudado a la fiesta? ¿Viniste corriendo?",
+   "nota": "Faltaban signos de interrogación; se hizo más natural."
+  },
+  {
+   "id": 1206,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después de la caminata al cerro quedé entero sopeado.",
+   "frase_neutralizada": "Después de la caminata a la colina quedé completamente sudado.",
+   "nota": "'Me sentí sopeado' es poco natural; se cambió a 'quedé entero sopeado'."
+  },
+  {
+   "id": 1207,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con este calor, ¿cómo no vai a andar todo sopeado?",
+   "frase_neutralizada": "Con este calor, ¿cómo no vas a estar todo sudado?",
+   "nota": "'Es el verano' sonaba forzado; se reformuló de forma natural."
+  },
+  {
+   "id": 1208,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pasé una hora en la micro sin aire y me bajé todo sopeado.",
+   "frase_neutralizada": "Pasé una hora en el autobús sin aire acondicionado y me bajé todo sudado.",
+   "nota": "'Como una cebolla' no tenía sentido; def 2 es igual a def 1."
+  },
+  {
+   "id": 1209,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Terminé el partido sopeado y muerto de cansancio, necesito una ducha altiro.",
+   "frase_neutralizada": "Terminé el partido sudado y muerto de cansancio, necesito una ducha de inmediato.",
+   "nota": "Se cambió 'me sentí' por 'terminé'; def 2 es igual a def 1."
+  },
+  {
+   "id": 1210,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Bailé toda la noche en el carrete y quedé sopeao enterito.",
+   "frase_neutralizada": "Bailé toda la noche en la fiesta y quedé completamente sudado.",
+   "nota": "'Pachanga' y 'hasta los pies' no eran naturales en Chile."
+  },
+  {
+   "id": 1211,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hijo llegó sopeao de la pega, se vino a pata desde el metro.",
+   "frase_neutralizada": "Mi hijo llegó sudado del trabajo, se vino caminando desde el metro.",
+   "nota": "Se quitó la redundancia 'sudado de sudor'."
+  },
+  {
+   "id": 1212,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la playa a las tres de la tarde está todo el mundo sopeao.",
+   "frase_neutralizada": "En la playa a las tres de la tarde todo el mundo está sudado.",
+   "nota": "Era agramatical y no tenía sentido."
+  },
+  {
+   "id": 1213,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La pichanga estuvo intensa, todos terminamos sopeaos.",
+   "frase_neutralizada": "El partido de fútbol estuvo intenso, todos terminamos sudados.",
+   "nota": "Se corrigió la concordancia 'muy intensa' y se hizo más natural."
+  },
+  {
+   "id": 1214,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En las mañanas el gimnasio está lleno de gente sopeá.",
+   "frase_neutralizada": "Por las mañanas el gimnasio está lleno de gente sudada.",
+   "nota": "Se corrigió la concordancia 'personas sudados'."
+  },
+  {
+   "id": 1215,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Salí a bailar y volví todo sopiao, la camisa estaba estilando.",
+   "frase_neutralizada": "Salí a bailar y volví todo sudado, la camisa estaba empapada.",
+   "nota": "Usaba 'sopiao' como sustantivo, lo que no tiene sentido."
+  },
+  {
+   "id": 1216,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo que cambiarme la polera, estoy sopiao.",
+   "frase_neutralizada": "Tengo que cambiarme la camiseta, estoy sudado.",
+   "nota": "La neutral cambiaba camiseta por camisa; se ajustó."
+  },
+  {
+   "id": 1217,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después de la corrida los cabros estaban todos sopiaos.",
+   "frase_neutralizada": "Después de la carrera los muchachos estaban todos sudados.",
+   "nota": "Se hizo más coloquial y se ajustó la neutral a 'sudados'."
+  },
+  {
+   "id": 1218,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En verano ando todo sopiao, no aguanto el calor de Santiago.",
+   "frase_neutralizada": "En verano estoy todo sudado, no aguanto el calor de Santiago.",
+   "nota": "'Es verano, siempre' era poco natural; se reformuló."
+  },
+  {
+   "id": 1219,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Subí los cinco pisos por la escalera y llegué súper sopiao a la reunión.",
+   "frase_neutralizada": "Subí los cinco pisos por la escalera y llegué muy sudado a la reunión.",
+   "nota": "Aplicaba 'sopeado' a cosas; def 2 es igual a def 1."
+  },
+  {
+   "id": 1220,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Que te sacaste un siete en todos los ramos? Sóplame este ojo.",
+   "frase_neutralizada": "¿Que sacaste la nota máxima en todas las materias? Sí, claro, no te creo.",
+   "nota": "Usaba mal 'cachai' y no se entendía."
+  },
+  {
+   "id": 1221,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Que ganaste el nacional de tenis sin entrenar nunca? Sóplame este ojo.",
+   "frase_neutralizada": "¿Que ganaste el campeonato nacional de tenis sin entrenar nunca? No te creo nada.",
+   "nota": "Se reforzó la incredulidad y se puso tilde en 'Sóplame'."
+  },
+  {
+   "id": 1222,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Tú vai a ganar el Nobel de Literatura? Sóplame este ojo, si ni leís.",
+   "frase_neutralizada": "¿Tú vas a ganar el Nobel de Literatura? No te creo, si ni siquiera lees.",
+   "nota": "La frase era rígida; se hizo coloquial y con voseo chileno."
+  },
+  {
+   "id": 1223,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Que el Pedro cocinó la cena solito? Sóplame este ojo.",
+   "frase_neutralizada": "¿Que Pedro preparó la cena él solo? No te lo creo.",
+   "nota": "La pregunta original no expresaba algo increíble y tenía error de concordancia."
+  },
+  {
+   "id": 1224,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Me vai a devolver la plata el lunes sin falta? Sóplame este ojo.",
+   "frase_neutralizada": "¿Me vas a devolver el dinero el lunes sin falta? Sí, cómo no, no te creo.",
+   "nota": "La afirmación original no era algo increíble."
+  },
+  {
+   "id": 1225,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Soy entero hechizo, te fuiste con tu polola y me dejaste botao en el parque.",
+   "frase_neutralizada": "Eres muy traicionero, te fuiste con tu novia y me dejaste abandonado en el parque.",
+   "nota": "No incluía la expresión y la neutral era incoherente."
+  },
+  {
+   "id": 1226,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, soy entero hechizo, llegaste al bar conmigo y te fuiste con los otros cabros.",
+   "frase_neutralizada": "Oye, eres muy traicionero, llegaste al bar conmigo y te fuiste con los otros muchachos.",
+   "nota": "No incluía la expresión y la neutral no tenía sentido."
+  },
+  {
+   "id": 1227,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Soy entero hechizo, compadre, me dejaste solo en el estadio por irte con tu primo.",
+   "frase_neutralizada": "Eres muy traicionero, amigo, me dejaste solo en el estadio por irte con tu primo.",
+   "nota": "No incluía la expresión y la neutral era agramatical."
+  },
+  {
+   "id": 1228,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Te fuiste con la Cami y me dejaste botá en el mall? Soy entera hechiza.",
+   "frase_neutralizada": "¿Te fuiste con Cami y me dejaste abandonada en el centro comercial? Eres muy traicionera.",
+   "nota": "No incluía la expresión; se ajustó el género."
+  },
+  {
+   "id": 1229,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Soy entero hechizo, en el concierto te perdiste con unas minas y ni avisaste.",
+   "frase_neutralizada": "Eres muy traicionero, en el concierto te fuiste con unas chicas y ni avisaste.",
+   "nota": "No incluía la expresión y la neutral era incoherente."
+  },
+  {
+   "id": 1230,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después de la pega me tomé su tonto schop bien heladito.",
+   "frase_neutralizada": "Después del trabajo me tomé una buena cerveza de barril bien fría.",
+   "nota": "Se corrigió la concordancia 'su tonto cerveza' usando un sustantivo masculino."
+  },
+  {
+   "id": 1231,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La tía me guardó su tonto pedazo de torta, quedé feliz.",
+   "frase_neutralizada": "Mi tía me guardó un buen pedazo de pastel, quedé feliz.",
+   "nota": "El registro era demasiado literario; se hizo coloquial."
+  },
+  {
+   "id": 1232,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pa' mi cumpleaños me regalaron su tonto parlante, justo el que quería.",
+   "frase_neutralizada": "Para mi cumpleaños me regalaron un excelente altavoz, justo el que quería.",
+   "nota": "Se precisó que el objeto cumple las expectativas."
+  },
+  {
+   "id": 1233,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Al almuerzo se mandó su tonto plato de porotos y quedó listo pa' trabajar.",
+   "frase_neutralizada": "En el almuerzo se comió un buen plato de frijoles y quedó listo para trabajar.",
+   "nota": "La neutral perdía el sentido de 'buen plato'; se hizo coloquial."
+  },
+  {
+   "id": 1234,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me llegó su tonto aguinaldo justo antes del dieciocho, ahora sí que salgo.",
+   "frase_neutralizada": "Me llegó un buen bono justo antes de las fiestas patrias, ahora sí que salgo.",
+   "nota": "Había error de concordancia y la neutral perdía el sentido de la expresión."
+  },
+  {
+   "id": 1235,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El jefe nuevo se subió por el chorro altiro, nos trata como si fuéramos sus sirvientes.",
+   "frase_neutralizada": "El nuevo jefe se puso prepotente de inmediato, nos trata como si fuéramos sus sirvientes.",
+   "nota": "No incluía la expresión y la neutral era incoherente."
+  },
+  {
+   "id": 1236,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya no lo aguanto, este tipo se sube por el chorro con todo el mundo.",
+   "frase_neutralizada": "Ya no lo soporto, este tipo es abusador y prepotente con todo el mundo.",
+   "nota": "Se ajustó 'en todas partes' y la neutral incluye el sentido abusivo."
+  },
+  {
+   "id": 1237,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "A estos cabros les dai un poquito de libertad y se suben por el chorro.",
+   "frase_neutralizada": "A estos muchachos les das un poco de libertad y abusan.",
+   "nota": "Era incoherente y la neutral tenía errores de concordancia."
+  },
+  {
+   "id": 1238,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Le presté el auto una vez y se subió por el chorro, ahora me lo pide todos los findes.",
+   "frase_neutralizada": "Le presté el auto una vez y abusó de mi confianza, ahora me lo pide todos los fines de semana.",
+   "nota": "Malinterpretaba el refrán; la neutral tenía 'paliza' y 'aprovechares'."
+  },
+  {
+   "id": 1239,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No te subái por el chorro, te ayudé con la tarea pero no te la voy a hacer entera.",
+   "frase_neutralizada": "No te aproveches, te ayudé con la tarea pero no te la voy a hacer completa.",
+   "nota": "Era incoherente y la neutral tenía errores verbales."
+  }
+ ]
+}

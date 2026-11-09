@@ -1,0 +1,340 @@
+{
+ "lote": 63,
+ "claves": [
+  "agarrar pal leseo",
+  "agarrar pal webeo",
+  "agarrar papa",
+  "agarrarse a chuchadas",
+  "al achunte",
+  "al peo",
+  "al seco",
+  "al tiro"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.237889,
+ "duracion_s": 81.6,
+ "pares": [
+  {
+   "id": 2520,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué malos son, agarraron pal leseo a mi primo por su acento argentino.",
+   "frase_neutralizada": "Qué malos son, se burlaron de mi primo por su acento argentino.",
+   "nota": "Corregida sintaxis forzada; neutral exageraba con exclamación y 'estos chicos'."
+  },
+  {
+   "id": 2521,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, no me sigai agarrando pal leseo por lo que tuve con tu polola.",
+   "frase_neutralizada": "Ya, no me sigas molestando por lo que tuve con tu novia.",
+   "nota": "Neutral tenía error gramatical 'sigas molestarme'; frase chilena más natural."
+  },
+  {
+   "id": 2522,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué siempre agarrai pal leseo a tu vecino porque le gusta el rap?",
+   "frase_neutralizada": "¿Por qué siempre te burlas de tu vecino porque le gusta el rap?",
+   "nota": "Quitado 'te' pronominal incorrecto y punto sobrante."
+  },
+  {
+   "id": 2523,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la once familiar todos agarraron pal leseo a mi hermano chico por lo mal que juega a la pelota.",
+   "frase_neutralizada": "En la merienda familiar todos se burlaron de mi hermano menor por lo mal que juega al fútbol.",
+   "nota": "Original incoherente ('no me olvides de') y con 'gamería' inexistente."
+  },
+  {
+   "id": 2524,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si me seguís agarrando pal leseo por no juntarme con tus amigos, me voy.",
+   "frase_neutralizada": "Si me sigues molestando por no juntarme con tus amigos, me voy.",
+   "nota": "Futuro 'agarrarás' poco natural; reformulada como condición coloquial."
+  },
+  {
+   "id": 2525,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿me querís agarrar pal webeo con las mismas preguntas una y otra vez?",
+   "frase_neutralizada": "Oye, ¿me quieres fastidiar con las mismas preguntas una y otra vez?",
+   "nota": "Tuteo no chileno y 'ya sabes que' sin sentido; ajustado a pregunta."
+  },
+  {
+   "id": 2526,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya te dije que no, deja de agarrarme pal webeo.",
+   "frase_neutralizada": "Ya te dije que no, deja de molestarme.",
+   "nota": "Faltaba el complemento 'me' en la frase chilena."
+  },
+  {
+   "id": 2527,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Me estai agarrando pal webeo con ese chiste o lo decís en serio?",
+   "frase_neutralizada": "¿Me estás tomando el pelo con ese chiste o lo dices en serio?",
+   "nota": "Neutral tenía 'bromeado' y cambiaba sentido; frase reformulada natural."
+  },
+  {
+   "id": 2528,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe me agarró pal webeo toda la clase porque llegué con el pelo verde.",
+   "frase_neutralizada": "El profesor se estuvo burlando de mí toda la clase porque llegué con el pelo verde.",
+   "nota": "Original incoherente; neutral inventaba información sobre privacidad."
+  },
+  {
+   "id": 2529,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Otra vez con lo mismo? ¿Me querís agarrar pal webeo o qué?",
+   "frase_neutralizada": "¿Otra vez con lo mismo? ¿Me quieres fastidiar o qué?",
+   "nota": "Original contradictorio ('ya no me quieres'); ahora ilustra insistencia molesta."
+  },
+  {
+   "id": 2530,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, deja de agarrar papa, te presté el auto por un día, no por una semana.",
+   "frase_neutralizada": "Ya, deja de aprovecharte, te presté el auto por un día, no por una semana.",
+   "nota": "Añadido contexto para que el sentido de aprovecharse sea claro."
+  },
+  {
+   "id": 2531,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le dimos permiso para salir un rato y agarró papa: llegó a las cinco de la mañana.",
+   "frase_neutralizada": "Le dimos permiso para salir un rato y se aprovechó: llegó a las cinco de la mañana.",
+   "nota": "Original repetía 2530 sin contexto ni naturalidad."
+  },
+  {
+   "id": 2532,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El jefe te dio un día libre, no agarrís papa pidiéndole otro.",
+   "frase_neutralizada": "El jefe te dio un día libre, no te aproveches pidiéndole otro.",
+   "nota": "Original sin sentido claro ('ponerme en serio'); nueva situación."
+  },
+  {
+   "id": 2533,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Los cabros agarraron papa con el tema de los viajes y estuvieron toda la noche hablando de eso.",
+   "frase_neutralizada": "Los muchachos se entusiasmaron con el tema de los viajes y estuvieron toda la noche hablando de eso.",
+   "nota": "Sujeto incorrecto ('me agarró papa'); neutral cambiaba significado."
+  },
+  {
+   "id": 2534,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El cabro agarró papa con la guitarra nueva y se quedó tocando todo el día.",
+   "frase_neutralizada": "El chico se entusiasmó con la guitarra nueva y se quedó tocando todo el día.",
+   "nota": "'Se enamoró' exageraba; 'muchacho' cambiado por 'cabro' más chileno."
+  },
+  {
+   "id": 2535,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los hinchas se agarraron a chuchadas afuera del estadio después del partido.",
+   "frase_neutralizada": "Los aficionados se insultaron con groserías afuera del estadio después del partido.",
+   "nota": "Usaba forma transitiva incorrecta y 'chistón' inexistente."
+  },
+  {
+   "id": 2536,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No hay pa qué agarrarse a chuchadas, conversemos como gente.",
+   "frase_neutralizada": "No hay por qué insultarse a gritos, hablemos como personas civilizadas.",
+   "nota": "Frase chilena demasiado formal; neutral perdía el matiz de insultos."
+  },
+  {
+   "id": 2537,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo y el vecino se agarraron a chuchadas por el estacionamiento.",
+   "frase_neutralizada": "Mi papá y el vecino se insultaron a gritos por el estacionamiento.",
+   "nota": "Uso transitivo incorrecto; la expresión es recíproca."
+  },
+  {
+   "id": 2538,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la reunión de apoderados dos mamás se agarraron a chuchadas y tuvo que meterse la directora.",
+   "frase_neutralizada": "En la reunión de padres dos mamás se insultaron con groserías y tuvo que intervenir la directora.",
+   "nota": "Uso transitivo erróneo; neutral 'molesten' no correspondía al sentido."
+  },
+  {
+   "id": 2539,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer en el centro unos cabros se agarraron a chuchadas y se armó la media escoba.",
+   "frase_neutralizada": "Ayer en el centro unos muchachos se insultaron a gritos y se armó un gran escándalo.",
+   "nota": "Faltaba el 'se' recíproco; neutral decía 'pelearon' sin insultos."
+  },
+  {
+   "id": 2540,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No tenía idea qué carta tirar, así que elegí una al achunte no más.",
+   "frase_neutralizada": "No tenía idea de qué carta jugar, así que elegí una al azar.",
+   "nota": "Frase más natural; neutral añadía información innecesaria."
+  },
+  {
+   "id": 2541,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No sabía qué micro me servía, así que me subí a una al achunte.",
+   "frase_neutralizada": "No sabía qué autobús me servía, así que me subí a uno al azar.",
+   "nota": "Original contradictorio y neutral cambiaba el sentido a riesgo."
+  },
+  {
+   "id": 2542,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pal Loto siempre marco los números al achunte, nunca uso fechas de cumpleaños.",
+   "frase_neutralizada": "Para la lotería siempre marco los números al azar, nunca uso fechas de cumpleaños.",
+   "nota": "'Estudiar al achunte' no tenía sentido natural."
+  },
+  {
+   "id": 2543,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No sabía qué regalarle a mi tía, así que agarré un perfume al achunte.",
+   "frase_neutralizada": "No sabía qué regalarle a mi tía, así que tomé un perfume al azar.",
+   "nota": "Frase más natural; tiempo verbal coherente en ambas versiones."
+  },
+  {
+   "id": 2544,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No cacho ninguna canción de esa banda, voy a poner una al achunte.",
+   "frase_neutralizada": "No conozco ninguna canción de esa banda, voy a poner una al azar.",
+   "nota": "'Registro de la banda' sin sentido; neutral cambiaba el significado."
+  },
+  {
+   "id": 2545,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El maestro me pintó la pieza al peo, quedó todo manchado.",
+   "frase_neutralizada": "El pintor me pintó la habitación muy mal, quedó todo manchado.",
+   "nota": "Original no contenía la expresión."
+  },
+  {
+   "id": 2546,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El discurso del alcalde estaba al peo, puro copiar y pegar.",
+   "frase_neutralizada": "El discurso del alcalde estaba pésimo, puro copiar y pegar.",
+   "nota": "Frase explicaba la expresión; neutral omitía la mala calidad."
+  },
+  {
+   "id": 2547,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me compres esas calcomanías al peo, se despegan altiro.",
+   "frase_neutralizada": "No me compres esas calcomanías de mala calidad, se despegan enseguida.",
+   "nota": "'De mal gusto' no equivalía; ahora es mala calidad."
+  },
+  {
+   "id": 2548,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me sacaste la foto al peo, salgo con los ojos cerrados y toda movida.",
+   "frase_neutralizada": "Me tomaste la foto muy mal, salgo con los ojos cerrados y toda movida.",
+   "nota": "'De mal gusto' cambiaba sentido; añadido contexto natural."
+  },
+  {
+   "id": 2549,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hice la tarea al peo porque me quedé dormido, seguro me saco un rojo.",
+   "frase_neutralizada": "Hice la tarea muy mal porque me quedé dormido, seguro saco una nota reprobatoria.",
+   "nota": "'Hablar en público al peo' y su neutral no tenían sentido."
+  },
+  {
+   "id": 2550,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cumpleañero se tomó el schop al seco y todos lo aplaudieron.",
+   "frase_neutralizada": "El cumpleañero se tomó la cerveza de barril de un solo trago y todos lo aplaudieron.",
+   "nota": "'Llenar al seco' no es un uso real; se refiere a beber."
+  },
+  {
+   "id": 2551,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si perdís, te tomai el vaso de vino al seco, esa es la regla.",
+   "frase_neutralizada": "Si pierdes, te tomas el vaso de vino de un solo trago, esa es la regla.",
+   "nota": "Frase poco natural; 'hasta el fondo' cambiado por 'de un solo trago'."
+  },
+  {
+   "id": 2552,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Iba tan atrasado que me tomé el café al seco y salí corriendo.",
+   "frase_neutralizada": "Iba tan tarde que me tomé el café de un solo trago y salí corriendo.",
+   "nota": "Original ilógico ('no quiero despertarme') y faltaban tildes."
+  },
+  {
+   "id": 2553,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegó tan nervioso que se tomó un pisco sour al seco pa calmarse.",
+   "frase_neutralizada": "Llegó tan nervioso que se tomó un pisco sour de un solo trago para calmarse.",
+   "nota": "Frase forzada y faltaban tildes; contexto más natural."
+  },
+  {
+   "id": 2554,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Venía muerto de sed después de subir el cerro y me tomé la botella de agua al seco.",
+   "frase_neutralizada": "Venía muerto de sed después de subir el cerro y me tomé la botella de agua de un solo trago.",
+   "nota": "Original confuso ('copa de agua'); situación más clara."
+  },
+  {
+   "id": 2555,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Espérame, te llevo el almuerzo al tiro.",
+   "frase_neutralizada": "Espérame, te llevo el almuerzo enseguida.",
+   "nota": "'Voy al tiro con el almuerzo' sonaba forzado; tilde corregida."
+  },
+  {
+   "id": 2556,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Apúrate po, que no me gusta esperar, vámonos al tiro.",
+   "frase_neutralizada": "Apúrate, que no me gusta esperar, vámonos ya.",
+   "nota": "Frase más natural y coherente."
+  },
+  {
+   "id": 2557,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi jefa necesita el informe al tiro, así que no puedo salir a almorzar.",
+   "frase_neutralizada": "Mi jefa necesita el informe de inmediato, así que no puedo salir a almorzar.",
+   "nota": "Definiciones equivalentes unificadas; añadido contexto."
+  },
+  {
+   "id": 2558,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llámalo al tiro, no me vengai con que lo llamai más rato.",
+   "frase_neutralizada": "Llámalo ahora mismo, no me vengas con que lo llamas más tarde.",
+   "nota": "Tildes corregidas; frase más chilena; definiciones equivalentes unificadas."
+  },
+  {
+   "id": 2559,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se nos acabó el pan, anda al tiro al almacén antes de que cierre.",
+   "frase_neutralizada": "Se nos acabó el pan, ve enseguida a la tienda antes de que cierre.",
+   "nota": "Original casi copiaba el ejemplo del diccionario."
+  }
+ ]
+}

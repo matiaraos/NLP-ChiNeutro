@@ -1,0 +1,340 @@
+{
+ "lote": 18,
+ "claves": [
+  "quien pa",
+  "quien te echo ficha",
+  "quiltro",
+  "raja",
+  "raja de curao",
+  "rajar",
+  "rajate",
+  "rallar la papa"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2633037,
+ "duracion_s": 98.3,
+ "pares": [
+  {
+   "id": 720,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién pa' comer completos en mi casa hoy en la noche?",
+   "frase_neutralizada": "¿Quién quiere comer hot dogs en mi casa hoy en la noche?",
+   "nota": "Faltaban signos y tilde; se cambió cenar por comer completos."
+  },
+  {
+   "id": 721,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién pa' tocar guitarra conmigo en el carrete del sábado?",
+   "frase_neutralizada": "¿Quién quiere tocar guitarra conmigo en la fiesta del sábado?",
+   "nota": "Situación poco natural; se mantuvo la idea musical, más natural."
+  },
+  {
+   "id": 722,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién pa' unas chelas después de la pega?",
+   "frase_neutralizada": "¿Quién quiere tomar unas cervezas después del trabajo?",
+   "nota": "'Hacer un bote de cerveza' no tenía sentido; neutral mal traducida."
+  },
+  {
+   "id": 723,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién pa'l cine este finde? Quiero ver la de terror que estrenaron.",
+   "frase_neutralizada": "¿Quién quiere ir al cine este fin de semana? Quiero ver la película de terror que estrenaron.",
+   "nota": "Faltaban tildes y signos; se hizo más coloquial."
+  },
+  {
+   "id": 724,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Quién pa' acompañarme al matrimonio de mi prima el sábado?",
+   "frase_neutralizada": "¿Quién quiere acompañarme a la boda de mi prima el sábado?",
+   "nota": "Se usó 'matrimonio', término chileno; se agregaron tildes."
+  },
+  {
+   "id": 725,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿y a ti quién te echó ficha? Estábamos hablando la Cata y yo.",
+   "frase_neutralizada": "Oye, ¿y a ti quién te pidió opinión? Estábamos hablando Cata y yo.",
+   "nota": "Uso incorrecto y neutral con otro significado."
+  },
+  {
+   "id": 726,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Quién te echó ficha a ti? Esto es entre mi hermano y yo, no te metai.",
+   "frase_neutralizada": "¿Quién te pidió opinión a ti? Esto es entre mi hermano y yo, no te metas.",
+   "nota": "Expresión usada como vocativo, sin sentido; neutral perdía el significado."
+  },
+  {
+   "id": 727,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegó el compadre a meterse en la conversa y le dije: ¿quién te echó ficha?",
+   "frase_neutralizada": "Llegó el tipo a meterse en la conversación y le dije: ¿quién te pidió opinión?",
+   "nota": "Expresión usada como sustantivo, agramatical."
+  },
+  {
+   "id": 728,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cállate, ¿quién te echó ficha? Si tú ni sabís de lo que estamos hablando.",
+   "frase_neutralizada": "Cállate, ¿quién te pidió opinión? Si tú ni sabes de lo que estamos hablando.",
+   "nota": "Expresión mal insertada; neutral omitía su sentido."
+  },
+  {
+   "id": 729,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe estaba retando al Diego y la sapa de la Vale saltó; ¿quién le echó ficha?",
+   "frase_neutralizada": "El profesor estaba regañando a Diego y la entrometida de Vale se metió; ¿quién le pidió opinión?",
+   "nota": "Frase incoherente; defs 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 730,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo un quiltro en la casa que se llama Coco, es súper regalón.",
+   "frase_neutralizada": "Tengo un perro mestizo en casa que se llama Coco, es muy cariñoso.",
+   "nota": "'Pero' sin sentido; 'perro mestizo' es más natural."
+  },
+  {
+   "id": 731,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cachaste el quiltro que adoptó la vecina? Es igualito a un zorro.",
+   "frase_neutralizada": "¿Viste el perro mestizo que adoptó la vecina? Es igualito a un zorro.",
+   "nota": "Discordancia de género y cambio de 'la vecina' a 'tu vecina'."
+  },
+  {
+   "id": 732,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi primo recogió un quiltro de la calle y le puso Bubi.",
+   "frase_neutralizada": "Mi primo recogió un perro mestizo de la calle y le puso Bubi.",
+   "nota": "Discordancia 'lo llaman/lo llama'; se dio más contexto."
+  },
+  {
+   "id": 733,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué lindo el quiltro que anda dando vueltas por la plaza, ¿será de alguien?",
+   "frase_neutralizada": "Qué lindo el perro mestizo que anda dando vueltas por la plaza, ¿tendrá dueño?",
+   "nota": "Sintaxis forzada; se naturalizó."
+  },
+  {
+   "id": 734,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Siempre he tenido quiltros, nunca me ha tincado comprar perros de raza.",
+   "frase_neutralizada": "Siempre he tenido perros mestizos, nunca me ha interesado comprar perros de raza.",
+   "nota": "'A' sobrante; frase más natural."
+  },
+  {
+   "id": 735,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me caí en la micro y me pegué en la raja, todavía me duele.",
+   "frase_neutralizada": "Me caí en el autobús y me golpeé el culo, todavía me duele.",
+   "nota": "Frase poco natural; se mantuvo registro vulgar."
+  },
+  {
+   "id": 736,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Lo pasamos la raja en el viaje al sur con los cabros.",
+   "frase_neutralizada": "Lo pasamos genial en el viaje al sur con los muchachos.",
+   "nota": "Frase incoherente y 'trasera' incorrecto; se cubrió sentido de pasarlo bien."
+  },
+  {
+   "id": 737,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Después del turno de doce horas quedé raja, me voy a acostar altiro.",
+   "frase_neutralizada": "Después del turno de doce horas quedé agotado, me voy a acostar enseguida.",
+   "nota": "Neutral cambiaba la estructura; se agregó contexto."
+  },
+  {
+   "id": 738,
+   "accion": "reescrito",
+   "def": 6,
+   "frase_chilena": "Qué raja tuviste, ganaste el celular en la rifa con un solo número.",
+   "frase_neutralizada": "Qué suerte tuviste, ganaste el celular en la rifa con un solo boleto.",
+   "nota": "Frase forzada; se cubrió el sentido de suerte."
+  },
+  {
+   "id": 739,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llevo ocho horas sentado en el bus, ya no me siento la raja.",
+   "frase_neutralizada": "Llevo ocho horas sentado en el autobús, ya no siento el culo.",
+   "nota": "'Trasera' y 'mina' quedaban; defs 1 y 3 son iguales."
+  },
+  {
+   "id": 740,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche el Pancho quedó raja de curao y tuvimos que llevarlo en taxi a la casa.",
+   "frase_neutralizada": "Anoche Pancho quedó completamente borracho y tuvimos que llevarlo en taxi a su casa.",
+   "nota": "No contenía la expresión y era incoherente."
+  },
+  {
+   "id": 741,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, ándate a acostar, estai raja de curao y no te podís ni parar.",
+   "frase_neutralizada": "Ya, vete a acostar, estás completamente borracho y ni siquiera puedes ponerte de pie.",
+   "nota": "Frase incoherente; 'bebida' no es neutro para ebrio."
+  },
+  {
+   "id": 742,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si seguís tomando así, vai a terminar en la posta raja de curao.",
+   "frase_neutralizada": "Si sigues bebiendo así, vas a terminar en urgencias completamente borracho.",
+   "nota": "Contexto poco natural; 'muy bebido' se cambió por borracho."
+  },
+  {
+   "id": 743,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegó raja de curao al matrimonio y se puso a bailar arriba de la mesa.",
+   "frase_neutralizada": "Llegó completamente borracho a la boda y se puso a bailar encima de la mesa.",
+   "nota": "Aplicaba la expresión a una noche, no a una persona."
+  },
+  {
+   "id": 744,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Toda la gente del carrete estaba raja de curao, así que mejor nos fuimos a la casa.",
+   "frase_neutralizada": "Todos en la fiesta estaban completamente borrachos, así que mejor nos fuimos a casa.",
+   "nota": "Aplicaba la expresión a la fiesta, no a personas."
+  },
+  {
+   "id": 745,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Vamos a comer algo? Ya, pero ahora te rajai tú, que la otra vez pagué yo.",
+   "frase_neutralizada": "¿Vamos a comer algo? Bueno, pero ahora invitas tú, que la otra vez pagué yo.",
+   "nota": "Se usa pronominal 'rajarse'; 'tú rajas' no es natural."
+  },
+  {
+   "id": 746,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hagamos un asado el sábado, mi viejo dijo que se rajaba con la carne.",
+   "frase_neutralizada": "Hagamos una parrillada el sábado, mi papá dijo que él pagaba la carne.",
+   "nota": "Frase incoherente; se reescribió con uso pronominal correcto."
+  },
+  {
+   "id": 747,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Vamos al estadio el domingo? Yo me rajo con las entradas.",
+   "frase_neutralizada": "¿Vamos al estadio el domingo? Yo pago las entradas.",
+   "nota": "'Yo rajo' sin pronombre no es natural."
+  },
+  {
+   "id": 748,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me rajaron en Cálculo II, así que voy a tener que tomar el ramo de nuevo.",
+   "frase_neutralizada": "Me reprobaron en Cálculo II, así que voy a tener que volver a inscribir la materia.",
+   "nota": "Se dio contexto universitario más natural."
+  },
+  {
+   "id": 749,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Si me rajan en la tesis, mi mamá me mata, te lo juro.",
+   "frase_neutralizada": "Si me reprueban la tesis, mi mamá me mata, te lo juro.",
+   "nota": "Reprobar en un debate no es uso real."
+  },
+  {
+   "id": 750,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, rájate con una botellita de vino pa' la comida, ¿ya?",
+   "frase_neutralizada": "Oye, invítanos una botellita de vino para la cena, ¿sí?",
+   "nota": "Faltaba 'con'; la neutral cambiaba el significado."
+  },
+  {
+   "id": 751,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, rájate con unas almendras pa' picar mientras vemos la película.",
+   "frase_neutralizada": "Ya, invítanos unas almendras para picar mientras vemos la película.",
+   "nota": "Faltaba 'con' y 'no te pierdas' no tenía sentido."
+  },
+  {
+   "id": 752,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te ganaste un bono, así que rájate con unas pizzas pa' todos po.",
+   "frase_neutralizada": "Te ganaste un bono, así que invítanos unas pizzas a todos.",
+   "nota": "No implicaba compra para el grupo."
+  },
+  {
+   "id": 753,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai cagado, rájate con un six de chelas pa'l carrete.",
+   "frase_neutralizada": "No seas tacaño, invítanos un paquete de seis cervezas para la fiesta.",
+   "nota": "'Rajates' agramatical; neutral cambiaba el sentido."
+  },
+  {
+   "id": 754,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, si cumpliste años, rájate con una torta pa' la oficina po.",
+   "frase_neutralizada": "Oye, si cumpliste años, invítanos un pastel en la oficina.",
+   "nota": "Comprar un LP para sí no involucra al grupo."
+  },
+  {
+   "id": 755,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cachai que el Felipe ralló la papa cuando vio a la polola con el ex? Le tiró el celular al suelo.",
+   "frase_neutralizada": "¿Sabes que Felipe perdió la cabeza cuando vio a su novia con su ex? Le tiró el celular al suelo.",
+   "nota": "Sintaxis forzada; se naturalizó con chilenismos."
+  },
+  {
+   "id": 756,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estai rallando la papa, nadie está hablando mal de ti, son puros inventos tuyos.",
+   "frase_neutralizada": "Estás delirando, nadie está hablando mal de ti, son solo inventos tuyos.",
+   "nota": "Sentido incorrecto y la neutral omitía la expresión."
+  },
+  {
+   "id": 757,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Deja de rallar la papa, ¿cómo vai a renunciar a la pega pa' irte a vivir a una isla?",
+   "frase_neutralizada": "Deja de decir locuras, ¿cómo vas a renunciar al trabajo para irte a vivir a una isla?",
+   "nota": "'Te ralles' no es natural; la neutral usaba voseo rioplatense."
+  },
+  {
+   "id": 758,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando la Jose se entere de lo que hiciste, va a rallar la papa, te lo aseguro.",
+   "frase_neutralizada": "Cuando Jose se entere de lo que hiciste, se va a volver loca, te lo aseguro.",
+   "nota": "La neutral omitía la expresión; defs 1 y 2 son iguales."
+  },
+  {
+   "id": 759,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vecino ralló la papa y anda acusando a todos de robarle las gallinas.",
+   "frase_neutralizada": "El vecino se volvió loco y anda acusando a todos de robarle las gallinas.",
+   "nota": "La neutral omitía la expresión; se dio contexto."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 1,
+ "claves": [
+  "chancacazo",
+  "chanta",
+  "chanta la moto",
+  "chantar el pate",
+  "chape",
+  "chaqueta",
+  "charcha",
+  "charchazo"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23942770000000002,
+ "duracion_s": 86.9,
+ "pares": [
+  {
+   "id": 40,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te pegaste tremendo chancacazo con la puerta, ¿estái bien?",
+   "frase_neutralizada": "Te diste un golpe muy fuerte con la puerta, ¿estás bien?",
+   "nota": "Original incitaba a golpear perro sin sentido; nueva situación natural."
+  },
+  {
+   "id": 41,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué chancacazo le dieron a ese gallo en la pelea!",
+   "frase_neutralizada": "¡Qué golpe tan fuerte le dieron a ese hombre en la pelea!",
+   "nota": "Se añadió contexto y chilenismo 'gallo'; neutral más natural."
+  },
+  {
+   "id": 42,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El arquero se dio un chancacazo contra el palo y quedó tirado",
+   "frase_neutralizada": "El portero se dio un golpe fuerte contra el poste y quedó tendido",
+   "nota": "Golpear la pelota no es chancacazo típico; ahora choque fuerte."
+  },
+  {
+   "id": 43,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me caí de la bici y me di un chancacazo en la rodilla, po",
+   "frase_neutralizada": "Me caí de la bicicleta y me di un golpe fuerte en la rodilla",
+   "nota": "Original incoherente; nueva frase sobre caída."
+  },
+  {
+   "id": 44,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Escuché un chancacazo afuera; parece que chocaron dos autos",
+   "frase_neutralizada": "Escuché un golpe fuerte afuera; parece que chocaron dos autos",
+   "nota": "Original sin sentido y neutral agramatical."
+  },
+  {
+   "id": 45,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vendedor era terrible chanta, me juró que el auto no tenía ni un choque",
+   "frase_neutralizada": "El vendedor era muy mentiroso, me juró que el auto no había tenido ningún choque",
+   "nota": "Neutral cambiaba sentido ('dice todo lo contrario'); se evitó copiar ejemplo."
+  },
+  {
+   "id": 46,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese gallo es entero chanta, anda diciendo que es dueño de la empresa y es junior",
+   "frase_neutralizada": "Ese tipo es muy farsante, anda diciendo que es dueño de la empresa y es el mensajero",
+   "nota": "Original agramatical e incoherente; nuevo ejemplo de fanfarrón."
+  },
+  {
+   "id": 47,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Compré un cargador en la feria y salió chanta, no carga nada",
+   "frase_neutralizada": "Compré un cargador en el mercado callejero y salió de pésima calidad, no carga nada",
+   "nota": "Copiaba ejemplo del diccionario; neutral con 'mal calibre' y falta de tilde."
+  },
+  {
+   "id": 48,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Mi cuñado es entero chanta, se las da de experto en vinos y compra puro vino en caja",
+   "frase_neutralizada": "Mi cuñado es muy farsante, presume de ser experto en vinos y solo compra vino en caja",
+   "nota": "Copiaba ejemplo; neutral cambiaba sentido a 'mala calidad'."
+  },
+  {
+   "id": 49,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Las zapatillas que me compré son re chanta, se despegaron en una semana",
+   "frase_neutralizada": "Los zapatos deportivos que me compré son de muy mala calidad, se despegaron en una semana",
+   "nota": "Copiaba ejemplo del diccionario; nueva situación distinta."
+  },
+  {
+   "id": 50,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, chanta la moto, que te estái enojando por puras tonteras",
+   "frase_neutralizada": "Ya, cálmate, que te estás enojando por puras tonterías",
+   "nota": "Neutral no correspondía a la frase chilena."
+  },
+  {
+   "id": 51,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Chanta la moto, hermano, no te metái en mis cosas",
+   "frase_neutralizada": "Para, hermano, no te metas en mis asuntos",
+   "nota": "Neutral mezclaba usted/tú; se ajustó voseo chileno."
+  },
+  {
+   "id": 52,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Chanta la moto un poco, que no alcanzo a anotar todo lo que decís",
+   "frase_neutralizada": "Ve más despacio, que no alcanzo a anotar todo lo que dices",
+   "nota": "Expresión no se usaba con sentido claro; ahora pide cautela."
+  },
+  {
+   "id": 53,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Chanta la moto con el carrete, mañana tenís prueba temprano",
+   "frase_neutralizada": "Modérate con la fiesta, mañana tienes examen temprano",
+   "nota": "Def 2 tiene votos negativos; se usa sentido de moderarse."
+  },
+  {
+   "id": 54,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, chanta la moto, déjame terminar la pregunta primero",
+   "frase_neutralizada": "Oye, espera, déjame terminar la pregunta primero",
+   "nota": "Def 2 descartada por votos negativos; ahora sentido de parar."
+  },
+  {
+   "id": 55,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El loco se jactaba de que le había chantado el paté a la mina del carrete",
+   "frase_neutralizada": "El tipo presumía de que se la había metido a la chica de la fiesta",
+   "nota": "Decía 'cantarme' y neutral incoherente; se mantiene registro vulgar."
+  },
+  {
+   "id": 56,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esta noche le voy a chantar el paté a mi polola, si no se queda dormida",
+   "frase_neutralizada": "Esta noche se la voy a meter a mi novia, si no se queda dormida",
+   "nota": "Frase incoherente; neutral perdía registro vulgar."
+  },
+  {
+   "id": 57,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, deja de pensar en chantarle el paté a cuanta mina ves",
+   "frase_neutralizada": "Oye, deja de pensar en metérsela a cada chica que ves",
+   "nota": "No contenía la expresión; defs 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 58,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llevaban dos citas y él ya quería chantarle el paté",
+   "frase_neutralizada": "Llevaban dos citas y él ya quería metérsela",
+   "nota": "No contenía la expresión; frase sin sentido."
+  },
+  {
+   "id": 59,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche no alcancé a chantarle el paté porque llegó la mamá de ella",
+   "frase_neutralizada": "Anoche no alcancé a metérsela porque llegó su mamá",
+   "nota": "Decía 'cantarte'; def 3 es broma, se usa sentido general."
+  },
+  {
+   "id": 60,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En Valdivia el patio se llena de chapes cuando llueve, hay que mirar dónde pisái",
+   "frase_neutralizada": "En Valdivia el patio se llena de babosas cuando llueve, hay que mirar dónde pisas",
+   "nota": "Chape es babosa, no caracol comestible."
+  },
+  {
+   "id": 61,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "¿Me prestái un chape? Ando con el pelo todo desordenado",
+   "frase_neutralizada": "¿Me prestas una goma para el pelo? Ando con el pelo todo desordenado",
+   "nota": "Comer babosas no es natural; se cubre sentido de elástico."
+  },
+  {
+   "id": 62,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi ex es un chape, me escribe todos los días aunque no le contesto",
+   "frase_neutralizada": "Mi ex es muy insistente, me escribe todos los días aunque no le contesto",
+   "nota": "Frase poco natural; neutral con adverbio forzado."
+  },
+  {
+   "id": 63,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No seái chape, ya te dije que no voy a ir al carrete",
+   "frase_neutralizada": "No seas tan insistente, ya te dije que no voy a ir a la fiesta",
+   "nota": "Se dio contexto real de insistencia y voseo chileno."
+  },
+  {
+   "id": 64,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Si seguí molestando a tu hermana te voy a dar un chape, ¿ah?",
+   "frase_neutralizada": "Si sigues molestando a tu hermana te voy a dar un coscorrón, ¿eh?",
+   "nota": "'Golpiza' exageraba; chape es golpe leve en la cabeza."
+  },
+  {
+   "id": 65,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Supiste que la Jenny quedó chaqueta? Tiene puros diecisiete",
+   "frase_neutralizada": "¿Supiste que Jenny quedó embarazada? Tiene apenas diecisiete",
+   "nota": "Original con pronombre agramatical 'te quedaste'."
+  },
+  {
+   "id": 66,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La mina quedó chaqueta y el loco se hizo humo altiro",
+   "frase_neutralizada": "La chica quedó embarazada y el tipo desapareció de inmediato",
+   "nota": "Usaba 'chaqueta' como prenda; neutral incoherente."
+  },
+  {
+   "id": 67,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me digái que tu polola quedó chaqueta, weón",
+   "frase_neutralizada": "No me digas que tu novia quedó embarazada, hombre",
+   "nota": "'Se quedó' antinatural; se añadieron rasgos chilenos."
+  },
+  {
+   "id": 68,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La vecina anda contando que quedó chaqueta de nuevo, ya van cuatro cabros chicos",
+   "frase_neutralizada": "La vecina anda contando que quedó embarazada otra vez, ya van cuatro niños",
+   "nota": "'Mira cómo se quedó' no tenía sentido."
+  },
+  {
+   "id": 69,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuídate po, mira que si la mina queda chaqueta vai a tener que trabajar",
+   "frase_neutralizada": "Cuídate, mira que si la chica queda embarazada vas a tener que trabajar",
+   "nota": "Situación repetida; 'mina' sin neutralizar bien; nuevo contexto."
+  },
+  {
+   "id": 70,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La pintura que hizo el maestro quedó charcha, se ven todas las manchas",
+   "frase_neutralizada": "La pintura que hizo el obrero quedó muy mal, se ven todas las manchas",
+   "nota": "Copiaba ejemplo; 'Oye' traducido como 'Hola'; 'pareció' cambiaba sentido."
+  },
+  {
+   "id": 71,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi disertación quedó charcha, se me olvidó la mitad",
+   "frase_neutralizada": "Mi exposición me salió muy mal, se me olvidó la mitad",
+   "nota": "Copiaba ejemplo; neutral cambiaba 'quedó' por 'pareció'."
+  },
+  {
+   "id": 72,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "¿Cachaste lo que dijo el ministro en la tele? Qué charcha, nada que ver",
+   "frase_neutralizada": "¿Viste lo que dijo el ministro en la tele? Qué ridículo, no tiene ningún sentido",
+   "nota": "No contenía la expresión y era incoherente."
+  },
+  {
+   "id": 73,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La película estuvo media charcha, esperaba mucho más",
+   "frase_neutralizada": "La película estuvo bastante mediocre, esperaba mucho más",
+   "nota": "Def 4 con votos negativos y otra palabra; se usa def 2."
+  },
+  {
+   "id": 74,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Este celular es charcha, se le acaba la batería al tiro",
+   "frase_neutralizada": "Este celular es de mala calidad, se le acaba la batería enseguida",
+   "nota": "Repetía situación del almuerzo; nueva situación de baja calidad."
+  },
+  {
+   "id": 75,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si me seguís faltando el respeto te voy a dar un charchazo",
+   "frase_neutralizada": "Si me sigues faltando al respeto te voy a dar una bofetada",
+   "nota": "Neutral cambiaba sentido a 'temblar'; frase incoherente."
+  },
+  {
+   "id": 76,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se pasó de listo y el papá le pegó un charchazo en la nuca",
+   "frase_neutralizada": "Se pasó de listo y su papá le dio un manotazo en la nuca",
+   "nota": "'Chilén' inexistente; golpe debe ser en cara o cabeza."
+  },
+  {
+   "id": 77,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El perro se subió a la mesa y la abuela le dio un charchazo",
+   "frase_neutralizada": "El perro se subió a la mesa y la abuela le dio un manotazo",
+   "nota": "Frase poco natural; se precisa golpe con la mano."
+  },
+  {
+   "id": 78,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le dijo algo grosero a la mina y ella le respondió con un charchazo",
+   "frase_neutralizada": "Le dijo algo grosero a la chica y ella le respondió con una bofetada",
+   "nota": "'Hacer un charchazo' incorrecto; ahora golpe con la palma."
+  },
+  {
+   "id": 79,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Andaba molestando en la micro y un caballero le dio un charchazo",
+   "frase_neutralizada": "Andaba molestando en el autobús y un señor le dio una bofetada",
+   "nota": "Confundía charchazo con estafa; frase sin sentido."
+  }
+ ]
+}

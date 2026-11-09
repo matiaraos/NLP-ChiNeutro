@@ -1,0 +1,340 @@
+{
+ "lote": 48,
+ "claves": [
+  "ojo al charqui",
+  "ojo de trucha",
+  "once",
+  "otra cosa es con guitarra",
+  "pa que po",
+  "pachorra",
+  "pal hoyo",
+  "paleteado"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.25517850000000003,
+ "duracion_s": 93.4,
+ "pares": [
+  {
+   "id": 1920,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ojo al charqui con la mochila en la micro, que andan puros lanzas.",
+   "frase_neutralizada": "Cuidado con la mochila en el autobús, que hay muchos ladrones.",
+   "nota": "No incluía la expresión; nueva situación de estar atento."
+  },
+  {
+   "id": 1921,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ojo al charqui con las ofertas, que a veces suben los precios antes de rebajarlos.",
+   "frase_neutralizada": "Atento a las ofertas, que a veces suben los precios antes de rebajarlos.",
+   "nota": "Sentido forzado; ahora advierte sobre ofertas engañosas."
+  },
+  {
+   "id": 1922,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ojo al charqui con los cabros chicos en la plaza, que se arrancan al tiro.",
+   "frase_neutralizada": "Vigila bien a los niños en la plaza, que se escapan enseguida.",
+   "nota": "La frase no tenía sentido de vigilancia; nueva situación."
+  },
+  {
+   "id": 1923,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Ojo al charqui, que el delantero viene solo y nadie lo marca!",
+   "frase_neutralizada": "¡Atención, que el delantero viene solo y nadie lo marca!",
+   "nota": "Se hizo más natural y se quitó 'portería'."
+  },
+  {
+   "id": 1924,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ojo al charqui que la profe anda revisando los celulares, guárdalo.",
+   "frase_neutralizada": "Ten cuidado, que la profesora está revisando los celulares, guárdalo.",
+   "nota": "Frase agramatical; defs 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 1925,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No sé si me está mirando a mí o al lado, el loco es ojo de trucha.",
+   "frase_neutralizada": "No sé si me está mirando a mí o al lado, el tipo es bizco.",
+   "nota": "No contenía la expresión y copiaba el ejemplo."
+  },
+  {
+   "id": 1926,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "De chico era ojo de trucha, pero lo operaron y quedó impeque.",
+   "frase_neutralizada": "De niño era bizco, pero lo operaron y quedó perfecto.",
+   "nota": "No incluía la expresión; nueva frase."
+  },
+  {
+   "id": 1927,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la foto salí ojo de trucha, bórrala altiro po.",
+   "frase_neutralizada": "En la foto salí bizco, bórrala ahora mismo.",
+   "nota": "No incluía la expresión y era agramatical."
+  },
+  {
+   "id": 1928,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al profe de mate le decían ojo de trucha porque nunca cachábamos a quién miraba.",
+   "frase_neutralizada": "Al profesor de matemáticas le decían bizco porque nunca sabíamos a quién miraba.",
+   "nota": "Copiaba la definición; def 2 es igual a la 1."
+  },
+  {
+   "id": 1929,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi gato es medio ojo de trucha, pero es más tierno.",
+   "frase_neutralizada": "Mi gato es un poco bizco, pero es muy tierno.",
+   "nota": "Copiaba la definición y 'no hay'; nueva frase."
+  },
+  {
+   "id": 1930,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te quedai a tomar once? Compré marraquetas y palta.",
+   "frase_neutralizada": "¿Te quedas a merendar? Compré pan y aguacate.",
+   "nota": "'Hacer una once' poco natural; neutral mejorada con 'merendar'."
+  },
+  {
+   "id": 1931,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la esquina abrieron una panadería, pasemos a comprar pan pa la once.",
+   "frase_neutralizada": "En la esquina abrieron una panadería, pasemos a comprar pan para la merienda.",
+   "nota": "La neutral decía 'almuerzo', cambiando el significado."
+  },
+  {
+   "id": 1932,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hoy llego tarde de la pega, así que tomen once sin mí no más.",
+   "frase_neutralizada": "Hoy llego tarde del trabajo, así que merienden sin mí.",
+   "nota": "Once no es comida para llevar al trabajo."
+  },
+  {
+   "id": 1933,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los domingos tomamos once donde mi abuela, con queque y té.",
+   "frase_neutralizada": "Los domingos merendamos en casa de mi abuela, con bizcocho y té.",
+   "nota": "Def 2 es un chiste de rima; se usó def 1."
+  },
+  {
+   "id": 1934,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No alcancé a almorzar, así que en la once me comí como tres panes.",
+   "frase_neutralizada": "No alcancé a almorzar, así que en la merienda me comí como tres panes.",
+   "nota": "Frase sin sentido; def 2 es un chiste, se usó def 1."
+  },
+  {
+   "id": 1935,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi suegra critica cómo crío a los niños, pero otra cosa es con guitarra, que venga a hacerlo ella.",
+   "frase_neutralizada": "Mi suegra critica cómo crío a los niños, pero es más fácil decirlo que hacerlo; que venga a hacerlo ella.",
+   "nota": "No contenía la expresión; nueva situación."
+  },
+  {
+   "id": 1936,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi marido dice que cocinar es lo más fácil, pero cuando le toca, otra cosa es con guitarra.",
+   "frase_neutralizada": "Mi esposo dice que cocinar es lo más fácil, pero cuando le toca a él, ya no es tan fácil.",
+   "nota": "Expresión mal insertada; se reordenó con el sentido correcto."
+  },
+  {
+   "id": 1937,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Encontrai fácil el examen de manejo? Otra cosa es con guitarra, ya vai a ver cuando te toque.",
+   "frase_neutralizada": "¿Te parece fácil el examen de manejo? Es más fácil decirlo que hacerlo, ya vas a ver cuando te toque.",
+   "nota": "Copiaba el ejemplo y la neutral cambiaba el significado."
+  },
+  {
+   "id": 1938,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde la galería todos son técnicos, pero otra cosa es con guitarra, po.",
+   "frase_neutralizada": "Desde la tribuna todos son entrenadores, pero hacerlo uno mismo es otra historia.",
+   "nota": "No contenía la expresión; nueva situación."
+  },
+  {
+   "id": 1939,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pancho decía que hacer un asado era pan comido, pero cuando le tocó cachó que otra cosa es con guitarra.",
+   "frase_neutralizada": "Pancho decía que hacer un asado era muy fácil, pero cuando le tocó se dio cuenta de que no es tan fácil hacerlo uno mismo.",
+   "nota": "'es otra cosa es' agramatical; se aclaró la situación."
+  },
+  {
+   "id": 1940,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Te comiste el último pedazo de torta que había guardado pa mí? Pa qué po.",
+   "frase_neutralizada": "¿Te comiste el último pedazo de pastel que había guardado para mí? ¿Por qué me haces esto?",
+   "nota": "La frase no expresaba reproche por un daño recibido."
+  },
+  {
+   "id": 1941,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿subiste la foto donde salgo durmiendo? Pa qué po, si te dije que no.",
+   "frase_neutralizada": "Oye, ¿subiste la foto donde salgo durmiendo? ¿Por qué me haces esto, si te dije que no?",
+   "nota": "Frase sin sentido y neutral incoherente."
+  },
+  {
+   "id": 1942,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Pa qué po, no le contís a la Javi, que se va a poner a llorar.",
+   "frase_neutralizada": "No lo hagas, no se lo cuentes a Javi, que se va a poner a llorar.",
+   "nota": "Situación confusa y mezcla de personas en la neutral."
+  },
+  {
+   "id": 1943,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ya, pa qué po, deja de molestar al perro que te va a morder.",
+   "frase_neutralizada": "Oye, no lo hagas, deja de molestar al perro que te va a morder.",
+   "nota": "Neutral redundante; nueva situación más natural."
+  },
+  {
+   "id": 1944,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "¿Le mandaste un audio de diez minutos a tu ex? Pa qué po.",
+   "frase_neutralizada": "¿Le mandaste un mensaje de voz de diez minutos a tu ex? ¿Qué necesidad había?",
+   "nota": "Frase agramatical que explicaba el significado."
+  },
+  {
+   "id": 1945,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al equipo le faltó pachorra en el segundo tiempo, se echaron pa atrás.",
+   "frase_neutralizada": "Al equipo le faltó coraje en el segundo tiempo, se replegaron.",
+   "nota": "Usaba la palabra como interjección; neutral la omitía."
+  },
+  {
+   "id": 1946,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Cata tiene harta pachorra, le dijo al jefe en su cara que no aceptaba el recorte.",
+   "frase_neutralizada": "Cata tiene mucho carácter, le dijo al jefe en la cara que no aceptaba el recorte.",
+   "nota": "'Ser una pachorra' no se usa; neutral omitía el sentido."
+  },
+  {
+   "id": 1947,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hay que ponerle pachorra no más pa sacar este proyecto adelante.",
+   "frase_neutralizada": "Hay que ponerle coraje para sacar este proyecto adelante.",
+   "nota": "Se hizo más coloquial y natural."
+  },
+  {
+   "id": 1948,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No creo que estos cabros tengan la pachorra pa ganarle al campeón.",
+   "frase_neutralizada": "No creo que estos muchachos tengan el coraje para ganarle al campeón.",
+   "nota": "Error de modo verbal en la neutral ('tienen')."
+  },
+  {
+   "id": 1949,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me falta pachorra pa decirle a mi viejo que me salí de la U.",
+   "frase_neutralizada": "Me falta valor para decirle a mi papá que dejé la universidad.",
+   "nota": "Frase incoherente; nueva situación."
+  },
+  {
+   "id": 1950,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche no dormí nada y hoy ando pal hoyo.",
+   "frase_neutralizada": "Anoche no dormí nada y hoy estoy muerto de cansancio.",
+   "nota": "Agramatical y neutral con significado errado."
+  },
+  {
+   "id": 1951,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana tengo examen y no he estudiado nada, estoy pal hoyo.",
+   "frase_neutralizada": "Mañana tengo examen y no he estudiado nada, estoy acabado.",
+   "nota": "Neutral decía 'preparando', significado opuesto."
+  },
+  {
+   "id": 1952,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Después de la mechoneada quedé pal hoyo, me duele todo.",
+   "frase_neutralizada": "Después de la novatada quedé destrozado, me duele todo.",
+   "nota": "Sentido incorrecto de 'dejar sin ayuda'."
+  },
+  {
+   "id": 1953,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Perdimos seis a cero y el equipo quedó pal hoyo, nadie hablaba en el camarín.",
+   "frase_neutralizada": "Perdimos seis a cero y el equipo quedó destrozado, nadie hablaba en el vestuario.",
+   "nota": "Neutral 'desconcertados' no reflejaba el sentido; situación reforzada."
+  },
+  {
+   "id": 1954,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cinco turnos seguidos en la pega, quedé pal hoyo, compadre.",
+   "frase_neutralizada": "Cinco turnos seguidos en el trabajo, quedé muerto, amigo.",
+   "nota": "Neutral decía 'descansar', significado opuesto."
+  },
+  {
+   "id": 1955,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pídeme a mí no más si necesitai que te lleve al aeropuerto, soy re paleteada.",
+   "frase_neutralizada": "Pídemelo a mí si necesitas que te lleve al aeropuerto, soy muy servicial.",
+   "nota": "Frase incompleta; se agregó el favor concreto."
+  },
+  {
+   "id": 1956,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pídele las llaves al conserje, es súper paleteado y te abre altiro.",
+   "frase_neutralizada": "Pídele las llaves al conserje, es muy servicial y te abre enseguida.",
+   "nota": "Error 'Pídselo'; se dio contexto de favor."
+  },
+  {
+   "id": 1957,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La vecina de al lado es paleteada, siempre me riega las plantas cuando salgo.",
+   "frase_neutralizada": "La vecina de al lado es muy amable, siempre me riega las plantas cuando salgo.",
+   "nota": "Error 'Pídselo' y sustantivación poco natural."
+  },
+  {
+   "id": 1958,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi padrino es más paleteado, me regaló el notebook para la U.",
+   "frase_neutralizada": "Mi padrino es muy generoso, me regaló la computadora portátil para la universidad.",
+   "nota": "'Un paleteado' sustantivado poco natural."
+  },
+  {
+   "id": 1959,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Qué paleteado el Rodrigo, pagó la cuenta de todos en el bar.",
+   "frase_neutralizada": "Qué generoso Rodrigo, pagó la cuenta de todos en el bar.",
+   "nota": "Repetía situación; nueva escena de generosidad."
+  }
+ ]
+}

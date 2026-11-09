@@ -1,0 +1,340 @@
+{
+ "lote": 32,
+ "claves": [
+  "tapizado",
+  "tapizao",
+  "tay mas weon",
+  "tbt",
+  "te cociste",
+  "te faltan palos pal puente",
+  "te fuiste en la profunda",
+  "te fuiste en media la vola"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2499568,
+ "duracion_s": 92.0,
+ "pares": [
+  {
+   "id": 1280,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese loco está entero tapizao, se compró otro depto en Viña al contado.",
+   "frase_neutralizada": "Ese tipo tiene muchísimo dinero, se compró otro departamento en Viña del Mar al contado.",
+   "nota": "Hablaba de ropa con def 1; ahora ilustra dinero sin copiar ejemplo."
+  },
+  {
+   "id": 1281,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese gallo está tapizado en plata, cambia de auto todos los años.",
+   "frase_neutralizada": "Ese hombre tiene muchísimo dinero, cambia de auto todos los años.",
+   "nota": "Quité 'hasta los dientes', poco natural; neutral más clara."
+  },
+  {
+   "id": 1282,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mira al Kevin, anda entero tapizao: zapatillas Nike, polerón Adidas y jockey Gucci.",
+   "frase_neutralizada": "Mira a Kevin, va vestido de marca de pies a cabeza: zapatillas Nike, sudadera Adidas y gorra Gucci.",
+   "nota": "Grafía 'tapiza 'o' corregida; neutral ahora expresa ropa de marca."
+  },
+  {
+   "id": 1283,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La señora del lado anda tapizá en Gucci pa ir a comprar el pan.",
+   "frase_neutralizada": "La señora de al lado va vestida de Gucci de pies a cabeza para ir a comprar el pan.",
+   "nota": "Concordancia de género; neutral perdía el matiz de marca total."
+  },
+  {
+   "id": 1284,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Llegó el Juan tapizao al matrimonio, con terno y todo, se veía filete.",
+   "frase_neutralizada": "Juan llegó vestido muy elegante a la boda, con traje y todo, se veía excelente.",
+   "nota": "Copiaba el ejemplo del diccionario; nueva situación."
+  },
+  {
+   "id": 1285,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cabro chico anda tapizao en Versace, si hasta la mochila es de marca.",
+   "frase_neutralizada": "El niño va vestido de Versace de pies a cabeza, hasta la mochila es de marca.",
+   "nota": "Neutral no reflejaba 'de pies a cabeza'; frase más natural."
+  },
+  {
+   "id": 1286,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Las cabras llegaron tapizás en Balenciaga al carrete, con los logos bien a la vista.",
+   "frase_neutralizada": "Las chicas llegaron a la fiesta vestidas de Balenciaga de pies a cabeza, con los logos bien visibles.",
+   "nota": "Concordancia de género y número corregida; añadido contexto."
+  },
+  {
+   "id": 1287,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y vo' andai tapizao en Burberry? ¿Te ganaste el Loto o qué?",
+   "frase_neutralizada": "¿Y tú vas vestido de Burberry de pies a cabeza? ¿Te ganaste la lotería o qué?",
+   "nota": "Neutral cambiaba el sentido (paseo); frase chilena mal construida."
+  },
+  {
+   "id": 1288,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El jefe llegó tapizao en Armani a la reunión, puro logo por todos lados.",
+   "frase_neutralizada": "El jefe llegó a la reunión vestido de Armani de pies a cabeza, con logos por todas partes.",
+   "nota": "Frase muy escueta; neutral no expresaba la idea completa."
+  },
+  {
+   "id": 1289,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Pa qué andai tapizá en Louis Vuitton si vai a ir a la feria, po?",
+   "frase_neutralizada": "¿Para qué vas vestida de Louis Vuitton de pies a cabeza si vas a ir al mercado?",
+   "nota": "Concordancia 'tapizá'; situación más natural."
+  },
+  {
+   "id": 1290,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Prestarle plata al Pato otra vez? Tay más weón que se la voy a pasar.",
+   "frase_neutralizada": "¿Prestarle dinero a Pato otra vez? Ni loco se lo voy a prestar.",
+   "nota": "No contenía la expresión; frase sin sentido."
+  },
+  {
+   "id": 1291,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—¿Vai a estudiar el sábado? —Tay más weón, el sábado es pa carretear.",
+   "frase_neutralizada": "—¿Vas a estudiar el sábado? —Ni loco, el sábado es para salir de fiesta.",
+   "nota": "No contenía la expresión; nuevo par."
+  },
+  {
+   "id": 1292,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tay más weón que me voy a levantar a las seis pa ir al gimnasio.",
+   "frase_neutralizada": "Ni loco me voy a levantar a las seis para ir al gimnasio.",
+   "nota": "No contenía la expresión; nuevo par."
+  },
+  {
+   "id": 1293,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Que yo le pida perdón a la Cata? Tay más weón, si ella empezó.",
+   "frase_neutralizada": "¿Que yo le pida perdón a Cata? Ni loco, si ella empezó.",
+   "nota": "No contenía la expresión y era agramatical."
+  },
+  {
+   "id": 1294,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—Oye, ¿me cubrís el turno del domingo? —Tay más weón, ya tengo planes.",
+   "frase_neutralizada": "—Oye, ¿me cubres el turno del domingo? —Ni loco, ya tengo planes.",
+   "nota": "No contenía la expresión; nuevo par."
+  },
+  {
+   "id": 1295,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hoy es TBT, así que voy a subir la foto de esa cena en el japonés con los cabros.",
+   "frase_neutralizada": "Hoy es jueves del recuerdo, así que voy a publicar la foto de esa cena en el restaurante japonés con los amigos.",
+   "nota": "Neutral repetía 'recuerdo'; añadido rasgo chileno y uso típico en redes."
+  },
+  {
+   "id": 1296,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "TBT de cuando subimos el San Cristóbal a pata, ¿te acordai?",
+   "frase_neutralizada": "Jueves del recuerdo de cuando subimos el cerro San Cristóbal a pie, ¿te acuerdas?",
+   "nota": "Voseo argentino 'rememorás' y 'volcán' erróneo corregidos."
+  },
+  {
+   "id": 1297,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Subí un TBT con mi tío, el que nos enseñó a jugar a la pelota.",
+   "frase_neutralizada": "Publiqué una foto de jueves del recuerdo con mi tío, el que nos enseñó a jugar fútbol.",
+   "nota": "Neutral cambiaba 'nos' por 'me'; uso más natural de TBT."
+  },
+  {
+   "id": 1298,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, subí un TBT del carrete de fin de año y salís entero curao.",
+   "frase_neutralizada": "Oye, publiqué una foto de jueves del recuerdo de la fiesta de fin de año y sales completamente borracho.",
+   "nota": "'Día de TBT' en una fiesta no tenía sentido."
+  },
+  {
+   "id": 1299,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana hago un TBT con las fotos del Año Nuevo en La Serena, cuando bailamos hasta el amanecer.",
+   "frase_neutralizada": "Mañana publico un jueves del recuerdo con las fotos del Año Nuevo en La Serena, cuando bailamos hasta el amanecer.",
+   "nota": "'Noche de TBT' era un uso erróneo; neutral con paréntesis."
+  },
+  {
+   "id": 1300,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu vieja encontró los cigarros en tu mochila, te cociste.",
+   "frase_neutralizada": "Tu mamá encontró los cigarros en tu mochila, estás frito.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1301,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te cociste, el profe cachó que te copiaste en la prueba.",
+   "frase_neutralizada": "Te jodiste, el profesor se dio cuenta de que copiaste en el examen.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1302,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu polola vio que le diste like a la foto de tu ex, te cociste.",
+   "frase_neutralizada": "Tu novia vio que le diste me gusta a la foto de tu ex, te jodiste.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1303,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu tío se dio cuenta de que le chocaste el auto, te cociste.",
+   "frase_neutralizada": "Tu tío se dio cuenta de que le chocaste el auto, estás perdido.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1304,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegó el jefe y te pilló durmiendo en la pega, te cociste.",
+   "frase_neutralizada": "Llegó el jefe y te encontró durmiendo en el trabajo, te jodiste.",
+   "nota": "No contenía la expresión; frase agramatical."
+  },
+  {
+   "id": 1305,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Tu pololo quiere irse a pie a Valparaíso? A ese le faltan palos pal puente.",
+   "frase_neutralizada": "¿Tu novio quiere irse caminando a Valparaíso? A ese le falta un tornillo.",
+   "nota": "Interpretación literal del puente; ahora sentido de locura."
+  },
+  {
+   "id": 1306,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Vai a renunciar sin tener otra pega? Te faltan palos pal puente, weón.",
+   "frase_neutralizada": "¿Vas a renunciar sin tener otro trabajo? Estás mal de la cabeza, idiota.",
+   "nota": "Sentido equivocado (concentración) y agramatical."
+  },
+  {
+   "id": 1307,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te faltan palos pal puente si creís que te van a devolver la plata.",
+   "frase_neutralizada": "Estás mal de la cabeza si crees que te van a devolver el dinero.",
+   "nota": "Sentido equivocado (concentración)."
+  },
+  {
+   "id": 1308,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al vecino le faltan palos pal puente, anda hablando solo en la calle.",
+   "frase_neutralizada": "Al vecino le falta un tornillo, anda hablando solo por la calle.",
+   "nota": "Sentido equivocado y gramática incorrecta."
+  },
+  {
+   "id": 1309,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Salir en chalas con este frío? Te faltan palos pal puente, po.",
+   "frase_neutralizada": "¿Salir en sandalias con este frío? Estás mal de la cabeza.",
+   "nota": "Sentido equivocado (capacidad para arreglar)."
+  },
+  {
+   "id": 1310,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te fuiste en la profunda con la talla a la Javi, se puso a llorar.",
+   "frase_neutralizada": "Te pasaste con la broma a Javi, se puso a llorar.",
+   "nota": "Mezclaba persona gramatical (hermano/tú); neutral poco natural."
+  },
+  {
+   "id": 1311,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Le echaste un kilo de ají a la cazuela? Te fuiste en la profunda.",
+   "frase_neutralizada": "¿Le pusiste un kilo de picante al guiso? Te pasaste.",
+   "nota": "Contexto incoherente; neutral explicaba la definición literalmente."
+  },
+  {
+   "id": 1312,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Acusarlo con el director por una weá tan chica? Te fuiste en la profunda.",
+   "frase_neutralizada": "¿Acusarlo con el director por una tontería tan pequeña? Te excediste por completo.",
+   "nota": "Neutral copiaba la definición; añadido contexto concreto."
+  },
+  {
+   "id": 1313,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le gritaste a tu mamá delante de todos, te fuiste en la profunda.",
+   "frase_neutralizada": "Le gritaste a tu mamá delante de todos, te pasaste de la raya.",
+   "nota": "Frase vaga; neutral copiaba la definición."
+  },
+  {
+   "id": 1314,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Un iPhone pal amigo secreto? Te fuiste en la profunda, si el límite eran diez lucas.",
+   "frase_neutralizada": "¿Un iPhone para el amigo secreto? Te pasaste, si el límite eran diez mil pesos.",
+   "nota": "Neutral copiaba la definición; frase más natural."
+  },
+  {
+   "id": 1315,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te fuiste en media vola explicando la pelea con tu ex, ya nadie te pescaba.",
+   "frase_neutralizada": "Te extendiste demasiado explicando la pelea con tu ex, ya nadie te hacía caso.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1316,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la once te fuiste en media vola hablando de política y la tía se aburrió.",
+   "frase_neutralizada": "En la merienda hablaste demasiado de política y la tía se aburrió.",
+   "nota": "No contenía la expresión; neutral añadía información."
+  },
+  {
+   "id": 1317,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Weón, te fuiste en media vola con el tema de la moda, llevai una hora hablando.",
+   "frase_neutralizada": "Oye, te extendiste demasiado con el tema de la moda, llevas una hora hablando.",
+   "nota": "No contenía la expresión; frase incoherente."
+  },
+  {
+   "id": 1318,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Te fuiste en media vola pelando al jefe delante de un desconocido, imagínate si le cuenta.",
+   "frase_neutralizada": "Metiste la pata criticando al jefe delante de un desconocido, imagínate si se lo cuenta.",
+   "nota": "Frase chilena confusa; neutral añadía información inexistente."
+  },
+  {
+   "id": 1319,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Te fuiste en media vola inventándole cuentos a tu polola, ahora no te cree nada.",
+   "frase_neutralizada": "Hiciste muy mal inventándole mentiras a tu novia, ahora no te cree nada.",
+   "nota": "No contenía la expresión."
+  }
+ ]
+}

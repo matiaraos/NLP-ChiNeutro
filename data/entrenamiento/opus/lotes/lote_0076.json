@@ -1,0 +1,340 @@
+{
+ "lote": 76,
+ "claves": [
+  "cabro chico",
+  "cacha",
+  "cachita",
+  "cachai",
+  "cachativa",
+  "cachipun",
+  "cahuin",
+  "cahuinero"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24788229999999997,
+ "duracion_s": 86.9,
+ "pares": [
+  {
+   "id": 3040,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu primo es muy cabro chico pa' llevarlo al carrete, po.",
+   "frase_neutralizada": "Tu primo es muy pequeño para llevarlo a la fiesta.",
+   "nota": "'Está un cabro chico' era agramatical; se naturalizó la frase."
+  },
+  {
+   "id": 3041,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cabro chico no cacha nada de lo que estamos hablando.",
+   "frase_neutralizada": "El niño no entiende nada de lo que estamos hablando.",
+   "nota": "Error gramatical 'se entienda'; neutral más natural con 'niño'."
+  },
+  {
+   "id": 3042,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando yo era cabro chico, mi abuelo trabajaba en una fábrica de zapatos.",
+   "frase_neutralizada": "Cuando yo era niño, mi abuelo trabajaba en una fábrica de zapatos.",
+   "nota": "Sujeto ambiguo; se aclaró 'yo' y se usó 'niño'."
+  },
+  {
+   "id": 3043,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese cabro chico de la mesa del lado no tiene idea de fútbol, te lo digo yo.",
+   "frase_neutralizada": "Ese niño de la mesa de al lado no sabe nada de fútbol, te lo digo yo.",
+   "nota": "Frase poco natural; se ajustó redacción."
+  },
+  {
+   "id": 3044,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi papá todavía me trata como cabro chico y ya tengo veinte años.",
+   "frase_neutralizada": "Mi papá todavía me trata como a un niño y ya tengo veinte años.",
+   "nota": "Def 2 duplica def 1; 'este hombre es cabro chico' era incoherente."
+  },
+  {
+   "id": 3045,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cacha cómo sale el auto del estacionamiento, casi choca.",
+   "frase_neutralizada": "Mira cómo sale el auto del estacionamiento, casi choca.",
+   "nota": "Frase confusa; se dio contexto natural."
+  },
+  {
+   "id": 3046,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Había una cachá de gente en el concierto, no se podía ni caminar.",
+   "frase_neutralizada": "Había muchísima gente en el concierto, no se podía ni caminar.",
+   "nota": "Se cubre sentido de gran cantidad en vez de repetir def 1."
+  },
+  {
+   "id": 3047,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Anoche me pegué la media cacha con mi pololo.",
+   "frase_neutralizada": "Anoche tuve un sexo buenísimo con mi novio.",
+   "nota": "'Me cacha' era agramatical; se usó 'pegarse una cacha'."
+  },
+  {
+   "id": 3048,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Esos dos se fueron a echar una cacha a la playa, ni disimularon.",
+   "frase_neutralizada": "Esos dos se fueron a tener sexo a la playa, ni lo disimularon.",
+   "nota": "'Cacha' no es verbo de sexo; se usó 'echar una cacha'."
+  },
+  {
+   "id": 3049,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Mi hermano cacha caleta de programación, pregúntale a él.",
+   "frase_neutralizada": "Mi hermano sabe mucho de programación, pregúntale a él.",
+   "nota": "Errores gramaticales 'A mi hermano cacha' y 'se entiende'."
+  },
+  {
+   "id": 3050,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y si nos pegamos una cachita antes de que lleguen tus papás?",
+   "frase_neutralizada": "¿Y si tenemos sexo rapidito antes de que lleguen tus papás?",
+   "nota": "Frase pobre y registro neutral demasiado formal."
+  },
+  {
+   "id": 3051,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pancho se fue temprano del carrete porque la polola lo esperaba pa' una cachita.",
+   "frase_neutralizada": "Pancho se fue temprano de la fiesta porque la novia lo esperaba para tener sexo.",
+   "nota": "Original sin sentido y neutral agramatical."
+  },
+  {
+   "id": 3052,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me hablís de cachitas en la mesa, que está mi mamá.",
+   "frase_neutralizada": "No me hables de sexo en la mesa, que está mi mamá.",
+   "nota": "Se añadió contexto y registro informal."
+  },
+  {
+   "id": 3053,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Anoche nos pegamos una cachita y después nos quedamos dormidos al tiro.",
+   "frase_neutralizada": "Anoche tuvimos sexo y después nos quedamos dormidos enseguida.",
+   "nota": "'La noche fue una cachita' incoherente; defs 1 y 2 equivalentes."
+  },
+  {
+   "id": 3054,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy muy cansada, hoy no tengo ganas de cachita, amor.",
+   "frase_neutralizada": "Estoy muy cansada, hoy no tengo ganas de sexo, amor.",
+   "nota": "Frase incoherente; se simplificó la situación."
+  },
+  {
+   "id": 3055,
+   "accion": "corregido",
+   "def": 4,
+   "frase_chilena": "Te voy a contar algo, pero no se lo digái a nadie, ¿cachai?",
+   "frase_neutralizada": "Te voy a contar algo, pero no se lo digas a nadie, ¿entiendes?",
+   "nota": "Uso de muletilla poco natural; se mejoró contexto."
+  },
+  {
+   "id": 3056,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cachai a qué hora sale el último tren a Rancagua?",
+   "frase_neutralizada": "¿Sabes a qué hora sale el último tren a Rancagua?",
+   "nota": "Aquí 'cachai' significa 'sabes', no 'entiendes'."
+  },
+  {
+   "id": 3057,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cachai cuánto cuesta esta polera? No tiene precio.",
+   "frase_neutralizada": "¿Sabes cuánto cuesta esta camiseta? No tiene precio.",
+   "nota": "Sintaxis rota; 'cachai' como 'sabes'."
+  },
+  {
+   "id": 3058,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Cachai que se te nota altiro cuando estái mintiendo?",
+   "frase_neutralizada": "¿Te das cuenta de que se te nota enseguida cuando estás mintiendo?",
+   "nota": "Uso forzado y 'hablando la verdad' incorrecto."
+  },
+  {
+   "id": 3059,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Si apretái este botón se reinicia el compu, ¿cachai?",
+   "frase_neutralizada": "Si aprietas este botón se reinicia la computadora, ¿entiendes?",
+   "nota": "'Cachai' no encajaba con la frase original."
+  },
+  {
+   "id": 3060,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Saqué el acertijo a pura cachativa, nadie me dio la respuesta.",
+   "frase_neutralizada": "Resolví el acertijo solo con intuición, nadie me dio la respuesta.",
+   "nota": "Usaba 'caché' en vez de 'cachativa'."
+  },
+  {
+   "id": 3061,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Seba tiene buena cachativa, al tiro se dio cuenta de que el gato iba a saltar.",
+   "frase_neutralizada": "Seba tiene buen instinto, enseguida se dio cuenta de que el gato iba a saltar.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3062,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese niño tiene una cachativa impresionante, arma los legos sin mirar las instrucciones.",
+   "frase_neutralizada": "Ese niño tiene una intuición impresionante, arma los legos sin mirar las instrucciones.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3063,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Aprendí a manejar a pura cachativa, nunca fui a una escuela de conductores.",
+   "frase_neutralizada": "Aprendí a manejar solo con intuición, nunca fui a una autoescuela.",
+   "nota": "No contenía la expresión y la frase no tenía sentido."
+  },
+  {
+   "id": 3064,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pa' esta pega no basta con estudiar, hay que tener cachativa.",
+   "frase_neutralizada": "Para este trabajo no basta con estudiar, hay que tener ingenio.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3065,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué, tenís miedo? Juguemos un cachipún y el que pierde paga.",
+   "frase_neutralizada": "¿Qué, tienes miedo? Juguemos piedra, papel o tijera y el que pierde paga.",
+   "nota": "'Quieres a cachipún' agramatical."
+  },
+  {
+   "id": 3066,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Decidamos con un cachipún quién lava la loza hoy.",
+   "frase_neutralizada": "Decidamos con piedra, papel o tijera quién lava los platos hoy.",
+   "nota": "Contenía inglés ('leto's') y era incoherente."
+  },
+  {
+   "id": 3067,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la pega echamos un cachipún pa' ver quién va a comprar los cafés.",
+   "frase_neutralizada": "En el trabajo jugamos piedra, papel o tijera para ver quién va a comprar los cafés.",
+   "nota": "'Quiere a cachipún' agramatical; se dio situación real."
+  },
+  {
+   "id": 3068,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los niños se pasaron toda la tarde jugando al cachipún en el patio.",
+   "frase_neutralizada": "Los niños pasaron toda la tarde jugando piedra, papel o tijera en el patio.",
+   "nota": "'Vamos a cachipún' poco natural."
+  },
+  {
+   "id": 3069,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te gané tres veces seguidas al cachipún, siempre sacái piedra.",
+   "frase_neutralizada": "Te gané tres veces seguidas a piedra, papel o tijera, siempre sacas piedra.",
+   "nota": "Neutral usaba 'jugad' (vosotros) y frase incoherente."
+  },
+  {
+   "id": 3070,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Las vecinas ya están cahuineando sobre la separación de la Carmen.",
+   "frase_neutralizada": "Las vecinas ya están inventando chismes sobre la separación de Carmen.",
+   "nota": "Frase poco natural; se dio un tema concreto."
+  },
+  {
+   "id": 3071,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Por qué andái cahuineando que yo te dejé plantada? Si fuiste tú.",
+   "frase_neutralizada": "¿Por qué andas inventando que yo te dejé plantada? Si fuiste tú.",
+   "nota": "Usaba voseo rioplatense y sentido confuso."
+  },
+  {
+   "id": 3072,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El Jaime es súper cahuinero, no le contís nada porque lo cambia todo.",
+   "frase_neutralizada": "Jaime es muy mentiroso y chismoso, no le cuentes nada porque lo cambia todo.",
+   "nota": "Frase poco natural; se ajustó redacción."
+  },
+  {
+   "id": 3073,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "¿Supiste el cahuín que anda dando vueltas sobre la Pame y el jefe?",
+   "frase_neutralizada": "¿Supiste el chisme que anda circulando sobre Pame y el jefe?",
+   "nota": "Usaba 'chaval' (España) y tiempos incoherentes; se cubre def 4."
+  },
+  {
+   "id": 3074,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "No le creái, eso es puro cahuín pa' dejarme mal con el jefe.",
+   "frase_neutralizada": "No le creas, eso es pura mentira para dejarme mal con el jefe.",
+   "nota": "Sentido equivocado (chistes) y neutral cambiaba el significado."
+  },
+  {
+   "id": 3075,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seái cahuinero, si se pelean es problema de ellos, no te metái.",
+   "frase_neutralizada": "No seas entrometido, si se pelean es problema de ellos, no te metas.",
+   "nota": "Error gramatical 'te voy a arrepentir' y neutral incoherente."
+  },
+  {
+   "id": 3076,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Rosa es tan cahuinera que siempre termina agrandando las peleas de la oficina.",
+   "frase_neutralizada": "Rosa es tan entrometida que siempre termina agrandando las peleas de la oficina.",
+   "nota": "Se repetía 'no seas cahuinero'; neutral con errores."
+  },
+  {
+   "id": 3077,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi cuñado es terrible de cahuinero, por su culpa mi mamá y mi tía no se hablan.",
+   "frase_neutralizada": "Mi cuñado siempre anda metiendo cizaña, por su culpa mi mamá y mi tía no se hablan.",
+   "nota": "Sentido no correspondía (trabajo); neutral perdía la expresión."
+  },
+  {
+   "id": 3078,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No le contís nada al Felipe, es más cahuinero que la cresta.",
+   "frase_neutralizada": "No le cuentes nada a Felipe, es chismoso a más no poder.",
+   "nota": "Frases repetitivas; se varió la situación."
+  },
+  {
+   "id": 3079,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La vecina cahuinera le fue a contar a todo el pasaje que me echaron de la pega.",
+   "frase_neutralizada": "La vecina chismosa le fue a contar a todo el vecindario que me echaron del trabajo.",
+   "nota": "Neutral calcaba la definición; se dio situación concreta."
+  }
+ ]
+}

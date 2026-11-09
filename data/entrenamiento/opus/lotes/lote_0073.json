@@ -1,0 +1,340 @@
+{
+ "lote": 73,
+ "claves": [
+  "avispado",
+  "avispao",
+  "avisparse",
+  "avispate",
+  "aweonao",
+  "ahueonao",
+  "aweoneitor",
+  "bacan"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2496988,
+ "duracion_s": 87.1,
+ "pares": [
+  {
+   "id": 2920,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Uy, parece que aquí hay alguien bien avispado, cachó altiro la trampa.",
+   "frase_neutralizada": "Vaya, parece que aquí hay alguien muy listo, se dio cuenta enseguida de la trampa.",
+   "nota": "Frase sin contexto; agregué situación y registro coloquial."
+  },
+  {
+   "id": 2921,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranquilo po, estai con uno de los más avispados pa' los negocios.",
+   "frase_neutralizada": "Tranquilo, estás con uno de los más listos para los negocios.",
+   "nota": "«No te vayas» no tenía sentido; ajusté el contexto."
+  },
+  {
+   "id": 2922,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te riai, si yo soy la más avispada de la oficina.",
+   "frase_neutralizada": "No te rías, que yo soy la más lista de la oficina.",
+   "nota": "Añadí voseo chileno y contexto concreto."
+  },
+  {
+   "id": 2923,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El arquero es súper avispado, alcanzó a tapar el penal en el último segundo.",
+   "frase_neutralizada": "El portero tiene muy buenos reflejos, alcanzó a detener el penal en el último segundo.",
+   "nota": "Situación del luto absurda; nueva frase sobre reflejos."
+  },
+  {
+   "id": 2924,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El cabro es avispado, contestó altiro la pregunta del profe.",
+   "frase_neutralizada": "El muchacho es muy despierto, respondió de inmediato la pregunta del profesor.",
+   "nota": "Frase poco chilena; agregué chilenismos y neutral más precisa."
+  },
+  {
+   "id": 2925,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi viejo es avispao pa' los negocios, compró dólares justo antes que subieran.",
+   "frase_neutralizada": "Mi papá es astuto para los negocios, compró dólares justo antes de que subieran.",
+   "nota": "Error de concordancia; añadí ejemplo de aprovechar la oportunidad."
+  },
+  {
+   "id": 2926,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu tía es bien avispá, siempre se las arregla pa' sacar algo gratis.",
+   "frase_neutralizada": "Tu tía es muy astuta, siempre se las arregla para conseguir algo gratis.",
+   "nota": "Concordancia de género corregida (avispá)."
+  },
+  {
+   "id": 2927,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cabro que ganó el concurso fue avispao, aprovechó altiro que el otro se equivocó.",
+   "frase_neutralizada": "El chico que ganó el concurso fue astuto, aprovechó enseguida que el otro se equivocó.",
+   "nota": "Faltaba el matiz de astucia y oportunidad."
+  },
+  {
+   "id": 2928,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi sobrino es re avispao, aprendió a leer solo a los cuatro años.",
+   "frase_neutralizada": "Mi sobrino es muy listo, aprendió a leer solo a los cuatro años.",
+   "nota": "Frase forzada y neutral cambiaba «chileno» por «hispanoamericano»."
+  },
+  {
+   "id": 2929,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me encanta conversar con la Fran porque es avispá y siempre tiene buenas ideas.",
+   "frase_neutralizada": "Me encanta conversar con Fran porque es muy lista y siempre tiene buenas ideas.",
+   "nota": "Concordancia de género corregida; quité artículo ante nombre."
+  },
+  {
+   "id": 2930,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Avíspate po, que si no te bajai en la próxima se te pasa el paradero.",
+   "frase_neutralizada": "Ponte atento, que si no te bajas en la próxima te pasas de la parada.",
+   "nota": "Usaba «coger» y la neutral no correspondía."
+  },
+  {
+   "id": 2931,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Recién me avispé de que el Pedro me estuvo mintiendo todo el rato.",
+   "frase_neutralizada": "Acabo de darme cuenta de que Pedro me estuvo mintiendo todo el tiempo.",
+   "nota": "Uso incorrecto y neutral sin relación."
+  },
+  {
+   "id": 2932,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si no te avispai luego, te van a quitar el puesto en la pega.",
+   "frase_neutralizada": "Si no te pones atento pronto, te van a quitar el puesto en el trabajo.",
+   "nota": "Usaba sentido de «recordar», que es incorrecto."
+  },
+  {
+   "id": 2933,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe se avispó de que estábamos copiando y nos quitó la prueba.",
+   "frase_neutralizada": "El profesor se dio cuenta de que estábamos copiando y nos quitó el examen.",
+   "nota": "No contenía la expresión; confundía con «avisar»."
+  },
+  {
+   "id": 2934,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Menos mal que me avispé a tiempo y no firmé ese contrato chanta.",
+   "frase_neutralizada": "Menos mal que me di cuenta a tiempo y no firmé ese contrato fraudulento.",
+   "nota": "«Avíspame» confundido con avisar."
+  },
+  {
+   "id": 2935,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Avíspate, weón, que ya te toca presentar y estai pegado en el celular.",
+   "frase_neutralizada": "Ponte atento, tonto, que ya te toca presentar y estás distraído con el celular.",
+   "nota": "Usaba sentido de «recordar», incorrecto."
+  },
+  {
+   "id": 2936,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Avíspate, que te están marcando y vai a perder la pelota.",
+   "frase_neutralizada": "Ponte atento, que te están marcando y vas a perder el balón.",
+   "nota": "Frase incoherente y con errata; mantuve el contexto deportivo."
+  },
+  {
+   "id": 2937,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Avíspate, que la micro ya viene y la vamos a perder.",
+   "frase_neutralizada": "Muévete, que el autobús ya viene y lo vamos a perder.",
+   "nota": "Usaba sentido de «recordar», incorrecto."
+  },
+  {
+   "id": 2938,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Avíspate en la entrevista de hoy, que hay hartos postulantes pa' la misma pega.",
+   "frase_neutralizada": "Ponte listo en la entrevista de hoy, que hay muchos candidatos para el mismo trabajo.",
+   "nota": "Cambié el sentido de «recordar» por el de estar atento y ágil."
+  },
+  {
+   "id": 2939,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Avíspate, cabro, que te están vendiendo la pomada y no cachai na'.",
+   "frase_neutralizada": "Ponte atento, chico, que te están engañando y no te das cuenta de nada.",
+   "nota": "Usaba sentido de «recordar», incorrecto."
+  },
+  {
+   "id": 2940,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erí terrible aweonao, cómo se te ocurre dejar las llaves adentro del auto.",
+   "frase_neutralizada": "Eres muy idiota, cómo se te ocurre dejar las llaves dentro del auto.",
+   "nota": "Copiaba el ejemplo y la neutral cambiaba la persona."
+  },
+  {
+   "id": 2941,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa mina es re aweoná, se creyó todo el cuento del vendedor.",
+   "frase_neutralizada": "Esa chica es muy tonta, se creyó toda la historia del vendedor.",
+   "nota": "Error de género corregido; añadí contexto."
+  },
+  {
+   "id": 2942,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "¡Wena, aweonao! ¿Cuándo llegaste? Hace siglos que no te veía.",
+   "frase_neutralizada": "¡Hola, amigo! ¿Cuándo llegaste? Hacía siglos que no te veía.",
+   "nota": "La neutral no reflejaba el sentido amistoso del vocativo."
+  },
+  {
+   "id": 2943,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me pegué en la cabeza con la puerta y quedé aweonao un buen rato.",
+   "frase_neutralizada": "Me golpeé la cabeza con la puerta y quedé aturdido un buen rato.",
+   "nota": "Frase incoherente; ahora ilustra el sentido de aturdido."
+  },
+  {
+   "id": 2944,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La polola nueva lo tiene todo aweonao, ya ni sale con nosotros.",
+   "frase_neutralizada": "Su nueva novia lo tiene completamente embobado, ya ni sale con nosotros.",
+   "nota": "La neutral malinterpretaba «lo tiene aweonao»."
+  },
+  {
+   "id": 2945,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué te pasa, ahueonao? Casi me atropellai con la bici.",
+   "frase_neutralizada": "¿Qué te pasa, idiota? Casi me atropellas con la bicicleta.",
+   "nota": "Usaba variante distinta y la neutral tenía error gramatical."
+  },
+  {
+   "id": 2946,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai ahueonao, si te vai ahora te perdí lo mejor de la película.",
+   "frase_neutralizada": "No seas tonto, si te vas ahora te pierdes lo mejor de la película.",
+   "nota": "Uso sin sentido; la neutral omitía el insulto."
+  },
+  {
+   "id": 2947,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El ahueonao del jefe nos hizo quedarnos hasta tarde por una tontera.",
+   "frase_neutralizada": "El idiota del jefe nos hizo quedarnos hasta tarde por una tontería.",
+   "nota": "Usaba un verbo inexistente en lugar del adjetivo."
+  },
+  {
+   "id": 2948,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo es tan ahueonao que pagó dos veces la misma cuenta de la luz.",
+   "frase_neutralizada": "Mi primo es tan tonto que pagó dos veces la misma factura de la luz.",
+   "nota": "Uso incorrecto como adjetivo de «cosas»."
+  },
+  {
+   "id": 2949,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ay, la Javi anda más ahueoná que nunca, se le quedó el celu en el taxi.",
+   "frase_neutralizada": "Ay, Javi anda más tonta que nunca, se le olvidó el celular en el taxi.",
+   "nota": "Gerundio incorrecto; usé el adjetivo femenino."
+  },
+  {
+   "id": 2950,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Erí aweoneitor, le prestaste plata otra vez al mismo que nunca te paga.",
+   "frase_neutralizada": "Eres un idiota de verdad, le prestaste dinero otra vez al mismo que nunca te paga.",
+   "nota": "Frase incoherente y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 2951,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El aweoneitor del Kevin chocó el auto del papá por segunda vez este mes.",
+   "frase_neutralizada": "El muy idiota de Kevin chocó el auto de su papá por segunda vez este mes.",
+   "nota": "La neutral omitía el insulto; mejoré el contexto."
+  },
+  {
+   "id": 2952,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai aweoneitor, cómo le vai a mandar mensaje a tu ex a las tres de la mañana.",
+   "frase_neutralizada": "No seas tan idiota, cómo le vas a mandar un mensaje a tu ex a las tres de la mañana.",
+   "nota": "Usaba un verbo inventado; ahora es sustantivo/adjetivo."
+  },
+  {
+   "id": 2953,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El aweoneitor se puso a manejar sin licencia justo frente a los pacos.",
+   "frase_neutralizada": "El muy idiota se puso a manejar sin licencia justo frente a la policía.",
+   "nota": "Defs 1 y 2 equivalentes; la neutral omitía el insulto."
+  },
+  {
+   "id": 2954,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La aweoneitora quemó la cena otra vez por quedarse pegada viendo TikTok.",
+   "frase_neutralizada": "La muy tonta quemó la cena otra vez por quedarse distraída viendo TikTok.",
+   "nota": "Unifiqué definición; la neutral omitía el insulto."
+  },
+  {
+   "id": 2955,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, la cena de anoche estuvo bacán, tenís que pasarme la receta.",
+   "frase_neutralizada": "Oye, la cena de anoche estuvo genial, tienes que pasarme la receta.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2956,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa novela es bacán, me la leí en un puro día.",
+   "frase_neutralizada": "Esa novela es genial, la leí en un solo día.",
+   "nota": "Ajusté tiempo verbal y registro coloquial."
+  },
+  {
+   "id": 2957,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El concierto estuvo bacán, la próxima vez invítame po.",
+   "frase_neutralizada": "El concierto estuvo increíble, la próxima vez invítame.",
+   "nota": "«Me lo invitas» era agramatical; las definiciones equivalen a la 1."
+  },
+  {
+   "id": 2958,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te quedó bacán la torta, pero era demasiado grande pa' nosotros cuatro.",
+   "frase_neutralizada": "Te quedó genial el pastel, pero era demasiado grande para nosotros cuatro.",
+   "nota": "Frase poco chilena; usé «torta» y un contexto más natural."
+  },
+  {
+   "id": 2959,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu polola es súper bacán, altiro le cayó bien a toda la familia.",
+   "frase_neutralizada": "Tu novia es genial, enseguida le cayó bien a toda la familia.",
+   "nota": "La neutral «agradable» no equivalía a bacán; agregué más contexto."
+  }
+ ]
+}

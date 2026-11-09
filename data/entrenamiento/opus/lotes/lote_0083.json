@@ -1,0 +1,340 @@
+{
+ "lote": 83,
+ "claves": [
+  "flayte",
+  "fleto",
+  "fleta",
+  "fleto o fleta",
+  "fome",
+  "fonda",
+  "fresco",
+  "fruna"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2656228,
+ "duracion_s": 96.7,
+ "pares": [
+  {
+   "id": 3320,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Mira ese flaite! Se subió al metro con la música a todo chancho y garabateando.",
+   "frase_neutralizada": "¡Mira a ese tipo vulgar! Se subió al metro con la música a todo volumen y diciendo groserías.",
+   "nota": "Tocar guitarra no ilustraba vulgaridad; neutral omitía el sentido de flaite."
+  },
+  {
+   "id": 3321,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu pololo no es malo, pero sus amigos son re flaites, puros garabatos y escupos.",
+   "frase_neutralizada": "Tu novio no es malo, pero sus amigos son muy vulgares, solo dicen groserías y escupen.",
+   "nota": "Frase incoherente sobre celos; nueva situación de vulgaridad."
+  },
+  {
+   "id": 3322,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese flayte me está mirando feo en la fiesta, mejor vámonos al tiro.",
+   "frase_neutralizada": "Ese tipo vulgar me está mirando mal en la fiesta, mejor vámonos ya.",
+   "nota": "Neutral cambiaba número y omitía flaite."
+  },
+  {
+   "id": 3323,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Por Dios, no seai flaite, ¿cómo le vai a gritar así a la señora?",
+   "frase_neutralizada": "Por Dios, no seas vulgar, ¿cómo le vas a gritar así a la señora?",
+   "nota": "Se aplicaba a ropa y neutral eliminaba la expresión."
+  },
+  {
+   "id": 3324,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te juntís con esos flaites de la esquina, que te van a cogotear el celular.",
+   "frase_neutralizada": "No te juntes con esos tipos vulgares de la esquina, que te van a robar el celular.",
+   "nota": "Neutral traducía flaite como simplemente 'personas'."
+  },
+  {
+   "id": 3325,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Tu primo es fleto? Lo vi de la mano con un loco en la feria.",
+   "frase_neutralizada": "¿Tu primo es gay? Lo vi de la mano con un chico en la feria.",
+   "nota": "No contenía la expresión y era incoherente."
+  },
+  {
+   "id": 3326,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Felipe nunca ha tenido polola, pa mí que es fleto.",
+   "frase_neutralizada": "Felipe nunca ha tenido novia, para mí que es gay.",
+   "nota": "No contenía la expresión; frase sin sentido."
+  },
+  {
+   "id": 3327,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Ya sabíai que tu amigo es fleto? A mí no me sorprende na.",
+   "frase_neutralizada": "¿Ya sabías que tu amigo es gay? A mí no me sorprende nada.",
+   "nota": "Decía 'cartero' en vez de fleto."
+  },
+  {
+   "id": 3328,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo se enojó harto cuando supo que mi hermano era fleto, pero ya lo aceptó.",
+   "frase_neutralizada": "Mi papá se enojó mucho cuando supo que mi hermano era gay, pero ya lo aceptó.",
+   "nota": "No contenía la expresión; frase sin sentido."
+  },
+  {
+   "id": 3329,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No creo que el tío de mi amiga sea casado, pa mí que es fleto.",
+   "frase_neutralizada": "No creo que el tío de mi amiga esté casado, para mí que es gay.",
+   "nota": "Errores de modo verbal y tono poco chileno."
+  },
+  {
+   "id": 3330,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Coni terminó con el pololo y ahora anda con una mina, ¿será fleta?",
+   "frase_neutralizada": "Coni terminó con su novio y ahora sale con una chica, ¿será lesbiana?",
+   "nota": "No contenía la expresión; neutral agramatical."
+  },
+  {
+   "id": 3331,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi amiga me confesó que es fleta y que le gusta la Dani.",
+   "frase_neutralizada": "Mi amiga me confesó que es lesbiana y que le gusta Dani.",
+   "nota": "Neutral cambiaba la persona gramatical."
+  },
+  {
+   "id": 3332,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cachai que la Javiera es fleta? Llegó al carrete con su polola.",
+   "frase_neutralizada": "¿Sabías que Javiera es lesbiana? Llegó a la fiesta con su novia.",
+   "nota": "Más natural y con contexto; defs 1 y 2 equivalentes."
+  },
+  {
+   "id": 3333,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Tami anda enamorada de su compañera de pega, siempre supe que era fleta.",
+   "frase_neutralizada": "Tami está enamorada de su compañera de trabajo, siempre supe que era lesbiana.",
+   "nota": "Copiaba el ejemplo; defs 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 3334,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Abrieron un bar nuevo en Bellavista donde van puras fletas.",
+   "frase_neutralizada": "Abrieron un bar nuevo en Bellavista al que solo van lesbianas.",
+   "nota": "Frase forzada y poco natural."
+  },
+  {
+   "id": 3335,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, tu amiga la Pilar es fleta, ¿cierto?",
+   "frase_neutralizada": "Oye, tu amiga Pilar es lesbiana, ¿verdad?",
+   "nota": "Artículo mal en neutral y orden forzado."
+  },
+  {
+   "id": 3336,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te preocupís, en mi pega hay varios fletos y nadie los molesta.",
+   "frase_neutralizada": "No te preocupes, en mi trabajo hay varios gays y nadie los molesta.",
+   "nota": "Error 'no me preocupes' y género inconsistente."
+  },
+  {
+   "id": 3337,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Aunque no lo creai, la jefa de la oficina es fleta, vive con su polola.",
+   "frase_neutralizada": "Aunque no lo creas, la jefa de la oficina es lesbiana, vive con su novia.",
+   "nota": "Ajustado sentido de 'no te creas' y añadido contexto."
+  },
+  {
+   "id": 3338,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Juan es fleto y su familia todavía no sabe, así que no digai nada.",
+   "frase_neutralizada": "Juan es gay y su familia todavía no lo sabe, así que no digas nada.",
+   "nota": "Género incorrecto (Juan fleta) y frase prejuiciosa."
+  },
+  {
+   "id": 3339,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No soy fleta, weón, la Cata es mi mejor amiga nomás.",
+   "frase_neutralizada": "No soy lesbiana, tonto, Cata es solo mi mejor amiga.",
+   "nota": "Frase original incoherente; se dio contexto natural."
+  },
+  {
+   "id": 3340,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué fome la cena, ¿vamos mejor a ver una película?",
+   "frase_neutralizada": "Qué aburrida la cena, ¿mejor vamos a ver una película?",
+   "nota": "Neutral omitía 'fome' y cambiaba el sentido."
+  },
+  {
+   "id": 3341,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este libro es súper fome, no pasa nada hasta la página cien.",
+   "frase_neutralizada": "Este libro es muy aburrido, no pasa nada hasta la página cien.",
+   "nota": "Más natural; defs 1-6 son el mismo sentido."
+  },
+  {
+   "id": 3342,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Rodrigo es más fome, se quedó sentado toda la noche en la disco sin bailar.",
+   "frase_neutralizada": "Rodrigo es muy aburrido, se quedó sentado toda la noche en la discoteca sin bailar.",
+   "nota": "Copiaba ejemplo, sin verbo y neutral dejaba 'wn'."
+  },
+  {
+   "id": 3343,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu chiste fue más fome que la cresta, nadie se rió.",
+   "frase_neutralizada": "Tu chiste no tuvo ninguna gracia, nadie se rió.",
+   "nota": "Frase ambigua sin contexto; nueva situación de chiste."
+  },
+  {
+   "id": 3344,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La reunión estuvo re fome, puro hablar de planillas.",
+   "frase_neutralizada": "La reunión estuvo muy aburrida, solo hablaron de hojas de cálculo.",
+   "nota": "Reformulado para sonar chileno; neutral completa."
+  },
+  {
+   "id": 3345,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Vamos a la fonda del Parque O'Higgins el Dieciocho o nos quedamos en la casa?",
+   "frase_neutralizada": "¿Vamos a la fiesta patria del Parque O'Higgins el 18 de septiembre o nos quedamos en casa?",
+   "nota": "Casi copiaba el ejemplo; neutral vaga."
+  },
+  {
+   "id": 3346,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pal Dieciocho armamos una fonda en la casa de mi tío Juan, con cueca y empanadas.",
+   "frase_neutralizada": "Para el 18 de septiembre organizamos una fiesta patria en casa de mi tío Juan, con baile tradicional y empanadas.",
+   "nota": "Error 'tío Juan's casa' y 'celebrar la fonda'."
+  },
+  {
+   "id": 3347,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con los vecinos armamos una fondita en el pasaje pa los cabros chicos.",
+   "frase_neutralizada": "Con los vecinos organizamos una pequeña fiesta patria en la calle para los niños.",
+   "nota": "Agregado registro chileno natural."
+  },
+  {
+   "id": 3348,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Todos los años el colegio hace una fonda pa juntar plata pa la gira de estudios.",
+   "frase_neutralizada": "Todos los años la escuela organiza una fiesta patria para juntar dinero para el viaje de estudios.",
+   "nota": "Más natural y con propósito claro."
+  },
+  {
+   "id": 3349,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hoy a las ocho abren las fondas en la plaza, ¿vamos a tomarnos un terremoto?",
+   "frase_neutralizada": "Hoy a las ocho abren los puestos de fiesta patria en la plaza, ¿vamos a tomarnos un trago?",
+   "nota": "Neutral conservaba 'parte', poco neutro."
+  },
+  {
+   "id": 3350,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué fresco el Mati, se comió todo lo del refri y no puso ni una luca.",
+   "frase_neutralizada": "Qué sinvergüenza Mati, se comió todo lo del refrigerador y no puso ni un peso.",
+   "nota": "Copiaba el ejemplo con errores de persona."
+  },
+  {
+   "id": 3351,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Carla es súper fresca, siempre pide prestado y nunca devuelve nada.",
+   "frase_neutralizada": "Carla es muy aprovechada, siempre pide prestado y nunca devuelve nada.",
+   "nota": "Frase confusa; 'desbocada' no era equivalente."
+  },
+  {
+   "id": 3352,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¡Qué fresco! Se coló en la fila del banco como si nada.",
+   "frase_neutralizada": "¡Qué descarado! Se metió en la fila del banco como si nada.",
+   "nota": "Contexto sin sentido; ahora ilustra descaro."
+  },
+  {
+   "id": 3353,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Esa fresca le coqueteó al pololo de su amiga delante de todos.",
+   "frase_neutralizada": "Esa descarada le coqueteó al novio de su amiga delante de todos.",
+   "nota": "'Desbocada' incorrecto; contexto vago."
+  },
+  {
+   "id": 3354,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai fresco, llevai tres meses viviendo aquí y no has pagado ni la luz.",
+   "frase_neutralizada": "No seas sinvergüenza, llevas tres meses viviendo aquí y no has pagado ni la luz.",
+   "nota": "Copiaba ejemplo; neutral cambiaba persona."
+  },
+  {
+   "id": 3355,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pa los cumpleaños de los cabros chicos compro puros dulces Fruna, salen baratísimos.",
+   "frase_neutralizada": "Para los cumpleaños de los niños compro solo dulces de la marca Fruna, salen baratísimos.",
+   "nota": "Neutral reordenada y forzada; ahora natural."
+  },
+  {
+   "id": 3356,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si querís ahorrar, compra los helados Fruna, cuestan la mitad que los otros.",
+   "frase_neutralizada": "Si quieres ahorrar, compra los helados de la marca Fruna, cuestan la mitad que los otros.",
+   "nota": "Neutral cambiaba a usted; 'tomar' ambiguo."
+  },
+  {
+   "id": 3357,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hijo siempre me pide las gomitas Fruna cuando pasamos por el negocio.",
+   "frase_neutralizada": "Mi hijo siempre me pide las gomitas de la marca Fruna cuando pasamos por la tienda.",
+   "nota": "Frase sin sentido claro."
+  },
+  {
+   "id": 3358,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te preocupís, paso al kiosco de la esquina y compro unos Fruna pa la once.",
+   "frase_neutralizada": "No te preocupes, paso al quiosco de la esquina y compro unos dulces Fruna para la merienda.",
+   "nota": "Error 'no me preocupes'; neutral absurda."
+  },
+  {
+   "id": 3359,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el recreo nos comprábamos unos Fruna con las monedas que nos sobraban.",
+   "frase_neutralizada": "En el recreo nos comprábamos unas golosinas Fruna con las monedas que nos sobraban.",
+   "nota": "Def 2 con votos negativos; 'salsa fruna' no es uso real."
+  }
+ ]
+}

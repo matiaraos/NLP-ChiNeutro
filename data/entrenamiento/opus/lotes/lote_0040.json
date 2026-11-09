@@ -1,0 +1,340 @@
+{
+ "lote": 40,
+ "claves": [
+  "wachita rica",
+  "wate",
+  "watear",
+  "water",
+  "waton",
+  "wawi",
+  "webada",
+  "webeando"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24144970000000002,
+ "duracion_s": 88.4,
+ "pares": [
+  {
+   "id": 1600,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cacha esa wachita rica que va pasando, me dejó loco.",
+   "frase_neutralizada": "Mira esa chica tan sexy que va pasando, me dejó loco.",
+   "nota": "Más natural; neutral conserva el matiz de atractivo físico."
+  },
+  {
+   "id": 1601,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Viste a la wachita rica que atiende en la tienda de ropa del mall?",
+   "frase_neutralizada": "¿Viste a la chica tan sexy que atiende en la tienda de ropa del centro comercial?",
+   "nota": "Pregunta original poco natural; se reformuló."
+  },
+  {
+   "id": 1602,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ni cagando te va a pescar esa wachita rica, olvídate.",
+   "frase_neutralizada": "Ni de broma te va a hacer caso esa chica tan sexy, olvídate.",
+   "nota": "Error gramatical y frase poco natural; se ajustó."
+  },
+  {
+   "id": 1603,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegó una wachita rica nueva al gimnasio y todos los locos se quedaron mirando.",
+   "frase_neutralizada": "Llegó una chica nueva muy sexy al gimnasio y todos los chicos se quedaron mirando.",
+   "nota": "Aplicaba la expresión a un hijo varón; uso incorrecto."
+  },
+  {
+   "id": 1604,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se mudó una wachita rica al lado de mi casa, ahora salgo a regar todos los días.",
+   "frase_neutralizada": "Se mudó una chica muy sexy al lado de mi casa, ahora salgo a regar todos los días.",
+   "nota": "Frase plana; se dio contexto más natural."
+  },
+  {
+   "id": 1605,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Auch! ¿Por qué me pegaste un wate? Si no hice nada.",
+   "frase_neutralizada": "¡Ay! ¿Por qué me diste una palmada en la cabeza? No hice nada.",
+   "nota": "Neutral decía 'paliza', exagerado; ahora es palmada."
+  },
+  {
+   "id": 1606,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá me pegó un wate por decir garabatos en la mesa.",
+   "frase_neutralizada": "Mi mamá me dio una palmada en la cabeza por decir groserías en la mesa.",
+   "nota": "Verbo 'watear' inventado y frase sin sentido."
+  },
+  {
+   "id": 1607,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Me pegué un wate en la frente cuando me acordé que había dejado las llaves adentro.",
+   "frase_neutralizada": "Me di una palmada en la frente cuando me acordé de que había dejado las llaves adentro.",
+   "nota": "Frase incoherente con errores ortográficos; ahora ilustra el sentido 2."
+  },
+  {
+   "id": 1608,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Me pegaron un wate y me robaron el celular en la micro.",
+   "frase_neutralizada": "Me dieron un golpe y me robaron el teléfono en el autobús.",
+   "nota": "Se quitó 'ayuda' forzado y se agregó contexto chileno."
+  },
+  {
+   "id": 1609,
+   "accion": "corregido",
+   "def": 4,
+   "frase_chilena": "Mi abuelo me pegaba los sendos wates en la nuca cuando me portaba mal.",
+   "frase_neutralizada": "Mi abuelo me daba unas palmadas tremendas en la nuca cuando me portaba mal.",
+   "nota": "Neutral perdía la palmada; situación cambiada para variar."
+  },
+  {
+   "id": 1610,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa serie partió buena, pero en la segunda temporada ya está wateando.",
+   "frase_neutralizada": "Esa serie empezó bien, pero en la segunda temporada ya está decayendo.",
+   "nota": "Neutral no reflejaba el sentido de fallar o decaer."
+  },
+  {
+   "id": 1611,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El restaurante wateó harto esta vez, la comida llegó fría y tarde.",
+   "frase_neutralizada": "El restaurante falló bastante esta vez, la comida llegó fría y tarde.",
+   "nota": "'Se wateó nuestra comida' era agramatical."
+  },
+  {
+   "id": 1612,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El notebook me está wateando justo ahora que tengo que entregar el informe.",
+   "frase_neutralizada": "La computadora portátil me está fallando justo ahora que tengo que entregar el informe.",
+   "nota": "Era sentido 2 con persona inconsistente; nuevo ejemplo de falla."
+  },
+  {
+   "id": 1613,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No me vayai a watear ahora po, si me prometiste que me ayudabai con la mudanza.",
+   "frase_neutralizada": "No me vayas a fallar ahora, si me prometiste que me ayudabas con la mudanza.",
+   "nota": "Se agregó la promesa incumplida propia del sentido 2."
+  },
+  {
+   "id": 1614,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tu tío nos wateó de nuevo, dijo que venía a buscarnos y nunca llegó.",
+   "frase_neutralizada": "Tu tío nos falló de nuevo, dijo que venía a recogernos y nunca llegó.",
+   "nota": "Se concretó el incumplimiento; neutral más fiel."
+  },
+  {
+   "id": 1615,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El water está tan cochino que mejor lo cambiamos por uno nuevo.",
+   "frase_neutralizada": "El inodoro está tan sucio que mejor lo cambiamos por uno nuevo.",
+   "nota": "Frase poco natural; se simplificó."
+  },
+  {
+   "id": 1616,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Anoche el water estuvo corriendo toda la noche y no me dejó dormir.",
+   "frase_neutralizada": "Anoche el agua del inodoro estuvo corriendo toda la noche y no me dejó dormir.",
+   "nota": "Neutral cambiaba el sentido; ahora es coherente."
+  },
+  {
+   "id": 1617,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hijo dice que el water tiene un olor terrible, ¿alguien no tiró la cadena?",
+   "frase_neutralizada": "Mi hijo dice que el inodoro tiene un olor terrible, ¿alguien no tiró la cadena?",
+   "nota": "Se quitó 'ayuda' forzado; neutral menos formal."
+  },
+  {
+   "id": 1618,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se me cayó el celular al water y ahora no prende.",
+   "frase_neutralizada": "Se me cayó el teléfono al inodoro y ahora no enciende.",
+   "nota": "Definición 2 con votos negativos, no es un uso real."
+  },
+  {
+   "id": 1619,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, levanta la tapa del water antes de hacer pipí, cochino.",
+   "frase_neutralizada": "Oye, levanta la tapa del inodoro antes de hacer pipí, cochino.",
+   "nota": "Definición 2 descartada por votos negativos; nuevo ejemplo."
+  },
+  {
+   "id": 1620,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye Pablo, estai más waton que el año pasado, deja las papas fritas po.",
+   "frase_neutralizada": "Oye, Pablo, estás más gordo que el año pasado, deja las papas fritas.",
+   "nota": "No contenía la expresión y era incoherente."
+  },
+  {
+   "id": 1621,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi perro está re waton, el veterinario dijo que tiene que hacer dieta.",
+   "frase_neutralizada": "Mi perro está muy gordo, el veterinario dijo que tiene que hacer dieta.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1622,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Después de las fiestas patrias quedé waton, no me cierra ni un pantalón.",
+   "frase_neutralizada": "Después de las fiestas patrias quedé gordo, no me cierra ningún pantalón.",
+   "nota": "No contenía la expresión y tenía errores gramaticales."
+  },
+  {
+   "id": 1623,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Juan, te estai poniendo waton, ya se te nota la guata.",
+   "frase_neutralizada": "Juan, te estás poniendo gordo, ya se te nota la panza.",
+   "nota": "No contenía la expresión; se mantuvo la idea de engordar."
+  },
+  {
+   "id": 1624,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El waton del curso siempre se comía la colación de los demás.",
+   "frase_neutralizada": "El gordo de la clase siempre se comía la comida de los demás.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1625,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi polola es una wawi, siempre se preocupa de que llegue bien a la casa.",
+   "frase_neutralizada": "Mi novia es un amor, siempre se preocupa de que llegue bien a casa.",
+   "nota": "Muy parecida al ejemplo; neutral 'un amor' capta mejor la ternura."
+  },
+  {
+   "id": 1626,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tía es una wawi, cada vez que la visito me tiene un queque listo.",
+   "frase_neutralizada": "Mi tía es un amor, cada vez que la visito me tiene un pastel listo.",
+   "nota": "'Prestando ayuda' poco natural; se dio contexto concreto."
+  },
+  {
+   "id": 1627,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ay, qué wawi eres, no me dejaste solo en toda la fiesta.",
+   "frase_neutralizada": "Ay, eres un amor, no me dejaste solo en toda la fiesta.",
+   "nota": "Signos de interrogación mal usados y neutral forzada."
+  },
+  {
+   "id": 1628,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Todos dicen que la Coni es una wawi, pero conmigo es súper pesada.",
+   "frase_neutralizada": "Todos dicen que Coni es un amor, pero conmigo es muy antipática.",
+   "nota": "Se mantuvo el contraste con una frase más natural."
+  },
+  {
+   "id": 1629,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La profe de lenguaje es una wawi, nos trajo dulces el último día de clases.",
+   "frase_neutralizada": "La profesora de lenguaje es un amor, nos trajo dulces el último día de clases.",
+   "nota": "'Maestra' no es chileno; se dio contexto concreto."
+  },
+  {
+   "id": 1630,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le hagai caso, si está puro hablando webadas.",
+   "frase_neutralizada": "No le hagas caso, solo está diciendo estupideces.",
+   "nota": "'Hablar webadas a alguien' era agramatical; neutral mantiene la grosería."
+  },
+  {
+   "id": 1631,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa teoría de la tierra plana es pura webada, no tiene ni una base.",
+   "frase_neutralizada": "Esa teoría de la tierra plana es pura estupidez, no tiene ninguna base.",
+   "nota": "Neutral omitía la expresión y explicaba el significado."
+  },
+  {
+   "id": 1632,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué es esta webada que dejaste tirada en el living?",
+   "frase_neutralizada": "¿Qué es esta cosa que dejaste tirada en la sala?",
+   "nota": "Se cubrió el uso de 'cosa genérica'; neutral omitía la expresión."
+  },
+  {
+   "id": 1633,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El libro de autoayuda que me regalaron es una webada, puros consejos obvios.",
+   "frase_neutralizada": "El libro de autoayuda que me regalaron es una estupidez, solo tiene consejos obvios.",
+   "nota": "Frase sobre comida sin sentido claro."
+  },
+  {
+   "id": 1634,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿cómo se llama esta webada que sirve para destapar el lavamanos?",
+   "frase_neutralizada": "Oye, ¿cómo se llama esta cosa que sirve para destapar el lavabo?",
+   "nota": "Repetía la idea de otros pares; neutral omitía la expresión."
+  },
+  {
+   "id": 1635,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Deja de webearme con tus bromas, que ando de mal humor.",
+   "frase_neutralizada": "Deja de molestarme con tus bromas, que estoy de mal humor.",
+   "nota": "Neutral cambiaba el sentido ('no te molestes')."
+  },
+  {
+   "id": 1636,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros del pasaje se lo pasan webeando al perro del vecino.",
+   "frase_neutralizada": "Los chicos de la calle se la pasan molestando al perro del vecino.",
+   "nota": "Neutral agregaba información inventada; nuevo ejemplo de molestar."
+  },
+  {
+   "id": 1637,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, no me sigai webeando, que estoy tratando de estudiar.",
+   "frase_neutralizada": "Ya, no me sigas molestando, que estoy tratando de estudiar.",
+   "nota": "Neutral no correspondía a la frase chilena."
+  },
+  {
+   "id": 1638,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Nos quedamos toda la tarde webeando en la plaza con los cabros.",
+   "frase_neutralizada": "Nos quedamos toda la tarde haciendo tonterías en la plaza con los amigos.",
+   "nota": "'De forma webeando' era agramatical."
+  },
+  {
+   "id": 1639,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En vez de estudiar, el Nico se pasó la noche webeando en el computador.",
+   "frase_neutralizada": "En vez de estudiar, Nico se pasó la noche haciendo tonterías en la computadora.",
+   "nota": "Copiaba el ejemplo y la neutral era forzada."
+  }
+ ]
+}

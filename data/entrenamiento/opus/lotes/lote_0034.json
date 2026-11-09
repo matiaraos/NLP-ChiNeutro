@@ -1,0 +1,340 @@
+{
+ "lote": 34,
+ "claves": [
+  "te tiraste",
+  "techecas",
+  "techeca s",
+  "tela",
+  "tener al jordan en el aro",
+  "tengo la pura cara e cuica",
+  "tengo paja",
+  "tengo tuto"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23771119999999998,
+ "duracion_s": 87.6,
+ "pares": [
+  {
+   "id": 1360,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te tiraste, hueón, no llegaste a la cena y mi mamá estuvo toda la noche esperándote.",
+   "frase_neutralizada": "La cagaste, idiota, no llegaste a la cena y mi mamá estuvo toda la noche esperándote.",
+   "nota": "No incluía la expresión; se agregó con sentido de 'la cagaste'."
+  },
+  {
+   "id": 1361,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te tiraste con lo que le dijiste a la Cata, ahora no te va a hablar nunca más.",
+   "frase_neutralizada": "Metiste la pata con lo que le dijiste a Cata, ahora no te va a volver a hablar nunca.",
+   "nota": "Frase sin relación con la expresión; neutral redundante."
+  },
+  {
+   "id": 1362,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Le contaste al profe que copiamos en la prueba? Te tiraste, cabro.",
+   "frase_neutralizada": "¿Le contaste al profesor que copiamos en el examen? Metiste la pata, amigo.",
+   "nota": "No contenía la expresión y era agramatical."
+  },
+  {
+   "id": 1363,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No entregaste el proyecto a tiempo, te tiraste, ahora el jefe te va a echar.",
+   "frase_neutralizada": "No entregaste el proyecto a tiempo, la cagaste, ahora el jefe te va a despedir.",
+   "nota": "Se mantuvo idea del proyecto e incluyó la expresión."
+  },
+  {
+   "id": 1364,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te tiraste po, ¿cómo se te ocurre llegar curado al examen?",
+   "frase_neutralizada": "Lo arruinaste, ¿cómo se te ocurre llegar borracho al examen?",
+   "nota": "Faltaba la expresión; se conservó contexto del examen."
+  },
+  {
+   "id": 1365,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estuve todo el día arriba de la micro y tengo los techecas planos.",
+   "frase_neutralizada": "Estuve todo el día en el autobús y tengo las nalgas planas.",
+   "nota": "Confundía techecas con techo."
+  },
+  {
+   "id": 1366,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi mamá me pegaba en los techecas cuando me portaba mal de chico.",
+   "frase_neutralizada": "Mi mamá me pegaba en las nalgas cuando me portaba mal de niño.",
+   "nota": "Neutral decía 'espalda' y tenía error de concordancia."
+  },
+  {
+   "id": 1367,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esos pantalones te quedan súper apretados, se te marcan todos los techecas.",
+   "frase_neutralizada": "Esos pantalones te quedan muy apretados, se te marcan todas las nalgas.",
+   "nota": "Frase sin sentido y neutral traducía 'espalda'."
+  },
+  {
+   "id": 1368,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me saqué la mugre patinando y me pegué fuerte en los techecas.",
+   "frase_neutralizada": "Me caí feo patinando y me golpeé fuerte en las nalgas.",
+   "nota": "Usaba techecas como 'errores'."
+  },
+  {
+   "id": 1369,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mueve los techecas y hazme un espacio en el sillón, po.",
+   "frase_neutralizada": "Mueve las nalgas y hazme un espacio en el sofá.",
+   "nota": "Situación forzada; nueva frase natural."
+  },
+  {
+   "id": 1370,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después de la clase de spinning quedé con los techecas todos adoloridos.",
+   "frase_neutralizada": "Después de la clase de spinning quedé con las nalgas muy adoloridas.",
+   "nota": "Copiaba el ejemplo y la neutral perdía 'nalgas'."
+  },
+  {
+   "id": 1371,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Saca los techecas de la mesa, que ahí vamos a comer.",
+   "frase_neutralizada": "Quita las nalgas de la mesa, que ahí vamos a comer.",
+   "nota": "Frase incoherente y neutral con 'espalda'."
+  },
+  {
+   "id": 1372,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi polola anda toda orgullosa porque en el gimnasio se le pararon los techecas.",
+   "frase_neutralizada": "Mi novia anda muy orgullosa porque en el gimnasio se le levantaron las nalgas.",
+   "nota": "Se hizo más natural y se cambió 'polola'."
+  },
+  {
+   "id": 1373,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me senté en un chicle y quedé con los techecas pegados a la silla.",
+   "frase_neutralizada": "Me senté en un chicle y quedé con las nalgas pegadas a la silla.",
+   "nota": "'Tiro a la espalda' no tenía sentido."
+  },
+  {
+   "id": 1374,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me quedé dormido de guata en la playa y se me quemaron los techecas.",
+   "frase_neutralizada": "Me quedé dormido boca abajo en la playa y se me quemaron las nalgas.",
+   "nota": "Neutral decía 'espalda'; frase original poco clara."
+  },
+  {
+   "id": 1375,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Javi no es na' tela, ni saludó cuando llegamos a su casa.",
+   "frase_neutralizada": "Javi no es nada simpática, ni saludó cuando llegamos a su casa.",
+   "nota": "Gramática errónea y neutral dejaba 'buena onda'."
+  },
+  {
+   "id": 1376,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El nuevo de la pega se ve tela, invitémoslo a almorzar con nosotros.",
+   "frase_neutralizada": "El nuevo del trabajo parece simpático, invitémoslo a almorzar con nosotros.",
+   "nota": "'Ponérselo tela' no existe; se usó 'verse tela'."
+  },
+  {
+   "id": 1377,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tu viejo es súper tela, nos llevó a todos al estadio el domingo.",
+   "frase_neutralizada": "Tu papá es muy simpático, nos llevó a todos al estadio el domingo.",
+   "nota": "'Compa' no es chileno y la frase era incoherente."
+  },
+  {
+   "id": 1378,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La señora del almacén es tela, siempre me fía cuando ando sin plata.",
+   "frase_neutralizada": "La señora de la tienda es muy amable, siempre me vende fiado cuando ando sin dinero.",
+   "nota": "Uso atributivo poco natural; nueva situación."
+  },
+  {
+   "id": 1379,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Gracias por ayudarme con la mudanza, erí demasiado tela, oye.",
+   "frase_neutralizada": "Gracias por ayudarme con la mudanza, eres demasiado buena gente.",
+   "nota": "Def 3 duplica la 2; frase más natural."
+  },
+  {
+   "id": 1380,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Para en la bencinera, porfa, que tengo al Jordan en el aro.",
+   "frase_neutralizada": "Detente en la gasolinera, por favor, que estoy a punto de hacerme popó.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1381,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sal luego del baño, hueón, que tengo al Jordan en el aro.",
+   "frase_neutralizada": "Sal ya del baño, idiota, que me estoy cagando.",
+   "nota": "Neutral 'hacer la leche' era incorrecta."
+  },
+  {
+   "id": 1382,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa cazuela me cayó pésimo, tengo al Jordan en el aro.",
+   "frase_neutralizada": "Ese guiso me cayó fatal, estoy a punto de cagarme.",
+   "nota": "No incluía la expresión y era incoherente."
+  },
+  {
+   "id": 1383,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Sabís dónde hay un baño por aquí? Tengo al Jordan en el aro.",
+   "frase_neutralizada": "¿Sabes dónde hay un baño por aquí? Me estoy cagando.",
+   "nota": "Neutral con significado equivocado."
+  },
+  {
+   "id": 1384,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me hagai reír, que tengo al Jordan en el aro.",
+   "frase_neutralizada": "No me hagas reír, que estoy a punto de hacerme popó.",
+   "nota": "'No me preocupes' incoherente; neutral equivocada."
+  },
+  {
+   "id": 1385,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me confunden con cuica, pero tengo la pura cara e' cuica no más, vivo en una pobla.",
+   "frase_neutralizada": "Me confunden con alguien de clase alta, pero solo tengo cara de rica, vivo en un barrio pobre.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1386,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tengo la pura cara e' cuica, apenas me enojo me salen puros garabatos.",
+   "frase_neutralizada": "Solo tengo cara de niña rica, apenas me enojo solo me salen groserías.",
+   "nota": "Faltaba la expresión."
+  },
+  {
+   "id": 1387,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi suegra cree que soy de buena familia, pero tengo la pura cara e' cuica.",
+   "frase_neutralizada": "Mi suegra cree que soy de familia adinerada, pero solo tengo cara de rica.",
+   "nota": "Faltaba la expresión."
+  },
+  {
+   "id": 1388,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Vane tiene la pura cara e' cuica, pero habla más picante que nadie en la feria.",
+   "frase_neutralizada": "Vane solo tiene cara de rica, pero habla más vulgar que nadie en el mercado.",
+   "nota": "Faltaba la expresión; se conjugó en tercera persona."
+  },
+  {
+   "id": 1389,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En las entrevistas de trabajo me va bien porque tengo la pura cara e' cuica, jaja.",
+   "frase_neutralizada": "En las entrevistas de trabajo me va bien porque solo tengo cara de rica, jaja.",
+   "nota": "Agramatical y sin la expresión."
+  },
+  {
+   "id": 1390,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con este calor tengo paja, mejor hago el trabajo en la noche.",
+   "frase_neutralizada": "Con este calor tengo pereza, mejor hago el trabajo por la noche.",
+   "nota": "Frase forzada; se simplificó."
+  },
+  {
+   "id": 1391,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tengo paja de ir al carrete, mejor me quedo viendo series.",
+   "frase_neutralizada": "Tengo pereza de ir a la fiesta, mejor me quedo viendo series.",
+   "nota": "Usaba 'me da paja' en vez de 'tengo paja'."
+  },
+  {
+   "id": 1392,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Anoche dormí como dos horas, tengo paja y no voy a ir a clases.",
+   "frase_neutralizada": "Anoche dormí como dos horas, estoy agotado y no voy a ir a clases.",
+   "nota": "Mezcla de tiempos verbales corregida."
+  },
+  {
+   "id": 1393,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Lava tú los platos, yo tengo paja, cocino la otra vez.",
+   "frase_neutralizada": "Lava tú los platos, yo tengo pereza, cocino la próxima vez.",
+   "nota": "Frase incoherente con 'venga' peninsular."
+  },
+  {
+   "id": 1394,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer jugamos una pichanga de dos horas y hoy tengo paja, no me puedo ni mover.",
+   "frase_neutralizada": "Ayer jugamos un partido informal de fútbol de dos horas y hoy estoy agotado, no me puedo ni mover.",
+   "nota": "'Flojero' no existe; contexto de cansancio corresponde a def 1."
+  },
+  {
+   "id": 1395,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llevo toda la semana con turnos de noche, tengo un tuto terrible.",
+   "frase_neutralizada": "Llevo toda la semana con turnos de noche, tengo un sueño terrible.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1396,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El carrete terminó tarde y hoy en la pega tengo tuto.",
+   "frase_neutralizada": "La fiesta terminó tarde y hoy en el trabajo tengo sueño.",
+   "nota": "Frase agramatical e incoherente."
+  },
+  {
+   "id": 1397,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La película era tan lenta que a la mitad ya tenía tuto.",
+   "frase_neutralizada": "La película era tan lenta que a la mitad ya tenía sueño.",
+   "nota": "Se dio más contexto natural."
+  },
+  {
+   "id": 1398,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana me levanto a las seis y no tengo nada de tuto, po.",
+   "frase_neutralizada": "Mañana me levanto a las seis y no tengo nada de sueño.",
+   "nota": "Se ajustó coherencia y se añadió muletilla chilena."
+  },
+  {
+   "id": 1399,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mamá, ¿me puedo ir a acostar? Tengo tuto y se me cierran los ojos.",
+   "frase_neutralizada": "Mamá, ¿me puedo ir a acostar? Tengo sueño y se me cierran los ojos.",
+   "nota": "Frase poco natural; nueva situación."
+  }
+ ]
+}

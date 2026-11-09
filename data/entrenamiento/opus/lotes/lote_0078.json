@@ -1,0 +1,340 @@
+{
+ "lote": 78,
+ "claves": [
+  "cana",
+  "canchero",
+  "cara de raja",
+  "care raja",
+  "careraja",
+  "care palo",
+  "carrete",
+  "carreteao"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2488651,
+ "duracion_s": 86.1,
+ "pares": [
+  {
+   "id": 3120,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy con una caña terrible, no me siento na' bien",
+   "frase_neutralizada": "Tengo una resaca terrible, no me siento nada bien",
+   "nota": "Neutral decía 'una resaca'; se naturalizó la chilena."
+  },
+  {
+   "id": 3121,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No sé si fue la comida o el vino, pero amanecí con una caña horrible",
+   "frase_neutralizada": "No sé si fue la comida o el vino, pero amanecí con una resaca horrible",
+   "nota": "Neutral cambiaba estructura y significado; se alineó."
+  },
+  {
+   "id": 3122,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No creo haber tomado tanto, pero igual ando con caña",
+   "frase_neutralizada": "No creo haber bebido tanto, pero igual tengo resaca",
+   "nota": "Se hizo más coloquial la chilena."
+  },
+  {
+   "id": 3123,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Oiga, ¿me sirve una caña de tinto, por favor?",
+   "frase_neutralizada": "Disculpe, ¿me sirve un vaso de vino tinto, por favor?",
+   "nota": "'Taza' era incorrecto; es un vaso de vino."
+  },
+  {
+   "id": 3124,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Después del súper pasemos al bar a tomarnos una caña de blanco",
+   "frase_neutralizada": "Después del supermercado pasemos al bar a tomarnos un vaso de vino blanco",
+   "nota": "Frase incoherente y 'taza' incorrecta; se rearmó la situación."
+  },
+  {
+   "id": 3125,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El compañero nuevo es muy canchero, llegó el primer día creyéndose el dueño de la oficina",
+   "frase_neutralizada": "El compañero nuevo es muy creído y atrevido, llegó el primer día creyéndose el dueño de la oficina",
+   "nota": "Copiaba el ejemplo y tenía error de concordancia."
+  },
+  {
+   "id": 3126,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te hagái el canchero conmigo, que yo te conozco desde chico",
+   "frase_neutralizada": "No te hagas el creído conmigo, que yo te conozco desde que eras niño",
+   "nota": "Frase agramatical; se reformuló con 'hacerse el canchero'."
+  },
+  {
+   "id": 3127,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi hermano es súper canchero en los carretes, conversa con todo el mundo",
+   "frase_neutralizada": "Mi hermano tiene mucha soltura en las fiestas, conversa con todo el mundo",
+   "nota": "Casi copia del ejemplo; se cambió la situación."
+  },
+  {
+   "id": 3128,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En las reuniones de pega ella es súper canchera, nunca se pone nerviosa",
+   "frase_neutralizada": "En las reuniones de trabajo ella es muy segura de sí misma, nunca se pone nerviosa",
+   "nota": "Faltaba concordancia de género ('canchera')."
+  },
+  {
+   "id": 3129,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "El Diego es terrible de canchero, le habló dos minutos a la mina y ella le dio su número",
+   "frase_neutralizada": "Diego es muy hábil para coquetear, le habló dos minutos a la chica y ella le dio su número",
+   "nota": "Neutral dejaba 'wn' y era antinatural."
+  },
+  {
+   "id": 3130,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué cara de raja el gallo que se robó las donaciones pa' las víctimas del incendio",
+   "frase_neutralizada": "Qué sinvergüenza el tipo que se robó las donaciones para las víctimas del incendio",
+   "nota": "No contenía la expresión; se incorporó."
+  },
+  {
+   "id": 3131,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cara de raja del Pato habla pestes del jefe a sus espaldas y después le hace la pata",
+   "frase_neutralizada": "El sinvergüenza de Pato habla mal del jefe a sus espaldas y después lo adula",
+   "nota": "Usaba 'raja' sola; se puso la expresión completa."
+  },
+  {
+   "id": 3132,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Rompió el vidrio con la pelota y el cara de raja se hizo el leso y culpó a su hermano",
+   "frase_neutralizada": "Rompió el vidrio con la pelota y el muy descarado se hizo el desentendido y culpó a su hermano",
+   "nota": "Sin expresión y sentido ajeno a la definición 2."
+  },
+  {
+   "id": 3133,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La embarró con el informe y la cara de raja miró pa'l lado como si no fuera con ella",
+   "frase_neutralizada": "Se equivocó con el informe y la muy descarada miró hacia otro lado como si no fuera con ella",
+   "nota": "Duplicaba el par anterior y no tenía la expresión."
+  },
+  {
+   "id": 3134,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "El cara de raja llegó sin invitación y más encima pidió que le sirvieran primero",
+   "frase_neutralizada": "El muy atrevido llegó sin invitación y encima pidió que le sirvieran primero",
+   "nota": "Sin expresión; se ilustró el sentido de patudo."
+  },
+  {
+   "id": 3135,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Carlos es terrible care raja, se comió mi almuerzo del refri y ni pidió permiso",
+   "frase_neutralizada": "Carlos es muy descarado, se comió mi almuerzo del refrigerador y ni pidió permiso",
+   "nota": "Aceptar una oferta no ilustraba descaro."
+  },
+  {
+   "id": 3136,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La María es care raja, me pidió plata otra vez y todavía no me paga lo de antes",
+   "frase_neutralizada": "María es una descarada, me pidió dinero otra vez y todavía no me paga lo de antes",
+   "nota": "Se aplicaba a un vestido; solo aplica a personas."
+  },
+  {
+   "id": 3137,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pablo es tan care raja que se estaciona todos los días en el lugar para discapacitados",
+   "frase_neutralizada": "Pablo es tan sinvergüenza que se estaciona todos los días en el lugar para personas con discapacidad",
+   "nota": "Errores de concordancia; definiciones 1-3 son el mismo sentido."
+  },
+  {
+   "id": 3138,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Marta es demasiado care raja, se cola en la fila del banco como si nada",
+   "frase_neutralizada": "Marta es demasiado descarada, se mete en la fila del banco como si nada",
+   "nota": "Discutir no ilustra descaro; se cambió la situación."
+  },
+  {
+   "id": 3139,
+   "accion": "corregido",
+   "def": 4,
+   "frase_chilena": "Erís muy care raja, me retai por llegar tarde y tú llegaste una hora después",
+   "frase_neutralizada": "Eres muy descarado, me regañas por llegar tarde y tú llegaste una hora después",
+   "nota": "Se ajustó al sentido de reproche injustificado."
+  },
+  {
+   "id": 3140,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hay que ser careraja pa' hablarme así después de todo lo que te ayudé",
+   "frase_neutralizada": "Hay que ser descarado para hablarme así después de todo lo que te ayudé",
+   "nota": "No contenía la expresión; se incorporó."
+  },
+  {
+   "id": 3141,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El careraja del vecino tira la basura en mi vereda y después se hace el amigo",
+   "frase_neutralizada": "El sinvergüenza del vecino tira la basura en mi acera y después se hace el amigo",
+   "nota": "Frase sin sentido y neutral distinta."
+  },
+  {
+   "id": 3142,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai careraja, devuélveme el libro que te presté hace un año",
+   "frase_neutralizada": "No seas descarado, devuélveme el libro que te presté hace un año",
+   "nota": "Frase incomprensible y neutral sin relación."
+  },
+  {
+   "id": 3143,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hay que ser muy careraja pa' echarle la culpa a otro de tu propio error",
+   "frase_neutralizada": "Hay que ser muy descarado para echarle la culpa a otro de tu propio error",
+   "nota": "Neutral cambiaba el significado; se ajustó la situación."
+  },
+  {
+   "id": 3144,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye careraja, no me tratís como tu empleado, que yo no trabajo pa' ti",
+   "frase_neutralizada": "Oye, sinvergüenza, no me trates como tu empleado, que yo no trabajo para ti",
+   "nota": "Tenía voseo rioplatense y neutral omitía el insulto."
+  },
+  {
+   "id": 3145,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué se cree ese care palo, que viene a gritarle al profe delante de todo el curso?",
+   "frase_neutralizada": "¿Qué se cree ese descarado, que viene a gritarle al profesor delante de toda la clase?",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3146,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El care palo de mi cuñado se mete en todo y más encima le contesta feo a mi papá",
+   "frase_neutralizada": "El descarado de mi cuñado se mete en todo y encima le contesta mal a mi papá",
+   "nota": "Se reforzó la falta de respeto de la definición."
+  },
+  {
+   "id": 3147,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Jorge es muy care palo, se colgó del wifi del vecino y cuando lo pillaron siguió como si nada",
+   "frase_neutralizada": "Jorge es muy desvergonzado, usó el wifi del vecino sin permiso y cuando lo descubrieron siguió como si nada",
+   "nota": "Frase agramatical con 'care de palo'."
+  },
+  {
+   "id": 3148,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Hay que ser care palo pa' pedirle plata al mismo amigo que estafaste",
+   "frase_neutralizada": "Hay que ser desvergonzado para pedirle dinero al mismo amigo al que estafaste",
+   "nota": "Variante errónea y no ilustraba provecho sin vergüenza."
+  },
+  {
+   "id": 3149,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Le pregunté a lo care palo al jefe si me iba a subir el sueldo",
+   "frase_neutralizada": "Le pregunté sin rodeos al jefe si me iba a subir el sueldo",
+   "nota": "Se usó la locución adverbial 'a lo care palo'."
+  },
+  {
+   "id": 3150,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Este viernes hay carrete en la disco y vamos a bailar hasta las cinco",
+   "frase_neutralizada": "Este viernes hay fiesta en la discoteca y vamos a bailar hasta las cinco",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3151,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No voy a ir al carrete del Seba, prefiero quedarme en la casa viendo series",
+   "frase_neutralizada": "No voy a ir a la fiesta de Seba, prefiero quedarme en casa viendo series",
+   "nota": "Neutral cambiaba tiempo y modalidad verbal."
+  },
+  {
+   "id": 3152,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy invitando a todos los cabros al carrete de mi cumpleaños",
+   "frase_neutralizada": "Estoy invitando a todos los amigos a la fiesta de mi cumpleaños",
+   "nota": "Neutral cambiaba la perífrasis verbal."
+  },
+  {
+   "id": 3153,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Javi es la reina del carrete, siempre es la última en irse",
+   "frase_neutralizada": "Javi es la reina de la fiesta, siempre es la última en irse",
+   "nota": "Muy corta; se añadió contexto natural."
+  },
+  {
+   "id": 3154,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No hay nada que hacer en la casa, pero hay un carrete aquí en el barrio, ¿vamos?",
+   "frase_neutralizada": "No hay nada que hacer en casa, pero hay una fiesta aquí en el barrio, ¿vamos?",
+   "nota": "Se hizo más natural y coherente."
+  },
+  {
+   "id": 3155,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El computador está súper carreteado, no sé si vale la pena comprarlo",
+   "frase_neutralizada": "La computadora está muy desgastada, no sé si vale la pena comprarla",
+   "nota": "Faltaban tildes; se ajustó a 'computador' chileno."
+  },
+  {
+   "id": 3156,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vestido de fiesta de mi tía está todo carreteado, pero igual se lo puso",
+   "frase_neutralizada": "El vestido de fiesta de mi tía está todo desgastado, pero igual se lo puso",
+   "nota": "Final incoherente; se ajustó."
+  },
+  {
+   "id": 3157,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Felipe anda todo carreteao, se nota que no ha dormido en todo el fin de semana",
+   "frase_neutralizada": "Felipe se ve agotado de tanta fiesta, se nota que no ha dormido en todo el fin de semana",
+   "nota": "Restaurante 'de mala calidad' no corresponde a ningún sentido."
+  },
+  {
+   "id": 3158,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Después de las fiestas patrias quedé todo carreteao, no me puedo ni levantar",
+   "frase_neutralizada": "Después de las fiestas patrias quedé agotado de tanta fiesta, no me puedo ni levantar",
+   "nota": "'Aburrido' no es un sentido de la expresión."
+  },
+  {
+   "id": 3159,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa moto está muy carreteada, tiene como cien mil kilómetros, no vale lo que piden",
+   "frase_neutralizada": "Esa moto está muy desgastada, tiene como cien mil kilómetros, no vale lo que piden",
+   "nota": "Copiaba el ejemplo; 'coche' es regionalismo."
+  }
+ ]
+}

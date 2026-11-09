@@ -1,0 +1,340 @@
+{
+ "lote": 41,
+ "claves": [
+  "webeo",
+  "webiar",
+  "wear",
+  "webear",
+  "weco",
+  "weca",
+  "wekereke",
+  "wena"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24509709999999998,
+ "duracion_s": 87.4,
+ "pares": [
+  {
+   "id": 1640,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, déjate de webeo y dime en serio si vai a venir mañana.",
+   "frase_neutralizada": "Ya, deja de bromear y dime en serio si vas a venir mañana.",
+   "nota": "Original incoherente y sin la expresión; nueva frase con webeo como broma."
+  },
+  {
+   "id": 1641,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe no aguanta el webeo, así que mejor quédate callado en la clase.",
+   "frase_neutralizada": "El profesor no tolera las bromas, así que mejor quédate callado en la clase.",
+   "nota": "Usaba 'weno' en vez de webeo; sentido confuso."
+  },
+  {
+   "id": 1642,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erís bueno pal webeo, pero cuando te toca a ti te enojai altiro.",
+   "frase_neutralizada": "Eres bueno para molestar a los demás, pero cuando te toca a ti te enojas enseguida.",
+   "nota": "Faltaba la expresión; se mantiene idea de molestar a otros."
+  },
+  {
+   "id": 1643,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Estuvo buenísimo el webeo en la playa, nos reímos toda la tarde.",
+   "frase_neutralizada": "La pasamos buenísimo tonteando en la playa, nos reímos toda la tarde.",
+   "nota": "Usaba 'weno' y 'divertió'; ahora webeo como diversión."
+  },
+  {
+   "id": 1644,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El viernes nos juntamos en la casa del Pancho, puro webeo nomás, nada serio.",
+   "frase_neutralizada": "El viernes nos reunimos en la casa de Pancho, solo para divertirnos, nada serio.",
+   "nota": "Frase sin la expresión y poco natural."
+  },
+  {
+   "id": 1645,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros se pusieron a webiar en el patio y quebraron un vidrio.",
+   "frase_neutralizada": "Los chicos se pusieron a hacer tonterías en el patio y rompieron un vidrio.",
+   "nota": "Neutral cambiaba el sentido; nueva frase de tonterías intencionales."
+  },
+  {
+   "id": 1646,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Ya, déjame de webiar, que estoy súper ocupado ahora.",
+   "frase_neutralizada": "Ya, deja de molestarme, que estoy muy ocupado ahora.",
+   "nota": "Era sentido molestar, no def 1; conjugación corregida."
+  },
+  {
+   "id": 1647,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me pasé la tarde webiando en el celular y no alcancé a terminar la tarea.",
+   "frase_neutralizada": "Me pasé la tarde perdiendo el tiempo en el celular y no alcancé a terminar la tarea.",
+   "nota": "Uso reflexivo incorrecto y neutral confusa."
+  },
+  {
+   "id": 1648,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En la reunión el Felipe estuvo puro webiando y el jefe lo retó.",
+   "frase_neutralizada": "En la reunión Felipe estuvo perdiendo el tiempo todo el rato y el jefe lo regañó.",
+   "nota": "Neutral con 'dedicé' y explicativa; nueva situación más natural."
+  },
+  {
+   "id": 1649,
+   "accion": "corregido",
+   "def": 6,
+   "frase_chilena": "Te voy a webiar todos los días hasta que me pagues la plata.",
+   "frase_neutralizada": "Te voy a insistir todos los días hasta que me pagues el dinero.",
+   "nota": "Encaja mejor con insistir; neutral cambiaba quién debía."
+  },
+  {
+   "id": 1650,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano chico no para de wear cuando estoy viendo tele.",
+   "frase_neutralizada": "Mi hermano menor no deja de molestar cuando estoy viendo televisión.",
+   "nota": "'wear-eando' inexistente y sujeto absurdo."
+  },
+  {
+   "id": 1651,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, déjate de wear, que ando con sueño.",
+   "frase_neutralizada": "Ya, deja de molestar, que tengo sueño.",
+   "nota": "'déjame de' agramatical; ajustada a uso real."
+  },
+  {
+   "id": 1652,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Me vai a seguir weando o me vai a dejar trabajar tranquilo?",
+   "frase_neutralizada": "¿Me vas a seguir molestando o me vas a dejar trabajar tranquilo?",
+   "nota": "Conjugación inventada y frase incoherente."
+  },
+  {
+   "id": 1653,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu perro no me deja tranquilo, me anda weando toda la tarde.",
+   "frase_neutralizada": "Tu perro no me deja tranquilo, me ha estado molestando toda la tarde.",
+   "nota": "Agramatical en ambas versiones."
+  },
+  {
+   "id": 1654,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Vinimos a la fiesta a pasarlo bien, no a wear a los demás.",
+   "frase_neutralizada": "Vinimos a la fiesta a pasarla bien, no a molestar a los demás.",
+   "nota": "Forma 'wear-ear' inexistente; se completa la idea."
+  },
+  {
+   "id": 1655,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué hacemos hoy? ¿Salimos a webear un rato a Bellavista?",
+   "frase_neutralizada": "¿Qué hacemos hoy? ¿Salimos a divertirnos un rato a Bellavista?",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1656,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me cambio de ropa al tiro y salgo a webear con los cabros.",
+   "frase_neutralizada": "Me cambio de ropa enseguida y salgo de fiesta con los amigos.",
+   "nota": "Neutral redundante 'salgo a salir'; frase más natural."
+  },
+  {
+   "id": 1657,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este finde vamos a webear a la disco, ¿te apuntai?",
+   "frase_neutralizada": "Este fin de semana vamos a ir de fiesta a la discoteca, ¿te apuntas?",
+   "nota": "Se agrega contexto de salida nocturna."
+  },
+  {
+   "id": 1658,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No puedo salir a webear hoy, mañana tengo prueba temprano.",
+   "frase_neutralizada": "No puedo salir de fiesta hoy, mañana tengo examen temprano.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1659,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche salimos a webear y llegué a la casa como a las seis.",
+   "frase_neutralizada": "Anoche salimos de fiesta y llegué a casa como a las seis.",
+   "nota": "No contenía la expresión y neutral cambiaba el sentido."
+  },
+  {
+   "id": 1660,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El weco ese se cree la raja, pero no sabe ni sumar.",
+   "frase_neutralizada": "Ese tonto se cree lo máximo, pero no sabe ni sumar.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1661,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le hagai caso, es un weco que solo habla de zapatillas y gimnasio.",
+   "frase_neutralizada": "No le hagas caso, es un tipo superficial que solo habla de zapatillas y gimnasio.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1662,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Puros wecos en ese carrete, todos sacándose fotos pa Instagram.",
+   "frase_neutralizada": "Solo había tipos superficiales en esa fiesta, todos tomándose fotos para Instagram.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1663,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese weco se pasa toda la clase mirándose en la cámara del celular.",
+   "frase_neutralizada": "Ese tipo superficial se pasa toda la clase mirándose en la cámara del celular.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1664,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Tú también vai a andar de weco preguntando puras tonteras?",
+   "frase_neutralizada": "¿Tú también vas a andar de tonto preguntando solo tonterías?",
+   "nota": "Frase poco natural; se ajusta al habla chilena."
+  },
+  {
+   "id": 1665,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le hablís de nada serio a esa weca, lo único que le importa es su vestido.",
+   "frase_neutralizada": "No le hables de nada serio a esa tonta, lo único que le importa es su vestido.",
+   "nota": "Neutral tenía voseo rioplatense 'hablá' y registro muy formal."
+  },
+  {
+   "id": 1666,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi prima es más weca, se pasa el día viendo tutoriales de maquillaje.",
+   "frase_neutralizada": "Mi prima es muy superficial, se pasa el día viendo tutoriales de maquillaje.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1667,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Es súper weca, no tiene idea ni de quién es el presidente.",
+   "frase_neutralizada": "Es muy tonta, no tiene idea ni de quién es el presidente.",
+   "nota": "Neutral demasiado formal; se mantiene registro informal."
+  },
+  {
+   "id": 1668,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano siempre se mete con minas wecas que solo hablan de ropa y uñas.",
+   "frase_neutralizada": "Mi hermano siempre sale con chicas superficiales que solo hablan de ropa y uñas.",
+   "nota": "Frase contradictoria e incoherente."
+  },
+  {
+   "id": 1669,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Terminé con ella porque era muy weca, solo le importaba el maquillaje.",
+   "frase_neutralizada": "Terminé con ella porque era muy superficial, solo le importaba el maquillaje.",
+   "nota": "Neutral añadía información; registro ajustado."
+  },
+  {
+   "id": 1670,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tía me pregunta cada Navidad si tengo polola; cree que salí wekereke.",
+   "frase_neutralizada": "Mi tía me pregunta cada Navidad si tengo novia; cree que salí gay.",
+   "nota": "Frase incoherente y neutral sin sentido."
+  },
+  {
+   "id": 1671,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No cachaba que el Nacho era wekereke, me enteré ayer que tiene pololo.",
+   "frase_neutralizada": "No sabía que Nacho era gay, me enteré ayer de que tiene novio.",
+   "nota": "Situación poco natural; nueva frase más realista."
+  },
+  {
+   "id": 1672,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo nos contó en el almuerzo que es wekereke y la familia lo tomó súper bien.",
+   "frase_neutralizada": "Mi primo nos contó en el almuerzo que es gay y la familia lo tomó muy bien.",
+   "nota": "Frase poco natural; def 3 equivale a def 1."
+  },
+  {
+   "id": 1673,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El viejo homofóbico del lado le dice wekereke a cualquiera que ande con el pelo largo.",
+   "frase_neutralizada": "El viejo homofóbico de al lado le dice marica a cualquiera que tenga el pelo largo.",
+   "nota": "Se ilustra el uso despectivo con equivalente informal general."
+  },
+  {
+   "id": 1674,
+   "accion": "corregido",
+   "def": 5,
+   "frase_chilena": "¡Qué abrazo más tierno, oye! ¿Te estai poniendo wekereke o qué?",
+   "frase_neutralizada": "¡Qué abrazo tan tierno, oye! ¿Te estás volviendo gay o qué?",
+   "nota": "Neutral cambiaba el significado; ahora broma en confianza."
+  },
+  {
+   "id": 1675,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Wena, aprobaste el examen! Hay que celebrarlo con unas chelas.",
+   "frase_neutralizada": "¡Muy bien, aprobaste el examen! Hay que celebrarlo con unas cervezas.",
+   "nota": "Frase incoherente (té/café); nuevo uso como aprobación."
+  },
+  {
+   "id": 1676,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Wena! El doctor dijo que la operación de mi papá salió perfecta.",
+   "frase_neutralizada": "¡Qué bien! El doctor dijo que la operación de mi papá salió perfecta.",
+   "nota": "'todo está wena' no es natural; se usa como exclamación."
+  },
+  {
+   "id": 1677,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Wena, cabros, ¿cómo están? Perdón por llegar tan tarde.",
+   "frase_neutralizada": "Hola, chicos, ¿cómo están? Perdón por llegar tan tarde.",
+   "nota": "Muy breve; se agrega contexto para diferenciar."
+  },
+  {
+   "id": 1678,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Wena po, hermano, tanto tiempo, ¿qué es de tu vida?",
+   "frase_neutralizada": "Hola, hermano, tanto tiempo, ¿qué es de tu vida?",
+   "nota": "Frase poco natural; saludo de reencuentro más realista."
+  },
+  {
+   "id": 1679,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Wena el concierto! Tocaron todos los temas que quería escuchar.",
+   "frase_neutralizada": "¡Qué buen concierto! Tocaron todas las canciones que quería escuchar.",
+   "nota": "Def 3 tiene votos negativos; se reasigna a def 1."
+  }
+ ]
+}

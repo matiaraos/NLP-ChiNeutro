@@ -1,0 +1,340 @@
+{
+ "lote": 87,
+ "claves": [
+  "huacho",
+  "guagua",
+  "guaguitas",
+  "guanaco",
+  "guaren",
+  "guata",
+  "guatero",
+  "guaton"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2261781,
+ "duracion_s": 80.4,
+ "pares": [
+  {
+   "id": 3480,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No me hablís así, huacho culiao, ¿te creís muy choro o qué?",
+   "frase_neutralizada": "No me hables así, maldito desgraciado, ¿te crees muy valiente o qué?",
+   "nota": "Huacho neutralizado como 'muchacho'; se usó sentido ofensivo y se tradujo bien."
+  },
+  {
+   "id": 3481,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Gracias por ayudarme con la mudanza, mi huachito, te pasaste.",
+   "frase_neutralizada": "Gracias por ayudarme con la mudanza, cariño, te luciste.",
+   "nota": "Frase incoherente; nuevo uso afectivo de huachito."
+  },
+  {
+   "id": 3482,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La vieja del condominio les dice huachos a los cabros que juegan en la plaza.",
+   "frase_neutralizada": "La señora del condominio les dice bastardos a los chicos que juegan en la plaza.",
+   "nota": "Frase sin sentido; uso despectivo clasista con neutral adecuada."
+  },
+  {
+   "id": 3483,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿cachaste a la huachita que se subió a la micro? Estaba muy rica.",
+   "frase_neutralizada": "Oye, ¿viste a la mamacita que se subió al autobús? Estaba muy buena.",
+   "nota": "Frase incoherente; ahora ilustra el uso de atracción."
+  },
+  {
+   "id": 3484,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Sale de ahí, huacho de mierda, me rayaste el auto!",
+   "frase_neutralizada": "¡Sal de ahí, mocoso de mierda, me rayaste el auto!",
+   "nota": "Se mantuvo el insulto a un menor con tono rabioso, más natural."
+  },
+  {
+   "id": 3485,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi guagua no me deja dormir, se despierta cada dos horas pidiendo papa.",
+   "frase_neutralizada": "Mi bebé no me deja dormir, se despierta cada dos horas pidiendo comida.",
+   "nota": "'Guaguitica' no es chileno; neutral cambiaba el sentido."
+  },
+  {
+   "id": 3486,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La guagua de la Coni está preciosa, tiene los mismos ojos del papá.",
+   "frase_neutralizada": "El bebé de Coni está precioso, tiene los mismos ojos de su papá.",
+   "nota": "Neutral cambiaba a plural; se amplió la frase."
+  },
+  {
+   "id": 3487,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, baja la voz que la guagua recién se quedó dormida.",
+   "frase_neutralizada": "Oye, baja la voz, que el bebé se acaba de dormir.",
+   "nota": "Definiciones 1-3 equivalentes; frase más natural y situación distinta."
+  },
+  {
+   "id": 3488,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No dejís llorando a la guagua, tómala en brazos un rato po.",
+   "frase_neutralizada": "No dejes llorando al bebé, tómalo en brazos un rato.",
+   "nota": "Concordancia errónea en la neutral ('dejarla... al bebé')."
+  },
+  {
+   "id": 3489,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi prima va a tener guagua en marzo y ya le estamos comprando ropita.",
+   "frase_neutralizada": "Mi prima va a tener un bebé en marzo y ya le estamos comprando ropa de bebé.",
+   "nota": "Frase copiaba la definición; nueva situación natural."
+  },
+  {
+   "id": 3490,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Compré un paquete de guaguitas en el kiosco, ¿querís una?",
+   "frase_neutralizada": "Compré un paquete de gomitas en el quiosco, ¿quieres una?",
+   "nota": "'Guaguitita' incorrecto; neutral explicaba en vez de traducir."
+  },
+  {
+   "id": 3491,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Las guaguitas siempre se me pegan en los dientes, pero igual me las como todas.",
+   "frase_neutralizada": "Las gomitas siempre se me pegan en los dientes, pero igual me las como todas.",
+   "nota": "Neutral omitía el referente; nueva frase natural."
+  },
+  {
+   "id": 3492,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando era chico, mi abuela siempre tenía guaguitas guardadas en la cartera.",
+   "frase_neutralizada": "Cuando era niño, mi abuela siempre tenía gomitas guardadas en el bolso.",
+   "nota": "Las guaguitas son industriales, no caseras; se ajustó."
+  },
+  {
+   "id": 3493,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pa'l cumpleaños del Benja llenamos las bolsitas con guaguitas y chocolates.",
+   "frase_neutralizada": "Para el cumpleaños de Benja llenamos las bolsitas con gomitas y chocolates.",
+   "nota": "'Plato de guaguitas' poco natural; neutral explicativa."
+  },
+  {
+   "id": 3494,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me comí toda la bolsa de guaguitas viendo tele y quedé con dolor de guata.",
+   "frase_neutralizada": "Me comí toda la bolsa de gomitas viendo la televisión y me quedó doliendo el estómago.",
+   "nota": "'Guaguitica' incorrecto; nueva situación."
+  },
+  {
+   "id": 3495,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me pegó el guanaco de frente y quedé empapado hasta los calcetines.",
+   "frase_neutralizada": "El camión lanzaaguas me dio de frente y quedé empapado hasta los calcetines.",
+   "nota": "Neutral omitía 'en la cara'; mejor término: camión lanzaaguas."
+  },
+  {
+   "id": 3496,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando llegó el guanaco, la gente salió arrancando por la Alameda.",
+   "frase_neutralizada": "Cuando llegó el camión lanzaaguas, la gente salió huyendo por la Alameda.",
+   "nota": "El guanaco no 'se lanza' sobre la gente; frase más natural."
+  },
+  {
+   "id": 3497,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No fui a la marcha porque no quería que me mojara el guanaco otra vez.",
+   "frase_neutralizada": "No fui a la manifestación porque no quería que me mojara otra vez el camión lanzaaguas.",
+   "nota": "Frase rígida; se naturalizó y se precisó el término neutral."
+  },
+  {
+   "id": 3498,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Dicen que el agua del guanaco pica en la piel por los químicos que le echan.",
+   "frase_neutralizada": "Dicen que el agua del camión lanzaaguas irrita la piel por los químicos que le ponen.",
+   "nota": "Neutral cambiaba significado ('sigo sin saber' por 'no sé')."
+  },
+  {
+   "id": 3499,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si aparece el guanaco, nos metemos al metro altiro, ¿ya?",
+   "frase_neutralizada": "Si aparece el camión lanzaaguas, nos metemos al metro de inmediato, ¿está bien?",
+   "nota": "Tiempo verbal alterado en neutral ('lanzaba'); frase más natural."
+  },
+  {
+   "id": 3500,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche salió un guarén del alcantarillado y casi me muero del susto.",
+   "frase_neutralizada": "Anoche salió una rata enorme de la alcantarilla y casi me muero del susto.",
+   "nota": "Frase incoherente y neutral no correspondía."
+  },
+  {
+   "id": 3501,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El gato del vecino cazó un guarén del porte de un zapato.",
+   "frase_neutralizada": "El gato del vecino cazó una rata del tamaño de un zapato.",
+   "nota": "Decía que un gato era un guarén; sin sentido."
+  },
+  {
+   "id": 3502,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la feria había unos guarenes corriendo entre los cajones de fruta, qué asco.",
+   "frase_neutralizada": "En el mercado había unas ratas enormes corriendo entre las cajas de fruta, qué asco.",
+   "nota": "Frase metalingüística y confusa; nueva situación."
+  },
+  {
+   "id": 3503,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando venía del liceo vi pasar un guarén gigante por el pasaje.",
+   "frase_neutralizada": "Cuando venía de la escuela vi pasar una rata gigante por el callejón.",
+   "nota": "Se chilenizó el contexto (liceo, pasaje) y se ajustó la neutral."
+  },
+  {
+   "id": 3504,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le tengo pánico a los guarenes, si veo uno me subo arriba de la mesa.",
+   "frase_neutralizada": "Les tengo pánico a las ratas grandes; si veo una, me subo a la mesa.",
+   "nota": "Plural mal escrito 'guarénes'; frase más natural."
+  },
+  {
+   "id": 3505,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me duele la guata desde que me comí ese completo en la calle.",
+   "frase_neutralizada": "Me duele el estómago desde que me comí ese hot dog en la calle.",
+   "nota": "Frase muy corta y poco natural; se amplió."
+  },
+  {
+   "id": 3506,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te sigue doliendo la guata o ya te tomaste algo?",
+   "frase_neutralizada": "¿Te sigue doliendo el estómago o ya tomaste algo?",
+   "nota": "Frase demasiado corta; se amplió con otra situación."
+  },
+  {
+   "id": 3507,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "A la Javi ya se le nota la guata, debe tener como cinco meses.",
+   "frase_neutralizada": "A Javi ya se le nota la barriga, debe tener unos cinco meses.",
+   "nota": "Repetía dolor de estómago; defs 1, 2 y 4 son equivalentes."
+  },
+  {
+   "id": 3508,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Llevo dos meses en el gimnasio y la guata no se me baja ni un poco.",
+   "frase_neutralizada": "Llevo dos meses en el gimnasio y la barriga no se me baja ni un poco.",
+   "nota": "Frase confusa y neutral cambiaba la persona."
+  },
+  {
+   "id": 3509,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Mi tío tiene una guata de puro asado y cerveza, ya ni se ve los pies.",
+   "frase_neutralizada": "Mi tío tiene una barriga enorme de tanto asado y cerveza, ya ni se ve los pies.",
+   "nota": "Frase poco natural y errata 'proeminente'."
+  },
+  {
+   "id": 3510,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ponme el guatero en la cama, que tengo los pies congelados.",
+   "frase_neutralizada": "Ponme la bolsa de agua caliente en la cama, que tengo los pies congelados.",
+   "nota": "Neutral imprecisa ('bolsa plástica'); frase explicaba el significado."
+  },
+  {
+   "id": 3511,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En invierno no duermo sin guatero ni cagando.",
+   "frase_neutralizada": "En invierno no duermo sin bolsa de agua caliente ni loco.",
+   "nota": "Neutral explicativa; frase poco natural."
+  },
+  {
+   "id": 3512,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se me rompió el guatero anoche y quedó la cama entera mojada.",
+   "frase_neutralizada": "Se me rompió la bolsa de agua caliente anoche y quedó toda la cama mojada.",
+   "nota": "Neutral añadía información; nueva situación."
+  },
+  {
+   "id": 3513,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hierve agua pa'l guatero de la abuela, que anda con frío.",
+   "frase_neutralizada": "Hierve agua para la bolsa de agua caliente de la abuela, que tiene frío.",
+   "nota": "Frase artificial y neutral añadía información."
+  },
+  {
+   "id": 3514,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pa' los dolores de guata, un guatero en la panza es lo mejor.",
+   "frase_neutralizada": "Para los dolores de estómago, una bolsa de agua caliente sobre la barriga es lo mejor.",
+   "nota": "Frase poco natural ('me agrega calor'); nuevo uso."
+  },
+  {
+   "id": 3515,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cachai al guatón que atiende el almacén de la esquina? Es súper buena onda.",
+   "frase_neutralizada": "¿Conoces al gordo que atiende la tienda de la esquina? Es muy buena persona.",
+   "nota": "Usaba guatón como sustantivo 'barriga'; incorrecto."
+  },
+  {
+   "id": 3516,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye guatón, deja algo de pizza pa' los demás po.",
+   "frase_neutralizada": "Oye, gordo, deja algo de pizza para los demás.",
+   "nota": "Frase incoherente y género incorrecto."
+  },
+  {
+   "id": 3517,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estoy quedando guatón con tanta comida chatarra, tengo que hacer ejercicio.",
+   "frase_neutralizada": "Me estoy poniendo gordo con tanta comida chatarra, tengo que hacer ejercicio.",
+   "nota": "Generalización estereotipada; nueva situación."
+  },
+  {
+   "id": 3518,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El guatón Pérez se comió cuatro platos en la once y todavía tenía hambre.",
+   "frase_neutralizada": "El gordo Pérez se comió cuatro platos en la merienda y todavía tenía hambre.",
+   "nota": "Frase forzada; se mantuvo la idea de comer mucho."
+  },
+  {
+   "id": 3519,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Al guatón del curso siempre lo dejaban de arquero en la pichanga.",
+   "frase_neutralizada": "Al gordo de la clase siempre lo ponían de portero en el partido de fútbol.",
+   "nota": "Frase poco natural; se mantuvo el contexto de pelota."
+  }
+ ]
+}

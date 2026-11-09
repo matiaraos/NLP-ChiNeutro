@@ -1,0 +1,340 @@
+{
+ "lote": 24,
+ "claves": [
+  "santiasco",
+  "sapear",
+  "sapo",
+  "sapa",
+  "sapolio",
+  "saque",
+  "sarpao",
+  "se bugeo"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2320086,
+ "duracion_s": 82.9,
+ "pares": [
+  {
+   "id": 960,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me acostumbro a Santiasco, puro smog y taco, prefiero mil veces el campo.",
+   "frase_neutralizada": "No me acostumbro a Santiago, todo es contaminación y tráfico; prefiero mil veces el campo.",
+   "nota": "No incluía la expresión; se agregó Santiasco."
+  },
+  {
+   "id": 961,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Todavía no cacho qué le ven los cabros a Santiasco, si no hay na' que hacer allá.",
+   "frase_neutralizada": "Todavía no entiendo qué les gusta a los jóvenes de Santiago, si no hay nada que hacer allá.",
+   "nota": "Frase poco natural; se volvió más coloquial."
+  },
+  {
+   "id": 962,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo que ir a Santiasco a comprarle el regalo de cumpleaños a mi abuelita, qué lata.",
+   "frase_neutralizada": "Tengo que ir a Santiago a comprarle el regalo de cumpleaños a mi abuelita, qué fastidio.",
+   "nota": "Registro demasiado formal; se hizo más coloquial."
+  },
+  {
+   "id": 963,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este finde no voy a Santiasco ni cagando, quiero respirar aire limpio po.",
+   "frase_neutralizada": "Este fin de semana no voy a Santiago ni loco, quiero respirar aire limpio.",
+   "nota": "Se hizo más natural y coloquial."
+  },
+  {
+   "id": 964,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esta playa está más cochina que Santiasco, hay basura por todos lados.",
+   "frase_neutralizada": "Esta playa está más sucia que Santiago, hay basura por todos lados.",
+   "nota": "Error de concordancia 'sucios'; se contextualizó."
+  },
+  {
+   "id": 965,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué tanto sapeai mi celular? Anda a mirar el tuyo.",
+   "frase_neutralizada": "¿Qué tanto miras mi celular? Ve a mirar el tuyo.",
+   "nota": "Neutral usaba usted; se cambió la situación para no copiar el ejemplo."
+  },
+  {
+   "id": 966,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Tranqui, no te voy a sapear con tu vieja, de mí no sale nada.",
+   "frase_neutralizada": "Tranquilo, no te voy a delatar con tu mamá, de mí no sale nada.",
+   "nota": "Era sentido de delatar, no de mirar; se cambió a def 2."
+  },
+  {
+   "id": 967,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La vecina se pasa el día sapeando por la cortina quién entra y quién sale.",
+   "frase_neutralizada": "La vecina se pasa el día espiando por la cortina quién entra y quién sale.",
+   "nota": "Conjugación y sentido incorrectos; nueva frase de espiar."
+  },
+  {
+   "id": 968,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Quién te sapeó que yo iba a cenar con él? Fue la Javi, ¿cierto?",
+   "frase_neutralizada": "¿Quién te contó que yo iba a cenar con él? Fue Javi, ¿verdad?",
+   "nota": "Ortografía y persona ilógica corregidas."
+  },
+  {
+   "id": 969,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Algún vecino sapeó a los cabros que vendían en la esquina y llegaron los pacos.",
+   "frase_neutralizada": "Algún vecino delató a los chicos que vendían en la esquina y llegó la policía.",
+   "nota": "Sentido y neutral erróneos; nueva frase de delatar a la policía."
+  },
+  {
+   "id": 970,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cállate, sapo, por tu culpa nos pillaron fumando en el baño.",
+   "frase_neutralizada": "Cállate, soplón, por tu culpa nos atraparon fumando en el baño.",
+   "nota": "Frase pobre y gramática rara; se dio contexto de delator."
+  },
+  {
+   "id": 971,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le cuenten nada al Felipe, que es más sapo que la cresta y le dice todo al jefe.",
+   "frase_neutralizada": "No le cuenten nada a Felipe, que es muy soplón y le cuenta todo al jefe.",
+   "nota": "Neutral cambiaba el sentido; se aclaró el delator."
+  },
+  {
+   "id": 972,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No seai sapo, deja de leer mis mensajes por encima del hombro.",
+   "frase_neutralizada": "No seas entrometido, deja de leer mis mensajes por encima del hombro.",
+   "nota": "No incluía la expresión; se agregó sapo."
+  },
+  {
+   "id": 973,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "El sapo del paradero le gritó al chofer que la otra micro había pasado hace cinco minutos.",
+   "frase_neutralizada": "El hombre que controla los horarios en la parada le gritó al conductor que el otro autobús había pasado hace cinco minutos.",
+   "nota": "Usaba 'sapear' como adjetivo; nueva frase del sentido de paradero."
+  },
+  {
+   "id": 974,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "La mina se agachó con ese short tan apretado y quedó marcando todo el sapo.",
+   "frase_neutralizada": "La chica se agachó con ese short tan apretado y se le marcaba toda la vagina.",
+   "nota": "Gramática rara y neutral excesivamente formal."
+  },
+  {
+   "id": 975,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No inviten a la sapa de la Coni a la reunión, que después anda contando todo.",
+   "frase_neutralizada": "No inviten a la entrometida de Coni a la reunión, que después anda contando todo.",
+   "nota": "'Interferente' no es natural; se usó 'entrometida'."
+  },
+  {
+   "id": 976,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y a la sapa quién le preguntó? Nadie le pidió opinión.",
+   "frase_neutralizada": "¿Y a la entrometida quién le preguntó? Nadie le pidió su opinión.",
+   "nota": "Frase sin sentido claro; neutral con palabra inadecuada."
+  },
+  {
+   "id": 977,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, sapa, no te metai en mis asuntos, ¿ya?",
+   "frase_neutralizada": "Oye, entrometida, no te metas en tus asuntos ajenos, ¿sí?",
+   "nota": "'No me metas' era incorrecto; se corrigió el pronombre."
+  },
+  {
+   "id": 978,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ven a la fiesta, pero no seai sapa y no andes preguntando con quién llegó cada uno.",
+   "frase_neutralizada": "Ven a la fiesta, pero no seas entrometida y no andes preguntando con quién llegó cada uno.",
+   "nota": "Se reemplazó 'interferente' y se ajustó género."
+  },
+  {
+   "id": 979,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi suegra es súper sapa, siempre se mete en mi relación con el Rodrigo.",
+   "frase_neutralizada": "Mi suegra es muy entrometida, siempre se mete en mi relación con Rodrigo.",
+   "nota": "'No me entrometas' agramatical; neutral con errores."
+  },
+  {
+   "id": 980,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ponte calzones, que con ese vestido tan corto se te va a ver el sapolio.",
+   "frase_neutralizada": "Ponte ropa interior, que con ese vestido tan corto se te va a ver la vagina.",
+   "nota": "Frase ilógica y neutral clínica; nueva situación."
+  },
+  {
+   "id": 981,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La gine me dijo que no me lavara el sapolio con jabón perfumado.",
+   "frase_neutralizada": "La ginecóloga me dijo que no me lavara la vagina con jabón perfumado.",
+   "nota": "Frase genérica y poco natural; se hizo coloquial."
+  },
+  {
+   "id": 982,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Fran se depiló el sapolio con cera y dice que le dolió como la cresta.",
+   "frase_neutralizada": "Fran se depiló la vagina con cera y dice que le dolió muchísimo.",
+   "nota": "Errores gramaticales y de persona; nueva frase."
+  },
+  {
+   "id": 983,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ojo con echarte desodorante en el sapolio, que después te pica entero.",
+   "frase_neutralizada": "Cuidado con echarte desodorante en la vagina, que después te pica muchísimo.",
+   "nota": "Registro formal; se volvió coloquial."
+  },
+  {
+   "id": 984,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me pegué en el sapolio con el fierro de la bici y quedé viendo estrellas.",
+   "frase_neutralizada": "Me golpeé la vagina con el tubo de la bicicleta y quedé viendo estrellas.",
+   "nota": "Frase ilógica; nueva situación."
+  },
+  {
+   "id": 985,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer me pegué un saque antes de entrar a la pega y anduve acelerado todo el día.",
+   "frase_neutralizada": "Ayer me metí una línea de coca antes de entrar al trabajo y anduve acelerado todo el día.",
+   "nota": "Verbo 'puse' cambiado a 'pegué'; se agregaron chilenismos."
+  },
+  {
+   "id": 986,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegó a la casa y altiro se pegó un saque en el baño.",
+   "frase_neutralizada": "Llegó a la casa y de inmediato se metió una línea de coca en el baño.",
+   "nota": "Tiempos verbales inconsistentes entre ambas frases."
+  },
+  {
+   "id": 987,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿A qué hora te pegaste el saque, que todavía tenís las pupilas dilatadas?",
+   "frase_neutralizada": "¿A qué hora te metiste la línea de coca, que todavía tienes las pupilas dilatadas?",
+   "nota": "Pregunta sin sentido y tiempo verbal cambiado."
+  },
+  {
+   "id": 988,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el carrete los cabros se pegaron unos saques y no durmieron en toda la noche.",
+   "frase_neutralizada": "En la fiesta los chicos se metieron unas líneas de coca y no durmieron en toda la noche.",
+   "nota": "Sujeto invertido y absurdo; nueva frase."
+  },
+  {
+   "id": 989,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿tenís pa' pegarnos un saque o ya se acabó todo?",
+   "frase_neutralizada": "Oye, ¿tienes para meternos una línea de coca o ya se acabó todo?",
+   "nota": "Uso forzado 'pegar un saque a alguien'; nueva frase."
+  },
+  {
+   "id": 990,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese loco anda sarpao, mejor no lo miremos ni le hablemos.",
+   "frase_neutralizada": "Ese tipo anda agresivo, mejor no lo miremos ni le hablemos.",
+   "nota": "'Chévere' no es chileno y el 'vo' sobraba."
+  },
+  {
+   "id": 991,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo llegó sarpao de la pega y se puso a gritarles a todos.",
+   "frase_neutralizada": "Mi papá llegó alterado del trabajo y se puso a gritarles a todos.",
+   "nota": "Frase incoherente; nueva situación."
+  },
+  {
+   "id": 992,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cabro de la otra mesa está entero sarpao, ya botó dos sillas.",
+   "frase_neutralizada": "El chico de la otra mesa está muy agresivo, ya tiró dos sillas.",
+   "nota": "'Chilote' irrelevante; se dio contexto de agresividad."
+  },
+  {
+   "id": 993,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué andai tan sarpao conmigo? Yo no te hice nada.",
+   "frase_neutralizada": "¿Por qué andas tan agresivo conmigo? Yo no te hice nada.",
+   "nota": "Neutral añadía información y faltaban signos."
+  },
+  {
+   "id": 994,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te pongai sarpao, weón, que era puro hueveo.",
+   "frase_neutralizada": "No te pongas agresivo, amigo, que era solo una broma.",
+   "nota": "Frase incoherente y neutral inventada; nueva frase."
+  },
+  {
+   "id": 995,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No se ve nada en la pantalla, se bugeó el computador otra vez.",
+   "frase_neutralizada": "No se ve nada en la pantalla, la computadora volvió a fallar.",
+   "nota": "Tilde y 'computador' chileno; neutral simplificada."
+  },
+  {
+   "id": 996,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se bugeó la app del banco y no me deja hacer la transferencia.",
+   "frase_neutralizada": "La aplicación del banco falló y no me deja hacer la transferencia.",
+   "nota": "Bicicleta no se 'bugea'; contexto digital."
+  },
+  {
+   "id": 997,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te iba a responder lo del carrete, pero se me bugeó el celular y se apagó.",
+   "frase_neutralizada": "Te iba a responder lo de la fiesta, pero el celular me falló y se apagó.",
+   "nota": "Frase incoherente; se mantuvo la idea del teléfono."
+  },
+  {
+   "id": 998,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se bugeó la clase por Zoom y quedamos todos congelados en la pantalla.",
+   "frase_neutralizada": "La clase por Zoom falló y todos quedamos congelados en la pantalla.",
+   "nota": "Motor mecánico no se 'bugea'; 'carro' no es chileno."
+  },
+  {
+   "id": 999,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se me bugeó el cerebro en la prueba y no me acordé de ninguna fórmula.",
+   "frase_neutralizada": "Se me bloqueó la mente en el examen y no me acordé de ninguna fórmula.",
+   "nota": "Microscopio poco natural; uso figurado común."
+  }
+ ]
+}

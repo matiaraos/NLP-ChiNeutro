@@ -1,0 +1,340 @@
+{
+ "lote": 85,
+ "claves": [
+  "garabatos",
+  "gasfiter",
+  "gaucho",
+  "gg",
+  "gil",
+  "glow up",
+  "goat",
+  "gorrear"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24874519999999997,
+ "duracion_s": 91.6,
+ "pares": [
+  {
+   "id": 3400,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Deja de decir tantos garabatos delante de los cabros chicos, po.",
+   "frase_neutralizada": "Deja de decir tantas groserías delante de los niños.",
+   "nota": "No incluía la expresión; usaba chamuyo con sentido inventado."
+  },
+  {
+   "id": 3401,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuela se enoja altiro si alguien suelta un garabato en la mesa.",
+   "frase_neutralizada": "Mi abuela se enoja de inmediato si alguien dice una grosería en la mesa.",
+   "nota": "No contenía la expresión garabato."
+  },
+  {
+   "id": 3402,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El árbitro lo echó por tirarle puros garabatos al juez de línea.",
+   "frase_neutralizada": "El árbitro lo expulsó por decirle solo groserías al juez de línea.",
+   "nota": "No contenía la expresión; frase violenta sin sentido."
+  },
+  {
+   "id": 3403,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi loro aprendió puros garabatos de mi tío, es una vergüenza.",
+   "frase_neutralizada": "Mi loro aprendió solo groserías de mi tío, es una vergüenza.",
+   "nota": "No contenía la expresión garabato."
+  },
+  {
+   "id": 3404,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando se pegó en el dedo chico con la mesa, se mandó un garabato terrible.",
+   "frase_neutralizada": "Cuando se golpeó el dedo pequeño del pie con la mesa, dijo una grosería tremenda.",
+   "nota": "No contenía la expresión; usaba gilipollas, regionalismo español."
+  },
+  {
+   "id": 3405,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo un restaurante y se está escapando el gas en la cocina, necesito llamar a un gasfiter altiro.",
+   "frase_neutralizada": "Tengo un restaurante y hay una fuga de gas en la cocina, necesito llamar a un plomero de inmediato.",
+   "nota": "Corregidos 'me escapó' y 'escapeado'; neutral con plomero."
+  },
+  {
+   "id": 3406,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Están goteando todas las llaves de la casa, ¿conocís algún gasfiter bueno?",
+   "frase_neutralizada": "Están goteando todos los grifos de la casa, ¿conoces algún plomero bueno?",
+   "nota": "Más natural; plomero en vez de técnico de agua."
+  },
+  {
+   "id": 3407,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No prende el calefont y estamos sin agua caliente, ¿podís llamar al gasfiter hoy mismo?",
+   "frase_neutralizada": "No enciende el calentador de agua y estamos sin agua caliente, ¿puedes llamar al plomero hoy mismo?",
+   "nota": "'Interruptor del gas' poco natural; se usa calefont."
+  },
+  {
+   "id": 3408,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Vamos a cambiar el lavaplatos, ¿será necesario llamar a un gasfiter pa' instalarlo?",
+   "frase_neutralizada": "Vamos a cambiar el fregadero, ¿será necesario llamar a un plomero para instalarlo?",
+   "nota": "Situación diferenciada de la del calefont; neutral con plomero."
+  },
+  {
+   "id": 3409,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El wáter del baño está tapado y no hay caso, voy a tener que llamar al gasfiter.",
+   "frase_neutralizada": "El inodoro del baño está tapado y no hay manera, voy a tener que llamar al plomero.",
+   "nota": "Usaba 'gasfiego', palabra inexistente."
+  },
+  {
+   "id": 3410,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi cuñado es gaucho pa' arreglar bicicletas, déjasela a él no más.",
+   "frase_neutralizada": "Mi cuñado es muy hábil para arreglar bicicletas, déjasela a él y ya.",
+   "nota": "Frase agramatical; ahora ilustra claramente el sentido de persona hábil."
+  },
+  {
+   "id": 3411,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En Coyhaique los gauchos todavía andan a caballo con boina y bombachas.",
+   "frase_neutralizada": "En Coyhaique los hombres de campo todavía andan a caballo con boina y pantalones anchos de campo.",
+   "nota": "Frase incoherente; ahora sentido de hombre de campo austral."
+  },
+  {
+   "id": 3412,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Contratamos a unos gauchos pa' la esquila en la estancia, allá en Magallanes.",
+   "frase_neutralizada": "Contratamos a unos hombres de campo para la esquila en la estancia, allá en Magallanes.",
+   "nota": "Frase confusa; ubicada en zona austral con sentido de hombre de campo."
+  },
+  {
+   "id": 3413,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese cabro es re gaucho pa' la electrónica, te instala la alarma del auto en un rato.",
+   "frase_neutralizada": "Ese muchacho es muy hábil para la electrónica, te instala la alarma del auto en un rato.",
+   "nota": "Gaucho usado como 'persona' genérica; def faltante; 'el alarma' incorrecto."
+  },
+  {
+   "id": 3414,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuelo fue gaucho toda su vida, arreando ovejas por la pampa en Tierra del Fuego.",
+   "frase_neutralizada": "Mi abuelo fue hombre de campo toda su vida, arreando ovejas por la pampa en Tierra del Fuego.",
+   "nota": "Frase sin sentido y sin definición asignada."
+  },
+  {
+   "id": 3415,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, perdimos la última partida, gg, mañana jugamos otra po.",
+   "frase_neutralizada": "Bueno, perdimos la última partida, buen juego, mañana jugamos otra.",
+   "nota": "Contexto de partido genérico; ahora partida de juego, más chileno."
+  },
+  {
+   "id": 3416,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Al final de la partida todos pusieron gg en el chat, buena onda los weones.",
+   "frase_neutralizada": "Al final de la partida todos escribieron 'buen juego' en el chat, qué buena actitud tuvieron esos tipos.",
+   "nota": "Frase genérica sin rasgo chileno; contexto de juego online."
+  },
+  {
+   "id": 3417,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai picado, pon gg aunque hayai perdido po.",
+   "frase_neutralizada": "No seas rencoroso, escribe 'buen juego' aunque hayas perdido.",
+   "nota": "Uso poco natural; ahora contexto claro de cortesía tras perder."
+  },
+  {
+   "id": 3418,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le dije gg al otro equipo porque jugaron la raja, nos pasaron por encima.",
+   "frase_neutralizada": "Le dije 'buen juego' al otro equipo porque jugaron increíble, nos aplastaron.",
+   "nota": "Más natural y con contexto; quitado 'crack' en la neutral."
+  },
+  {
+   "id": 3419,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Terminamos el torneo de Fortnite, gg a todos, nos vemos el próximo finde.",
+   "frase_neutralizada": "Terminamos el torneo de Fortnite, buen juego a todos, nos vemos el próximo fin de semana.",
+   "nota": "'No te olvides de ¡GG!' era agramatical."
+  },
+  {
+   "id": 3420,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué gil, se le quedaron las llaves adentro del auto otra vez.",
+   "frase_neutralizada": "Qué tonto, se le quedaron las llaves dentro del auto otra vez.",
+   "nota": "Neutral traducía 'gil' como 'maldito', cambiando el sentido."
+  },
+  {
+   "id": 3421,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese compadre es tan gil que se pasó la salida de la autopista tres veces.",
+   "frase_neutralizada": "Ese tipo es tan despistado que se pasó la salida de la autopista tres veces.",
+   "nota": "Neutral omitía 'gil'; se quitó estereotipo del chilote."
+  },
+  {
+   "id": 3422,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi primo es tan gil que le pasó la clave del banco a un desconocido por teléfono.",
+   "frase_neutralizada": "Mi primo es tan tonto que le dio la clave del banco a un desconocido por teléfono.",
+   "nota": "Situación más clara de tontería; frase más natural."
+  },
+  {
+   "id": 3423,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Oye gil, ¿vamos a la pichanga del sábado o no?",
+   "frase_neutralizada": "Oye, amigo, ¿vamos al partido de fútbol del sábado o no?",
+   "nota": "No contenía 'gil'; def 2 es vocativo entre amigos."
+  },
+  {
+   "id": 3424,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¡Wena gil, tanto tiempo sin verte! ¿En qué andai ahora?",
+   "frase_neutralizada": "¡Hola, amigo, cuánto tiempo sin verte! ¿Qué haces ahora?",
+   "nota": "No contenía 'gil'; ahora vocativo de saludo."
+  },
+  {
+   "id": 3425,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La polola del Marcos se mandó un glow up increíble después del verano.",
+   "frase_neutralizada": "La novia de Marcos mejoró increíblemente su aspecto después del verano.",
+   "nota": "Añadido 'mandarse' y rasgos chilenos naturales."
+  },
+  {
+   "id": 3426,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mírate en las fotos del colegio, tuviste un glow up terrible, oye.",
+   "frase_neutralizada": "Mírate en las fotos de la escuela, mejoraste muchísimo tu aspecto, oye.",
+   "nota": "No contenía la expresión glow up."
+  },
+  {
+   "id": 3427,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros no podían creer el glow up de la Javi en el reencuentro de curso.",
+   "frase_neutralizada": "Los chicos no podían creer lo mucho que había mejorado el aspecto de Javi en la reunión de excompañeros.",
+   "nota": "Neutral decía solo 'cambio', sin la idea de mejora."
+  },
+  {
+   "id": 3428,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Desde que empezó a ir al gimnasio, el Nico ha tenido un glow up brígido.",
+   "frase_neutralizada": "Desde que empezó a ir al gimnasio, Nico ha mejorado muchísimo su aspecto.",
+   "nota": "'Había glow up' agramatical; sentido de mejora clarificado."
+  },
+  {
+   "id": 3429,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te cortaste el pelo? Igual te mandaste un glow up, te ves filete.",
+   "frase_neutralizada": "¿Te cortaste el pelo? La verdad es que mejoraste mucho tu aspecto, te ves muy bien.",
+   "nota": "Frase muy breve y poco natural; añadido contexto chileno."
+  },
+  {
+   "id": 3430,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi abuelo era el goat bailando cueca, nadie le ganaba en las fondas.",
+   "frase_neutralizada": "Mi abuelo era el mejor de todos los tiempos bailando cueca, nadie le ganaba en las fiestas patrias.",
+   "nota": "Más natural y con contexto."
+  },
+  {
+   "id": 3431,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pa' mí el Chino Ríos es el goat del tenis chileno, lejos.",
+   "frase_neutralizada": "Para mí, Marcelo Ríos es el mejor de todos los tiempos del tenis chileno, por mucho.",
+   "nota": "'Fue elegido' no encaja con goat; neutral perdía 'de todos los tiempos'."
+  },
+  {
+   "id": 3432,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa jugadora es la goat del vóleibol, ganó todos los campeonatos habidos y por haber.",
+   "frase_neutralizada": "Esa jugadora es la mejor de todos los tiempos del vóleibol, ganó absolutamente todos los campeonatos.",
+   "nota": "Goat limitado a un campeonato contradecía 'de todos los tiempos'."
+  },
+  {
+   "id": 3433,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Neruda es el goat de la poesía, no me vengai con otro.",
+   "frase_neutralizada": "Neruda es el mejor poeta de todos los tiempos, no me vengas con otro.",
+   "nota": "'De la década' contradecía el sentido; coma errónea."
+  },
+  {
+   "id": 3434,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi vieja es la goat haciendo empanadas, nadie las hace tan ricas.",
+   "frase_neutralizada": "Mi mamá es la mejor de todos los tiempos haciendo empanadas, nadie las hace tan ricas.",
+   "nota": "Empresa como goat de una competencia era poco natural."
+  },
+  {
+   "id": 3435,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cachó que la polola lo andaba gorreando con su mejor amigo.",
+   "frase_neutralizada": "Descubrió que su novia lo estaba engañando con su mejor amigo.",
+   "nota": "Usaba gorrear como mentir; significa ser infiel a la pareja."
+  },
+  {
+   "id": 3436,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si me llegai a gorrear, te juro que no me vei nunca más.",
+   "frase_neutralizada": "Si llegas a engañarme, te juro que no me vuelves a ver nunca más.",
+   "nota": "Sentido equivocado; conjugación 'gorres' incorrecta."
+  },
+  {
+   "id": 3437,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al Pato lo gorrearon tres veces y todavía sigue con la mina.",
+   "frase_neutralizada": "A Pato le pusieron los cuernos tres veces y todavía sigue con esa chica.",
+   "nota": "Sentido equivocado; neutral con 'engañas' agramatical."
+  },
+  {
+   "id": 3438,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Dicen que el vecino gorrea a la señora con la secretaria de la pega.",
+   "frase_neutralizada": "Dicen que el vecino engaña a su esposa con la secretaria del trabajo.",
+   "nota": "Sentido equivocado; 'trabuco' sin sentido."
+  },
+  {
+   "id": 3439,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese gallo tiene cara de andar gorreando, yo no confiaría en él ni cagando.",
+   "frase_neutralizada": "Ese tipo tiene cara de ser infiel, yo no confiaría en él ni de chiste.",
+   "nota": "Sentido equivocado; ahora infidelidad de pareja."
+  }
+ ]
+}

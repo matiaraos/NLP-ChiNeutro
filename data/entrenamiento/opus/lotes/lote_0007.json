@@ -1,0 +1,340 @@
+{
+ "lote": 7,
+ "claves": [
+  "comerse",
+  "comersela",
+  "como el loly",
+  "como el pico",
+  "como pico",
+  "como huasca",
+  "como la raja",
+  "completo"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2249782,
+ "duracion_s": 81.1,
+ "pares": [
+  {
+   "id": 280,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿te comiste con la mina que estaba en la esquina del carrete?",
+   "frase_neutralizada": "Oye, ¿te besaste con la chica que estaba en la esquina de la fiesta?",
+   "nota": "No usaba la expresión; se incluyó 'comerse con'."
+  },
+  {
+   "id": 281,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me comí con el Nico en el cumpleaños de la Feña y nadie cachó.",
+   "frase_neutralizada": "Me besé con Nico en el cumpleaños de Fernanda y nadie se dio cuenta.",
+   "nota": "Frase agramatical y sin la expresión; nueva situación."
+  },
+  {
+   "id": 282,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esos dos estuvieron toda la noche comiéndose en la pista de baile.",
+   "frase_neutralizada": "Esos dos estuvieron toda la noche besándose apasionadamente en la pista de baile.",
+   "nota": "'Comerse a la noche' no tenía sentido; definiciones equivalentes unificadas."
+  },
+  {
+   "id": 283,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te comiste con tu amiga en la disco? No te creo, po.",
+   "frase_neutralizada": "¿Te besaste con tu amiga en la discoteca? No te creo.",
+   "nota": "'Comiste' sin pronombre cambiaba el sentido; neutral corregida."
+  },
+  {
+   "id": 284,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pillaron a los pololos comiéndose en la sala antes de que llegara el profe.",
+   "frase_neutralizada": "Sorprendieron a los novios besándose apasionadamente en el salón antes de que llegara el profesor.",
+   "nota": "Copiaba el ejemplo y la neutral hablaba de un perro."
+  },
+  {
+   "id": 285,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Juan se la comió en la fiesta y ni siquiera pololean.",
+   "frase_neutralizada": "Juan la besó en la fiesta y ni siquiera son novios.",
+   "nota": "No contenía la expresión y no tenía sentido."
+  },
+  {
+   "id": 286,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me la comí en el parque, pero quedamos como amigos no más.",
+   "frase_neutralizada": "La besé en el parque, pero quedamos solo como amigos.",
+   "nota": "Usaba 'comerse', no 'comérsela'; se ajustó la forma."
+  },
+  {
+   "id": 287,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ojalá me la coma en la disco este sábado, cachai que me tinca harto.",
+   "frase_neutralizada": "Ojalá la bese en la discoteca este sábado, ¿sabes? Me gusta mucho.",
+   "nota": "Forma incorrecta de la expresión; se usó 'comérsela'."
+  },
+  {
+   "id": 288,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Al final te la comiste a la Paula en el baile o no?",
+   "frase_neutralizada": "¿Al final besaste a Paula en el baile o no?",
+   "nota": "Neutral decía 'cita'; def 2 tiene votos negativos, se usó def 1."
+  },
+  {
+   "id": 289,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se lo comió en el carrete y al otro día hizo como si nada.",
+   "frase_neutralizada": "Lo besó en la fiesta y al día siguiente actuó como si nada.",
+   "nota": "No contenía la expresión; nueva situación."
+  },
+  {
+   "id": 290,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hoy amanecí como el loly, me duele hasta el pelo.",
+   "frase_neutralizada": "Hoy amanecí muy mal, me duele todo el cuerpo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 291,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde que me echaron de la pega ando como el loly, no tengo ganas de nada.",
+   "frase_neutralizada": "Desde que me despidieron del trabajo estoy muy mal, no tengo ganas de nada.",
+   "nota": "Sin la expresión; defs 1 y 2 unificadas."
+  },
+  {
+   "id": 292,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "La cena nos quedó como el loly, se nos quemó todo el pollo.",
+   "frase_neutralizada": "La cena nos quedó pésima, se nos quemó todo el pollo.",
+   "nota": "Se incluyó la expresión, que faltaba."
+  },
+  {
+   "id": 293,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "La reunión salió como el loly, no sacamos nada en limpio.",
+   "frase_neutralizada": "La reunión salió muy mal, no obtuvimos ningún resultado.",
+   "nota": "Se incluyó la expresión, que faltaba."
+  },
+  {
+   "id": 294,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Me fue como el loly en la entrevista, y yo que pensaba que la tenía asegurada.",
+   "frase_neutralizada": "Me fue pésimo en la entrevista, y yo que pensaba que la tenía asegurada.",
+   "nota": "Sin la expresión; ahora ilustra un resultado peor de lo esperado."
+  },
+  {
+   "id": 295,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cómo te fue en la entrevista? —Como el pico, ni me dejaron terminar de hablar.",
+   "frase_neutralizada": "¿Cómo te fue en la entrevista? —De la mierda, ni me dejaron terminar de hablar.",
+   "nota": "Respuesta incoherente; se mantuvo el registro grosero."
+  },
+  {
+   "id": 296,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me fue como el pico en física, me saqué un tres.",
+   "frase_neutralizada": "Me fue de la mierda en física, saqué un tres.",
+   "nota": "'Te tocó el pico' cambiaba la expresión y el sentido."
+  },
+  {
+   "id": 297,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La comida de ese restorán es como el pico, no vayai.",
+   "frase_neutralizada": "La comida de ese restaurante es una mierda, no vayas.",
+   "nota": "'Se me ve' no tenía sentido para comida."
+  },
+  {
+   "id": 298,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Alexis está jugando como el pico este año, no le pega a nada.",
+   "frase_neutralizada": "Alexis está jugando de la mierda este año, no acierta ni una.",
+   "nota": "Copiaba el ejemplo y la neutral cambiaba el significado."
+  },
+  {
+   "id": 299,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Salí como el pico en la foto del matrimonio, con los ojos cerrados.",
+   "frase_neutralizada": "Salí de la mierda en la foto de la boda, con los ojos cerrados.",
+   "nota": "Copiaba el ejemplo; se varió y se mantuvo el registro."
+  },
+  {
+   "id": 300,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ayer en el carrete quedé como pico y hoy tengo una caña terrible.",
+   "frase_neutralizada": "Ayer en la fiesta quedé muy borracho y hoy tengo una resaca terrible.",
+   "nota": "Usaba la expresión sin sentido y la neutral no correspondía."
+  },
+  {
+   "id": 301,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le hablís, si está como pico, no va a entender nada.",
+   "frase_neutralizada": "No le hables, está muy borracho, no va a entender nada.",
+   "nota": "Se hizo más natural y coloquial."
+  },
+  {
+   "id": 302,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Te acordai que quedaste como pico en mi cumpleaños?",
+   "frase_neutralizada": "¿Te acuerdas de que quedaste muy borracho en tu visita a mi cumpleaños?",
+   "nota": "Frase agramatical; neutral con 'ser ebrio' incorrecto."
+  },
+  {
+   "id": 303,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo no voy a llegar como pico al concierto, quiero acordarme de todo.",
+   "frase_neutralizada": "No voy a llegar muy borracho al concierto, quiero acordarme de todo.",
+   "nota": "Concordancia verbal errónea corregida."
+  },
+  {
+   "id": 304,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye compadre, ¿estai como pico? Ya no podís ni pararte.",
+   "frase_neutralizada": "Oye, amigo, ¿estás muy borracho? Ya no puedes ni ponerte de pie.",
+   "nota": "'Pavito' no es natural; se agregó contexto."
+  },
+  {
+   "id": 305,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Salí del carrete como huasca y no me acuerdo cómo llegué a la casa.",
+   "frase_neutralizada": "Salí de la fiesta muy borracho y no me acuerdo cómo llegué a casa.",
+   "nota": "Tilde errónea en 'fui' y poca naturalidad."
+  },
+  {
+   "id": 306,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Coni se tomó tres piscolas y quedó como huasca.",
+   "frase_neutralizada": "Coni se tomó tres tragos de pisco con cola y quedó muy borracha.",
+   "nota": "Mezclaba sentidos y la neutral era agramatical."
+  },
+  {
+   "id": 307,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "En la pelea le dieron como huasca al pobre cabro.",
+   "frase_neutralizada": "En la pelea le pegaron muy fuerte al pobre muchacho.",
+   "nota": "'Una correcta' no tenía sentido."
+  },
+  {
+   "id": 308,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Si mi papá te pilla, te va a dar como huasca.",
+   "frase_neutralizada": "Si mi papá te descubre, te va a dar una paliza.",
+   "nota": "La cocina de la abuela no tenía sentido con la expresión."
+  },
+  {
+   "id": 309,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este finde vamos a las fondas y vamos a quedar como huasca.",
+   "frase_neutralizada": "Este fin de semana vamos a las fiestas patrias y vamos a quedar muy borrachos.",
+   "nota": "'Salir como huasca' sonaba raro; se usó 'quedar'."
+  },
+  {
+   "id": 310,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tía anda como la raja desde la mañana, le duele la guata.",
+   "frase_neutralizada": "Mi tía está muy mal desde la mañana, le duele el estómago.",
+   "nota": "Se agregó contexto natural."
+  },
+  {
+   "id": 311,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Está como la raja el día, puro frío y lluvia.",
+   "frase_neutralizada": "El día está horrible, solo hay frío y lluvia.",
+   "nota": "Sintaxis agramatical en ambas frases."
+  },
+  {
+   "id": 312,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esta pega me tiene como la raja, llego todos los días reventado.",
+   "frase_neutralizada": "Este trabajo me tiene muy mal, llego todos los días agotado.",
+   "nota": "'Me hace como la raja' no es natural."
+  },
+  {
+   "id": 313,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El carrete de anoche estuvo como la raja, no llegó nadie.",
+   "frase_neutralizada": "La fiesta de anoche estuvo pésima, no llegó nadie.",
+   "nota": "Frase agramatical y sin sentido."
+  },
+  {
+   "id": 314,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese profe es como la raja pa' explicar, no se le entiende nada.",
+   "frase_neutralizada": "Ese profesor es pésimo para explicar, no se le entiende nada.",
+   "nota": "Era ambigua y poco natural; se dio contexto."
+  },
+  {
+   "id": 315,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tía, me da un completo con chucrut y una bebida, porfa.",
+   "frase_neutralizada": "Señora, me da un hot dog con chucrut y un refresco, por favor.",
+   "nota": "Se hizo más coloquial y chilena."
+  },
+  {
+   "id": 316,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te tinca un completo italiano después de la pega?",
+   "frase_neutralizada": "¿Se te antoja un hot dog con tomate, aguacate y mayonesa después del trabajo?",
+   "nota": "'Hot dog italiano' no se entiende fuera de Chile."
+  },
+  {
+   "id": 317,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pa' mí el completo sin tomate, que no me gusta.",
+   "frase_neutralizada": "Para mí el hot dog sin tomate, que no me gusta.",
+   "nota": "Se hizo más natural y coloquial."
+  },
+  {
+   "id": 318,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este completo está demasiado rico, ¿dónde lo compraste?",
+   "frase_neutralizada": "Este hot dog está riquísimo, ¿dónde lo compraste?",
+   "nota": "Defs equivalentes unificadas; neutral usaba 'es' en vez de 'está'."
+  },
+  {
+   "id": 319,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pa' la once hicimos completos en la casa y quedaron filete.",
+   "frase_neutralizada": "Para la merienda hicimos hot dogs en casa y quedaron buenísimos.",
+   "nota": "Copiaba el ejemplo; nueva situación."
+  }
+ ]
+}

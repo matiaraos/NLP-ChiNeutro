@@ -1,0 +1,340 @@
+{
+ "lote": 33,
+ "claves": [
+  "te matriculaste",
+  "te paseo",
+  "te paso por el pico",
+  "te pegai la mision",
+  "te pegai la mision gordita chupetona",
+  "te tengo de hijo",
+  "te tinca",
+  "te tirai la mision"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2593971,
+ "duracion_s": 96.1,
+ "pares": [
+  {
+   "id": 1320,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ahora sí que te matriculaste, hueón, la próxima vez que te vea en la pobla te saco la cresta.",
+   "frase_neutralizada": "Ahora sí vas a pagar por esto, idiota; la próxima vez que te vea en el barrio te voy a dar una paliza.",
+   "nota": "Frase original incoherente; se dejó una amenaza clara y natural."
+  },
+  {
+   "id": 1321,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Le dijiste a la profe que fui yo? Te matriculaste, hueón.",
+   "frase_neutralizada": "¿Le dijiste a la profesora que fui yo? Vas a pagar por esto, idiota.",
+   "nota": "Lo de «tipo de pelota» no tenía sentido; ahora es una amenaza."
+  },
+  {
+   "id": 1322,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te matriculaste conmigo, compadre, me rayaste el auto y esto no se queda así.",
+   "frase_neutralizada": "Te metiste en problemas conmigo, amigo; me rayaste el auto y esto no se va a quedar así.",
+   "nota": "Lo del siglo XXI era incoherente; nueva situación de amenaza."
+  },
+  {
+   "id": 1323,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me sapeaste con el jefe, ¿cierto? Te matriculaste, después no digai que no te avisé.",
+   "frase_neutralizada": "Me delataste con el jefe, ¿verdad? Vas a pagar las consecuencias; después no digas que no te avisé.",
+   "nota": "Tenía voseo rioplatense y no tenía sentido; se reescribió."
+  },
+  {
+   "id": 1324,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si le contai algo a mi polola, te matriculaste, ¿cachai?",
+   "frase_neutralizada": "Si le cuentas algo a mi novia, vas a pagar las consecuencias, ¿entiendes?",
+   "nota": "Sentido y gramática erróneos en la neutral; ahora es amenaza condicional."
+  },
+  {
+   "id": 1325,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Juguemos tenis cuando querai, si igual te paseo en dos sets.",
+   "frase_neutralizada": "Juguemos tenis cuando quieras, de todos modos te gano fácilmente en dos sets.",
+   "nota": "Decía «me paso» en vez de «te paseo»."
+  },
+  {
+   "id": 1326,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la competencia de baile te paseo, ni te esfuerces, hueón.",
+   "frase_neutralizada": "En la competencia de baile te supero fácilmente, ni te esfuerces, tonto.",
+   "nota": "Faltaba la expresión; decía «me paso a ti»."
+  },
+  {
+   "id": 1327,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Échate una partida de FIFA conmigo, compadre, te paseo como quiero.",
+   "frase_neutralizada": "Juega una partida de FIFA conmigo, amigo, te gano fácilmente.",
+   "nota": "Def 2 es dudosa y faltaba la expresión; se pasó a def 1."
+  },
+  {
+   "id": 1328,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En matemáticas te paseo, po, siempre saco mejor nota que vo.",
+   "frase_neutralizada": "En matemáticas te supero fácilmente, siempre saco mejor nota que tú.",
+   "nota": "Faltaba la expresión y la def 2 es dudosa; se pasó a def 1."
+  },
+  {
+   "id": 1329,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese jugador te paseó todo el partido, no lo pudiste parar ni una vez.",
+   "frase_neutralizada": "Ese jugador te superó fácilmente todo el partido, no lo pudiste detener ni una vez.",
+   "nota": "Mezclaba sentidos; la def 3 es una anécdota, se usó la def 1."
+  },
+  {
+   "id": 1330,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Que la película es fome? Te paso por el pico, yo la voy a ver igual.",
+   "frase_neutralizada": "¿Que la película es aburrida? Me importa una mierda lo que pienses, yo la voy a ver igual.",
+   "nota": "Contexto incoherente; se cambió la neutral a un registro grosero."
+  },
+  {
+   "id": 1331,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si no te gusta mi regalo, te paso por el pico, hueón.",
+   "frase_neutralizada": "Si no te gusta mi regalo, me importa una mierda, idiota.",
+   "nota": "«No me preocupes» era agramatical; se ajustó el registro grosero."
+  },
+  {
+   "id": 1332,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Andai pelando a todos en la reunión, pero te paso por el pico, ¿cachai?",
+   "frase_neutralizada": "Andas criticando a todos en la reunión, pero me importa un carajo lo que digas, ¿entiendes?",
+   "nota": "La frase no era coherente; se rehízo con un desprecio claro."
+  },
+  {
+   "id": 1333,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿No te gusta cómo estoy organizando el matrimonio? Te paso por el pico, es mi matrimonio.",
+   "frase_neutralizada": "¿No te gusta cómo estoy organizando la boda? Me importa una mierda, es mi boda.",
+   "nota": "Se hizo más natural y la neutral se dejó grosera."
+  },
+  {
+   "id": 1334,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu opinión no vale ni una chaucha, te paso por el pico, sigue hablando no más.",
+   "frase_neutralizada": "Tu opinión no vale nada, me importas un carajo, sigue hablando si quieres.",
+   "nota": "Era redundante y explicaba el significado; se dejó la neutral grosera."
+  },
+  {
+   "id": 1335,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿te pegai la misión de ayudarme con el aseo de la casa?",
+   "frase_neutralizada": "Oye, ¿te animas a ayudarme con la limpieza de la casa?",
+   "nota": "Faltaba la expresión y «ayúdes» era un error."
+  },
+  {
+   "id": 1336,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tengo que terminar este proyecto hoy, ¿te pegai la misión y me dai una mano?",
+   "frase_neutralizada": "Tengo que terminar este proyecto hoy, ¿te animas a echarme una mano?",
+   "nota": "Faltaba la expresión."
+  },
+  {
+   "id": 1337,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana hay que entregar el trabajo, ¿te pegai la misión de quedarte hasta tarde conmigo?",
+   "frase_neutralizada": "Mañana hay que entregar el trabajo, ¿te animas a quedarte hasta tarde conmigo?",
+   "nota": "La estructura con «si» era antinatural; ahora es una invitación."
+  },
+  {
+   "id": 1338,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Quedó la cagá después del carrete, ¿te pegai la misión de limpiar conmigo?",
+   "frase_neutralizada": "Quedó un desastre después de la fiesta, ¿te animas a limpiar conmigo?",
+   "nota": "Estructura antinatural y error de modo («ayudas») en la neutral."
+  },
+  {
+   "id": 1339,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo prueba de química el lunes, ¿te pegai la misión de estudiar conmigo el finde?",
+   "frase_neutralizada": "Tengo examen de química el lunes, ¿te animas a estudiar conmigo el fin de semana?",
+   "nota": "Estructura antinatural y error de modo («ayudas») en la neutral."
+  },
+  {
+   "id": 1340,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mis viejos se fueron al sur el finde, ¿te pegai la misión, gordita chupetona?",
+   "frase_neutralizada": "Mis padres se fueron al sur el fin de semana, ¿quieres que tengamos sexo, gordita besucona?",
+   "nota": "Se usaba como «tarea»; el sentido real es una propuesta sexual."
+  },
+  {
+   "id": 1341,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya está terminando la disco, ¿te pegai la misión, gordita chupetona? Tengo el depa cerca.",
+   "frase_neutralizada": "Ya está terminando la discoteca, ¿quieres acostarte conmigo, gordita besucona? Tengo el departamento cerca.",
+   "nota": "Sentido equivocado («tarea»); ahora es una propuesta sexual."
+  },
+  {
+   "id": 1342,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le mandé un wasap a la Cata: ¿te pegai la misión, gordita chupetona?, y me dejó en visto.",
+   "frase_neutralizada": "Le mandé un WhatsApp a Catalina: «¿quieres tener sexo conmigo, gordita besucona?», y me dejó en visto.",
+   "nota": "Sentido equivocado; se reescribió como propuesta sexual."
+  },
+  {
+   "id": 1343,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, gordita chupetona, ¿te pegai la misión o no? Mi pieza está libre.",
+   "frase_neutralizada": "Vamos, gordita besucona, ¿quieres que nos acostemos o no? Mi cuarto está libre.",
+   "nota": "Sentido equivocado y «tomar la feria» era erróneo."
+  },
+  {
+   "id": 1344,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pancho le gritó a la polola «¿te pegai la misión, gordita chupetona?» y ella se murió de vergüenza.",
+   "frase_neutralizada": "Francisco le gritó a su novia «¿quieres tener sexo, gordita besucona?» y ella se murió de vergüenza.",
+   "nota": "Sentido equivocado; ahora es una propuesta sexual citada."
+  },
+  {
+   "id": 1345,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te gané cinco partidas seguidas en el Mario Kart, te tengo de hijo.",
+   "frase_neutralizada": "Te gané cinco partidas seguidas en Mario Kart, te tengo dominado.",
+   "nota": "No tenía la expresión ni nada que ver con el sentido."
+  },
+  {
+   "id": 1346,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano chico hace todo lo que le digo, lo tengo de hijo.",
+   "frase_neutralizada": "Mi hermano menor hace todo lo que le digo, lo tengo dominado.",
+   "nota": "Faltaba la expresión."
+  },
+  {
+   "id": 1347,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe de historia nos tiene de hijos, nadie le alega nada.",
+   "frase_neutralizada": "El profesor de historia nos tiene dominados, nadie se le queja de nada.",
+   "nota": "Faltaba la expresión."
+  },
+  {
+   "id": 1348,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En los cien metros planos te tengo de hijo, nunca me hai ganado.",
+   "frase_neutralizada": "En los cien metros planos te tengo dominado, nunca me has ganado.",
+   "nota": "Se interpretaba como «cuidar»; el sentido real es dominar."
+  },
+  {
+   "id": 1349,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Javi tiene de hijo al pololo, el pobre le hace caso en todo.",
+   "frase_neutralizada": "Javiera tiene dominado a su novio, el pobre le obedece en todo.",
+   "nota": "Se interpretaba como «cuidar»; ahora el sentido es control."
+  },
+  {
+   "id": 1350,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te tinca acompañarme a la feria el domingo en la mañana?",
+   "frase_neutralizada": "¿Te gustaría acompañarme al mercado el domingo en la mañana?",
+   "nota": "«¿Tú me parece?» en la neutral era agramatical."
+  },
+  {
+   "id": 1351,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te tinca que vayamos al cine a ver la de Marvel?",
+   "frase_neutralizada": "¿Te parece si vamos al cine a ver la película de Marvel?",
+   "nota": "Faltaba el signo de apertura y la neutral era agramatical."
+  },
+  {
+   "id": 1352,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te tinca llevarme al asado de tu familia este finde?",
+   "frase_neutralizada": "¿Te gustaría llevarme a la parrillada de tu familia este fin de semana?",
+   "nota": "Mal modo verbal y la neutral invertía quién llevaba a quién."
+  },
+  {
+   "id": 1353,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿te tinca que pasemos a la librería antes de almorzar?",
+   "frase_neutralizada": "Oye, ¿te parece si pasamos por la librería antes de almorzar?",
+   "nota": "Modo verbal incorrecto («vamos») y la neutral era agramatical."
+  },
+  {
+   "id": 1354,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te tinca ir a los conciertos de esta semana, o andai corto de plata?",
+   "frase_neutralizada": "¿Te gustaría ir a los conciertos de esta semana, o andas corto de dinero?",
+   "nota": "La neutral era agramatical; se añadió contexto natural."
+  },
+  {
+   "id": 1355,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿te tirai la misión hoy en la noche? Estoy solo en la casa.",
+   "frase_neutralizada": "Oye, ¿quieres que tengamos sexo hoy en la noche? Estoy solo en casa.",
+   "nota": "Faltaba la expresión y la frase era incoherente."
+  },
+  {
+   "id": 1356,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche me tiré la misión con el gallo del carrete, no te imaginai.",
+   "frase_neutralizada": "Anoche tuve sexo con el tipo de la fiesta, no te imaginas.",
+   "nota": "Faltaba la expresión; se reescribió en pasado."
+  },
+  {
+   "id": 1357,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y? ¿Te tiraste la misión con la mina de Tinder o no?",
+   "frase_neutralizada": "¿Y? ¿Te acostaste con la chica de Tinder o no?",
+   "nota": "Faltaba la expresión y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 1358,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi polola me dijo que hoy nos tirábamos la misión, así que compré condones.",
+   "frase_neutralizada": "Mi novia me dijo que hoy íbamos a tener sexo, así que compré condones.",
+   "nota": "Faltaba la expresión."
+  },
+  {
+   "id": 1359,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi amor, ¿te tirai la misión antes de que lleguen tus papás?",
+   "frase_neutralizada": "Mi amor, ¿quieres que tengamos sexo antes de que lleguen tus padres?",
+   "nota": "Faltaba la expresión."
+  }
+ ]
+}

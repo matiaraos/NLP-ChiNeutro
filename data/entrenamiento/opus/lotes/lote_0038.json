@@ -1,0 +1,340 @@
+{
+ "lote": 38,
+ "claves": [
+  "violeta",
+  "vira de aqui",
+  "virarse",
+  "vistima",
+  "vivaldi",
+  "volao",
+  "volado",
+  "volar la raja"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.22324720000000003,
+ "duracion_s": 79.1,
+ "pares": [
+  {
+   "id": 1520,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, en esa galería tienen puros violetas, nadie se junta con ellos.",
+   "frase_neutralizada": "Oye, en ese pabellón tienen solo violadores, nadie se junta con ellos.",
+   "nota": "Frase poco natural; nuevo contexto carcelario."
+  },
+  {
+   "id": 1521,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dicen que el loco nuevo es violeta, por eso lo tienen aparte.",
+   "frase_neutralizada": "Dicen que el tipo nuevo es un violador, por eso lo tienen separado.",
+   "nota": "Se añadió contexto carcelario natural."
+  },
+  {
+   "id": 1522,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la cana los violetas lo pasan pésimo, los otros presos no los perdonan.",
+   "frase_neutralizada": "En la cárcel los violadores lo pasan pésimo, los otros presos no los perdonan.",
+   "nota": "Usaba violeta como delito pendiente; incorrecto."
+  },
+  {
+   "id": 1523,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al compadre lo trasladaron porque se corrió la voz de que era violeta.",
+   "frase_neutralizada": "Al tipo lo trasladaron porque se corrió la voz de que era violador.",
+   "nota": "Frase original incoherente."
+  },
+  {
+   "id": 1524,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pa' mí los violetas tendrían que estar en cana de por vida, po.",
+   "frase_neutralizada": "Para mí los violadores tendrían que estar presos de por vida.",
+   "nota": "Se dio registro coloquial chileno."
+  },
+  {
+   "id": 1525,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Vira de aquí, cabro chico, que no te quiero ver más en mi casa!",
+   "frase_neutralizada": "¡Lárgate de aquí, niño, que no te quiero ver más en mi casa!",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1526,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Ya, vira de aquí, que ya te dije que no te voy a prestar plata!",
+   "frase_neutralizada": "¡Ya, vete de aquí, que ya te dije que no te voy a prestar dinero!",
+   "nota": "Sentido equivocado e incoherente."
+  },
+  {
+   "id": 1527,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El guardia le gritó al curao \"vira de aquí\" y lo sacó a empujones del local.",
+   "frase_neutralizada": "El guardia le gritó al borracho \"vete de aquí\" y lo sacó a empujones del local.",
+   "nota": "Frase sin sentido."
+  },
+  {
+   "id": 1528,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Vira de aquí, weón, ¿no ves que estoy hablando con mi polola?",
+   "frase_neutralizada": "Lárgate de aquí, idiota, ¿no ves que estoy hablando con mi novia?",
+   "nota": "Usaba la expresión como entregar algo."
+  },
+  {
+   "id": 1529,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si vai a seguir webeando, vira de aquí altiro.",
+   "frase_neutralizada": "Si vas a seguir molestando, vete de aquí ahora mismo.",
+   "nota": "Sentido equivocado."
+  },
+  {
+   "id": 1530,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, hermano, virémonos de aquí antes que llegue la yuta.",
+   "frase_neutralizada": "Ya, hermano, vámonos de aquí antes de que llegue la policía.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1531,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No puedo seguir aquí, me tengo que virar, po.",
+   "frase_neutralizada": "No puedo seguir aquí, me tengo que ir.",
+   "nota": "Faltaba la expresión; neutral alteraba sentido."
+  },
+  {
+   "id": 1532,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, me viro pa' la casa, mañana tengo que trabajar temprano.",
+   "frase_neutralizada": "Oye, me voy a la casa, mañana tengo que trabajar temprano.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1533,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esta charla está más fome, yo me viro.",
+   "frase_neutralizada": "Esta charla está muy aburrida, yo me voy.",
+   "nota": "Faltaba la expresión; neutral cambiaba el sentido."
+  },
+  {
+   "id": 1534,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se puso pesado el ambiente en la plaza y los cabros se viraron al toque.",
+   "frase_neutralizada": "El ambiente en la plaza se puso tenso y los muchachos se fueron enseguida.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1535,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ella se hace la vistima con cada cosa que le dicen, es insoportable.",
+   "frase_neutralizada": "Ella se hace la víctima con cada cosa que le dicen, es insoportable.",
+   "nota": "\"Meterse en vistima\" no se usa; neutral alterada."
+  },
+  {
+   "id": 1536,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué siempre tenís que hacerte la vistima cuando peleamos?",
+   "frase_neutralizada": "¿Por qué siempre tienes que hacerte la víctima cuando discutimos?",
+   "nota": "Neutral cambiaba género; se añadió voseo chileno."
+  },
+  {
+   "id": 1537,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Javiera se está haciendo la vistima y no quiere escuchar razones.",
+   "frase_neutralizada": "Javiera se está haciendo la víctima y no quiere escuchar razones.",
+   "nota": "Neutral reformulaba innecesariamente."
+  },
+  {
+   "id": 1538,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano chico rompió el vaso y después se hizo la vistima pa' que no lo retaran.",
+   "frase_neutralizada": "Mi hermano menor rompió el vaso y después se hizo la víctima para que no lo regañaran.",
+   "nota": "Definiciones duplicadas; unificado en def 1, nuevo contexto."
+  },
+  {
+   "id": 1539,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te hagai la vistima, si tú empezaste la pelea.",
+   "frase_neutralizada": "No te hagas la víctima, si tú empezaste la pelea.",
+   "nota": "Faltaba pronombre; neutral cambiaba a usted."
+  },
+  {
+   "id": 1540,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ponte vivaldi en la micro, que andan robando celulares.",
+   "frase_neutralizada": "Ponte atento en el autobús, que andan robando celulares.",
+   "nota": "Usaba vivaldi como vocativo; neutral agramatical."
+  },
+  {
+   "id": 1541,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anda vivaldi con la pelota, que el otro equipo presiona harto.",
+   "frase_neutralizada": "Mantente atento con el balón, que el otro equipo presiona mucho.",
+   "nota": "Usaba vivaldi como vocativo."
+  },
+  {
+   "id": 1542,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ponte vivaldi, que el profe está pasando lista.",
+   "frase_neutralizada": "Oye, ponte atento, que el profesor está pasando lista.",
+   "nota": "Neutral \"abre la atención\" incorrecta."
+  },
+  {
+   "id": 1543,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Maneja vivaldi en la carretera, que de noche cruzan perros.",
+   "frase_neutralizada": "Conduce atento en la carretera, que de noche cruzan perros.",
+   "nota": "Vocativo mal usado; \"toma cuidado\" incorrecto."
+  },
+  {
+   "id": 1544,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hermana, ponte vivaldi con ese loco, no me da buena espina.",
+   "frase_neutralizada": "Hermana, ponte atenta con ese tipo, no me da buena espina.",
+   "nota": "Frase poco natural; se dio contexto."
+  },
+  {
+   "id": 1545,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué te pasa? Andai súper volao hoy, no has pescado nada de la clase.",
+   "frase_neutralizada": "¿Qué te pasa? Andas muy distraído hoy, no has prestado atención a nada de la clase.",
+   "nota": "Faltaba forma volao; se dio contexto de distracción."
+  },
+  {
+   "id": 1546,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hablemos después, ahora estai muy volao y no me estai escuchando.",
+   "frase_neutralizada": "Hablemos después, ahora estás muy distraído y no me estás escuchando.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1547,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pedro es tan volao que se bajó de la micro y dejó la mochila arriba.",
+   "frase_neutralizada": "Pedro es tan despistado que se bajó del autobús y dejó la mochila adentro.",
+   "nota": "Neutral con signos mal puestos; nueva situación."
+  },
+  {
+   "id": 1548,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Llegó re volao después del carrete, se fumó como tres pitos.",
+   "frase_neutralizada": "Llegó muy drogado después de la fiesta, se fumó como tres cigarrillos de marihuana.",
+   "nota": "Neutral decía agitación, sentido equivocado."
+  },
+  {
+   "id": 1549,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No le hagai caso, está volao, se fumó un pito con los cabros en la plaza.",
+   "frase_neutralizada": "No le hagas caso, está drogado, se fumó un cigarrillo de marihuana con los muchachos en la plaza.",
+   "nota": "Frase agramatical y sentido de agitación incorrecto."
+  },
+  {
+   "id": 1550,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estaba tan volado que se puso a hablar con el perro como si fuera persona.",
+   "frase_neutralizada": "Estaba tan drogado que se puso a hablar con el perro como si fuera una persona.",
+   "nota": "Frase incoherente."
+  },
+  {
+   "id": 1551,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No pude ni pararme del sillón, quedé volado después del carrete.",
+   "frase_neutralizada": "No pude ni levantarme del sillón, quedé drogado después de la fiesta.",
+   "nota": "Neutral decía ebrio, no drogado."
+  },
+  {
+   "id": 1552,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me dijiste que ya estabai volado antes de llegar a la fiesta.",
+   "frase_neutralizada": "Me dijiste que ya estabas drogado antes de llegar a la fiesta.",
+   "nota": "Neutral decía ebrio y tenía error de concordancia."
+  },
+  {
+   "id": 1553,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "De ayer no me acuerdo de na', andaba volado todo el día.",
+   "frase_neutralizada": "De ayer no me acuerdo de nada, andaba drogado todo el día.",
+   "nota": "Neutral rebuscada; se ajustó redacción."
+  },
+  {
+   "id": 1554,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me llamaste a las tres de la mañana y se notaba que estabai volado.",
+   "frase_neutralizada": "Me llamaste a las tres de la mañana y se notaba que estabas drogado.",
+   "nota": "Se diferenció situación y se simplificó neutral."
+  },
+  {
+   "id": 1555,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con el equipo que armamos, les vamos a volar la raja a todos en el torneo.",
+   "frase_neutralizada": "Con el equipo que armamos, les vamos a dar una paliza a todos en el torneo.",
+   "nota": "Faltaba complemento indirecto; neutral muy formal."
+  },
+  {
+   "id": 1556,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Juguemos ajedrez si querí, pero te voy a volar la raja igual.",
+   "frase_neutralizada": "Juguemos ajedrez si quieres, pero te voy a aplastar de todas formas.",
+   "nota": "Neutral perdía la idea de victoria fácil."
+  },
+  {
+   "id": 1557,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano chico me voló la raja en la Play y ni siquiera se esforzó.",
+   "frase_neutralizada": "Mi hermano menor me aplastó en la PlayStation y ni siquiera se esforzó.",
+   "nota": "Repetía situación de torneo; neutral cambiaba el sentido."
+  },
+  {
+   "id": 1558,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El domingo le volamos la raja al equipo del barrio, les metimos siete goles.",
+   "frase_neutralizada": "El domingo le dimos una paliza al equipo del barrio, les metimos siete goles.",
+   "nota": "Frase y neutral incoherentes."
+  },
+  {
+   "id": 1559,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En el FIFA te volé la raja, quedaste seis a cero, po.",
+   "frase_neutralizada": "En el FIFA te di una paliza, quedaste seis a cero.",
+   "nota": "Conjugación errónea y neutral agramatical."
+  }
+ ]
+}

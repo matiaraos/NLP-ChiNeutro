@@ -1,0 +1,340 @@
+{
+ "lote": 16,
+ "claves": [
+  "embarao",
+  "embarrada",
+  "embolinar la perdiz",
+  "embrarrarla",
+  "emputecido",
+  "en cana",
+  "encachado",
+  "encalillado"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2629314,
+ "duracion_s": 97.6,
+ "pares": [
+  {
+   "id": 640,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, erís entero embarao, le echaste azúcar a la sopa en vez de sal.",
+   "frase_neutralizada": "Oye, eres muy torpe, le pusiste azúcar a la sopa en vez de sal.",
+   "nota": "Copiaba el ejemplo del diccionario; añadí una situación concreta."
+  },
+  {
+   "id": 641,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Puta que soy embarao, se me cayó el celular al wáter de nuevo.",
+   "frase_neutralizada": "Carajo, qué torpe soy, se me cayó el celular al inodoro otra vez.",
+   "nota": "La frase no era natural; la convertí en un caso claro de torpeza."
+  },
+  {
+   "id": 642,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Félix es terrible embarao, le dijeron que no tocara nada y igual se puso a desarmar la tele.",
+   "frase_neutralizada": "Félix es muy imprudente, le dijeron que no tocara nada y aun así se puso a desarmar la televisión.",
+   "nota": "No incluía la expresión y la neutral tenía errores gramaticales."
+  },
+  {
+   "id": 643,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No seai embarao, weón, si el profe dijo que no se podía salir y tú te fuiste igual.",
+   "frase_neutralizada": "No seas imprudente, hombre, el profesor dijo que no se podía salir y tú te fuiste de todas formas.",
+   "nota": "Era agramatical y la neutral cambiaba de persona; uní las definiciones 2 y 4."
+  },
+  {
+   "id": 644,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "El embarao del Pato se puso a contar chistes en pleno funeral, nada que ver.",
+   "frase_neutralizada": "El tonto de Pato se puso a contar chistes en pleno funeral, totalmente fuera de lugar.",
+   "nota": "Olvidarse de algo no ilustra el sentido; ahora no entiende la situación."
+  },
+  {
+   "id": 645,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Quedó la embarrada en la oficina cuando se cayó el sistema justo en el cierre de mes.",
+   "frase_neutralizada": "Se armó un desastre en la oficina cuando se cayó el sistema justo en el cierre de mes.",
+   "nota": "No contenía la expresión y era casi igual al ejemplo del diccionario."
+  },
+  {
+   "id": 646,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué pasó en la cocina? Quedó la embarrada, hay sal por todos lados.",
+   "frase_neutralizada": "¿Qué pasó en la cocina? Quedó hecha un desastre, hay sal por todas partes.",
+   "nota": "Faltaba la expresión; corregí también la tilde de «está»."
+  },
+  {
+   "id": 647,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me mandé una embarrada: no te avisé a tiempo y perdiste el vuelo, perdón.",
+   "frase_neutralizada": "Cometí un error grave: no te avisé a tiempo y perdiste el vuelo, perdón.",
+   "nota": "Faltaba la expresión y la frase chilena era incoherente."
+  },
+  {
+   "id": 648,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Casarse a los 18 fue la media embarrada, al año ya estaban separados.",
+   "frase_neutralizada": "Casarse a los 18 fue un error enorme, al año ya estaban separados.",
+   "nota": "Ajusté el uso para que sea un error grave, como se dice realmente."
+  },
+  {
+   "id": 649,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si le contai a la Cami lo de la fiesta, va a quedar la embarrada con su pololo.",
+   "frase_neutralizada": "Si le cuentas a Cami lo de la fiesta, se va a armar un lío tremendo con su novio.",
+   "nota": "La definición 3 tiene votos negativos y «auto embarrado» significaba otra cosa."
+  },
+  {
+   "id": 650,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El inspector me quiso embolinar la perdiz con puros artículos del reglamento, pero no me la compré.",
+   "frase_neutralizada": "El inspector me quiso confundir con un montón de artículos del reglamento, pero no le creí.",
+   "nota": "Cambié «nota de ajuste», que era poco natural, y quité la repetición de «engañar»."
+  },
+  {
+   "id": 651,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me vengai a embolinar la perdiz con esas promesas, ya sé que no vai a cumplir.",
+   "frase_neutralizada": "No vengas a confundirme con esas promesas, ya sé que no vas a cumplir.",
+   "nota": "El uso reflexivo era incorrecto y la frase no tenía sentido."
+  },
+  {
+   "id": 652,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, deja de embolinar la perdiz con esa historia y dime qué pasó de verdad.",
+   "frase_neutralizada": "Ya, deja de enredar las cosas con esa historia y dime qué pasó de verdad.",
+   "nota": "La conjugación «embolinas» estaba mal; ahora es una situación distinta."
+  },
+  {
+   "id": 653,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El abogado me embolinó la perdiz con tanto tecnicismo que terminé firmando sin entender nada.",
+   "frase_neutralizada": "El abogado me confundió con tantos tecnicismos que terminé firmando sin entender nada.",
+   "nota": "Uso la variante habitual en Chile; las definiciones 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 654,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El jefe de proyecto nos embolinó la perdiz con su plan de negocios y al final no había ni uno.",
+   "frase_neutralizada": "El jefe de proyecto nos enredó con su plan de negocios y al final no había nada de dinero.",
+   "nota": "Cambié a la variante habitual y le di más contexto a la situación."
+  },
+  {
+   "id": 655,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La embarré con mi jefa, le mandé el mensaje que era pa' mi pololo.",
+   "frase_neutralizada": "Metí la pata con mi jefa, le mandé el mensaje que era para mi novio.",
+   "nota": "No usaba la expresión y la neutral no tenía sentido."
+  },
+  {
+   "id": 656,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Juan la embarró con la cena, se le quemó el pollo y tuvimos que pedir pizza.",
+   "frase_neutralizada": "Juan arruinó la cena, se le quemó el pollo y tuvimos que pedir pizza.",
+   "nota": "La forma correcta es «embarrarla»; la neutral decía «desorganizar», con otro sentido."
+  },
+  {
+   "id": 657,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No la vayai a embarrar en la fiesta, mira que el papá de la Javi es súper pesado.",
+   "frase_neutralizada": "No vayas a meter la pata en la fiesta, que el papá de Javi es muy pesado.",
+   "nota": "Lo convertí en una advertencia natural y la neutral ya no cambia el sentido."
+  },
+  {
+   "id": 658,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "María, la embarraste dejando la puerta abierta, se arrancó el perro.",
+   "frase_neutralizada": "María, metiste la pata al dejar la puerta abierta, se escapó el perro.",
+   "nota": "La conjugación estaba mal y el sentido era ensuciar, no arruinar."
+  },
+  {
+   "id": 659,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El proyecto iba perfecto hasta que el Seba la embarró borrando la carpeta compartida.",
+   "frase_neutralizada": "El proyecto iba perfecto hasta que Seba lo arruinó todo borrando la carpeta compartida.",
+   "nota": "Era incoherente y escribía mal la expresión («embrarra»)."
+  },
+  {
+   "id": 660,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá quedó emputecida cuando vio que le chocaron el auto en el estacionamiento.",
+   "frase_neutralizada": "Mi mamá quedó furiosa cuando vio que le chocaron el auto en el estacionamiento.",
+   "nota": "No contenía la expresión ni hablaba de enojo."
+  },
+  {
+   "id": 661,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Lucho anda emputecido porque alguien le robó la bici afuera de la pega.",
+   "frase_neutralizada": "Lucho anda furioso porque alguien le robó la bicicleta afuera del trabajo.",
+   "nota": "No tenía relación con la expresión."
+  },
+  {
+   "id": 662,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me emputecí cuando caché que el weón de mi socio me estaba cagando con la plata.",
+   "frase_neutralizada": "Me puse furioso cuando me di cuenta de que el idiota de mi socio me estaba robando dinero.",
+   "nota": "No tenía la expresión y era agramatical; mantengo el registro grosero."
+  },
+  {
+   "id": 663,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El papá está emputecido porque no lo dejamos ver el partido.",
+   "frase_neutralizada": "Mi papá está muy molesto porque no lo dejamos ver el partido.",
+   "nota": "No tenía la expresión y la neutral cambiaba el significado."
+  },
+  {
+   "id": 664,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La Coni anda emputecida desde que no la invitaron al cumpleaños de la Feña.",
+   "frase_neutralizada": "Coni anda de muy mal humor desde que no la invitaron al cumpleaños de Fernanda.",
+   "nota": "No tenía la expresión y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 665,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al Toño lo metieron en cana por manejar curado.",
+   "frase_neutralizada": "A Toño lo metieron preso por manejar borracho.",
+   "nota": "«No te preocupes» resultaba incoherente al decir que está preso."
+  },
+  {
+   "id": 666,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y tu papá? ¿Sigue en cana o ya salió?",
+   "frase_neutralizada": "¿Y tu papá? ¿Sigue en la cárcel o ya salió?",
+   "nota": "Hice la frase más coloquial y natural."
+  },
+  {
+   "id": 667,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me dijeron que el loco que me asaltó ya está en cana.",
+   "frase_neutralizada": "Me dijeron que el tipo que me asaltó ya está en la cárcel.",
+   "nota": "Le di un tono más coloquial y un contexto más claro."
+  },
+  {
+   "id": 668,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer fui a ver al Pancho, que está en cana hace dos años.",
+   "frase_neutralizada": "Ayer fui a ver a Pancho, que está en la cárcel desde hace dos años.",
+   "nota": "La frase original era ambigua; quedó claro quién está preso."
+  },
+  {
+   "id": 669,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si seguís robando cables vai a terminar en cana, después no digai que no te avisé.",
+   "frase_neutralizada": "Si sigues robando cables vas a terminar en la cárcel, después no digas que no te avisé.",
+   "nota": "«No se puede ver» era poco natural y la situación, inverosímil."
+  },
+  {
+   "id": 670,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, qué encachado el auto nuevo de mi tía, ¿lo viste?",
+   "frase_neutralizada": "Oye, qué bonito es el auto nuevo de mi tía, ¿lo viste?",
+   "nota": "«Cómo bonito» era agramatical y «sale» no era natural."
+  },
+  {
+   "id": 671,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cerros de Valpo son súper encachados, con todas esas casas de colores.",
+   "frase_neutralizada": "Los cerros de Valparaíso son muy bonitos, con todas esas casas de colores.",
+   "nota": "Había errores de concordancia en las dos frases."
+  },
+  {
+   "id": 672,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te quedó súper encachado el vestido, amor, te ves preciosa.",
+   "frase_neutralizada": "Te queda muy bien el vestido, amor, te ves preciosa.",
+   "nota": "La frase era rígida; la hice más natural."
+  },
+  {
+   "id": 673,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Arrendamos una cabaña re encachada en Pucón, con vista al volcán.",
+   "frase_neutralizada": "Alquilamos una cabaña muy linda en Pucón, con vista al volcán.",
+   "nota": "«Luna encachada» no es un uso natural."
+  },
+  {
+   "id": 674,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El peluche que le regalaste a la guagua es terrible de encachado.",
+   "frase_neutralizada": "El peluche que le regalaste al bebé es muy bonito.",
+   "nota": "Corregí el género de «peluche» y le di más contexto."
+  },
+  {
+   "id": 675,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hija quedó encalillada con el CAE y todavía le quedan como diez años de cuotas.",
+   "frase_neutralizada": "Mi hija quedó endeudada con el crédito universitario y todavía le quedan como diez años de cuotas.",
+   "nota": "«Cartera de estudios» no tenía sentido; ahora hablo del crédito universitario."
+  },
+  {
+   "id": 676,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me pidai plata, que ando encalillado hasta las patas con el negocio.",
+   "frase_neutralizada": "No me pidas dinero, que estoy endeudadísimo por el negocio.",
+   "nota": "Debía ser «estar», no «ser», y el inicio de la frase era incoherente."
+  },
+  {
+   "id": 677,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me encalillé entero comprando el auto nuevo en cuotas, ahora no me alcanza pa' nada.",
+   "frase_neutralizada": "Me endeudé muchísimo comprando el auto nuevo a plazos, ahora no me alcanza para nada.",
+   "nota": "El uso transitivo era incorrecto y la frase no tenía lógica."
+  },
+  {
+   "id": 678,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi socio está encalillado con los proveedores, les debe como tres meses.",
+   "frase_neutralizada": "Mi socio está endeudado con los proveedores, les debe como tres meses.",
+   "nota": "No se queda endeudado «con la venta»; ahora la deuda es con los proveedores."
+  },
+  {
+   "id": 679,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano anda encalillado con todas las tarjetas por culpa de las apuestas online.",
+   "frase_neutralizada": "Mi hermano está endeudado con todas las tarjetas por culpa de las apuestas en línea.",
+   "nota": "«Hasta los dedos» no es natural y deberle a la lotería no tenía lógica."
+  }
+ ]
+}

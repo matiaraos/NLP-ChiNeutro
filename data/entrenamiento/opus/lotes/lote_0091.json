@@ -1,0 +1,340 @@
+{
+ "lote": 91,
+ "claves": [
+  "hijo de la perra",
+  "hijo del pico",
+  "hincha",
+  "hincha bolas",
+  "hinchar",
+  "hocico",
+  "hocicon",
+  "huaso"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2372699,
+ "duracion_s": 85.5,
+ "pares": [
+  {
+   "id": 3640,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El hijo de la perra del vecino me rayó el auto y después se hizo el leso.",
+   "frase_neutralizada": "El desgraciado del vecino me rayó el auto y después se hizo el desentendido.",
+   "nota": "No contenía la expresión; usaba 'chingada', que es un mexicanismo."
+  },
+  {
+   "id": 3641,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese hijo de la perra me cobró el doble por arreglar la lavadora, cachai.",
+   "frase_neutralizada": "Ese desgraciado me cobró el doble por arreglar la lavadora, ¿entiendes?",
+   "nota": "No contenía la expresión; situación nueva."
+  },
+  {
+   "id": 3642,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese hijo de la perra se arrancó con la plata de todos y no contesta el teléfono.",
+   "frase_neutralizada": "Ese maldito se escapó con el dinero de todos y no contesta el teléfono.",
+   "nota": "La expresión estaba mal construida y la neutral suavizaba el insulto."
+  },
+  {
+   "id": 3643,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me dejaste botado en la fiesta, erís un hijo de la perra.",
+   "frase_neutralizada": "Me abandonaste en la fiesta, eres un desgraciado.",
+   "nota": "La neutral cambiaba el insulto por 'insensato'; se mejoró el contexto."
+  },
+  {
+   "id": 3644,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Algún hijo de la perra se robó mi bicicleta afuera del súper.",
+   "frase_neutralizada": "Algún maldito se robó mi bicicleta afuera del supermercado.",
+   "nota": "La frase no tenía sentido; escribí una situación nueva."
+  },
+  {
+   "id": 3645,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El hijo del pico de mi primo se comió toda la torta antes de que llegaran los invitados.",
+   "frase_neutralizada": "El desgraciado de mi primo se comió todo el pastel antes de que llegaran los invitados.",
+   "nota": "Copiaba el ejemplo y la neutral eliminaba el insulto."
+  },
+  {
+   "id": 3646,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Hijo del pico, cómo te ganaste el Loto y no me avisaste nada!",
+   "frase_neutralizada": "¡Maldito desgraciado, cómo te ganaste la lotería y no me avisaste nada!",
+   "nota": "La neutral perdía el insulto; ahora tiene uso cómico."
+  },
+  {
+   "id": 3647,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese hijo del pico se estacionó ocupando tres lugares a la vez, no lo puedo creer.",
+   "frase_neutralizada": "Ese desgraciado se estacionó ocupando tres lugares a la vez, no lo puedo creer.",
+   "nota": "El sentido era incorrecto y era incoherente con la neutral."
+  },
+  {
+   "id": 3648,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Erís un hijo del pico, me dejaste plantado dos horas en la plaza.",
+   "frase_neutralizada": "Eres un hijo de puta, me dejaste esperando dos horas en la plaza.",
+   "nota": "La neutral eliminaba el insulto; se le dio contexto."
+  },
+  {
+   "id": 3649,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Ese hijo del pico le pegó a mi perro y después se puso a reír.",
+   "frase_neutralizada": "Ese hijo de puta le pegó a mi perro y después se puso a reír.",
+   "nota": "La frase era incoherente y había un error de género."
+  },
+  {
+   "id": 3650,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi papá es hincha de la Chile desde chico, nunca se pierde un partido.",
+   "frase_neutralizada": "Mi papá es aficionado de la Universidad de Chile desde niño, nunca se pierde un partido.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3651,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese weón no es jugador, es un hincha que se metió a la cancha.",
+   "frase_neutralizada": "Ese tipo no es jugador, es un aficionado que se metió a la cancha.",
+   "nota": "La neutral tenía errores gramaticales y signos mal puestos."
+  },
+  {
+   "id": 3652,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer los hinchas celebramos el triunfo en Plaza Italia hasta tarde.",
+   "frase_neutralizada": "Ayer los aficionados celebramos la victoria en Plaza Italia hasta tarde.",
+   "nota": "Corregí la sintaxis forzada y añadí contexto."
+  },
+  {
+   "id": 3653,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Erís hincha de Colo-Colo o de la U? Acá en la oficina hay puros albos.",
+   "frase_neutralizada": "¿Eres aficionado de Colo-Colo o de la Universidad de Chile? Aquí en la oficina solo hay seguidores de Colo-Colo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3654,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los hinchas quedaron bajoneados, perdimos en el último minuto.",
+   "frase_neutralizada": "Los aficionados quedaron deprimidos, perdimos en el último minuto.",
+   "nota": "Le di un tono más chileno y una situación más concreta."
+  },
+  {
+   "id": 3655,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, no seai hincha bolas, ya te dije que mañana te paso la plata.",
+   "frase_neutralizada": "Oye, no seas pesado, ya te dije que mañana te doy el dinero.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3656,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano chico es un hincha bolas, me pregunta cada cinco minutos si ya llegamos.",
+   "frase_neutralizada": "Mi hermano menor es un fastidioso, me pregunta cada cinco minutos si ya llegamos.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3657,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, hincha bolas, deja de tocar la bocina que no avanza nadie.",
+   "frase_neutralizada": "Ya basta, pesado, deja de tocar la bocina que nadie avanza.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3658,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La profe se puso súper hincha bolas con el tema de los celulares en clase.",
+   "frase_neutralizada": "La profesora se puso muy pesada con el tema de los celulares en clase.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3659,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le hagai caso, es puro hincha bolas, quiere que lo pesquen.",
+   "frase_neutralizada": "No le hagas caso, solo está fastidiando, quiere que le presten atención.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3660,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Deja de hincharme, tengo que terminar este informe hoy.",
+   "frase_neutralizada": "Deja de molestarme, tengo que terminar este informe hoy.",
+   "nota": "Corregí la ortografía y quité 'la conversación', que no tenía sentido."
+  },
+  {
+   "id": 3661,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No hinchís al perro, que está durmiendo y después anda mañoso.",
+   "frase_neutralizada": "No molestes al perro, que está durmiendo y después anda de mal humor.",
+   "nota": "La segunda parte no tenía sentido; usé voseo chileno."
+  },
+  {
+   "id": 3662,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros chicos se pasaron la tarde hinchando a su hermana hasta que se puso a llorar.",
+   "frase_neutralizada": "Los niños se pasaron la tarde molestando a su hermana hasta que se puso a llorar.",
+   "nota": "'Hinchar la paz' no es natural; ahora es una persona."
+  },
+  {
+   "id": 3663,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me hinchís más con tus preguntas, ya me tenís chato.",
+   "frase_neutralizada": "No me molestes más con tus preguntas, ya me tienes harto.",
+   "nota": "Corregí el error 'hinchesme' y le di un tono más natural."
+  },
+  {
+   "id": 3664,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese tema no es asunto tuyo, así que deja de hinchar con eso.",
+   "frase_neutralizada": "Ese tema no es asunto tuyo, así que deja de molestar con eso.",
+   "nota": "La frase era rígida; la hice más natural."
+  },
+  {
+   "id": 3665,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si seguís hueveando te voy a pegar un combo en el hocico.",
+   "frase_neutralizada": "Si sigues molestando te voy a dar un puñetazo en la boca.",
+   "nota": "Le di un tono más natural con 'combo' y voseo."
+  },
+  {
+   "id": 3666,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Límpiate el hocico, quedaste todo manchado con el helado.",
+   "frase_neutralizada": "Límpiate la boca, quedaste todo manchado de helado.",
+   "nota": "La frase original era absurda."
+  },
+  {
+   "id": 3667,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro se tropezó con la vereda y se fue de hocico al suelo.",
+   "frase_neutralizada": "El chico se tropezó con la acera y se cayó de boca al suelo.",
+   "nota": "Era incomprensible y la neutral tenía errores."
+  },
+  {
+   "id": 3668,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cierra el hocico, que nadie te preguntó nada.",
+   "frase_neutralizada": "Cierra la boca, que nadie te preguntó nada.",
+   "nota": "Era incomprensible y la neutral tenía errores."
+  },
+  {
+   "id": 3669,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le llegó un pelotazo en pleno hocico y le sangró la nariz.",
+   "frase_neutralizada": "Le dieron un pelotazo en plena cara y le sangró la nariz.",
+   "nota": "'Disparar al hocico' no es natural; cambié de situación."
+  },
+  {
+   "id": 3670,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erís hocicón, ¿por qué le contaste a mi primo lo de mi pega nueva?",
+   "frase_neutralizada": "Eres un indiscreto, ¿por qué le contaste a mi primo lo de mi trabajo nuevo?",
+   "nota": "La sintaxis era incoherente y faltaba la tilde."
+  },
+  {
+   "id": 3671,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, no seai hocicón y no le digái nada a la Cata de la sorpresa.",
+   "frase_neutralizada": "Bueno, no seas indiscreto y no le digas nada a Cata sobre la sorpresa.",
+   "nota": "Quité el anglicismo 'gossip' y la explicación dentro de la frase."
+  },
+  {
+   "id": 3672,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Nacho es más hocicón, al otro día todo el curso sabía que yo andaba con la Fran.",
+   "frase_neutralizada": "Nacho es muy chismoso, al día siguiente todo el curso sabía que yo salía con Fran.",
+   "nota": "Agregué contexto; la definición 2 es igual a la 1."
+  },
+  {
+   "id": 3673,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le contís nada al gordo, que es terrible hocicón.",
+   "frase_neutralizada": "No le cuentes nada al gordo, que es muy indiscreto.",
+   "nota": "Corregí 'confíales'; la definición 2 es equivalente a la 1."
+  },
+  {
+   "id": 3674,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me gustan los hocicones, por eso a la Vale no le cuento nada.",
+   "frase_neutralizada": "No me gustan los indiscretos, por eso a Vale no le cuento nada.",
+   "nota": "Quité el anglicismo 'gossip' de la neutral."
+  },
+  {
+   "id": 3675,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿No conocís el metro Baquedano? ¡Erís más huaso, weón!",
+   "frase_neutralizada": "¿No conoces la estación de metro Baquedano? ¡Eres un pueblerino, hombre!",
+   "nota": "Era poco natural; ahora es un desconocimiento típico de Santiago."
+  },
+  {
+   "id": 3676,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo es tan huaso que se perdió en el mall buscando la salida.",
+   "frase_neutralizada": "Mi primo es tan pueblerino que se perdió en el centro comercial buscando la salida.",
+   "nota": "El contexto era confuso y estaba repetido."
+  },
+  {
+   "id": 3677,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¿Qué onda, huaso? ¿Cómo te ha tratado Santiago desde que llegaste de Chiloé?",
+   "frase_neutralizada": "¿Qué tal, hombre de campo? ¿Cómo te ha ido en Santiago desde que llegaste de Chiloé?",
+   "nota": "La neutral eliminaba la expresión y el par estaba duplicado."
+  },
+  {
+   "id": 3678,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi cuñado es huaso, se crió en un fundo cerca de Chillán y anda a caballo.",
+   "frase_neutralizada": "Mi cuñado es de campo, se crió en una hacienda cerca de Chillán y monta a caballo.",
+   "nota": "Era un duplicado del par anterior."
+  },
+  {
+   "id": 3679,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Los huasos de la zona de Coquimbo son súper buena onda con los turistas.",
+   "frase_neutralizada": "Los campesinos de la zona de Coquimbo son muy amables con los turistas.",
+   "nota": "Le di un tono más coloquial chileno."
+  }
+ ]
+}

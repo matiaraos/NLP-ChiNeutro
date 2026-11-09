@@ -1,0 +1,340 @@
+{
+ "lote": 44,
+ "claves": [
+  "merenjunje",
+  "merluzo",
+  "meter la cuchara",
+  "meterle chala",
+  "micro",
+  "mijita",
+  "mina",
+  "mino"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.243655,
+ "duracion_s": 92.7,
+ "pares": [
+  {
+   "id": 1760,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le eché un merenjunje de especias al pollo y quedó terrible de rico.",
+   "frase_neutralizada": "Le eché una mezcla de especias al pollo y quedó muy rico.",
+   "nota": "Faltaba la expresión y la neutral cambiaba el tiempo verbal."
+  },
+  {
+   "id": 1761,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi abuela se hace un merenjunje de avena, plátano y miel pa'l desayuno.",
+   "frase_neutralizada": "Mi abuela se prepara una mezcla de avena, plátano y miel para el desayuno.",
+   "nota": "La neutral cambiaba el tiempo verbal; se precisaron los ingredientes."
+  },
+  {
+   "id": 1762,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cabro habla un merenjunje de inglés, portugués y español, no se le entiende na'.",
+   "frase_neutralizada": "El chico habla una mezcla de inglés, portugués y español; no se le entiende nada.",
+   "nota": "La persona no era la mezcla; además, 'compuesto' no era natural."
+  },
+  {
+   "id": 1763,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese caldo es un merenjunje de todas las verduras que quedaban en el refri.",
+   "frase_neutralizada": "Ese caldo es una mezcla de todas las verduras que quedaban en el refrigerador.",
+   "nota": "Las definiciones 1 y 2 son el mismo sentido; se le dio más naturalidad."
+  },
+  {
+   "id": 1764,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tesis es un merenjunje de ideas, tengo que ordenarla luego.",
+   "frase_neutralizada": "Mi tesis es una mezcla de ideas; tengo que ordenarla pronto.",
+   "nota": "Las definiciones son el mismo sentido; se le dio un contexto más natural."
+  },
+  {
+   "id": 1765,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai merluzo, si le pasai la clave a cualquiera te van a hackear la cuenta.",
+   "frase_neutralizada": "No seas tonto, si le das la contraseña a cualquiera te van a hackear la cuenta.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1766,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El merluzo de mi primo se fue a la playa y dejó la puerta abierta.",
+   "frase_neutralizada": "El tonto de mi primo se fue a la playa y dejó la puerta abierta.",
+   "nota": "No contenía la expresión y la frase no tenía sentido."
+  },
+  {
+   "id": 1767,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me sentí más merluzo, estuve media hora buscando los lentes y los tenía puestos.",
+   "frase_neutralizada": "Me sentí muy tonto: estuve media hora buscando los anteojos y los tenía puestos.",
+   "nota": "No contenía la expresión y el sentido era opuesto."
+  },
+  {
+   "id": 1768,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Puro que hablan del Merluzo en las noticias españolas, oye.",
+   "frase_neutralizada": "Solo hablan del presidente Boric en las noticias españolas, oye.",
+   "nota": "No contenía la expresión; ahora ilustra el apodo de Boric."
+  },
+  {
+   "id": 1769,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Hoy el Merluzo tiene cadena nacional, así que no van a dar la teleserie.",
+   "frase_neutralizada": "Hoy el presidente Boric habla en cadena nacional, así que no van a transmitir la telenovela.",
+   "nota": "No contenía la expresión y usaba 'chino' de forma inadecuada."
+  },
+  {
+   "id": 1770,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No metai la cuchara en los cahuines de los vecinos, después quedai mal tú.",
+   "frase_neutralizada": "No te entrometas en los chismes de los vecinos, después quedas mal tú.",
+   "nota": "Faltaba la expresión; 'interferas' era un error gramatical."
+  },
+  {
+   "id": 1771,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando hablen de política en el asado, mejor no metai la cuchara, que se arma la pelea.",
+   "frase_neutralizada": "Cuando hablen de política en la parrillada, mejor no opines, que se arma la pelea.",
+   "nota": "'Interferes' era un error gramatical; se le dio más naturalidad."
+  },
+  {
+   "id": 1772,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, mete la cuchara po, ¿tú qué opinai del tema?",
+   "frase_neutralizada": "Oye, opina tú también, ¿qué piensas del tema?",
+   "nota": "Repetía la idea de otros pares; se usó la invitación a opinar."
+  },
+  {
+   "id": 1773,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi suegra siempre mete la cuchara cuando discuto con mi señora.",
+   "frase_neutralizada": "Mi suegra siempre se entromete cuando discuto con mi esposa.",
+   "nota": "Repetía situaciones y contenía el error 'interferes'."
+  },
+  {
+   "id": 1774,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El jefe metió la cuchara en el proyecto y nos cambió todo a última hora.",
+   "frase_neutralizada": "El jefe se entrometió en el proyecto y nos cambió todo a última hora.",
+   "nota": "Repetía la idea anterior; se planteó una situación distinta."
+  },
+  {
+   "id": 1775,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tenemos que meterle chala con el regalo de la Coni, el cumpleaños es mañana.",
+   "frase_neutralizada": "Tenemos que apurarnos con el regalo de Coni, el cumpleaños es mañana.",
+   "nota": "No contenía la expresión y la neutral cambiaba el contenido."
+  },
+  {
+   "id": 1776,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿El vacunatorio cierra a las seis? Métele chala, que alcanzamos.",
+   "frase_neutralizada": "¿El centro de vacunación cierra a las seis? Apúrate, que alcanzamos a llegar.",
+   "nota": "Se trata de ir rápido a un lugar, así que corresponde a la definición 2."
+  },
+  {
+   "id": 1777,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Saca al perro, pero métele chala, que salimos en diez minutos.",
+   "frase_neutralizada": "Saca al perro, pero hazlo rápido, que salimos en diez minutos.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1778,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Le metimos chala pa' salir de la plaza antes que llegaran los pacos.",
+   "frase_neutralizada": "Nos fuimos rápido de la plaza antes de que llegara la policía.",
+   "nota": "La neutral decía '¡huracán!'; se alejó del ejemplo del diccionario."
+  },
+  {
+   "id": 1779,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Métele chala pa' la playa, que después no hay dónde estacionar.",
+   "frase_neutralizada": "Apúrate para llegar a la playa, que después no hay dónde estacionar.",
+   "nota": "No contenía la expresión y lo de los 'solares' no tenía sentido."
+  },
+  {
+   "id": 1780,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranqui, nos vamos en micro, que el metro está colapsado.",
+   "frase_neutralizada": "Tranquilo, nos vamos en autobús, que el metro está colapsado.",
+   "nota": "'Transporte público' era impreciso; se cambió por 'autobús'."
+  },
+  {
+   "id": 1781,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te llamo cuando me suba a la micro, ¿ya?",
+   "frase_neutralizada": "Te llamo cuando me suba al autobús, ¿está bien?",
+   "nota": "La frase original era incoherente."
+  },
+  {
+   "id": 1782,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿A qué hora pasa la última micro pa' Maipú?",
+   "frase_neutralizada": "¿A qué hora pasa el último autobús para Maipú?",
+   "nota": "Faltaba un signo de interrogación; se cambió 'transporte público' por 'autobús'."
+  },
+  {
+   "id": 1783,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira, ahí viene la micro, hace señas pa' que pare.",
+   "frase_neutralizada": "Mira, ahí viene el autobús, haz señas para que se detenga.",
+   "nota": "Era muy breve; 'transporte público' era impreciso."
+  },
+  {
+   "id": 1784,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se me quedó la mochila en la micro, qué lata.",
+   "frase_neutralizada": "Se me quedó la mochila en el autobús, qué fastidio.",
+   "nota": "La frase original era ambigua y poco natural."
+  },
+  {
+   "id": 1785,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pasó una mijita por la esquina y todos los cabros se dieron vuelta.",
+   "frase_neutralizada": "Pasó una chica muy guapa por la esquina y todos los muchachos voltearon a mirarla.",
+   "nota": "La frase era poco natural; ahora el registro es coloquial."
+  },
+  {
+   "id": 1786,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi compadre anda pinchando con una mijita del gimnasio.",
+   "frase_neutralizada": "Mi amigo anda coqueteando con una chica muy guapa del gimnasio.",
+   "nota": "El vocativo no ilustraba el sentido y la frase no tenía sentido."
+  },
+  {
+   "id": 1787,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Viste la mijita que atiende en la botillería? Está más buena.",
+   "frase_neutralizada": "¿Viste a la chica que atiende en la licorería? Está buenísima.",
+   "nota": "La frase original era incomprensible."
+  },
+  {
+   "id": 1788,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el matrimonio había puras mijitas, no sabía pa' dónde mirar.",
+   "frase_neutralizada": "En la boda solo había chicas guapas, no sabía hacia dónde mirar.",
+   "nota": "La frase original no tenía sentido."
+  },
+  {
+   "id": 1789,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Diego llegó al carrete con una mijita que nadie conocía.",
+   "frase_neutralizada": "Diego llegó a la fiesta con una chica guapa que nadie conocía.",
+   "nota": "El vocativo era poco natural y no ilustraba la definición."
+  },
+  {
+   "id": 1790,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Fran se cortó el pelo y quedó súper mina.",
+   "frase_neutralizada": "Fran se cortó el pelo y quedó muy bonita.",
+   "nota": "La neutral cambiaba el número gramatical a plural."
+  },
+  {
+   "id": 1791,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Viste a la niña de la caja cinco? Está muy mina.",
+   "frase_neutralizada": "¿Viste a la chica de la caja cinco? Está muy bonita.",
+   "nota": "Era sustantivo y no adjetivo; se reescribió para ilustrar la definición 1."
+  },
+  {
+   "id": 1792,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Hoy en el carrete voy a ir a hablarle a esa mina de rojo.",
+   "frase_neutralizada": "Hoy en la fiesta voy a ir a hablarle a esa chica de rojo.",
+   "nota": "Se corrigió la preposición 'a la fiesta' y se le dio naturalidad."
+  },
+  {
+   "id": 1793,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Esa mina es seca, es la mejor abogada de la firma.",
+   "frase_neutralizada": "Esa mujer es muy capaz, es la mejor abogada del bufete.",
+   "nota": "La neutral cambiaba a plural."
+  },
+  {
+   "id": 1794,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Les compramos chocolates a las minas de la oficina pa'l Día de la Mujer.",
+   "frase_neutralizada": "Les compramos chocolates a las mujeres de la oficina para el Día de la Mujer.",
+   "nota": "Las definiciones 2 y 3 son el mismo sentido; se le dio contexto."
+  },
+  {
+   "id": 1795,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe nuevo de inglés es un mino, todas andan suspirando.",
+   "frase_neutralizada": "El nuevo profesor de inglés es muy guapo, todas andan suspirando.",
+   "nota": "Usaba 'mina' en lugar de 'mino'."
+  },
+  {
+   "id": 1796,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu primo está más mino desde que empezó a ir al gimnasio.",
+   "frase_neutralizada": "Tu primo está más guapo desde que empezó a ir al gimnasio.",
+   "nota": "La frase era poco natural y tenía mayúscula indebida; las definiciones 1 y 2 coinciden."
+  },
+  {
+   "id": 1797,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tocó un doctor más mino, ni escuché lo que me dijo.",
+   "frase_neutralizada": "Me atendió un doctor guapísimo, ni escuché lo que me dijo.",
+   "nota": "La frase era incoherente y ofensiva, y no correspondía con la neutral."
+  },
+  {
+   "id": 1798,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sí, es harto mino, pero es medio pesado y no me gusta su actitud.",
+   "frase_neutralizada": "Sí, es muy guapo, pero es algo antipático y no me gusta su actitud.",
+   "nota": "Se le dio más naturalidad chilena."
+  },
+  {
+   "id": 1799,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros de la banda son todos minos, por eso van tantas lolas a los conciertos.",
+   "frase_neutralizada": "Los chicos de la banda son todos guapos, por eso van tantas adolescentes a los conciertos.",
+   "nota": "Tenía mayúscula indebida; 'niños' no correspondía con 'jóvenes'."
+  }
+ ]
+}

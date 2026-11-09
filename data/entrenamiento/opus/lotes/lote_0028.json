@@ -1,0 +1,340 @@
+{
+ "lote": 28,
+ "claves": [
+  "shapa la pashala",
+  "sharsha",
+  "shipear",
+  "shishigan",
+  "shishigang",
+  "shoro",
+  "shushetumadre",
+  "sicopatear"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2349901,
+ "duracion_s": 87.6,
+ "pares": [
+  {
+   "id": 1120,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si no les gusta cómo canto, que me shapen la pashala no más.",
+   "frase_neutralizada": "Si no les gusta cómo canto, que me la chupen y ya.",
+   "nota": "Neutral inventaba otro sentido; nueva frase con registro vulgar conservado."
+  },
+  {
+   "id": 1121,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me echaron de la pega por llegar tarde una vez, ¡shapen la pashala!",
+   "frase_neutralizada": "Me despidieron del trabajo por llegar tarde una sola vez, ¡que me la chupen!",
+   "nota": "Se interpretó como 'preocupar'; era insulto vulgar."
+  },
+  {
+   "id": 1122,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe me puso un rojo por copiar, shapa la pashala, si todos copiaron.",
+   "frase_neutralizada": "El profesor me puso una nota reprobatoria por copiar, que me la chupe, si todos copiaron.",
+   "nota": "Sentido 'preocupar' incorrecto; nueva situación con insulto."
+  },
+  {
+   "id": 1123,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Me prestai la Play? —Shapa la pashala, compadre, cómprate una.",
+   "frase_neutralizada": "¿Me prestas la PlayStation? —Chúpamela, amigo, cómprate una.",
+   "nota": "Neutral sin relación; se reescribió como respuesta vulgar."
+  },
+  {
+   "id": 1124,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi ex anda hablando puras weás de mí, que me shape la pashala.",
+   "frase_neutralizada": "Mi ex anda diciendo puras estupideces sobre mí, que me la chupe.",
+   "nota": "Sentido equivocado y gramática mala; nueva frase."
+  },
+  {
+   "id": 1125,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estas zapatillas son re sharsha, se me despegó la suela a la semana.",
+   "frase_neutralizada": "Estas zapatillas son muy malas, se me despegó la suela a la semana.",
+   "nota": "Era 'sucio'; ahora significa de mala calidad. Grafía sharsha."
+  },
+  {
+   "id": 1126,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me compré unos audífonos en la feria y salieron sharsha, no se escucha na.",
+   "frase_neutralizada": "Me compré unos audífonos en el mercado callejero y salieron de mala calidad, no se escucha nada.",
+   "nota": "Frase incoherente; nueva sobre producto penca."
+  },
+  {
+   "id": 1127,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué sharsha el loco, prometió venir y nos dejó plantados.",
+   "frase_neutralizada": "Qué tipo tan poco confiable, prometió venir y nos dejó plantados.",
+   "nota": "Usado como verbo; ahora adjetivo de persona chanta."
+  },
+  {
+   "id": 1128,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese reloj es sharsha, se nota que no es Rolex ni ahí.",
+   "frase_neutralizada": "Ese reloj es falso, se nota que no es Rolex para nada.",
+   "nota": "Sentido 'sucio' erróneo; ahora marca chancho."
+  },
+  {
+   "id": 1129,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me voy a poner esa polera sharsha, se ve terrible de mala.",
+   "frase_neutralizada": "No me voy a poner esa camiseta barata, se ve malísima.",
+   "nota": "Cambiado 'sucia' por mala calidad; frase más natural."
+  },
+  {
+   "id": 1130,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cómo no vai a shipear a la Paula con el Camilo? Si se miran todo el rato.",
+   "frase_neutralizada": "¿Cómo no vas a querer que Paula y Camilo estén juntos? Si se miran todo el tiempo.",
+   "nota": "Neutral agramatical ('tú no te gusta'); frase más chilena."
+  },
+  {
+   "id": 1131,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En el curso shipeamos a la Lucía con el Tomás y ya les pusimos Lucomás.",
+   "frase_neutralizada": "En la clase emparejamos a Lucía con Tomás y ya les pusimos el nombre Lucomás.",
+   "nota": "No contenía shipear; def 2 fusionada con def 1."
+  },
+  {
+   "id": 1132,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Media internet shipea a esos dos actores desde que salió la serie.",
+   "frase_neutralizada": "Medio internet quiere ver juntos como pareja a esos dos actores desde que salió la serie.",
+   "nota": "Neutral agramatical; cambiada la situación."
+  },
+  {
+   "id": 1133,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Yo shipeo caleta a la Sofía con el Alejandro, se verían tan lindos juntos.",
+   "frase_neutralizada": "Me encanta la idea de Sofía y Alejandro como pareja, se verían tan lindos juntos.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1134,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermana chica shipea a todos los personajes del anime, es insoportable.",
+   "frase_neutralizada": "Mi hermana menor imagina como parejas a todos los personajes del anime, es insoportable.",
+   "nota": "No incluía la expresión; nueva situación."
+  },
+  {
+   "id": 1135,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche pusieron puro Shishigan en el carrete y todos se volvieron locos.",
+   "frase_neutralizada": "Anoche pusieron solo canciones del grupo de Pablo Chill-E en la fiesta y todos se volvieron locos.",
+   "nota": "Atribuía el grupo a Tito el Chino; corregido referente."
+  },
+  {
+   "id": 1136,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico se cree shishigan, anda desafiando a todos en la plaza.",
+   "frase_neutralizada": "El niño se cree muy rudo, anda desafiando a todos en la plaza.",
+   "nota": "Usado como género musical; ahora sentido de choro."
+  },
+  {
+   "id": 1137,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi primo se sabe todos los temas de Shishigan, los escucha camino a la pega.",
+   "frase_neutralizada": "Mi primo se sabe todas las canciones del grupo de Pablo Chill-E, las escucha camino al trabajo.",
+   "nota": "Referente erróneo (Farina); ahora el grupo correcto."
+  },
+  {
+   "id": 1138,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, no te hagai el shishigan, si te vi arrancando cuando llegaron los pacos.",
+   "frase_neutralizada": "Ya, no te hagas el rudo, si te vi huyendo cuando llegó la policía.",
+   "nota": "'Irresponsable' era sentido falso; ahora choro."
+  },
+  {
+   "id": 1139,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le salí shishigan al loco que me quiso robar y salió arrancando.",
+   "frase_neutralizada": "Me puse rudo con el tipo que me quiso robar y salió huyendo.",
+   "nota": "Lo trataba como género musical; nueva frase de choro."
+  },
+  {
+   "id": 1140,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano chico anda diciendo que es shishigang porque se compró una gorra como la de Pablo Chill-E.",
+   "frase_neutralizada": "Mi hermano menor anda diciendo que es de la pandilla de Pablo Chill-E porque se compró una gorra como la suya.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1141,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo no soy shishigang ni ahí, a mí me gusta el rock.",
+   "frase_neutralizada": "Yo no soy para nada de la pandilla de Pablo Chill-E, a mí me gusta el rock.",
+   "nota": "Neutral perdía referencia a Pablo Chill-E."
+  },
+  {
+   "id": 1142,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esos cabros de Puente Alto se creen shishigang, andan con pura ropa de marca.",
+   "frase_neutralizada": "Esos chicos de Puente Alto se creen de la pandilla de Pablo Chill-E, andan solo con ropa de marca.",
+   "nota": "Frase incoherente; nueva situación."
+  },
+  {
+   "id": 1143,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, si te preguntan, decí que somos shishigang y nadie se mete con nosotros.",
+   "frase_neutralizada": "Oye, si te preguntan, di que somos de la pandilla de Pablo Chill-E y nadie se mete con nosotros.",
+   "nota": "Frase sin sentido; reescrita."
+  },
+  {
+   "id": 1144,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el tocata gritábamos que éramos shishigang hasta quedar sin voz.",
+   "frase_neutralizada": "En el concierto gritábamos que éramos de la pandilla de Pablo Chill-E hasta quedarnos sin voz.",
+   "nota": "Usado como saludo y neutral lo omitía."
+  },
+  {
+   "id": 1145,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Wena, shoro! ¿Cómo estai? Tanto tiempo sin verte.",
+   "frase_neutralizada": "¡Hola, amigo! ¿Cómo estás? Tanto tiempo sin verte.",
+   "nota": "Saludo poco natural; ajustado al uso real."
+  },
+  {
+   "id": 1146,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Cata es demasiado shora, siempre me ayuda cuando ando complicada.",
+   "frase_neutralizada": "Cata es una persona increíble, siempre me ayuda cuando tengo problemas.",
+   "nota": "'Organizada' no es el sentido; ahora elogio."
+  },
+  {
+   "id": 1147,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, shoro, te encargo el asado, yo llevo las bebidas.",
+   "frase_neutralizada": "Bueno, amigo, te encargo la carne asada, yo llevo los refrescos.",
+   "nota": "Frase contradictoria; arreglada la situación."
+  },
+  {
+   "id": 1148,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Viste al nuevo del equipo? Es re shoro, nos invitó a todos a su casa.",
+   "frase_neutralizada": "¿Viste al nuevo del equipo? Es una gran persona, nos invitó a todos a su casa.",
+   "nota": "'Ordenada' era sentido falso."
+  },
+  {
+   "id": 1149,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Gracias por ayudarme con la mudanza, erí un shoro, hermano.",
+   "frase_neutralizada": "Gracias por ayudarme con la mudanza, eres lo máximo, amigo.",
+   "nota": "Neutral cambiaba el significado; nueva frase de agradecimiento."
+  },
+  {
+   "id": 1150,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Shushetumadre, se me cayó el celular al agua!",
+   "frase_neutralizada": "¡Mierda, se me cayó el teléfono al agua!",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1151,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El weón shushetumadre me rayó el auto y se fue.",
+   "frase_neutralizada": "El hijo de puta me rayó el auto y se fue.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1152,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Shushetumadre, perdí la micro por dos segundos!",
+   "frase_neutralizada": "¡Maldita sea, perdí el autobús por dos segundos!",
+   "nota": "No contenía la expresión; usaba argentinismos."
+  },
+  {
+   "id": 1153,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese árbitro shushetumadre nos cobró un penal que no era.",
+   "frase_neutralizada": "Ese árbitro hijo de puta nos marcó un penal que no era.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1154,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Shushetumadre, me pegué en el dedo chico con la pata de la mesa!",
+   "frase_neutralizada": "¡Mierda, me golpeé el dedo meñique del pie con la pata de la mesa!",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1155,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pásame el nombre del cabro del colegio y lo sicopateo en Instagram.",
+   "frase_neutralizada": "Pásame el nombre del chico del colegio y reviso su Instagram para averiguar sobre él.",
+   "nota": "Neutral omitía redes sociales; frase más natural."
+  },
+  {
+   "id": 1156,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cacho que la ex de mi pololo me sicopatea, le puso like a una foto del 2019.",
+   "frase_neutralizada": "Creo que la ex de mi novio revisa mis redes sociales, le dio me gusta a una foto de 2019.",
+   "nota": "Frase incoherente; nueva situación."
+  },
+  {
+   "id": 1157,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Antes de la entrevista sicopateé al jefe nuevo en LinkedIn, cacha que estudió en la Chile.",
+   "frase_neutralizada": "Antes de la entrevista revisé el perfil del nuevo jefe en LinkedIn; fíjate que estudió en la Universidad de Chile.",
+   "nota": "Contexto de redes añadido; más natural."
+  },
+  {
+   "id": 1158,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, sicopateemos a los vecinos nuevos, a ver de dónde vienen.",
+   "frase_neutralizada": "Oye, revisemos las redes sociales de los vecinos nuevos, a ver de dónde vienen.",
+   "nota": "Conjugación errada; neutral sin mención a redes."
+  },
+  {
+   "id": 1159,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cómo se llama la mina que acaba de entrar? Hay que sicopatearla al tiro.",
+   "frase_neutralizada": "¿Cómo se llama la chica que acaba de entrar? Hay que revisar sus redes sociales enseguida.",
+   "nota": "Sonaba a vigilancia presencial; ahora es búsqueda en redes."
+  }
+ ]
+}

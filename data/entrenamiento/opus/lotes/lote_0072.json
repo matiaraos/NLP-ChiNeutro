@@ -1,0 +1,340 @@
+{
+ "lote": 72,
+ "claves": [
+  "atao",
+  "atadoso",
+  "atarantao",
+  "atinar",
+  "atolondrado",
+  "atorrante",
+  "atracar",
+  "atraque"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24887859999999998,
+ "duracion_s": 90.9,
+ "pares": [
+  {
+   "id": 2880,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo puros ataos con la tesis, no sé cómo voy a terminarla a tiempo.",
+   "frase_neutralizada": "Tengo muchos problemas con la tesis, no sé cómo voy a terminarla a tiempo.",
+   "nota": "Se reforzó el sentido de problema y se corrigió el cambio de tarea a trabajo."
+  },
+  {
+   "id": 2881,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se nos echó a perder el auto en la carretera y fue un atao tremendo conseguir grúa.",
+   "frase_neutralizada": "Se nos descompuso el auto en la carretera y fue un problema enorme conseguir una grúa.",
+   "nota": "La frase original no tenía sentido. Se reescribió con un problema concreto."
+  },
+  {
+   "id": 2882,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No te hagai tanto atao por la prueba, si estudiaste igual te va a ir bien.",
+   "frase_neutralizada": "No te preocupes tanto por el examen; si estudiaste, igual te va a ir bien.",
+   "nota": "«Ser un atao» corresponde a atadoso. Ahora ilustra la preocupación exagerada."
+  },
+  {
+   "id": 2883,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi mamá se hace puros ataos cuando llego tarde, altiro cree que me pasó algo.",
+   "frase_neutralizada": "Mi mamá se preocupa demasiado cuando llego tarde, enseguida cree que me pasó algo.",
+   "nota": "«Estar en un atao» no se usa así. Se cambió a preocupación exagerada."
+  },
+  {
+   "id": 2884,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Por elegir la película se armó un atao terrible, mi hermano y mi primo terminaron a garabatos.",
+   "frase_neutralizada": "Por elegir la película se armó una pelea terrible; mi hermano y mi primo terminaron insultándose.",
+   "nota": "Se corrigió la construcción y se tradujo atao como pelea, no como «situación límite»."
+  },
+  {
+   "id": 2885,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu vecino es súper atadoso, por cualquier cosa reclama a la administración.",
+   "frase_neutralizada": "Tu vecino es muy problemático, por cualquier cosa se queja con la administración.",
+   "nota": "La neutral cambiaba la persona gramatical (tu a su). Se ajustó el sentido."
+  },
+  {
+   "id": 2886,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le contís al Felipe, es re atadoso y va a armar un escándalo por nada.",
+   "frase_neutralizada": "No le cuentes a Felipe, es muy problemático y va a armar un escándalo por nada.",
+   "nota": "La frase original era incoherente. Se creó una situación nueva."
+  },
+  {
+   "id": 2887,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me digái atadoso, si el que siempre anda metido en líos erís tú.",
+   "frase_neutralizada": "No me digas problemático, si el que siempre anda metido en líos eres tú.",
+   "nota": "Se eliminó la comparación incoherente con la hermana."
+  },
+  {
+   "id": 2888,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya no quiero pololear con minas atadosas, prefiero a alguien más tranquila.",
+   "frase_neutralizada": "Ya no quiero ser novio de chicas problemáticas, prefiero a alguien más tranquila.",
+   "nota": "Copiaba el ejemplo y la neutral perdía el significado."
+  },
+  {
+   "id": 2889,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi jefe es más atadoso, por un correo mal escrito arma una reunión de una hora.",
+   "frase_neutralizada": "Mi jefe es muy problemático; por un correo mal escrito organiza una reunión de una hora.",
+   "nota": "La frase original era incoherente y tenía un error en la neutral («interferas»)."
+  },
+  {
+   "id": 2890,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Firmaste el contrato sin leerlo por andar atarantao, y ahora te cobran el doble.",
+   "frase_neutralizada": "Firmaste el contrato sin leerlo por ser tan apresurado, y ahora te cobran el doble.",
+   "nota": "Usaba el adjetivo como verbo, lo que es agramatical."
+  },
+  {
+   "id": 2891,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai atarantao, termina la tarea con calma o te va a quedar mal hecha.",
+   "frase_neutralizada": "No seas impaciente, termina la tarea con calma o te va a quedar mal hecha.",
+   "nota": "Usaba el adjetivo como verbo. Ahora es un adjetivo con «ser»."
+  },
+  {
+   "id": 2892,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nico es súper atarantao, a la semana de pololear ya le estaba pidiendo matrimonio.",
+   "frase_neutralizada": "Nico es muy impulsivo, a la semana de ser novios ya le estaba pidiendo matrimonio.",
+   "nota": "Usaba el adjetivo como verbo, lo que es agramatical."
+  },
+  {
+   "id": 2893,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Andai muy atarantao con las compras, después no vai a tener ni pa' la micro.",
+   "frase_neutralizada": "Andas muy impulsivo con las compras; después no vas a tener ni para el autobús.",
+   "nota": "Usaba el adjetivo como verbo. Se neutralizaron micro y el voseo."
+  },
+  {
+   "id": 2894,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese gallo maneja muy atarantao, adelanta en las curvas sin mirar.",
+   "frase_neutralizada": "Ese tipo maneja de forma muy imprudente, adelanta en las curvas sin mirar.",
+   "nota": "Usaba el adjetivo como verbo. Se neutralizó «gallo»."
+  },
+  {
+   "id": 2895,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llevan meses mirándose en la oficina y ninguno de los dos atina, qué lata.",
+   "frase_neutralizada": "Llevan meses mirándose en la oficina y ninguno de los dos se atreve a dar el paso, qué fastidio.",
+   "nota": "Interpretaba atinar como reunirse. Ahora significa atreverse con quien le gusta."
+  },
+  {
+   "id": 2896,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si no atinai esta noche en la fiesta, la Cami se va a aburrir de esperarte.",
+   "frase_neutralizada": "Si no te atreves con ella esta noche en la fiesta, Cami se va a cansar de esperarte.",
+   "nota": "Usaba atinar como llegar a tiempo, que es un sentido equivocado."
+  },
+  {
+   "id": 2897,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al final el Diego atinó y la invitó a salir después del partido.",
+   "frase_neutralizada": "Al final Diego se atrevió y la invitó a salir después del partido.",
+   "nota": "Tenía un sentido equivocado y la neutral era agramatical («te llegarás»)."
+  },
+  {
+   "id": 2898,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Menos mal que el vecino atinó a cortar el gas antes de que pasara algo peor.",
+   "frase_neutralizada": "Menos mal que el vecino tuvo la sensatez de cortar el gas antes de que pasara algo peor.",
+   "nota": "Copiaba el ejemplo y la neutral omitía la expresión."
+  },
+  {
+   "id": 2899,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El mecánico atinó altiro con la falla y me dejó el auto como nuevo.",
+   "frase_neutralizada": "El mecánico dio de inmediato con la falla y me dejó el auto como nuevo.",
+   "nota": "La neutral omitía el sentido de atinar. Se agregó «dio con»."
+  },
+  {
+   "id": 2900,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erís tan atolondrado, se te quemó el arroz otra vez por estar pegado al celular.",
+   "frase_neutralizada": "Eres tan torpe, se te quemó el arroz otra vez por estar pendiente del teléfono.",
+   "nota": "El verbo atolondrarse no correspondía y la neutral tenía errores."
+  },
+  {
+   "id": 2901,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi papá es medio atolondrado con el celular, borró todos los contactos sin querer.",
+   "frase_neutralizada": "Mi papá es un poco torpe con el teléfono, borró todos los contactos sin querer.",
+   "nota": "La frase original era incoherente y la neutral decía «inexperto» en vez de torpe."
+  },
+  {
+   "id": 2902,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué atolondrado, saliste corriendo y dejaste las llaves puestas en la puerta.",
+   "frase_neutralizada": "Qué torpe, saliste corriendo y dejaste las llaves puestas en la puerta.",
+   "nota": "La frase original no tenía lógica. Ahora muestra una torpeza concreta."
+  },
+  {
+   "id": 2903,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ay, no seai atolondrada, casi te caís por la escalera por andar leyendo.",
+   "frase_neutralizada": "Ay, no seas torpe, casi te caes por la escalera por ir leyendo.",
+   "nota": "Lo aplicaba a una propuesta, no a una persona torpe."
+  },
+  {
+   "id": 2904,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El atolondrado del Pedro le mandó el mensaje a su jefe en vez de a su polola.",
+   "frase_neutralizada": "El torpe de Pedro le mandó el mensaje a su jefe en vez de a su novia.",
+   "nota": "La construcción era agramatical y tenía un sentido equivocado."
+  },
+  {
+   "id": 2905,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le contestís más a ese atorrante, es pésima junta pa' ti.",
+   "frase_neutralizada": "No le contestes más a ese tipo ordinario, es una pésima compañía para ti.",
+   "nota": "Se corrigió la concordancia «mal compañía» en la neutral."
+  },
+  {
+   "id": 2906,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La atorrante esa llegó a la fiesta gritando garabatos y tomando del pico.",
+   "frase_neutralizada": "Esa chica vulgar llegó a la fiesta gritando groserías y tomando directo de la botella.",
+   "nota": "La frase original era incoherente («es una broma mala»)."
+  },
+  {
+   "id": 2907,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu primo es un atorrante, se puso a eructar en plena mesa delante de mi abuela.",
+   "frase_neutralizada": "Tu primo es un maleducado, se puso a eructar en plena mesa delante de mi abuela.",
+   "nota": "No ilustraba la vulgaridad. Se agregó una situación concreta."
+  },
+  {
+   "id": 2908,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te juntís con esos atorrantes del pasaje, puro hablan a garabatos.",
+   "frase_neutralizada": "No te juntes con esos maleducados del barrio, solo hablan con groserías.",
+   "nota": "La frase original era redundante porque explicaba el significado dentro de la frase."
+  },
+  {
+   "id": 2909,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué atorrante el gallo del taxi, me habló puras groserías todo el viaje.",
+   "frase_neutralizada": "Qué tipo tan ordinario el del taxi, solo me dijo groserías durante todo el viaje.",
+   "nota": "La frase original era redundante y explicaba la expresión."
+  },
+  {
+   "id": 2910,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Anoche en la disco el Matías se pasó la noche atracando con una mina que conoció ahí.",
+   "frase_neutralizada": "Anoche en la discoteca Matías se pasó la noche besuqueándose con una chica que conoció ahí.",
+   "nota": "La frase original era agramatical («todas las audacia»)."
+  },
+  {
+   "id": 2911,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando pusieron lentos terminamos atracando en medio de la pista.",
+   "frase_neutralizada": "Cuando pusieron música lenta terminamos besuqueándonos en medio de la pista.",
+   "nota": "Tenía errores graves: «con ti» y «me siento como quiero»."
+  },
+  {
+   "id": 2912,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la playa estaban atracando tanto que la gente se tuvo que cambiar de lugar.",
+   "frase_neutralizada": "En la playa se estaban besuqueando tanto que la gente se tuvo que cambiar de lugar.",
+   "nota": "La frase sonaba poco natural y la neutral tenía un error de régimen."
+  },
+  {
+   "id": 2913,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cachaste que la Vale atracó con el Seba en el carrete del sábado?",
+   "frase_neutralizada": "¿Supiste que Vale se besuqueó con Seba en la fiesta del sábado?",
+   "nota": "Se corrigió el uso de atracar como transitivo y se usa con «con»."
+  },
+  {
+   "id": 2914,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mis papás no me dejan atracar con mi pololo en el living, qué lata.",
+   "frase_neutralizada": "Mis papás no me dejan besuquearme con mi novio en la sala, qué fastidio.",
+   "nota": "La neutral no tenía el matiz apasionado. Se usó una situación más natural."
+  },
+  {
+   "id": 2915,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los pillaron en pleno atraque detrás de los juegos del parque.",
+   "frase_neutralizada": "Los descubrieron en pleno besuqueo detrás de los juegos del parque.",
+   "nota": "La frase original usaba el verbo, no el sustantivo, y era incoherente."
+  },
+  {
+   "id": 2916,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se pegaron un atraque en el pasillo después de clases y justo los vio el inspector.",
+   "frase_neutralizada": "Se dieron un besuqueo en el pasillo después de clases y justo los vio el inspector.",
+   "nota": "La neutral era agramatical («me acercó y nos besó»)."
+  },
+  {
+   "id": 2917,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Y si me pego un atraque con mi mejor amiga en la fiesta, cagaría la amistad?",
+   "frase_neutralizada": "¿Y si me besuqueo con mi mejor amiga en la fiesta, arruinaría la amistad?",
+   "nota": "Usaba el verbo en vez del sustantivo y la neutral era agramatical."
+  },
+  {
+   "id": 2918,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Quedó la escoba porque se pegó un atraque con el pololo de su mejor amiga.",
+   "frase_neutralizada": "Se armó un lío tremendo porque se besuqueó con el novio de su mejor amiga.",
+   "nota": "«Me atracé» es incorrecto y la neutral cambiaba el significado."
+  },
+  {
+   "id": 2919,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con mi pololo nos pegamos el medio atraque en el auto antes de llegar a la casa.",
+   "frase_neutralizada": "Mi novio y yo nos dimos tremendo besuqueo en el auto antes de llegar a casa.",
+   "nota": "El tiempo verbal no coincidía y la neutral era agramatical («nos besé»)."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 49,
+ "claves": [
+  "pan batido",
+  "pan copihue",
+  "pan de dios",
+  "pan frances",
+  "papagayo",
+  "papaya",
+  "papel confort",
+  "papito corazon"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24635810000000002,
+ "duracion_s": 90.4,
+ "pares": [
+  {
+   "id": 1960,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pasa a la panadería y tráete un kilo de pan batido calientito pa'l desayuno, porfa.",
+   "frase_neutralizada": "Pasa a la panadería y trae un kilo de pan blanco crujiente recién hecho para el desayuno, por favor.",
+   "nota": "Confundía con batido de fruta; ahora es el pan."
+  },
+  {
+   "id": 1961,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Un pan batido con palta y un tecito es lo mejor pa' la once.",
+   "frase_neutralizada": "Un pan blanco crujiente con aguacate y un té es lo mejor para la merienda.",
+   "nota": "Batido de manzana no era el pan; nueva situación."
+  },
+  {
+   "id": 1962,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se acabó el pan batido y la panadería de la esquina ya cerró, ¿qué hacemos?",
+   "frase_neutralizada": "Se acabó el pan blanco crujiente y la panadería de la esquina ya cerró, ¿qué hacemos?",
+   "nota": "Sentido equivocado (bebida) y neutral absurda."
+  },
+  {
+   "id": 1963,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi abuela siempre parte el pan batido con la mano y le echa harta mantequilla.",
+   "frase_neutralizada": "Mi abuela siempre parte el pan blanco crujiente con la mano y le pone mucha mantequilla.",
+   "nota": "Def 2 duplica def 1; neutral perdía la referencia al pan."
+  },
+  {
+   "id": 1964,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te traigo un pan batido con queso pa'l desayuno?",
+   "frase_neutralizada": "¿Te traigo un pan blanco crujiente con queso para el desayuno?",
+   "nota": "Neutral explicaba la receta y cambiaba el tiempo verbal."
+  },
+  {
+   "id": 1965,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mijo, se te olvidaron los pan copihue, ¿cómo vamos a hacer los completos ahora?",
+   "frase_neutralizada": "Hijo, se te olvidaron los panes de hot dog, ¿cómo vamos a hacer los hot dogs ahora?",
+   "nota": "Pan de completo sigue siendo chilenismo; contexto poco natural."
+  },
+  {
+   "id": 1966,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la panadería ya no quedaban pan copihue, así que traje puras hallullas no más.",
+   "frase_neutralizada": "En la panadería ya no quedaban panes de hot dog, así que solo traje pan redondo.",
+   "nota": "Errores de concordancia y género cambiado en la neutral."
+  },
+  {
+   "id": 1967,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pa'l cumpleaños del Benja compramos como cuarenta pan copihue, ¿alcanzarán?",
+   "frase_neutralizada": "Para el cumpleaños de Benja compramos unos cuarenta panes de hot dog, ¿alcanzarán?",
+   "nota": "Pan copihue con ensalada era poco natural; nueva situación."
+  },
+  {
+   "id": 1968,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los pan copihue del súper vienen medios secos, mejor cómpralos en la panadería.",
+   "frase_neutralizada": "Los panes de hot dog del supermercado vienen algo secos, mejor cómpralos en la panadería.",
+   "nota": "Errores de concordancia; neutral conservaba chilenismo."
+  },
+  {
+   "id": 1969,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mamá, ¿me comprai un pan copihue con vienesa pa' la colación?",
+   "frase_neutralizada": "Mamá, ¿me compras un pan de hot dog con salchicha para el almuerzo del colegio?",
+   "nota": "Neutral mantenía 'pan de completo', que es chilenismo."
+  },
+  {
+   "id": 1970,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Cami es un pan de Dios, nunca se enoja con nadie.",
+   "frase_neutralizada": "Camila es un amor de persona, nunca se enoja con nadie.",
+   "nota": "Sonreír no ilustraba bien la bondad; neutral reordenada."
+  },
+  {
+   "id": 1971,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tía Teresa es un pan de Dios, siempre nos recibe con once cuando la vamos a ver.",
+   "frase_neutralizada": "Mi tía Teresa es buenísima, siempre nos recibe con merienda cuando vamos a verla.",
+   "nota": "'Verdad' forzado y frase poco natural."
+  },
+  {
+   "id": 1972,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi vecino es un pan de Dios, el otro día me ayudó a cambiar la rueda sin que le pidiera.",
+   "frase_neutralizada": "Mi vecino es una persona muy buena, el otro día me ayudó a cambiar la llanta sin que se lo pidiera.",
+   "nota": "'Está' incorrecto; corregido a 'es'."
+  },
+  {
+   "id": 1973,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No sé cómo el Pedro terminó metido en una pelea, si el cabro es un pan de Dios.",
+   "frase_neutralizada": "No sé cómo Pedro terminó metido en una pelea, si el chico es un amor de persona.",
+   "nota": "Usaba la expresión como 'buena cocinera', sentido equivocado."
+  },
+  {
+   "id": 1974,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa profe es un pan de Dios, siempre tiene una palabra de aliento pa' los cabros.",
+   "frase_neutralizada": "Esa profesora es buenísima, siempre tiene una palabra de aliento para los chicos.",
+   "nota": "Situación ajustada para diferenciarla de otras frases."
+  },
+  {
+   "id": 1975,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Vamos a comprar pan francés a la panadería de la esquina antes que se acabe?",
+   "frase_neutralizada": "¿Vamos a comprar pan blanco crujiente a la panadería de la esquina antes de que se acabe?",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1976,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No alcancé a comprar pan francés, ¿te lo llevo mañana?",
+   "frase_neutralizada": "No alcancé a comprar pan blanco crujiente, ¿te lo llevo mañana?",
+   "nota": "Neutral usaba 'pan batido' y cambiaba el sentido de la pregunta."
+  },
+  {
+   "id": 1977,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El pan francés recién salido del horno con mantequilla es lo mejor que hay, po.",
+   "frase_neutralizada": "El pan blanco crujiente recién salido del horno con mantequilla es lo mejor que hay.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 1978,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pasemos a comprar pan francés pa' la once, que los niños vienen con hambre.",
+   "frase_neutralizada": "Pasemos a comprar pan blanco crujiente para la merienda, que los niños vienen con hambre.",
+   "nota": "Def 2 igual a def 1; 'marraqueta' es chilenismo."
+  },
+  {
+   "id": 1979,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tío siempre pide pan francés bien tostadito con palta pa'l desayuno.",
+   "frase_neutralizada": "Mi tío siempre pide pan blanco crujiente bien tostado con aguacate para el desayuno.",
+   "nota": "Neutral usaba 'marraqueta'; contexto más natural."
+  },
+  {
+   "id": 1980,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los papagayos culiaos nos volvieron a dejar fuera de la Copa América.",
+   "frase_neutralizada": "Los brasileños de mierda nos volvieron a dejar fuera de la Copa América.",
+   "nota": "Frase artificial; neutral perdía el tono despectivo."
+  },
+  {
+   "id": 1981,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En julio los centros de ski se llenan de papagayos y no se puede ni caminar.",
+   "frase_neutralizada": "En julio los centros de esquí se llenan de esos brasileños y no se puede ni caminar.",
+   "nota": "Pregunta sin sentido; nueva situación con tono despectivo."
+  },
+  {
+   "id": 1982,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cada vez que juegan los papagayos el árbitro los favorece, es una vergüenza.",
+   "frase_neutralizada": "Cada vez que juegan esos malditos brasileños el árbitro los favorece, es una vergüenza.",
+   "nota": "Error 'interferan' y frase poco natural."
+  },
+  {
+   "id": 1983,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi jefe contrató a dos papagayos y ahora se lo pasan bailando samba en la oficina.",
+   "frase_neutralizada": "Mi jefe contrató a dos de esos brasileños y ahora se la pasan bailando samba en la oficina.",
+   "nota": "Frase rígida; neutral perdía el matiz despectivo."
+  },
+  {
+   "id": 1984,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No invitís más papagayos al carrete, que la otra vez quedó la escoba.",
+   "frase_neutralizada": "No invites a más brasileños de esos a la fiesta, que la otra vez se armó un desastre.",
+   "nota": "Errores de tiempo y tilde ('invité', 'invítes')."
+  },
+  {
+   "id": 1985,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La prueba de mate fue una papaya, la terminé en veinte minutos.",
+   "frase_neutralizada": "El examen de matemáticas fue facilísimo, lo terminé en veinte minutos.",
+   "nota": "Frase poco natural; contexto más concreto."
+  },
+  {
+   "id": 1986,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tranqui, armar ese mueble es una papaya, yo te ayudo.",
+   "frase_neutralizada": "Tranquilo, armar ese mueble es muy fácil, yo te ayudo.",
+   "nota": "Frase genérica y poco natural; nueva situación."
+  },
+  {
+   "id": 1987,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te preocupís, la tarea es una papaya, la hacemos al tiro.",
+   "frase_neutralizada": "No te preocupes, la tarea es muy fácil, la hacemos de inmediato.",
+   "nota": "La negación contradecía el 'no te preocupes'."
+  },
+  {
+   "id": 1988,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Sacar la licencia fue una papaya, pasé el examen práctico a la primera.",
+   "frase_neutralizada": "Sacar la licencia de conducir fue muy fácil, aprobé el examen práctico a la primera.",
+   "nota": "Redundante y poco natural; nueva situación."
+  },
+  {
+   "id": 1989,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cocinar arroz? Papaya, hasta mi hermano chico lo hace.",
+   "frase_neutralizada": "¿Cocinar arroz? Facilísimo, hasta mi hermano menor lo hace.",
+   "nota": "Frase redundante; nueva situación."
+  },
+  {
+   "id": 1990,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Después del completo me dio dolor de guata, pásame el confort, porfa.",
+   "frase_neutralizada": "Después del hot dog me dio dolor de estómago, pásame el papel higiénico, por favor.",
+   "nota": "Frase incoherente y neutral añadía información."
+  },
+  {
+   "id": 1991,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anota el papel confort en la lista del súper, que queda un puro rollo no más.",
+   "frase_neutralizada": "Anota el papel higiénico en la lista del supermercado, que solo queda un rollo.",
+   "nota": "Situación poco natural; nueva frase."
+  },
+  {
+   "id": 1992,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Puta, me senté y no había confort! Tuve que gritarle a mi mamá.",
+   "frase_neutralizada": "¡Mierda, me senté y no había papel higiénico! Tuve que gritarle a mi mamá.",
+   "nota": "Gramática y signos de interrogación erróneos."
+  },
+  {
+   "id": 1993,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo que ir al baño urgente y no queda ni un pedazo de confort.",
+   "frase_neutralizada": "Tengo que ir al baño urgentemente y no queda ni un pedazo de papel higiénico.",
+   "nota": "Ampliada para hacerla más natural."
+  },
+  {
+   "id": 1994,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Deja un rollo de confort extra en el baño de visitas, que viene harta gente.",
+   "frase_neutralizada": "Deja un rollo extra de papel higiénico en el baño de visitas, que viene mucha gente.",
+   "nota": "Neutral añadía 'disponible'; frase más natural."
+  },
+  {
+   "id": 1995,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El papá de la Coni es un papito corazón, hace dos años que no le pasa ni un peso.",
+   "frase_neutralizada": "El papá de Coni no paga la pensión alimenticia, hace dos años que no le da ni un centavo.",
+   "nota": "Neutral copiaba la definición literal con 'hijo/a'."
+  },
+  {
+   "id": 1996,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hay harto papito corazón que se arranca pa' Argentina pa' no pagar la pensión.",
+   "frase_neutralizada": "Hay muchos padres irresponsables que se escapan a Argentina para no pagar la pensión alimenticia.",
+   "nota": "Neutral mezclaba 'demandados' de forma redundante."
+  },
+  {
+   "id": 1997,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué los papitos corazón se creen que nunca los van a pillar?",
+   "frase_neutralizada": "¿Por qué los padres que no pagan la pensión alimenticia creen que nunca los van a atrapar?",
+   "nota": "'Inmortales' sin sentido; faltaba signo de apertura."
+  },
+  {
+   "id": 1998,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi prima tuvo que ir a carabineros porque el papito corazón de su ex la amenazó por la demanda.",
+   "frase_neutralizada": "Mi prima tuvo que ir a la policía porque su ex, que no paga la pensión alimenticia, la amenazó por la demanda.",
+   "nota": "Leísmo 'le amenazó' y sujeto poco claro."
+  },
+  {
+   "id": 1999,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con el registro de deudores, a los papitos corazón les retienen hasta la devolución de impuestos.",
+   "frase_neutralizada": "Con el registro de deudores, a los padres que no pagan la pensión alimenticia les retienen incluso la devolución de impuestos.",
+   "nota": "Muy cercana al ejemplo; se concretó la situación."
+  }
+ ]
+}

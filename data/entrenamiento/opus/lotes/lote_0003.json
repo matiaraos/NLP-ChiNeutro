@@ -1,0 +1,340 @@
+{
+ "lote": 3,
+ "claves": [
+  "chicotea los caracoles",
+  "chicotear los caracoles",
+  "chiripazo",
+  "chispeza",
+  "chita",
+  "choreado",
+  "chorear",
+  "choriar"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2401443,
+ "duracion_s": 85.0,
+ "pares": [
+  {
+   "id": 120,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Chicotea los caracoles, que vamos a llegar tarde a tomar once donde mi tía!",
+   "frase_neutralizada": "¡Apúrate, que vamos a llegar tarde a la merienda en casa de mi tía!",
+   "nota": "Quité el «¡Alegría, chica!», que no tenía sentido, y le di un contexto natural."
+  },
+  {
+   "id": 121,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, compadre, chicotea los caracoles con el informe, que el jefe lo pide hoy.",
+   "frase_neutralizada": "Oye, amigo, apúrate con el informe, que el jefe lo pide hoy.",
+   "nota": "La pregunta negativa no era natural; la neutral tenía la errata «haslo»."
+  },
+  {
+   "id": 122,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Dile al garzón que chicotee los caracoles, que llevamos media hora esperando la comida.",
+   "frase_neutralizada": "Dile al mesero que se apure, que llevamos media hora esperando la comida.",
+   "nota": "El «tren chilote» no tenía sentido y la neutral cambiaba la persona; definición 2 = 1."
+  },
+  {
+   "id": 123,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Chicotea los caracoles en la ducha, que los demás también tenemos que bañarnos.",
+   "frase_neutralizada": "Apúrate en la ducha, que los demás también tenemos que bañarnos.",
+   "nota": "El contexto de la cena era poco natural; definición 2 = definición 1."
+  },
+  {
+   "id": 124,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "¡Chicotea los caracoles, chofer, que vamos todos atrasados pa la pega!",
+   "frase_neutralizada": "¡Apúrate, chofer, que vamos todos atrasados para el trabajo!",
+   "nota": "«No nos llegue el tren» no tenía sentido; ahora ilustra el sentido del chofer."
+  },
+  {
+   "id": 125,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cabros, hay que chicotear los caracoles si queremos terminar la maqueta antes de las ocho.",
+   "frase_neutralizada": "Chicos, hay que apurarse si queremos terminar la maqueta antes de las ocho.",
+   "nota": "No incluía la expresión y la neutral añadía información."
+  },
+  {
+   "id": 126,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si no chicoteamos los caracoles con el proyecto, el profe nos va a poner un rojo.",
+   "frase_neutralizada": "Si no nos apuramos con el proyecto, el profesor nos va a poner una nota reprobatoria.",
+   "nota": "No incluía la expresión y la neutral añadía información."
+  },
+  {
+   "id": 127,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Chicoteemos los caracoles con el aseo, que si no la mamá no nos deja ir al carrete.",
+   "frase_neutralizada": "Apurémonos con la limpieza, que si no mamá no nos deja ir a la fiesta.",
+   "nota": "Corregí la errata «chicoteear», quité «ahora mismo» añadido y di un tono más natural."
+  },
+  {
+   "id": 128,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¡Ya, a chicotear los caracoles, que el partido empieza en media hora y ni nos hemos vestido!",
+   "frase_neutralizada": "¡Bueno, a movernos, que el partido empieza en media hora y ni siquiera nos hemos vestido!",
+   "nota": "La neutral en infinitivo sonaba rara; le di coherencia a la frase."
+  },
+  {
+   "id": 129,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Se acabó el recreo, cabros, a chicotear los caracoles que la clase ya empezó.",
+   "frase_neutralizada": "Se acabó el recreo, chicos, a moverse, que la clase ya empezó.",
+   "nota": "Agregué contexto chileno natural y ajusté la neutral."
+  },
+  {
+   "id": 130,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Sabías que el Juanito fue chiripazo? Su hermano mayor le lleva quince años.",
+   "frase_neutralizada": "¿Sabías que Juanito no fue un hijo planeado? Su hermano mayor le lleva quince años.",
+   "nota": "Le agregué contexto y precisé el sentido de «no planeado»."
+  },
+  {
+   "id": 131,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi mamá siempre me dice en broma que yo fui chiripazo.",
+   "frase_neutralizada": "Mi mamá siempre me dice en broma que yo no fui un hijo planeado.",
+   "nota": "«Chiripazo de todos los chilenos» no tenía sentido."
+  },
+  {
+   "id": 132,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El menor de los Soto es chiripazo, nació cuando la señora ya tenía como cuarenta y cinco.",
+   "frase_neutralizada": "El menor de los Soto no fue planeado; nació cuando la señora ya tenía unos cuarenta y cinco años.",
+   "nota": "La frase era incoherente y la neutral no correspondía."
+  },
+  {
+   "id": 133,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Igual el chiripazo de la familia salió el más regalón de todos.",
+   "frase_neutralizada": "Aun así, el hijo no planeado de la familia resultó ser el más consentido de todos.",
+   "nota": "«Me traes a los chiripazos» no tenía sentido."
+  },
+  {
+   "id": 134,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tía dice que mi primo fue chiripazo, pero lo quiere igual que a los otros, po.",
+   "frase_neutralizada": "Mi tía dice que mi primo no fue planeado, pero lo quiere igual que a los otros.",
+   "nota": "La frase original era poco natural; usaba «planta» (peninsular)."
+  },
+  {
+   "id": 135,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con harta chispeza el equipo aguantó los noventa minutos con uno menos.",
+   "frase_neutralizada": "Con mucha energía y garra, el equipo aguantó los noventa minutos con un jugador menos.",
+   "nota": "Era casi una copia del ejemplo del diccionario y faltaba el signo inicial."
+  },
+  {
+   "id": 136,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "A la Feña le sobra chispeza, trabaja de noche y igual llega a clases a las ocho.",
+   "frase_neutralizada": "A Fernanda le sobran energía y aguante; trabaja de noche y aun así llega a clases a las ocho.",
+   "nota": "Agregué contexto de aguante y viveza; la frase era genérica."
+  },
+  {
+   "id": 137,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El animador tiene chispeza, tiene a todo el público muerto de la risa.",
+   "frase_neutralizada": "El animador tiene gracia; tiene a todo el público muerto de risa.",
+   "nota": "«Tu juego tiene chispeza, ¿no?» no era natural."
+  },
+  {
+   "id": 138,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi abuelo cuenta las historias con una chispeza que no se la gana nadie.",
+   "frase_neutralizada": "Mi abuelo cuenta las historias con una gracia que nadie supera.",
+   "nota": "«Historias de chispeza» no era natural; reformulé la frase."
+  },
+  {
+   "id": 139,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pa vender en la feria hay que tener chispeza, ser vivo y no achicarse nunca.",
+   "frase_neutralizada": "Para vender en el mercado callejero hay que tener viveza, ser listo y no acobardarse nunca.",
+   "nota": "No incluía la expresión; la definición 3 duplica la 1."
+  },
+  {
+   "id": 140,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Chita! No me dijiste que hoy era el cumpleaños de tu mamá.",
+   "frase_neutralizada": "¡Caramba! No me dijiste que hoy era el cumpleaños de tu mamá.",
+   "nota": "«Espérate» no expresa sorpresa y la neutral cambiaba la persona."
+  },
+  {
+   "id": 141,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Chita, se me olvidó sacar la ropa de la lavadora y ya está toda arrugada.",
+   "frase_neutralizada": "Rayos, se me olvidó sacar la ropa de la lavadora y ya está toda arrugada.",
+   "nota": "La neutral tenía errores («no me recuerdo») y el contexto era raro."
+  },
+  {
+   "id": 142,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Por la chita, qué caro está el pan en este negocio!",
+   "frase_neutralizada": "¡Caramba, qué caro está el pan en esta tienda!",
+   "nota": "Repetía la estructura de reproche; usé la variante «por la chita»."
+  },
+  {
+   "id": 143,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Chita, no cachaba que el partido empezaba a las seis, ya me lo perdí.",
+   "frase_neutralizada": "Caramba, no sabía que el partido empezaba a las seis; ya me lo perdí.",
+   "nota": "«Espérate» era incorrecto y la neutral cambiaba «torneo» por «partido»."
+  },
+  {
+   "id": 144,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Chita, cómo creciste! La última vez que te vi eras un cabro chico.",
+   "frase_neutralizada": "¡Vaya, cómo creciste! La última vez que te vi eras un niño.",
+   "nota": "Era un reproche repetido y «Espérate» no expresaba sorpresa."
+  },
+  {
+   "id": 145,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estamos todos choreados con la pega, nos tienen trabajando hasta los domingos.",
+   "frase_neutralizada": "Estamos todos enojados con el trabajo; nos tienen trabajando hasta los domingos.",
+   "nota": "Faltaba el signo inicial y el contexto; reformulé la frase."
+  },
+  {
+   "id": 146,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, no te pongai choreado por una tontera, si era broma.",
+   "frase_neutralizada": "Ya, no te enojes por una tontería, era broma.",
+   "nota": "Usaba «vosotros» y el verbo «choreéis», que no se usa así."
+  },
+  {
+   "id": 147,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ese celular que venden tan barato en la feria seguro que es choreado.",
+   "frase_neutralizada": "Ese celular que venden tan barato en el mercado callejero seguro que es robado.",
+   "nota": "Usaba «móvil» (peninsular) y era casi una copia del ejemplo."
+  },
+  {
+   "id": 148,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Le pillaron la bici choreada al vecino y tuvo que devolverla.",
+   "frase_neutralizada": "Descubrieron que la bicicleta que tenía el vecino era robada y tuvo que devolverla.",
+   "nota": "Copiaba el ejemplo y la neutral cambiaba la persona («vi/viste»)."
+  },
+  {
+   "id": 149,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Por qué andai tan choreado conmigo? Si yo no te hice nada.",
+   "frase_neutralizada": "¿Por qué estás tan enojado conmigo? Yo no te hice nada.",
+   "nota": "La neutral decía «contigo» en vez de «conmigo»; agregué contexto."
+  },
+  {
+   "id": 150,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ojo con ese loco, que anda buscando a quién chorearle el celular.",
+   "frase_neutralizada": "Cuidado con ese tipo, que anda buscando a quién robarle el celular.",
+   "nota": "Decía «chorrear» por «chorear» y la frase era incoherente."
+  },
+  {
+   "id": 151,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el metro te chorean la billetera sin que te dai ni cuenta.",
+   "frase_neutralizada": "En el metro te roban la billetera sin que te des cuenta.",
+   "nota": "La frase era poco natural; le di una situación cotidiana distinta."
+  },
+  {
+   "id": 152,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Anoche le chorearon el auto a mi hermano afuera de la casa.",
+   "frase_neutralizada": "Anoche le robaron el auto a mi hermano frente a la casa.",
+   "nota": "Lo del «traficante» en futuro era poco natural; lo pasé a pasado."
+  },
+  {
+   "id": 153,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros chorearon unas chelas del súper y los pillaron al tiro.",
+   "frase_neutralizada": "Los chicos robaron unas cervezas del supermercado y los atraparon enseguida.",
+   "nota": "«Robo… que lo chorearon» era redundante y forzado."
+  },
+  {
+   "id": 154,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me chorearon la mochila en la micro y tenía el notebook adentro.",
+   "frase_neutralizada": "Me robaron la mochila en el autobús y tenía la computadora portátil adentro.",
+   "nota": "La frase sobre la policía era incoherente."
+  },
+  {
+   "id": 155,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En el colegio me choriaron la calculadora nueva, qué rabia.",
+   "frase_neutralizada": "En la escuela me robaron la calculadora nueva, qué rabia.",
+   "nota": "La voz pasiva no era natural y cambié el objeto para evitar repeticiones."
+  },
+  {
+   "id": 156,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esos gallos choriaban todo lo que pillaban en las casas del barrio.",
+   "frase_neutralizada": "Esos tipos robaban todo lo que encontraban en las casas del barrio.",
+   "nota": "La frase era genérica; le agregué contexto chileno natural."
+  },
+  {
+   "id": 157,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si dejai la bici sin candado afuera, te la van a choriar al tiro.",
+   "frase_neutralizada": "Si dejas la bicicleta sin candado afuera, te la van a robar enseguida.",
+   "nota": "No incluía la expresión y la neutral decía «monedería»."
+  },
+  {
+   "id": 158,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Oye, no me chories las papas fritas, pide las tuyas!",
+   "frase_neutralizada": "¡Oye, no me robes las papas fritas, pide las tuyas!",
+   "nota": "La frase original era poco natural; le di una situación cotidiana."
+  },
+  {
+   "id": 159,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Detuvieron a una banda que choriaba autos pa desarmarlos y vender las piezas.",
+   "frase_neutralizada": "Detuvieron a una banda que robaba autos para desarmarlos y vender las piezas.",
+   "nota": "«Cochecitos» no correspondía a «autos» de la neutral; le di un contexto creíble."
+  }
+ ]
+}

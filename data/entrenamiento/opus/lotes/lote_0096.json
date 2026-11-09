@@ -1,0 +1,340 @@
+{
+ "lote": 96,
+ "claves": [
+  "leseo",
+  "lleca",
+  "loji",
+  "lolo",
+  "lola",
+  "luca",
+  "macabeo",
+  "machetear"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2358027,
+ "duracion_s": 82.5,
+ "pares": [
+  {
+   "id": 3840,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya po, corta el leseo, que estamos en reunión y estai molestando a todos.",
+   "frase_neutralizada": "Ya, deja de hacer tonterías, que estamos en una reunión y estás molestando a todos.",
+   "nota": "Neutral tenía error ('céala') y redundancia; se naturalizó la frase."
+  },
+  {
+   "id": 3841,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La clase de ayer fue puro leseo, el profe no alcanzó a pasar nada de materia.",
+   "frase_neutralizada": "En la clase de ayer todos estuvieron haciendo tonterías, el profesor no alcanzó a avanzar nada de materia.",
+   "nota": "Usaba leseo como 'molestia' de un juego; sentido incorrecto."
+  },
+  {
+   "id": 3842,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Déjate de leseo con el perro, que lo vai a poner nervioso con esa cinta.",
+   "frase_neutralizada": "Deja de molestar al perro, que lo vas a poner nervioso con esa cinta.",
+   "nota": "No contenía 'leseo' y 'lesearle' era forzado."
+  },
+  {
+   "id": 3843,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Menos leseo y más estudio, cabros, que la prueba es mañana.",
+   "frase_neutralizada": "Menos tonterías y más estudio, chicos, que el examen es mañana.",
+   "nota": "'Lesees' reflexivo no existe con ese sentido; no incluía la expresión."
+  },
+  {
+   "id": 3844,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué es tanto leseo con mi hermana? Déjala tranquila con esas preguntas.",
+   "frase_neutralizada": "¿Por qué molestas tanto a mi hermana? Déjala tranquila con esas preguntas.",
+   "nota": "'Leses' es forma inexistente; se usó el sustantivo leseo."
+  },
+  {
+   "id": 3845,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No andes gritando eso en la lleca, que te pueden escuchar los vecinos.",
+   "frase_neutralizada": "No andes gritando eso en la calle, que te pueden escuchar los vecinos.",
+   "nota": "No contenía 'lleca'; neutral tenía error gramatical ('diles')."
+  },
+  {
+   "id": 3846,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Vai a salir a pasear con tu polola por la lleca a esta hora? Está peligroso.",
+   "frase_neutralizada": "¿Vas a salir a pasear con tu novia por la calle a esta hora? Es peligroso.",
+   "nota": "Frases agramaticales y neutral cambiaba novia por novio."
+  },
+  {
+   "id": 3847,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cuánto rato tengo que caminar por la lleca pa llegar a tu casa?",
+   "frase_neutralizada": "¿Cuánto tiempo tengo que caminar por la calle para llegar a tu casa?",
+   "nota": "Se corrigió 'voy teniendo' agramatical."
+  },
+  {
+   "id": 3848,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Brayan se crió en la lleca, por eso no le tiene miedo a nadie.",
+   "frase_neutralizada": "Brayan se crió en la calle, por eso no le tiene miedo a nadie.",
+   "nota": "Frase original sin sentido coherente."
+  },
+  {
+   "id": 3849,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer salimos a la lleca a celebrar el triunfo del Colo con toda la pobla.",
+   "frase_neutralizada": "Ayer salimos a la calle a celebrar la victoria de Colo-Colo con todo el barrio.",
+   "nota": "Neutral decía 'salimos en la calle'; se naturalizó la situación."
+  },
+  {
+   "id": 3850,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese loji no sabe ni leer una carta, ¿cómo lo contrataron?",
+   "frase_neutralizada": "Ese tonto ni siquiera sabe leer una carta, ¿cómo lo contrataron?",
+   "nota": "Neutral traducía loji como 'desconocido'; significado incorrecto."
+  },
+  {
+   "id": 3851,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hermano, ¿soi loji o qué? Te dije que no fueras a esa fiesta.",
+   "frase_neutralizada": "Hermano, ¿eres tonto o qué? Te dije que no fueras a esa fiesta.",
+   "nota": "Neutral usaba 'inadaptada'; idea poco natural."
+  },
+  {
+   "id": 3852,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le contís nada a ese loji, que después anda haciendo puras tonteras.",
+   "frase_neutralizada": "No le cuentes nada a ese tonto, que después anda haciendo puras tonterías.",
+   "nota": "Neutral perdía el insulto ('esa persona')."
+  },
+  {
+   "id": 3853,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le creai al loji del Kevin, se enreda solo en sus mentiras.",
+   "frase_neutralizada": "No le creas al tonto de Kevin, se enreda solo en sus mentiras.",
+   "nota": "Neutral omitía el sentido de 'tonto' y tenía concordancia errónea."
+  },
+  {
+   "id": 3854,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué loji fui, dejé las llaves adentro del auto otra vez.",
+   "frase_neutralizada": "Qué tonto fui, dejé las llaves dentro del auto otra vez.",
+   "nota": "Neutral traducía 'desconocido'; nueva situación distinta."
+  },
+  {
+   "id": 3855,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cómo se llama ese lolo que estaba ayer en el carrete, el de pelo corto?",
+   "frase_neutralizada": "¿Cómo se llama ese chico que estaba ayer en la fiesta, el de pelo corto?",
+   "nota": "Contenía 'yesterday' en inglés y copiaba el ejemplo."
+  },
+  {
+   "id": 3856,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mira al lolo ese, sentado ahí pegado al celular todo el día.",
+   "frase_neutralizada": "Mira a ese chico, sentado ahí pegado al celular todo el día.",
+   "nota": "Frase poco natural; se ajustó al habla coloquial."
+  },
+  {
+   "id": 3857,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los lolos del equipo jugaron la raja, le ganaron a los más grandes.",
+   "frase_neutralizada": "Los jóvenes del equipo jugaron muy bien, les ganaron a los mayores.",
+   "nota": "Def 2 equivale a la 1; se dio tono coloquial."
+  },
+  {
+   "id": 3858,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando yo era lolo íbamos a la playa en micro y lo pasábamos increíble.",
+   "frase_neutralizada": "Cuando yo era joven íbamos a la playa en autobús y lo pasábamos increíble.",
+   "nota": "Neutral con error de modo verbal ('se divierten')."
+  },
+  {
+   "id": 3859,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi papá se cree lolo, anda con zapatillas de colores y jockey para atrás.",
+   "frase_neutralizada": "Mi papá se cree joven, anda con zapatillas de colores y gorra hacia atrás.",
+   "nota": "Def 3 tiene votos negativos y no es uso real."
+  },
+  {
+   "id": 3860,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La lola que atiende en la panadería es súper simpática.",
+   "frase_neutralizada": "La chica que atiende en la panadería es muy simpática.",
+   "nota": "Frase demasiado corta y sin contexto natural."
+  },
+  {
+   "id": 3861,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Ya te presenté a la lola que anda con mi hijo, cierto?",
+   "frase_neutralizada": "¿Ya te presenté a la chica que sale con mi hijo, verdad?",
+   "nota": "'Presenté con la lola de mi hijo' era ambiguo y forzado."
+  },
+  {
+   "id": 3862,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me gusta que la lola se vaya sola al carrete, todavía es muy chica.",
+   "frase_neutralizada": "No me gusta que la muchacha se vaya sola a la fiesta, todavía es muy joven.",
+   "nota": "Se añadió contexto coloquial y se neutralizó 'carrete'."
+  },
+  {
+   "id": 3863,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa lola de la academia te va a enseñar a bailar salsa, es seca.",
+   "frase_neutralizada": "Esa chica de la academia te va a enseñar a bailar salsa, es muy buena.",
+   "nota": "Frase plana; se dio contexto y naturalidad."
+  },
+  {
+   "id": 3864,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La hija de la vecina ya está hecha una lola, cómo pasa el tiempo.",
+   "frase_neutralizada": "La hija de la vecina ya es toda una muchacha, cómo pasa el tiempo.",
+   "nota": "'La lola de la vecina' era ambiguo; se aclaró."
+  },
+  {
+   "id": 3865,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me falta una luca pa pagar la cuenta, ¿me prestai?",
+   "frase_neutralizada": "Me faltan mil pesos para pagar la cuenta, ¿me prestas?",
+   "nota": "Error de género ('un luca')."
+  },
+  {
+   "id": 3866,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No tengo ni una luca, así que no voy a poder pagar la multa.",
+   "frase_neutralizada": "No tengo ni mil pesos, así que no voy a poder pagar la multa.",
+   "nota": "Faltaba 'ni una'; neutral cambiaba el sentido."
+  },
+  {
+   "id": 3867,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La entrada al cine sale como cinco lucas, más las cabritas.",
+   "frase_neutralizada": "La entrada al cine cuesta unos cinco mil pesos, más las palomitas.",
+   "nota": "'Boleta' chilenismo en neutral; se varió la situación."
+  },
+  {
+   "id": 3868,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te presto un par de lucas si querís ir al carrete el sábado.",
+   "frase_neutralizada": "Te presto un par de miles de pesos si quieres ir a la fiesta el sábado.",
+   "nota": "Se naturalizó con voseo chileno y 'carrete'."
+  },
+  {
+   "id": 3869,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le compré un ramo de flores a mi mamá con las diez lucas que me sobraron.",
+   "frase_neutralizada": "Le compré un ramo de flores a mi mamá con los diez mil pesos que me sobraron.",
+   "nota": "'Comprar una luca' para regalar no tenía sentido."
+  },
+  {
+   "id": 3870,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Nico no fue al concierto porque la polola no lo dejó, es tan macabeo.",
+   "frase_neutralizada": "Nico no fue al concierto porque su novia no lo dejó, está tan dominado por ella.",
+   "nota": "No contenía 'macabeo'; tiempos verbales inconsistentes."
+  },
+  {
+   "id": 3871,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No voy a la pichanga del sábado, la señora no me da permiso. Sí, soy macabeo.",
+   "frase_neutralizada": "No voy al partido de fútbol del sábado, mi esposa no me da permiso. Sí, ella me tiene dominado.",
+   "nota": "No contenía 'macabeo'; se agregó."
+  },
+  {
+   "id": 3872,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no seai macabeo, tu polola no tiene por qué decidir si salís con nosotros.",
+   "frase_neutralizada": "Oye, no te dejes dominar así, tu novia no tiene por qué decidir si sales con nosotros.",
+   "nota": "No contenía 'macabeo'; neutral cambiaba tiempo verbal."
+  },
+  {
+   "id": 3873,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pancho es tan macabeo que hasta la película del cine la elige la polola.",
+   "frase_neutralizada": "Pancho está tan dominado por su novia que hasta la película del cine la elige ella.",
+   "nota": "No contenía 'macabeo' ni ilustraba bien la sumisión."
+  },
+  {
+   "id": 3874,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Desde que se casó, el Rodrigo quedó macabeo; ya ni a la playa va sin pedir permiso.",
+   "frase_neutralizada": "Desde que se casó, Rodrigo quedó dominado por su esposa; ya ni a la playa va sin pedir permiso.",
+   "nota": "No contenía 'macabeo'; tiempos verbales cambiados en neutral."
+  },
+  {
+   "id": 3875,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Un cabro me macheteó en la micro pa completar el pasaje.",
+   "frase_neutralizada": "Un chico me pidió dinero en el autobús para completar el pasaje.",
+   "nota": "'Esa cosa me pide un macheteo' carecía de sentido."
+  },
+  {
+   "id": 3876,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me vengai a machetear, compadre, que ando más pato que tú.",
+   "frase_neutralizada": "No me vengas a pedir dinero, amigo, que ando con menos dinero que tú.",
+   "nota": "Neutral cambiaba imperativo a afirmación; frase incoherente."
+  },
+  {
+   "id": 3877,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Los cabros se fueron a machetear afuera del estadio pa juntar pa la entrada.",
+   "frase_neutralizada": "Los chicos fueron a pedir dinero afuera del estadio para juntar para la entrada.",
+   "nota": "Usaba machetear como 'gastar'; sentido incorrecto."
+  },
+  {
+   "id": 3878,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con lo que macheteé en el centro me alcanzó pa la micro de vuelta.",
+   "frase_neutralizada": "Con el dinero que le pedí a la gente en el centro me alcanzó para el autobús de regreso.",
+   "nota": "'Macheteo' usado como sinónimo de dinero; incorrecto."
+  },
+  {
+   "id": 3879,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese loco se pasa todo el día macheteando en la esquina del semáforo.",
+   "frase_neutralizada": "Ese tipo se pasa todo el día pidiendo dinero en la esquina del semáforo.",
+   "nota": "Neutral forzada; se ubicó el acto en la calle."
+  }
+ ]
+}

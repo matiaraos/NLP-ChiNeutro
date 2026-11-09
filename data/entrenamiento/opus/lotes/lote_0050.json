@@ -1,0 +1,340 @@
+{
+ "lote": 50,
+ "claves": [
+  "paracaidista",
+  "parar la olla",
+  "parar los carros",
+  "parche curita",
+  "pariente",
+  "parlanchin",
+  "pasada pa la punta",
+  "pasar maquina"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24176709999999998,
+ "duracion_s": 86.8,
+ "pares": [
+  {
+   "id": 2000,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu polola llegó al asado con dos paracaidistas y se tomaron todas las chelas.",
+   "frase_neutralizada": "Tu novia llegó a la parrillada con dos personas que nadie invitó y se tomaron todas las cervezas.",
+   "nota": "'Sin ser convencida' sin sentido; se cambió a un asado y se neutralizaron chilenismos."
+  },
+  {
+   "id": 2001,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el matrimonio de mi prima se colaron como cinco paracaidistas, puros amigos del novio.",
+   "frase_neutralizada": "En la boda de mi prima se colaron como cinco personas sin invitación, todas amigas del novio.",
+   "nota": "Frase incoherente; 'invitados no convencidos' era una neutralización errónea."
+  },
+  {
+   "id": 2002,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tía reclamó que su fiesta se llenó de paracaidistas y que el copete no alcanzó.",
+   "frase_neutralizada": "Mi tía se quejó de que su fiesta se llenó de gente que nadie invitó y que el alcohol no alcanzó.",
+   "nota": "Frase ilógica; se reescribió con el sentido de colados."
+  },
+  {
+   "id": 2003,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me gustan los carretes abiertos, siempre llegan paracaidistas a puro comer gratis.",
+   "frase_neutralizada": "No me gustan las fiestas abiertas, siempre llega gente sin invitación solo a comer gratis.",
+   "nota": "Había un error gramatical ('a mí me invito') y la neutralización era errónea."
+  },
+  {
+   "id": 2004,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este año la fiesta de fin de año es con lista, cero paracaidistas, ¿cachai?",
+   "frase_neutralizada": "Este año la fiesta de fin de año es con lista, nada de gente sin invitación, ¿entiendes?",
+   "nota": "'Invitados no convencidos' era incorrecto; se varió la situación."
+  },
+  {
+   "id": 2005,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No puedo ir al festival, tengo que hacer turnos extra pa parar la olla.",
+   "frase_neutralizada": "No puedo ir al festival, tengo que hacer turnos extra para mantener la casa.",
+   "nota": "Decía 'para la olla' y se neutralizaba como 'hacer el almuerzo'; era el sentido equivocado."
+  },
+  {
+   "id": 2006,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La plata pa parar la olla me la gasté en el carrete, la cagué.",
+   "frase_neutralizada": "El dinero para los gastos de la casa me lo gasté en la fiesta, la jodí.",
+   "nota": "No aparecía la expresión completa y había un error gramatical."
+  },
+  {
+   "id": 2007,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde que echaron a mi viejo, mi mamá es la que para la olla en la casa.",
+   "frase_neutralizada": "Desde que despidieron a mi papá, mi mamá es la que mantiene la casa.",
+   "nota": "Usaba el sentido literal de cocinar; se reescribió con el de sustento."
+  },
+  {
+   "id": 2008,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con el sueldo mínimo apenas alcanza pa parar la olla, imposible ahorrar.",
+   "frase_neutralizada": "Con el salario mínimo apenas alcanza para cubrir los gastos básicos de la casa, es imposible ahorrar.",
+   "nota": "El sentido era contradictorio y la neutralización errónea."
+  },
+  {
+   "id": 2009,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano vende sopaipillas en la feria y con eso para la olla.",
+   "frase_neutralizada": "Mi hermano vende frituras en el mercado y con eso mantiene a su familia.",
+   "nota": "La def. 2 es débil y su ejemplo ilustra la 1; la frase no tenía sentido."
+  },
+  {
+   "id": 2010,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe le paró los carros al Diego cuando empezó a tirarle papeles a la Javi.",
+   "frase_neutralizada": "El profesor le llamó la atención a Diego cuando empezó a tirarle papeles a Javi.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2011,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si tu jefe te sigue gritando así, tenís que pararle los carros altiro.",
+   "frase_neutralizada": "Si tu jefe te sigue gritando así, tienes que ponerle un alto de inmediato.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2012,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi vieja me paró los carros cuando llegué curado a las cinco de la mañana.",
+   "frase_neutralizada": "Mi mamá me regañó cuando llegué borracho a las cinco de la mañana.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2013,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, párale los carros al Seba, que se está pasando con los comentarios.",
+   "frase_neutralizada": "Oye, llámale la atención a Seba, que se está excediendo con los comentarios.",
+   "nota": "Era una frase incoherente y sin la expresión."
+  },
+  {
+   "id": 2014,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El árbitro le paró los carros al capitán por andar alegando todo el partido.",
+   "frase_neutralizada": "El árbitro le llamó la atención al capitán por estar reclamando todo el partido.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2015,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me corté pelando papas, ¿tenís un parche curita por ahí?",
+   "frase_neutralizada": "Me corté pelando papas, ¿tienes una vendita adhesiva por ahí?",
+   "nota": "Se acercaba demasiado al ejemplo; 'adhesivo' era una neutralización ambigua."
+  },
+  {
+   "id": 2016,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La niña se cayó del columpio y le pusieron un parche curita en la rodilla.",
+   "frase_neutralizada": "La niña se cayó del columpio y le pusieron una vendita adhesiva en la rodilla.",
+   "nota": "Se cambió la herida y se unificó la neutralización."
+  },
+  {
+   "id": 2017,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estos zapatos nuevos me sacaron ampollas, ando con parches curita en los dos talones.",
+   "frase_neutralizada": "Estos zapatos nuevos me hicieron ampollas, tengo venditas adhesivas en los dos talones.",
+   "nota": "Lo de la cirugía era poco realista y la neutral cambiaba el sujeto."
+  },
+  {
+   "id": 2018,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿me podís traer un parche curita del baño, porfa?",
+   "frase_neutralizada": "Oye, ¿me puedes traer una vendita adhesiva del baño, por favor?",
+   "nota": "Error gramatical ('podrías me traer'); se ajustó al registro chileno."
+  },
+  {
+   "id": 2019,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me corté con el cuchillo picando cebolla, pásame un parche curita.",
+   "frase_neutralizada": "Me corté con el cuchillo picando cebolla, pásame una vendita adhesiva.",
+   "nota": "Era una frase forzada; se hizo más natural."
+  },
+  {
+   "id": 2020,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hola pariente, ¿cómo le va? ¿Va pa la fiesta costumbrista del pueblo?",
+   "frase_neutralizada": "Hola, amigo, ¿cómo le va? ¿Va a la fiesta tradicional del pueblo?",
+   "nota": "Se ajustó al registro campesino adulto, con trato de usted."
+  },
+  {
+   "id": 2021,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oiga pariente, ¿qué se cuenta por el pueblo? Hace rato que no bajo.",
+   "frase_neutralizada": "Oiga, amigo, ¿qué se cuenta en el pueblo? Hace tiempo que no voy.",
+   "nota": "Se hizo más natural y rural."
+  },
+  {
+   "id": 2022,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Pariente! Tanto tiempo, ¿y cómo están los animales con esta lluvia?",
+   "frase_neutralizada": "¡Amigo! Cuánto tiempo, ¿y cómo están los animales con esta lluvia?",
+   "nota": "La frase era incoherente y tenía un error gramatical."
+  },
+  {
+   "id": 2023,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pariente, ¿me presta el tractor mañana pa arar el potrero?",
+   "frase_neutralizada": "Amigo, ¿me presta el tractor mañana para arar el terreno?",
+   "nota": "Lo del concierto no encajaba con el uso rural adulto."
+  },
+  {
+   "id": 2024,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Buenas tardes, pariente, pase a tomarse un matecito antes de seguir.",
+   "frase_neutralizada": "Buenas tardes, amigo, pase a tomarse un mate antes de seguir.",
+   "nota": "La situación era poco rural y repetía el patrón 'Hola pariente'."
+  },
+  {
+   "id": 2025,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erís muy parlanchín, no dejai hablar a nadie más en la mesa.",
+   "frase_neutralizada": "Eres muy hablador, no dejas hablar a nadie más en la mesa.",
+   "nota": "Explicaba el significado dentro de la frase y la neutral lo cambiaba."
+  },
+  {
+   "id": 2026,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con dos piscolas encima el Pancho se pone re parlanchín.",
+   "frase_neutralizada": "Con dos tragos encima, Pancho se pone muy hablador.",
+   "nota": "La pregunta era incoherente; se escribió una situación nueva."
+  },
+  {
+   "id": 2027,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El parlanchín de la oficina nos tiene a todos chatos con sus historias.",
+   "frase_neutralizada": "El hablador de la oficina nos tiene a todos hartos con sus historias.",
+   "nota": "'El demasiado conversador' no era gramatical."
+  },
+  {
+   "id": 2028,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Yo soy parlanchín, en las entrevistas de trabajo me tengo que controlar harto.",
+   "frase_neutralizada": "Yo soy hablador, en las entrevistas de trabajo me tengo que controlar mucho.",
+   "nota": "'¿No lo vemos?' no tenía sentido."
+  },
+  {
+   "id": 2029,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mija, no sea tan parlanchina, deje que su hermano cuente también.",
+   "frase_neutralizada": "Hija, no sea tan habladora, deje que su hermano cuente también.",
+   "nota": "Había mal concordancia de género; se mejoró la naturalidad."
+  },
+  {
+   "id": 2030,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese loco es muy pasado pa la punta, a la primera conversa ya te está abrazando.",
+   "frase_neutralizada": "Ese tipo se toma demasiadas confianzas, en la primera conversación ya te está abrazando.",
+   "nota": "'Es todo un desastre' no ilustraba el sentido de exceso de confianza."
+  },
+  {
+   "id": 2031,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai pasada pa la punta, recién lo conocís y ya le estai pidiendo plata.",
+   "frase_neutralizada": "No seas abusiva, apenas lo conoces y ya le estás pidiendo dinero.",
+   "nota": "La frase era confusa y la neutral cambiaba el significado."
+  },
+  {
+   "id": 2032,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El vecino es pasado pa la punta, le prestamos la parrilla y ahora la ocupa como si fuera suya.",
+   "frase_neutralizada": "El vecino es un aprovechado, le prestamos la parrilla y ahora la usa como si fuera suya.",
+   "nota": "Explicaba la expresión dentro de la frase; se buscó un caso de abuso."
+  },
+  {
+   "id": 2033,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai pasado pa la punta, te invité a almorzar, no a que te llevarai la mitad pa la casa.",
+   "frase_neutralizada": "No seas abusivo, te invité a almorzar, no a que te llevaras la mitad a tu casa.",
+   "nota": "Las def. 1 y 2 son iguales; se mejoró la naturalidad."
+  },
+  {
+   "id": 2034,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El taxista fue súper pasado pa la punta, nos cobró el doble porque éramos turistas.",
+   "frase_neutralizada": "El taxista fue muy abusivo, nos cobró el doble porque éramos turistas.",
+   "nota": "Se usaba con el sentido equivocado de demora."
+  },
+  {
+   "id": 2035,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El presidente de curso pasó máquina con el destino de la gira y ahora vamos a Pucón.",
+   "frase_neutralizada": "El delegado de la clase impuso el destino del viaje de estudios y ahora vamos a Pucón.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2036,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El jefe pasó máquina con el proyecto nuevo, aunque todo el equipo le dijo que no estaba listo.",
+   "frase_neutralizada": "El jefe impuso el proyecto nuevo, aunque todo el equipo le dijo que no estaba listo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2037,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si nadie se decide, yo paso máquina y reservo la cabaña pa febrero.",
+   "frase_neutralizada": "Si nadie se decide, yo decido por mi cuenta y reservo la cabaña para febrero.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2038,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Cata pasó máquina con la música del carrete y puso puro reguetón toda la noche.",
+   "frase_neutralizada": "Cata impuso su música en la fiesta y puso solo reguetón toda la noche.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2039,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El alcalde pasó máquina con la ciclovía y ahora los vecinos están furiosos.",
+   "frase_neutralizada": "El alcalde impuso la ciclovía sin consultar y ahora los vecinos están furiosos.",
+   "nota": "No contenía la expresión."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 71,
+ "claves": [
+  "arriba de la pelota",
+  "asalta cuna",
+  "ascurrirse",
+  "ascurrete",
+  "ascurria",
+  "ascurrio",
+  "ascurrir",
+  "aserruchar el piso"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.25847590000000004,
+ "duracion_s": 96.7,
+ "pares": [
+  {
+   "id": 2840,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pancho está arriba de la pelota, no lo dejen manejar por ningún motivo.",
+   "frase_neutralizada": "Pancho está muy borracho, no lo dejen manejar por ningún motivo.",
+   "nota": "No incluía la expresión; 'chilote' y 'de cabeza' no correspondían."
+  },
+  {
+   "id": 2841,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi pololo llegó arriba de la pelota del asado y se quedó dormido en el sillón.",
+   "frase_neutralizada": "Mi novio llegó muy borracho de la parrillada y se quedó dormido en el sofá.",
+   "nota": "La frase original no tenía sentido; nueva situación de borrachera."
+  },
+  {
+   "id": 2842,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Vámonos, que el Diego ya está arriba de la pelota y anda buscando pelea con todos.",
+   "frase_neutralizada": "Vámonos, que Diego ya está muy borracho y anda buscando pelea con todos.",
+   "nota": "Se quitó 'panqueque', que no tenía sentido; 'ebrio' pasó a un registro más informal."
+  },
+  {
+   "id": 2843,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche quedé arriba de la pelota con tres piscolas no más, estoy puro viejo.",
+   "frase_neutralizada": "Anoche quedé muy borracho con solo tres tragos de pisco con cola, ya estoy viejo.",
+   "nota": "El camión no puede estar ebrio; el sentido estaba equivocado."
+  },
+  {
+   "id": 2844,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya estoy arriba de la pelota, cabros, ¿qué hacemos ahora?",
+   "frase_neutralizada": "Ya estoy muy borracho, chicos, ¿qué hacemos ahora?",
+   "nota": "Estaba casi bien; se agregó un toque coloquial y un registro neutral informal."
+  },
+  {
+   "id": 2845,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Cata es terrible asalta cuna, el pololo nuevo recién salió del colegio.",
+   "frase_neutralizada": "A Cata le encantan los hombres mucho más jóvenes; su nuevo novio acaba de terminar la escuela.",
+   "nota": "No contenía la expresión y no tenía sentido."
+  },
+  {
+   "id": 2846,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Amiga, no seai asalta cuna, ese cabro tiene como seis años menos que tú.",
+   "frase_neutralizada": "Amiga, no te metas con alguien tan joven, ese chico tiene como seis años menos que tú.",
+   "nota": "Faltaba la expresión; 'ponerte a chamarra' no existe."
+  },
+  {
+   "id": 2847,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Igual el Nico es medio asalta cuna, él tiene 19 y la polola tiene 16.",
+   "frase_neutralizada": "La verdad, a Nico le gustan más jóvenes: él tiene 19 años y su novia, 16.",
+   "nota": "Faltaba la expresión; diferencia de pocos años como dice la definición 2."
+  },
+  {
+   "id": 2848,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tía se puso a pololear con un cabro de 25 y toda la familia le dice asalta cuna.",
+   "frase_neutralizada": "Mi tía empezó a salir con un chico de 25 y toda la familia la molesta por meterse con alguien tan joven.",
+   "nota": "Faltaba la expresión y la frase era agramatical."
+  },
+  {
+   "id": 2849,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "El viejo asalta cuna del jefe anda con una mina de 22 y él tiene como 50.",
+   "frase_neutralizada": "Al viejo de mi jefe le gustan las jovencitas: sale con una chica de 22 y él tiene como 50.",
+   "nota": "Se mantuvo la gran diferencia de edad; 'inapropiada' alteraba el sentido."
+  },
+  {
+   "id": 2850,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me ascurrí tarde de que me estaban cobrando de más en el almacén.",
+   "frase_neutralizada": "Me di cuenta tarde de que me estaban cobrando de más en la tienda.",
+   "nota": "No contenía la expresión; se reescribió con el sentido de avisparse."
+  },
+  {
+   "id": 2851,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tenís que ascurrirte luego en la pega nueva o te van a pasar por encima.",
+   "frase_neutralizada": "Tienes que despabilarte pronto en el trabajo nuevo o te van a pasar por encima.",
+   "nota": "No contenía la expresión y tenía errores gramaticales."
+  },
+  {
+   "id": 2852,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Menos mal que me ascurrí a tiempo y no le presté la plata a ese gallo.",
+   "frase_neutralizada": "Menos mal que me di cuenta a tiempo y no le presté el dinero a ese tipo.",
+   "nota": "'Acurré' estaba mal escrito y el sentido era incorrecto."
+  },
+  {
+   "id": 2853,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El cabro chico se ascurrió altiro de que los regalos los traían los papás.",
+   "frase_neutralizada": "El niño se dio cuenta enseguida de que los regalos los traían los padres.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2854,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si no te ascurrís con los horarios de la micro, te vai a quedar abajo.",
+   "frase_neutralizada": "Si no te pones atento a los horarios del autobús, lo vas a perder.",
+   "nota": "No contenía la expresión; se cambió por una situación natural."
+  },
+  {
+   "id": 2855,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ascurrete, que hoy te voy a mostrar cómo se hace y no lo repito.",
+   "frase_neutralizada": "Ponte atento, que hoy te voy a mostrar cómo se hace y no lo repito.",
+   "nota": "La neutral usaba 'usted', distinto del 'tú' original."
+  },
+  {
+   "id": 2856,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ascurrete, weón, el guardia nos está mirando hace rato.",
+   "frase_neutralizada": "Ponte alerta, amigo, el guardia nos está mirando desde hace rato.",
+   "nota": "'No me rías' era agramatical y la frase no tenía sentido."
+  },
+  {
+   "id": 2857,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ascurrete con lo que estai haciendo, casi botai el café encima del computador.",
+   "frase_neutralizada": "Oye, ponte atento a lo que estás haciendo, casi tiras el café encima de la computadora.",
+   "nota": "La neutral usaba 'usted'; se le dio más contexto a la frase."
+  },
+  {
+   "id": 2858,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ascurrete en la carretera po, que andai manejando como dormido.",
+   "frase_neutralizada": "Ponte atento en la carretera, que vas manejando como dormido.",
+   "nota": "La frase sonaba artificial y la neutral usaba 'usted'."
+  },
+  {
+   "id": 2859,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ascurrete en la prueba, que el profe siempre pone preguntas con trampa.",
+   "frase_neutralizada": "Ponte atento en el examen, que el profesor siempre pone preguntas con trampa.",
+   "nota": "La frase era vaga; nueva situación concreta, ahora con 'tú'."
+  },
+  {
+   "id": 2860,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pégate la ascurría po, estai mirando el mapa al revés.",
+   "frase_neutralizada": "Date cuenta, estás mirando el mapa al revés.",
+   "nota": "Se usó como adjetivo; es sustantivo en la frase 'pegarse la ascurría'."
+  },
+  {
+   "id": 2861,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Me pegué la ascurría cuando ya le había echado azúcar en vez de sal a la receta.",
+   "frase_neutralizada": "Me di cuenta cuando ya le había puesto azúcar en vez de sal a la receta.",
+   "nota": "Se usó como adjetivo de 'receta'; el sentido era equivocado."
+  },
+  {
+   "id": 2862,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pégate la ascurría, la fiesta es el domingo, no el sábado.",
+   "frase_neutralizada": "Date cuenta, la fiesta es el domingo, no el sábado.",
+   "nota": "Estaba mal usada y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 2863,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se pegó la ascurría tarde y ya le había mandado el mensaje a la ex en vez de a la polola.",
+   "frase_neutralizada": "Se dio cuenta tarde y ya le había mandado el mensaje a su ex en vez de a su novia.",
+   "nota": "Se usaba como insulto; ahora tiene el sentido de darse cuenta del error."
+  },
+  {
+   "id": 2864,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Revisé todo dos veces pa no tener que pegarme la ascurría en plena presentación.",
+   "frase_neutralizada": "Revisé todo dos veces para no darme cuenta de un error en plena presentación.",
+   "nota": "'No ascurría' era agramatical; se usó la frase completa 'pegarse la ascurría'."
+  },
+  {
+   "id": 2865,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Benja es harto ascurrio, al tiro cachó que el vendedor lo quería cagar.",
+   "frase_neutralizada": "Benja es muy listo, enseguida se dio cuenta de que el vendedor lo quería estafar.",
+   "nota": "No contenía la expresión y no tenía sentido."
+  },
+  {
+   "id": 2866,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mejor pregúntale a alguien más ascurrio, yo no cacho nada de trámites.",
+   "frase_neutralizada": "Mejor pregúntale a alguien más listo, yo no entiendo nada de trámites.",
+   "nota": "Se corrigió la ortografía de la expresión y se dio contexto chileno."
+  },
+  {
+   "id": 2867,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hay que ser más ascurrio en la caja po, si no te pasan billetes falsos.",
+   "frase_neutralizada": "Hay que estar más atento en la caja, porque si no te pasan billetes falsos.",
+   "nota": "La neutral cambiaba 'caja' por 'trabajo'; se corrigió la ortografía."
+  },
+  {
+   "id": 2868,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano chico es súper ascurrio, aprendió a leer solo a los cuatro años.",
+   "frase_neutralizada": "Mi hermano menor es muy listo, aprendió a leer solo a los cuatro años.",
+   "nota": "El registro no era natural (fiscal); nueva situación coloquial."
+  },
+  {
+   "id": 2869,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese cabro es ascurrio, se consiguió pega antes de terminar la carrera.",
+   "frase_neutralizada": "Ese chico es muy listo, consiguió trabajo antes de terminar la carrera.",
+   "nota": "La frase era agramatical y no tenía sentido."
+  },
+  {
+   "id": 2870,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ascurrí que la reunión era hoy cuando ya iba saliendo de la casa.",
+   "frase_neutralizada": "Me di cuenta de que la reunión era hoy cuando ya iba saliendo de casa.",
+   "nota": "El sentido era incorrecto (recordar) y la frase era confusa."
+  },
+  {
+   "id": 2871,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Recién ascurrí que estabai en la casa, pensé que andabai en la pega.",
+   "frase_neutralizada": "Apenas ahora me di cuenta de que estabas en casa, pensé que estabas en el trabajo.",
+   "nota": "La neutral decía 'parece', que cambiaba el sentido de darse cuenta."
+  },
+  {
+   "id": 2872,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿No ascurriste que la vecina estaba durmiendo? Teníai que bajarle el volumen.",
+   "frase_neutralizada": "¿No te diste cuenta de que la vecina estaba durmiendo? Tenías que bajar el volumen.",
+   "nota": "La frase era incoherente y la neutral usaba 'pégate'."
+  },
+  {
+   "id": 2873,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Ascurre, que el jefe viene pa acá y tú estai pegado al celular.",
+   "frase_neutralizada": "Ponte alerta, que el jefe viene para acá y tú estás pegado al celular.",
+   "nota": "La frase era incoherente y 'ponme alerta' cambiaba la persona."
+  },
+  {
+   "id": 2874,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ascurre al cruzar, que hay un perro bravo suelto en la calle.",
+   "frase_neutralizada": "Ponte alerta al cruzar, que hay un perro agresivo suelto en la calle.",
+   "nota": "'Ponme alerta' cambiaba la persona; se le dio más contexto."
+  },
+  {
+   "id": 2875,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuidado con la Paty, anda aserruchándole el piso a la jefa desde que llegó.",
+   "frase_neutralizada": "Cuidado con Paty, anda haciendo de todo para quitarle el puesto a la jefa desde que llegó.",
+   "nota": "Era incoherente que el jefe se lo hiciera a otro jefe; la neutral era explicativa."
+  },
+  {
+   "id": 2876,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "A la directora ya le están aserruchando el piso, seguro la sacan antes de fin de año.",
+   "frase_neutralizada": "Ya están conspirando contra la directora para quitarle el puesto; seguro la sacan antes de fin de año.",
+   "nota": "Faltaba el 'le' de la expresión; la neutral mezclaba el género (director/directora)."
+  },
+  {
+   "id": 2877,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranquilo, jefe, yo soy el único aquí que no le va a aserruchar el piso.",
+   "frase_neutralizada": "Tranquilo, jefe, soy el único aquí que no va a intrigar para quitarle el puesto.",
+   "nota": "La concordancia era incorrecta ('soy el único que no voy') y faltaba a quién."
+  },
+  {
+   "id": 2878,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese gallo nuevo me está aserruchando el piso, anda contándole puras mentiras al gerente.",
+   "frase_neutralizada": "Ese tipo nuevo está intrigando para quitarme el puesto, anda contándole puras mentiras al gerente.",
+   "nota": "'Despierte' y 'desate' no tenían sentido."
+  },
+  {
+   "id": 2879,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy preocupado, creo que mi subjefe me está aserruchando el piso con el directorio.",
+   "frase_neutralizada": "Estoy preocupado, creo que mi subjefe está intrigando ante la junta directiva para quitarme el puesto.",
+   "nota": "El jefe no le quita el puesto al subordinado; la neutral era incoherente."
+  }
+ ]
+}

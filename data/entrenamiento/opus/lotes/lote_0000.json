@@ -1,0 +1,340 @@
+{
+ "lote": 0,
+ "claves": [
+  "cayo la teja",
+  "chacarero",
+  "chala",
+  "chaleco de mono",
+  "chamullar",
+  "chamullento",
+  "chamullero",
+  "chana"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2614185,
+ "duracion_s": 87.2,
+ "pares": [
+  {
+   "id": 0,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, necesito hablar contigo, recién me cayó la teja con lo de la plata.",
+   "frase_neutralizada": "Oye, necesito hablar contigo, acabo de darme cuenta de lo del dinero.",
+   "nota": "Corregido «con ti»; la neutral era vaga y antinatural."
+  },
+  {
+   "id": 1,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando vi que el profe no llegaba nunca, me cayó la teja de que era feriado.",
+   "frase_neutralizada": "Cuando vi que el profesor no llegaba nunca, me di cuenta de que era feriado.",
+   "nota": "Original incoherente; la neutral usaba «sorprenderse» en lugar de «darse cuenta»."
+  },
+  {
+   "id": 2,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le dije al Martín que la micro pasaba a las seis y media, y ahí me cayó la teja: era a las siete.",
+   "frase_neutralizada": "Le dije a Martín que el autobús pasaba a las seis y media, y ahí me di cuenta: era a las siete.",
+   "nota": "Cambiado «me sorprendí» por «me di cuenta»; añadidos micro y artículo chileno."
+  },
+  {
+   "id": 3,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Cuando vi el mensaje de la cita secreta, recién ahí me cayó la teja de que sus amigos le mentían.",
+   "frase_neutralizada": "Cuando vi el mensaje de la cita secreta, solo entonces me di cuenta de que sus amigos le mentían.",
+   "nota": "Quitada redundancia «me di cuenta»; la neutral inventaba información."
+  },
+  {
+   "id": 4,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ya había invitado a la Ana a comer cuando me cayó la teja: ese día era el cumpleaños de su pololo.",
+   "frase_neutralizada": "Ya había invitado a Ana a comer cuando por fin me di cuenta: ese día era el cumpleaños de su novio.",
+   "nota": "Quitada redundancia; la neutral cambiaba el significado."
+  },
+  {
+   "id": 5,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana me voy a comer un chacarero al almuerzo, ando con antojo.",
+   "frase_neutralizada": "Mañana voy a comer un sándwich de carne con frijoles verdes, tomate y ají en el almuerzo, tengo antojo.",
+   "nota": "«Sandwich tradicional» era vago; se describe el sándwich."
+  },
+  {
+   "id": 6,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El chacarero que me comí en la feria estaba la raja.",
+   "frase_neutralizada": "El sándwich de carne con frijoles verdes, tomate y ají que me comí en la feria estaba buenísimo.",
+   "nota": "Faltaba el verbo; neutral más precisa."
+  },
+  {
+   "id": 7,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tenís que probar el chacarero que hace mi abuela, es otro nivel.",
+   "frase_neutralizada": "Tienes que probar el sándwich de carne con frijoles verdes, tomate y ají que hace mi abuela, es de otro nivel.",
+   "nota": "Más natural; se describe el sándwich en la neutral."
+  },
+  {
+   "id": 8,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En la fonda vendían chacareros por todos lados y me comí dos al tiro.",
+   "frase_neutralizada": "En la feria de fiestas patrias vendían sándwiches de carne con frijoles verdes, tomate y ají por todas partes y me comí dos de inmediato.",
+   "nota": "Frase forzada; se puso en un contexto chileno natural."
+  },
+  {
+   "id": 9,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Lo que más me gusta del chacarero es el ají verde, aunque me deja la boca picando.",
+   "frase_neutralizada": "Lo que más me gusta del sándwich de carne con frijoles verdes y tomate es el ají verde, aunque me deja la boca picando.",
+   "nota": "La neutral cambiaba ají por ajo."
+  },
+  {
+   "id": 10,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Kevin es tan chala que nadie lo pesca en el curso.",
+   "frase_neutralizada": "Kevin es tan insulso y sin gracia que nadie le hace caso en la clase.",
+   "nota": "«Desagradable» no era el sentido; es alguien sin gracia."
+  },
+  {
+   "id": 11,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No invitís al Matías al carrete, es súper chala y nos va a bajonear.",
+   "frase_neutralizada": "No invites a Matías a la fiesta, es muy aburrido y sin gracia, y nos va a desanimar.",
+   "nota": "Original agramatical y con sentido equivocado."
+  },
+  {
+   "id": 12,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya po, no seai chala y vente a bailar con nosotros.",
+   "frase_neutralizada": "Vamos, no seas aburrido y ven a bailar con nosotros.",
+   "nota": "La neutral eliminaba el sentido de chala."
+  },
+  {
+   "id": 13,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me voy a poner las chalas, que hace un calor terrible.",
+   "frase_neutralizada": "Me voy a poner las sandalias, que hace un calor terrible.",
+   "nota": "«Poner para el verano» sonaba poco natural."
+  },
+  {
+   "id": 14,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Quiero comprarme unas chalas nuevas pa' ir a la playa.",
+   "frase_neutralizada": "Quiero comprarme unas sandalias nuevas para ir a la playa.",
+   "nota": "Más natural; situación distinta del par anterior."
+  },
+  {
+   "id": 15,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con esa talla lo dejaste como chaleco de mono delante de sus amigos.",
+   "frase_neutralizada": "Con esa broma lo humillaste delante de sus amigos.",
+   "nota": "Faltaba el verbo «dejar»; «vergonzante» estaba mal usado."
+  },
+  {
+   "id": 16,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La profe lo pilló copiando y lo dejó como chaleco de mono frente a todo el curso.",
+   "frase_neutralizada": "La profesora lo descubrió copiando y lo humilló frente a toda la clase.",
+   "nota": "Situación original incoherente."
+  },
+  {
+   "id": 17,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con esa comparación me dejaste como chaleco de mono delante de mis compañeros.",
+   "frase_neutralizada": "Con esa comparación me dejaste en ridículo delante de mis compañeros.",
+   "nota": "Más coloquial; neutral con «en ridículo»."
+  },
+  {
+   "id": 18,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cómo se te ocurre contar eso en la once? ¡Me dejaste como chaleco de mono!",
+   "frase_neutralizada": "¿Cómo se te ocurre contar eso en la merienda? ¡Me dejaste en ridículo!",
+   "nota": "«No me digas que no» no tenía sentido."
+  },
+  {
+   "id": 19,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El jefe me retó delante de todos y me dejó como chaleco de mono.",
+   "frase_neutralizada": "El jefe me regañó delante de todos y me humilló.",
+   "nota": "Uso reflexivo erróneo y neutral redundante."
+  },
+  {
+   "id": 20,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me chamulles, ¿quién te contó eso en verdad?",
+   "frase_neutralizada": "No me mientas, ¿quién te contó eso de verdad?",
+   "nota": "Corregida conjugación «no te chamulle»."
+  },
+  {
+   "id": 21,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Eso no es verdad, deja de chamullar, que te conozco.",
+   "frase_neutralizada": "Eso no es verdad, deja de mentir, que te conozco.",
+   "nota": "Muy parecido al ejemplo; se ajustó."
+  },
+  {
+   "id": 22,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me vengai a chamullar, si yo estaba ahí y vi todo.",
+   "frase_neutralizada": "No me vengas con mentiras, si yo estaba ahí y vi todo.",
+   "nota": "Corregido «chamulles conmigo» y la neutral agramatical."
+  },
+  {
+   "id": 23,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Felipe chamulló que estaba enfermo pa' no ir a la pega.",
+   "frase_neutralizada": "Felipe mintió diciendo que estaba enfermo para no ir al trabajo.",
+   "nota": "Original agramatical y sin sentido claro."
+  },
+  {
+   "id": 24,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No me chamulles, si te vi en el mall con otra mina.",
+   "frase_neutralizada": "No me mientas, si te vi en el centro comercial con otra chica.",
+   "nota": "Conjugación errónea y frase incoherente."
+  },
+  {
+   "id": 25,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erí más chamullenta, nunca sé cuándo me estai diciendo la verdad.",
+   "frase_neutralizada": "Eres muy mentirosa, nunca sé cuándo me estás diciendo la verdad.",
+   "nota": "Segunda parte no tenía relación; neutral tenía errores."
+  },
+  {
+   "id": 26,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La respuesta que entregó el Juan en la prueba era más chamullenta, el profe se dio cuenta al tiro.",
+   "frase_neutralizada": "La respuesta que entregó Juan en el examen estaba llena de relleno; el profesor se dio cuenta de inmediato.",
+   "nota": "No usaba el adjetivo; neutral agramatical «la había mentido»."
+  },
+  {
+   "id": 27,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le creai al vendedor, es más chamullento que político en campaña.",
+   "frase_neutralizada": "No le creas al vendedor, es más mentiroso que un político en campaña.",
+   "nota": "No usaba el adjetivo; neutral con «mentires» inexistente."
+  },
+  {
+   "id": 28,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tu primo es tan chamullento que ya nadie le cree cuando dice que se ganó algo.",
+   "frase_neutralizada": "Tu primo es tan mentiroso que ya nadie le cree cuando dice que se ganó algo.",
+   "nota": "El original no contenía la expresión."
+  },
+  {
+   "id": 29,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai chamullenta, esa historia no se la cree nadie.",
+   "frase_neutralizada": "No seas mentirosa, esa historia no se la cree nadie.",
+   "nota": "Neutral tenía «mentires», forma inexistente."
+  },
+  {
+   "id": 30,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le hagai caso a ese chamullero, siempre anda contando cuentos.",
+   "frase_neutralizada": "No le hagas caso a ese mentiroso, siempre anda contando cuentos.",
+   "nota": "Neutral «es todo inventado» era forzada."
+  },
+  {
+   "id": 31,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Tu hermana campeona nacional de kitesurf? Erí más chamullero.",
+   "frase_neutralizada": "¿Tu hermana, campeona nacional de kitesurf? Eres muy mentiroso.",
+   "nota": "Usaba «chamullo» en vez de «chamullero»."
+  },
+  {
+   "id": 32,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío es tan chamullero que dice que conoció a Maradona en un asado.",
+   "frase_neutralizada": "Mi tío es tan mentiroso que dice que conoció a Maradona en una parrillada.",
+   "nota": "Usaba «chamullo» y la situación no tenía sentido."
+  },
+  {
+   "id": 33,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese compadre es medio chamullero, dice que te consigue pega en Australia así no más.",
+   "frase_neutralizada": "Ese tipo es medio mentiroso, dice que te consigue trabajo en Australia así de fácil.",
+   "nota": "El original no contenía la expresión."
+  },
+  {
+   "id": 34,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La nueva de la oficina es harto chamullera, ya nos ha contado como tres versiones distintas.",
+   "frase_neutralizada": "La nueva de la oficina es bastante mentirosa, ya nos ha contado como tres versiones distintas.",
+   "nota": "Usaba «chamullo» y no tenía sentido."
+  },
+  {
+   "id": 35,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La mina del lado se puso a gritar garabatos en la micro, terrible chana.",
+   "frase_neutralizada": "La mujer de al lado se puso a gritar groserías en el autobús, qué vulgar.",
+   "nota": "«Flamenca» no tenía sentido; neutral explicaba la definición."
+  },
+  {
+   "id": 36,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa chana se puso a pelear con la cajera por puro gusto, qué vergüenza.",
+   "frase_neutralizada": "Esa mujer vulgar se puso a pelear con la cajera porque sí, qué vergüenza.",
+   "nota": "La neutral perdía el matiz despectivo."
+  },
+  {
+   "id": 37,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La polola de mi hermano es más chana, no sabe ni comer con cubiertos.",
+   "frase_neutralizada": "La novia de mi hermano es muy ordinaria, ni siquiera sabe comer con cubiertos.",
+   "nota": "La neutral perdía el sentido despectivo."
+  },
+  {
+   "id": 38,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Me teñí el pelo y mi mamá dice que parezco chana.",
+   "frase_neutralizada": "Me teñí el pelo y mi mamá dice que parezco una ordinaria.",
+   "nota": "Frase poco natural; neutral sin el sentido despectivo."
+  },
+  {
+   "id": 39,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Llegó con calzas fucsia, polera verde y zapatillas amarillas, más chana no podía ser.",
+   "frase_neutralizada": "Llegó con mallas fucsia, camiseta verde y zapatillas amarillas; no podía verse más vulgar.",
+   "nota": "Frase chilena incoherente; ahora se ilustra la mala combinación de ropa."
+  }
+ ]
+}

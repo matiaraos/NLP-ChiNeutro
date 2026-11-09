@@ -1,0 +1,340 @@
+{
+ "lote": 15,
+ "claves": [
+  "detonao",
+  "dicom",
+  "echar la corta",
+  "echar la foca",
+  "echar la talla",
+  "echarse la yegua",
+  "echar la yegua",
+  "ecolecua"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2517678,
+ "duracion_s": 87.6,
+ "pares": [
+  {
+   "id": 600,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Este loco anda detonao, no ha parado de hablar en toda la tarde, se tomó como cinco cafés.",
+   "frase_neutralizada": "Este tipo está acelerado, no ha parado de hablar en toda la tarde, se tomó como cinco cafés.",
+   "nota": "\"Está en detonao\" era agramatical; se hizo una frase natural con sentido de exaltado."
+  },
+  {
+   "id": 601,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El cabro chico está detonao, salta por todos lados y no se queda quieto ni un segundo.",
+   "frase_neutralizada": "El niño está hiperactivo, salta por todos lados y no se queda quieto ni un segundo.",
+   "nota": "Sintaxis forzada; se naturalizó con sentido de hiperactivo."
+  },
+  {
+   "id": 602,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Anoche andaba detonao, le hablé a todas las minas de la disco sin ninguna vergüenza.",
+   "frase_neutralizada": "Anoche andaba desinhibido, les hablé a todas las chicas de la discoteca sin ninguna vergüenza.",
+   "nota": "Usaba detonao como 'rápidamente', sentido inexistente."
+  },
+  {
+   "id": 603,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "No te metai con el Kevin, es detonao, al toque se agarra a combos con cualquiera.",
+   "frase_neutralizada": "No te metas con Kevin, es muy agresivo; enseguida se pelea a puñetazos con cualquiera.",
+   "nota": "Sentido equivocado ('rápidamente'); ahora ilustra agresivo y arriesgado."
+  },
+  {
+   "id": 604,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "Mi viejo anda detonao porque le chocaron el auto, mejor ni le hablís.",
+   "frase_neutralizada": "Mi papá anda furioso porque le chocaron el auto, mejor ni le hables.",
+   "nota": "Frase incoherente (\"hazaquez\"); nueva frase con sentido de muy molesto."
+  },
+  {
+   "id": 605,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano está en Dicom por una deuda de la tarjeta y ahora no le aprueban ni un crédito.",
+   "frase_neutralizada": "Mi hermano está en el registro de deudores morosos por una deuda de la tarjeta y ahora no le aprueban ningún crédito.",
+   "nota": "\"Chilote\" y \"quedarse en dicom\" sin sentido; nueva situación."
+  },
+  {
+   "id": 606,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ojo con tanta compra en cuotas, que si no pagai vai a quedar en Dicom.",
+   "frase_neutralizada": "Cuidado con tantas compras a plazos, que si no pagas vas a quedar en el registro de deudores morosos.",
+   "nota": "Se naturalizó la frase y se ajustó el verbo (quedar en Dicom)."
+  },
+  {
+   "id": 607,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Por fin pagué todo lo que debía y me sacaron de Dicom, ahora sí me pueden dar un crédito.",
+   "frase_neutralizada": "Por fin pagué todo lo que debía y me sacaron del registro de deudores morosos; ahora sí me pueden dar un crédito.",
+   "nota": "Perderse en el camino no tenía relación con Dicom."
+  },
+  {
+   "id": 608,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Antes de arrendarle el depa, revisa si el tipo está en Dicom.",
+   "frase_neutralizada": "Antes de alquilarle el departamento, revisa si esa persona está en el registro de deudores morosos.",
+   "nota": "Frase poco natural; nueva situación de uso real."
+  },
+  {
+   "id": 609,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pucha, no me dieron la pega porque salí en Dicom por una cuenta de luz impaga.",
+   "frase_neutralizada": "Vaya, no me dieron el trabajo porque aparecí en el registro de deudores morosos por una factura de luz sin pagar.",
+   "nota": "Emborracharse no tenía relación con Dicom."
+  },
+  {
+   "id": 610,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Para el auto en la bencinera, que necesito echar la corta urgente.",
+   "frase_neutralizada": "Detén el auto en la gasolinera, que necesito orinar urgentemente.",
+   "nota": "No contenía la expresión; \"cipote\" no corresponde."
+  },
+  {
+   "id": 611,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Espérenme en la entrada del cine, que voy a echar la corta antes de que empiece la película.",
+   "frase_neutralizada": "Espérenme en la entrada del cine, que voy a orinar antes de que empiece la película.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 612,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En el carrete los cabros salían al patio a echar la corta porque el baño estaba ocupado.",
+   "frase_neutralizada": "En la fiesta los chicos salían al patio a orinar porque el baño estaba ocupado.",
+   "nota": "Frase incoherente sobre jugar; nueva situación."
+  },
+  {
+   "id": 613,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tomé tres cervezas y ya tengo que echar la corta de nuevo, qué lata.",
+   "frase_neutralizada": "Me tomé tres cervezas y ya tengo que orinar otra vez, qué fastidio.",
+   "nota": "Frase artificial; defs 1-3 son el mismo sentido, se unificó."
+  },
+  {
+   "id": 614,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Antes de salir anda a echar la corta, que no vamos a parar hasta Rancagua.",
+   "frase_neutralizada": "Antes de salir ve a orinar, que no vamos a parar hasta Rancagua.",
+   "nota": "El \"usted\" formal no era natural; se usó un contexto coloquial."
+  },
+  {
+   "id": 615,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La jefa me echó la foca por llegar tarde otra vez.",
+   "frase_neutralizada": "La jefa me regañó por llegar tarde otra vez.",
+   "nota": "No contenía la expresión y tenía errores gramaticales."
+  },
+  {
+   "id": 616,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, no me echís la foca a mí, que yo no rompí la tele.",
+   "frase_neutralizada": "Oye, no me grites a mí, que yo no rompí la televisión.",
+   "nota": "Frase forzada y \"tío\" peninsular; se naturalizó."
+  },
+  {
+   "id": 617,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El conductor de la micro le echó la foca a un caballero que no quería pagar el pasaje.",
+   "frase_neutralizada": "El conductor del autobús le gritó furioso a un señor que no quería pagar el pasaje.",
+   "nota": "Frase incoherente y neutral con otro significado."
+  },
+  {
+   "id": 618,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si mi mamá ve las notas, me va a echar la foca toda la tarde.",
+   "frase_neutralizada": "Si mi mamá ve las calificaciones, me va a regañar toda la tarde.",
+   "nota": "Usaba la expresión como bromear; sentido equivocado."
+  },
+  {
+   "id": 619,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Perdona por echarte la foca ayer, andaba con mil cosas en la cabeza.",
+   "frase_neutralizada": "Perdona por haberte gritado enojado ayer, tenía mil cosas en la cabeza.",
+   "nota": "Uso reflexivo incorrecto y neutral incoherente; se corrigió."
+  },
+  {
+   "id": 620,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El viernes nos juntamos donde el Pancho a echar la talla un rato, ¿te venís?",
+   "frase_neutralizada": "El viernes nos reunimos en casa de Pancho a pasar un buen rato, ¿vienes?",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 621,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No hay mejor lugar para echar la talla con los amigos que la playa en verano.",
+   "frase_neutralizada": "No hay mejor lugar para pasar un buen rato con los amigos que la playa en verano.",
+   "nota": "Se agregó contexto para hacerla más natural."
+  },
+  {
+   "id": 622,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El profe es buena onda, siempre echa la talla antes de empezar la clase.",
+   "frase_neutralizada": "El profesor es agradable, siempre hace bromas antes de empezar la clase.",
+   "nota": "Uso confuso y neutral que cambiaba la persona y el significado."
+  },
+  {
+   "id": 623,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En el cumpleaños del tata estuvimos toda la noche echando la talla con los primos.",
+   "frase_neutralizada": "En el cumpleaños del abuelo estuvimos toda la noche bromeando con los primos.",
+   "nota": "Neutral imprecisa; se usa 'bromeando' y se cambió la situación."
+  },
+  {
+   "id": 624,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Tranquila, no te enojís, si solo estaba echando la talla.",
+   "frase_neutralizada": "Tranquila, no te enojes, solo estaba bromeando.",
+   "nota": "Frase artificial con un juego inventado; nuevo contexto de broma."
+  },
+  {
+   "id": 625,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegué del trabajo y se me echó la yegua, hoy no voy a cocinar nada.",
+   "frase_neutralizada": "Llegué del trabajo y me quedé sin energía, hoy no voy a cocinar nada.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 626,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después de la mudanza se me echó la yegua y me quedé tirado en el sillón.",
+   "frase_neutralizada": "Después de la mudanza quedé agotado y me quedé tumbado en el sillón.",
+   "nota": "\"Estoy echada la yegua\" era agramatical; se usa \"se me echó\"."
+  },
+  {
+   "id": 627,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Íbamos a subir el cerro, pero a la Cami se le echó la yegua y nos devolvimos.",
+   "frase_neutralizada": "Íbamos a subir el cerro, pero Cami se quedó sin fuerzas y regresamos.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 628,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Siempre que viajo tantas horas en bus, al llegar se me echa la yegua.",
+   "frase_neutralizada": "Siempre que viajo tantas horas en autobús, al llegar me quedo sin energía.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 629,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Bailé todo el concierto y después se me echó la yegua, así que no fui al carrete.",
+   "frase_neutralizada": "Bailé todo el concierto y después quedé agotado, así que no fui a la fiesta.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 630,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tenía que estudiar pa la prueba, pero se me echó la yegua y lo dejé pa mañana.",
+   "frase_neutralizada": "Tenía que estudiar para el examen, pero me dio pereza y lo dejé para mañana.",
+   "nota": "Usaba la expresión como 'dejar a alguien esperando'; sentido erróneo."
+  },
+  {
+   "id": 631,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llevo toda la tarde echando la yegua en vez de lavar la loza.",
+   "frase_neutralizada": "Llevo toda la tarde holgazaneando en vez de lavar los platos.",
+   "nota": "Sentido equivocado y tiempos verbales inconsistentes en la neutral."
+  },
+  {
+   "id": 632,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No echís la yegua con el informe, que el jefe lo quiere a las ocho.",
+   "frase_neutralizada": "No dejes el informe para después por pereza, que el jefe lo quiere a las ocho.",
+   "nota": "Frase incoherente y neutral agramatical."
+  },
+  {
+   "id": 633,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se me echó la yegua con la tarea y al final la hice a última hora.",
+   "frase_neutralizada": "Me dio pereza hacer la tarea y al final la hice a última hora.",
+   "nota": "Se mantuvo la tarea, corrigiendo el sentido a flojera."
+  },
+  {
+   "id": 634,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano siempre echa la yegua cuando le toca sacar la basura.",
+   "frase_neutralizada": "Mi hermano siempre lo deja para después por pereza cuando le toca sacar la basura.",
+   "nota": "Frase sin sentido (\"ya te comí\")."
+  },
+  {
+   "id": 635,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—¿Entonces el cumpleaños es el sábado en la casa de tu tía? —Ecolecua, a las ocho.",
+   "frase_neutralizada": "—¿Entonces el cumpleaños es el sábado en la casa de tu tía? —Exacto, a las ocho.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 636,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "—¿Y si pedimos unas pizzas pa ver el partido? —¡Ecolecua, yo pongo las bebidas!",
+   "frase_neutralizada": "—¿Y si pedimos unas pizzas para ver el partido? —¡Perfecto, yo pongo los refrescos!",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 637,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—O sea que el profe se equivocó al sumar el puntaje. —Ecolecua, así que me tiene que subir la nota.",
+   "frase_neutralizada": "—O sea que el profesor se equivocó al sumar los puntos. —Exacto, así que me tiene que subir la nota.",
+   "nota": "No contenía la expresión; def 3 se unificó con la 1."
+  },
+  {
+   "id": 638,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "—¿Nos vamos a la playa el fin de semana largo? —Ecolecua, yo llevo el auto.",
+   "frase_neutralizada": "—¿Nos vamos a la playa el fin de semana largo? —De acuerdo, yo llevo el auto.",
+   "nota": "No contenía la expresión; neutral \"en lo adecuado\" era incorrecta."
+  },
+  {
+   "id": 639,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ecolecua, eso mismo le dije yo al Pedro: había que ordenar la biblioteca antes de la visita.",
+   "frase_neutralizada": "Exacto, eso mismo le dije yo a Pedro: había que ordenar la biblioteca antes de la visita.",
+   "nota": "Expresión mal ubicada al final; se usa para dar la razón."
+  }
+ ]
+}

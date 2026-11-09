@@ -1,0 +1,340 @@
+{
+ "lote": 89,
+ "claves": [
+  "hacer gancho",
+  "hacer la choca",
+  "hacer la cimarra",
+  "hacer la zimarra",
+  "hacer la cruz",
+  "hacer la l",
+  "hacer pebre",
+  "hacer un queque"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2438012,
+ "duracion_s": 83.4,
+ "pares": [
+  {
+   "id": 3560,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Necesito que me hagai gancho con el cabro ese del fútbol, po.",
+   "frase_neutralizada": "Necesito que me presentes al chico ese del fútbol.",
+   "nota": "Se cambió 'introduzcas' (anglicismo) por 'presentes' y se agregó el registro chileno."
+  },
+  {
+   "id": 3561,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No se te olvide hacerme gancho con la prima de tu polola.",
+   "frase_neutralizada": "No se te olvide presentarme a la prima de tu novia.",
+   "nota": "Gramática corregida; se cambió la persona para dar sentido romántico."
+  },
+  {
+   "id": 3562,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si querís, te hago gancho con mi hermano mayor, que está soltero.",
+   "frase_neutralizada": "Si quieres, te presento a mi hermano mayor, que está soltero.",
+   "nota": "Se cambió 'introduzco' por 'presento' y se agregó contexto."
+  },
+  {
+   "id": 3563,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si me hacís gancho con tu compañera de pega, te cuento todo el cahuín.",
+   "frase_neutralizada": "Si me presentas a tu compañera de trabajo, te cuento todo el chisme.",
+   "nota": "La neutral cambiaba 'tu profesor' por 'mi profesor'; se corrigió la coherencia."
+  },
+  {
+   "id": 3564,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Cata me hizo gancho con el Diego en el carrete y ahora estamos pololeando.",
+   "frase_neutralizada": "Cata me presentó a Diego en la fiesta y ahora somos novios.",
+   "nota": "Repetía la situación del par 3562; ahora es una situación nueva en pasado."
+  },
+  {
+   "id": 3565,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tengo un hambre terrible, ¿hacemos la choca antes de salir a trabajar?",
+   "frase_neutralizada": "Tengo mucha hambre, ¿preparamos el desayuno antes de salir a trabajar?",
+   "nota": "No usaba la expresión completa 'hacer la choca'."
+  },
+  {
+   "id": 3566,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mijo, ayúdele a su papá a hacer la choca pa' todos, que ya se levantó la familia.",
+   "frase_neutralizada": "Hijo, ayude a su papá a preparar el desayuno para todos, que ya se levantó la familia.",
+   "nota": "Se corrigió la gramática y se eliminó el 'el padre' poco natural."
+  },
+  {
+   "id": 3567,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando terminemos de hacer la choca, nos vamos pa' la playa.",
+   "frase_neutralizada": "Cuando terminemos de preparar el desayuno, nos vamos a la playa.",
+   "nota": "No incluía la expresión completa; se corrigió el modo verbal."
+  },
+  {
+   "id": 3568,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi abuelo contaba que en el liceo hacían la choca pa' irse a bañar al río.",
+   "frase_neutralizada": "Mi abuelo contaba que en la escuela faltaban a clases para irse a bañar al río.",
+   "nota": "La neutral decía 'hacer el almuerzo', un sentido equivocado."
+  },
+  {
+   "id": 3569,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Con tu tío hacíamos la choca y nos arrancábamos al cine del centro.",
+   "frase_neutralizada": "Con tu tío faltábamos a clases y nos escapábamos al cine del centro.",
+   "nota": "La frase era incoherente y la neutral confundía los sentidos."
+  },
+  {
+   "id": 3570,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana hago la cimarra y me quedo en la casa durmiendo todo el día.",
+   "frase_neutralizada": "Mañana falto a clases y me quedo en casa durmiendo todo el día.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3571,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, hagamos la cimarra, la profe de mate ni pasa lista.",
+   "frase_neutralizada": "Oye, faltemos a clases, la profesora de matemáticas ni siquiera pasa lista.",
+   "nota": "Lo de 'eres un poco torpe' no tenía sentido."
+  },
+  {
+   "id": 3572,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los cabros están haciendo la cimarra en la plaza con unas chelas.",
+   "frase_neutralizada": "Los chicos están faltando a clases en la plaza con unas cervezas.",
+   "nota": "Se agregó contexto de carrete y registro chileno."
+  },
+  {
+   "id": 3573,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me pillaron haciendo la cimarra y citaron a mi mamá al colegio.",
+   "frase_neutralizada": "Me descubrieron faltando a clases y citaron a mi mamá a la escuela.",
+   "nota": "'Siempre hagamos' era agramatical."
+  },
+  {
+   "id": 3574,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué onda, cabros? ¿Hacemos la cimarra y nos vamos a la playa?",
+   "frase_neutralizada": "¿Qué tal, chicos? ¿Faltamos a clases y nos vamos a la playa?",
+   "nota": "'Para hagamos' era agramatical."
+  },
+  {
+   "id": 3575,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿y vo' dónde andai? ¿Hiciste la zimarra después del almuerzo?",
+   "frase_neutralizada": "Oye, ¿y tú dónde estás? ¿Te escapaste de clases después del almuerzo?",
+   "nota": "Se corrigió la puntuación y se ajustó al sentido de escaparse."
+  },
+  {
+   "id": 3576,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hagamos la zimarra después del recreo, que la última hora es puro relleno.",
+   "frase_neutralizada": "Escapémonos de clases después del recreo, que la última hora no sirve para nada.",
+   "nota": "'No me faltes la zimarra' no tenía sentido."
+  },
+  {
+   "id": 3577,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No te preocupí, yo también he hecho la zimarra un par de veces.",
+   "frase_neutralizada": "No te preocupes, yo también he faltado a clases un par de veces.",
+   "nota": "La frase era incoherente; se simplificó y se corrigió."
+  },
+  {
+   "id": 3578,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No quiero ir al liceo hoy, hagamos la zimarra y vamos al parque.",
+   "frase_neutralizada": "No quiero ir a la escuela hoy, faltemos a clases y vamos al parque.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3579,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Hicimos la zimarra y nos quedamos jugando a la pelota en el patio toda la clase de historia.",
+   "frase_neutralizada": "No entramos a clase y nos quedamos jugando fútbol en el patio durante toda la clase de historia.",
+   "nota": "No contenía la expresión; ahora ilustra el sentido de quedarse en el patio."
+  },
+  {
+   "id": 3580,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al Rodrigo le hicimos la cruz, así que no lo invití al carrete.",
+   "frase_neutralizada": "A Rodrigo lo excluimos del grupo, así que no lo invites a la fiesta.",
+   "nota": "No contenía la expresión y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 3581,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde que se peleó con la Vale, todo el curso le hizo la cruz en el reencuentro.",
+   "frase_neutralizada": "Desde que se peleó con Vale, todos sus excompañeros lo ignoraron en el reencuentro.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3582,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Siento que en la pega me hicieron la cruz, ya nadie me invita a almorzar.",
+   "frase_neutralizada": "Siento que en el trabajo me excluyeron, ya nadie me invita a almorzar.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3583,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No la invitaron a la cena porque la familia le hizo la cruz después del cahuín.",
+   "frase_neutralizada": "No la invitaron a la cena porque la familia la excluyó después del chisme.",
+   "nota": "Se agregó la expresión, que faltaba; se corrigió el leísmo."
+  },
+  {
+   "id": 3584,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le hicieron la cruz en el grupo de WhatsApp por andar contando cosas de todos.",
+   "frase_neutralizada": "Lo ignoraron por completo en el grupo de WhatsApp por andar contando cosas de todos.",
+   "nota": "No contenía la expresión y la neutral cambiaba la persona."
+  },
+  {
+   "id": 3585,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Javier dijo que venía al carrete y nos hizo la L, ni contesta el celular.",
+   "frase_neutralizada": "Javier dijo que venía a la fiesta y nos dejó plantados, ni siquiera contesta el celular.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 3586,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Le pregunté al profe por la nota y me hizo la L, siguió conversando con otro.",
+   "frase_neutralizada": "Le pregunté al profesor por la calificación y me ignoró, siguió conversando con otro.",
+   "nota": "No contenía la expresión; ahora ilustra el sentido de ignorar."
+  },
+  {
+   "id": 3587,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Me topé con la Fran en el mall y me hizo la media L delante de su pololo.",
+   "frase_neutralizada": "Me encontré con Fran en el centro comercial y fingió no conocerme delante de su novio.",
+   "nota": "No contenía la expresión ni ilustraba el sentido de negar la relación."
+  },
+  {
+   "id": 3588,
+   "accion": "reescrito",
+   "def": 4,
+   "frase_chilena": "Fuimos juntos a la fiesta y el Matías me hizo la tremenda L, me quedé sola con puros desconocidos.",
+   "frase_neutralizada": "Fuimos juntos a la fiesta y Matías me abandonó, me quedé sola rodeada de desconocidos.",
+   "nota": "Era incoherente y no contenía la expresión."
+  },
+  {
+   "id": 3589,
+   "accion": "reescrito",
+   "def": 5,
+   "frase_chilena": "Cada vez que hay que pagar la cuenta, el Seba hace la L y se va al baño.",
+   "frase_neutralizada": "Cada vez que hay que pagar la cuenta, Seba se escabulle y se va al baño.",
+   "nota": "La neutral inventaba 'dejó en la discoteca'; ahora ilustra el sentido de evadir."
+  },
+  {
+   "id": 3590,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Colo-Colo hizo pebre a la U, les metimos cinco goles.",
+   "frase_neutralizada": "Colo-Colo destrozó a la U, les metimos cinco goles.",
+   "nota": "'Es un pebre' no es la expresión."
+  },
+  {
+   "id": 3591,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se me cayó el celular a la calle y una micro lo hizo pebre.",
+   "frase_neutralizada": "Se me cayó el celular a la calle y un autobús lo destrozó.",
+   "nota": "El sentido estaba equivocado y la neutral tenía una errata."
+  },
+  {
+   "id": 3592,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La prueba de cálculo me hizo pebre, no me salió ni un ejercicio.",
+   "frase_neutralizada": "El examen de cálculo me destrozó, no me salió ni un ejercicio.",
+   "nota": "'Es un pebre' estaba usado con un sentido inventado."
+  },
+  {
+   "id": 3593,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si te vuelvo a ver molestando a mi hermana, te hago pebre, ¿cachai?",
+   "frase_neutralizada": "Si te vuelvo a ver molestando a mi hermana, te destrozo a golpes, ¿entiendes?",
+   "nota": "La neutral suavizaba el sentido a 'enfrentar'."
+  },
+  {
+   "id": 3594,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Volví del trekking con las piernas hechas pebre, no me puedo ni parar.",
+   "frase_neutralizada": "Volví de la caminata con las piernas destrozadas, ni siquiera me puedo levantar.",
+   "nota": "Usaba un sentido equivocado y la neutral cambiaba la persona."
+  },
+  {
+   "id": 3595,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con -101 votos; no es un uso real en Chile."
+  },
+  {
+   "id": 3596,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con -101 votos; no es un uso real en Chile."
+  },
+  {
+   "id": 3597,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con -101 votos; no es un uso real en Chile."
+  },
+  {
+   "id": 3598,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con -101 votos; no es un uso real en Chile."
+  },
+  {
+   "id": 3599,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con -101 votos; no es un uso real en Chile."
+  }
+ ]
+}

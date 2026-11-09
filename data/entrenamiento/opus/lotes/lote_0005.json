@@ -1,0 +1,340 @@
+{
+ "lote": 5,
+ "claves": [
+  "chupa pico",
+  "chupalla",
+  "chupamedias",
+  "chupamedias chupapico",
+  "chupar poto",
+  "churro",
+  "chuta",
+  "cimarra"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23375920000000003,
+ "duracion_s": 101.9,
+ "pares": [
+  {
+   "id": 200,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi compañero de pega es un chupa pico, le lleva cafecito al jefe todas las mañanas.",
+   "frase_neutralizada": "Mi compañero de trabajo es un lameculos, le lleva un cafecito al jefe todas las mañanas.",
+   "nota": "Neutral perdía el tono despectivo y grosero; se añadió contexto."
+  },
+  {
+   "id": 201,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai chupa pico, si el jefe ni te va a subir el sueldo por eso.",
+   "frase_neutralizada": "No seas lameculos, si el jefe ni siquiera te va a subir el sueldo por eso.",
+   "nota": "Neutral agramatical ('lamea la botella'); copiaba casi el ejemplo."
+  },
+  {
+   "id": 202,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Javiera se puso chupa pico con la profe pa' que le suba la nota del informe.",
+   "frase_neutralizada": "Javiera se volvió una lameculos con la profesora para que le suba la nota del informe.",
+   "nota": "No contenía la expresión; defs 1 y 2 son el mismo sentido."
+  },
+  {
+   "id": 203,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese cabro se hizo el chupa pico del entrenador y ahora es titular en todos los partidos.",
+   "frase_neutralizada": "Ese chico se volvió el lameculos del entrenador y ahora es titular en todos los partidos.",
+   "nota": "Copiaba el ejemplo; la neutral cambiaba el sentido ('actuar correctamente')."
+  },
+  {
+   "id": 204,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El vecino es re chupa pico con el presidente de la junta de vecinos, siempre le da la razón.",
+   "frase_neutralizada": "El vecino es muy lameculos con el presidente de la junta de vecinos, siempre le da la razón.",
+   "nota": "Neutral suavizaba el sentido despectivo; se dio contexto natural."
+  },
+  {
+   "id": 205,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La chupalla que me compré en la feria no es muy grande, pero me queda bien.",
+   "frase_neutralizada": "El sombrero de paja que compré en la feria no es muy grande, pero me queda bien.",
+   "nota": "Error de concordancia ('La sombrero')."
+  },
+  {
+   "id": 206,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, hay que comprar una chupalla nueva pa' ir al campo, la otra está rota.",
+   "frase_neutralizada": "Oye, hay que comprar un sombrero de paja nuevo para ir al campo, el otro está roto.",
+   "nota": "Frase poco natural; se agregó registro coloquial."
+  },
+  {
+   "id": 207,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pa' las fiestas patrias me voy a poner la chupalla y la manta de huaso.",
+   "frase_neutralizada": "Para las fiestas patrias me voy a poner el sombrero de paja y el poncho de campesino.",
+   "nota": "Situación absurda; nueva frase con uso típico."
+  },
+  {
+   "id": 208,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Las chupallas son súper cómodas pa' trabajar en el campo con este calor.",
+   "frase_neutralizada": "Los sombreros de paja son muy cómodos para trabajar en el campo con este calor.",
+   "nota": "Se hizo más coloquial y natural."
+  },
+  {
+   "id": 209,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿A quién le pasaste la chupalla antigua de mi abuelo? No la encuentro por ningún lado.",
+   "frase_neutralizada": "¿A quién le prestaste el sombrero de paja antiguo de mi abuelo? No lo encuentro por ningún lado.",
+   "nota": "Concordancia errónea en neutral ('esa sombrero'); frase poco natural."
+  },
+  {
+   "id": 210,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Alejandra es terrible chupamedias con su jefe, le encuentra todo bueno.",
+   "frase_neutralizada": "Alejandra es muy lamebotas con su jefe, todo le parece bien.",
+   "nota": "Neutral omitía el sentido de adulación."
+  },
+  {
+   "id": 211,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No hay que ser chupamedias con la jefa, es mejor decirle las cosas como son.",
+   "frase_neutralizada": "No hay que ser lamebotas con la jefa, es mejor decirle las cosas como son.",
+   "nota": "Neutral no reflejaba la adulación; se naturalizó la frase."
+  },
+  {
+   "id": 212,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Carlos es harto chupamedias, pero cuando el jefe no está habla mal de él.",
+   "frase_neutralizada": "Carlos es muy lamebotas, pero cuando el jefe no está habla mal de él.",
+   "nota": "Neutral perdía el sentido; frase original poco natural."
+  },
+  {
+   "id": 213,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai chupamedias con el profe, si igual te va a poner la nota que mereces.",
+   "frase_neutralizada": "No seas lamebotas con el profesor, de todos modos te va a poner la nota que mereces.",
+   "nota": "Errores gramaticales ('No es', 'aplícalo el criterio'); sentido cambiado."
+  },
+  {
+   "id": 214,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Pedro es puro chupamedias con el gerente, pero pa' la pega no tiene ningún talento.",
+   "frase_neutralizada": "Pedro es un lamebotas con el gerente, pero para el trabajo no tiene ningún talento.",
+   "nota": "Neutral no expresaba adulación; se añadió registro chileno."
+  },
+  {
+   "id": 215,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Rodrigo es el típico chupapico que se queda hasta tarde solo pa' que lo vea el jefe.",
+   "frase_neutralizada": "Rodrigo es el típico lameculos que se queda hasta tarde solo para que lo vea el jefe.",
+   "nota": "Usaba la expresión como vocativo sin sentido."
+  },
+  {
+   "id": 216,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La secretaria nueva es media chupamedias, le celebra todas las ideas al gerente.",
+   "frase_neutralizada": "La nueva secretaria es medio lamebotas, le celebra todas las ideas al gerente.",
+   "nota": "Vocativo sin sentido; neutral cambiaba número y significado."
+  },
+  {
+   "id": 217,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese weón chupapico le carga la mochila al profe pa' que lo apruebe.",
+   "frase_neutralizada": "Ese idiota lameculos le carga la mochila al profesor para que lo apruebe.",
+   "nota": "Vocativo sin sentido; neutral cambiaba número."
+  },
+  {
+   "id": 218,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Puta que erí chupapico, le encontraste genial la presentación a la jefa y estaba malísima.",
+   "frase_neutralizada": "Puta, qué lameculos eres, te pareció genial la presentación de la jefa y estaba malísima.",
+   "nota": "Vocativo sin sentido; neutral cambiaba persona y número."
+  },
+  {
+   "id": 219,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No me gusta andar de chupamedias, pero necesito que el jefe me dé las vacaciones en febrero.",
+   "frase_neutralizada": "No me gusta andar de lamebotas, pero necesito que el jefe me dé las vacaciones en febrero.",
+   "nota": "Vocativo sin sentido; neutral omitía la expresión."
+  },
+  {
+   "id": 220,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi polola me pidió que le chupara el poto y yo quedé helado, no sabía qué hacer.",
+   "frase_neutralizada": "Mi novia me pidió que le chupara el culo y me quedé paralizado, no sabía qué hacer.",
+   "nota": "Neutral cambiaba el sentido a 'limpiar'; 'novia' no es chilenismo coloquial."
+  },
+  {
+   "id": 221,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi pololo dice que le encanta que le chupen el poto, pero a mí me da cosa.",
+   "frase_neutralizada": "Mi novio dice que le encanta que le chupen el culo, pero a mí me da un poco de asco.",
+   "nota": "Contexto incestuoso e incoherente; neutral cambiaba sentido."
+  },
+  {
+   "id": 222,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche le chupé el poto a mi pareja por primera vez y no estuvo tan mal.",
+   "frase_neutralizada": "Anoche le chupé el culo a mi pareja por primera vez y no estuvo tan mal.",
+   "nota": "Neutral agramatical y con sentido equivocado."
+  },
+  {
+   "id": 223,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿En serio le chupaste el poto a ese loco en la primera cita? Erí muy atrevida.",
+   "frase_neutralizada": "¿En serio le chupaste el culo a ese tipo en la primera cita? Eres muy atrevida.",
+   "nota": "Frase incoherente; neutral usaba 'limpiar'."
+  },
+  {
+   "id": 224,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi amiga me contó que su marido le pide que le chupe el poto todos los fines de semana.",
+   "frase_neutralizada": "Mi amiga me contó que su esposo le pide que le chupe el culo todos los fines de semana.",
+   "nota": "Agramatical e incoherente; neutral cambiaba el sentido."
+  },
+  {
+   "id": 225,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿te compro media docena de churros pa' la once?",
+   "frase_neutralizada": "Oye, ¿te compro media docena de churros para la merienda?",
+   "nota": "'Churro' es palabra general; neutral cambiaba cantidad."
+  },
+  {
+   "id": 226,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los churros rellenos con manjar que venden en la playa son lo mejor del verano.",
+   "frase_neutralizada": "Los churros rellenos de dulce de leche que venden en la playa son lo mejor del verano.",
+   "nota": "Errores de género ('churras', 'Los tiritas'); 'churro' no requiere cambio."
+  },
+  {
+   "id": 227,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si pasai por el carrito de la esquina, tráeme un churro con azúcar flor, porfa.",
+   "frase_neutralizada": "Si pasas por el puesto de la esquina, tráeme un churro con azúcar en polvo, por favor.",
+   "nota": "Frase poco natural; 'churro' se mantiene en neutral."
+  },
+  {
+   "id": 228,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi abuela dice que en sus tiempos mi tata era un medio churro.",
+   "frase_neutralizada": "Mi abuela dice que en su juventud mi abuelo era un hombre muy atractivo.",
+   "nota": "Frase sin contexto y poco natural."
+  },
+  {
+   "id": 229,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¿Viste al profe nuevo de inglés? Es un medio churro, todas las alumnas andan suspirando.",
+   "frase_neutralizada": "¿Viste al nuevo profesor de inglés? Es muy atractivo, todas las alumnas andan suspirando por él.",
+   "nota": "Frase incoherente y neutral cambiaba la persona."
+  },
+  {
+   "id": 230,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Chuta, me contaron que chocaste con el auto, ¿estai bien?",
+   "frase_neutralizada": "Vaya, me contaron que chocaste con el auto, ¿estás bien?",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 231,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Chuta, ¿suspendieron el partido? Y yo que ya había comprado las entradas.",
+   "frase_neutralizada": "Vaya, ¿suspendieron el partido? Y yo que ya había comprado las entradas.",
+   "nota": "Neutral conservaba 'chuta'; frase poco natural."
+  },
+  {
+   "id": 232,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¡Chuta! Se me quedaron las llaves adentro del auto otra vez.",
+   "frase_neutralizada": "¡Rayos! Se me quedaron las llaves dentro del auto otra vez.",
+   "nota": "Neutral omitía la interjección; se usó contexto de enojo."
+  },
+  {
+   "id": 233,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¡Chuta! ¿Por qué no me dijiste antes que te ibai de viaje? Te habría encargado algo.",
+   "frase_neutralizada": "¡Caramba! ¿Por qué no me dijiste antes que te ibas de viaje? Te habría encargado algo.",
+   "nota": "Neutral omitía la interjección."
+  },
+  {
+   "id": 234,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—Me echaron de la pega. —Chuta, ¿y ahora qué vai a hacer?",
+   "frase_neutralizada": "—Me despidieron del trabajo. —Uy, qué mal, ¿y ahora qué vas a hacer?",
+   "nota": "Uso incoherente; neutral omitía la expresión."
+  },
+  {
+   "id": 235,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿hacemos la cimarra en la tarde y nos vamos a la playa?",
+   "frase_neutralizada": "Oye, ¿nos saltamos las clases en la tarde y nos vamos a la playa?",
+   "nota": "'Estar de cimarra' poco natural; neutral perdía el matiz voluntario."
+  },
+  {
+   "id": 236,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Le dije a mi vieja que iba al doctor, pero en verdad hice la cimarra pa' ir al mall.",
+   "frase_neutralizada": "Le dije a mi mamá que iba al médico, pero en realidad me salté las clases para ir al centro comercial.",
+   "nota": "Ir al médico no es hacer la cimarra; uso incorrecto."
+  },
+  {
+   "id": 237,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese cabro siempre hace la cimarra los viernes y después pide los cuadernos prestados.",
+   "frase_neutralizada": "Ese chico siempre se salta las clases los viernes y después pide los cuadernos prestados.",
+   "nota": "Neutral agramatical ('ausenta de clases')."
+  },
+  {
+   "id": 238,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pillaron a mi hermano haciendo la cimarra en la plaza con el uniforme puesto.",
+   "frase_neutralizada": "Atraparon a mi hermano en la plaza con el uniforme puesto mientras se saltaba las clases.",
+   "nota": "Sentido absurdo ('cimarra para la cena')."
+  },
+  {
+   "id": 239,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hoy me hice la cimarra de la pega y me quedé viendo series todo el día.",
+   "frase_neutralizada": "Hoy falté al trabajo sin justificación y me quedé viendo series todo el día.",
+   "nota": "Una fiesta no es obligación; 'ponerse la cimarra' no existe."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 10,
+ "claves": [
+  "cuatica",
+  "cuea",
+  "cuentiao",
+  "cuentiado",
+  "cufifo",
+  "cufifa",
+  "cuico",
+  "cuica"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2673551,
+ "duracion_s": 105.0,
+ "pares": [
+  {
+   "id": 400,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No hagai tanta cuática po, si no es nada grave.",
+   "frase_neutralizada": "No hagas tanto escándalo, si no es nada grave.",
+   "nota": "\"Empeses\" no existe; ahora se usa \"hacer cuática\"."
+  },
+  {
+   "id": 401,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi vieja armó una cuática porque llegué media hora tarde a la casa.",
+   "frase_neutralizada": "Mi mamá hizo un escándalo porque llegué media hora tarde a casa.",
+   "nota": "La original era agramatical y sin sentido; situación nueva."
+  },
+  {
+   "id": 402,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Pa qué tanta cuática por un rayón en el auto, si se arregla al tiro?",
+   "frase_neutralizada": "¿Para qué tanto escándalo por un rayón en el auto, si se arregla enseguida?",
+   "nota": "\"Hacerse cuática\" no se usa así; repetía otros pares."
+  },
+  {
+   "id": 403,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te pongai cuática con la profe, si igual te va a corregir la nota.",
+   "frase_neutralizada": "No exageres con la profesora, si igual te va a corregir la nota.",
+   "nota": "Agregué contexto concreto y voseo chileno; quité el motivo vago."
+  },
+  {
+   "id": 404,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Javi hizo una cuática en el grupo de WhatsApp porque no la invitamos.",
+   "frase_neutralizada": "Javi hizo un escándalo en el grupo de WhatsApp porque no la invitamos.",
+   "nota": "Era casi igual al 402; puse una situación distinta."
+  },
+  {
+   "id": 405,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Teni la media cuea, compraste un solo número y te ganaste la rifa.",
+   "frase_neutralizada": "Tienes muchísima suerte, compraste un solo número y ganaste la rifa.",
+   "nota": "\"Suerto\" y \"persona suerte\" eran errores; ahora hay coherencia."
+  },
+  {
+   "id": 406,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Pillé el último asiento en la micro de pura cuea.",
+   "frase_neutralizada": "Conseguí el último asiento en el autobús de pura suerte.",
+   "nota": "Era agramatical (\"no me preocupes\"); hice una frase nueva."
+  },
+  {
+   "id": 407,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese weón tiene una cuea en el casino, nunca pierde.",
+   "frase_neutralizada": "Ese tipo tiene una suerte en el casino que nunca pierde.",
+   "nota": "La neutral pasaba a plural y dejaba \"weon\"; usé def 1 (las defs son iguales)."
+  },
+  {
+   "id": 408,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Qué cuea la Cata, le tocó el profe más buena onda del colegio.",
+   "frase_neutralizada": "Qué suerte tiene Cata, le tocó el profesor más amable de la escuela.",
+   "nota": "La neutral cambiaba el número; hice una situación nueva."
+  },
+  {
+   "id": 409,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ojalá tengamos cuea y no llueva mañana pal asado.",
+   "frase_neutralizada": "Ojalá tengamos suerte y no llueva mañana para el asado.",
+   "nota": "Cambiaba el tiempo verbal (logro/puedo); hice una frase nueva."
+  },
+  {
+   "id": 410,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Seba anda cuentiao diciendo que es DJ, pero apenas ha tocado en un cumpleaños.",
+   "frase_neutralizada": "Sebastián anda presumiendo que es DJ, pero apenas ha tocado en un cumpleaños.",
+   "nota": "La original no tenía sentido; ahora alguien presume ser quien no es."
+  },
+  {
+   "id": 411,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le creai na, ese gallo es puro cuentiao: dice que tiene depa propio y vive con la mamá.",
+   "frase_neutralizada": "No le creas nada, ese tipo es un farsante: dice que tiene departamento propio y vive con su mamá.",
+   "nota": "Usaba \"cuentiao\" como sustantivo de \"mentira\"; corregí el sentido."
+  },
+  {
+   "id": 412,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "La Vale anda súper cuentiá desde que la eligieron presidenta de curso.",
+   "frase_neutralizada": "Vale anda muy creída desde que la eligieron presidenta de la clase.",
+   "nota": "\"Cuentiano\" estaba mal escrito y la construcción era incorrecta."
+  },
+  {
+   "id": 413,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No te pongai tan cuentiao, metiste un gol y ya te creí Alexis Sánchez.",
+   "frase_neutralizada": "No te creas tanto, metiste un gol y ya te crees Alexis Sánchez.",
+   "nota": "\"Cuentiano\" estaba mal escrito y la frase no era natural."
+  },
+  {
+   "id": 414,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Con el iPhone nuevo el Matías anda cuentiao, ni saluda a los del barrio.",
+   "frase_neutralizada": "Con el iPhone nuevo, Matías anda muy creído, ni saluda a los del barrio.",
+   "nota": "La original explicaba la definición; ahora es una situación concreta."
+  },
+  {
+   "id": 415,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese loco anda cuentiado de choro, pero cuando se armó la pelea fue el primero en arrancar.",
+   "frase_neutralizada": "Ese tipo se hace el rudo, pero cuando empezó la pelea fue el primero en huir.",
+   "nota": "Aplicaba \"cuentiado\" a comentarios, sin el sentido de hacerse el malandro."
+  },
+  {
+   "id": 416,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Kevin habla como si fuera de la pobla, pero es terrible cuentiado, vive en un condominio.",
+   "frase_neutralizada": "Kevin habla como si fuera de un barrio peligroso, pero solo se hace el rudo: vive en un condominio cerrado.",
+   "nota": "\"Temas cuentiados\" no tenía el sentido de la definición."
+  },
+  {
+   "id": 417,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Juan anda cuentiado con su cuchillo cartonero, pero si lo miran feo se corre.",
+   "frase_neutralizada": "Juan se hace el delincuente con su cúter, pero si lo miran feo se acobarda.",
+   "nota": "La neutral cambiaba la persona (\"pensamos\") y dejaba \"malandro\"."
+  },
+  {
+   "id": 418,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te hagai el cuentiado conmigo, gil, que te conozco desde chico.",
+   "frase_neutralizada": "No te hagas el rudo conmigo, tonto, que te conozco desde niño.",
+   "nota": "La neutral decía \"arrogante\", que no es el sentido de hacerse el malandro."
+  },
+  {
+   "id": 419,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esos cabros son puros cuentiados, suben videos a TikTok con pistolas de juguete.",
+   "frase_neutralizada": "Esos chicos solo fingen ser delincuentes, suben videos a TikTok con pistolas de juguete.",
+   "nota": "\"Meterse en todo\" no corresponde a la definición."
+  },
+  {
+   "id": 420,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con dos piscolas ya quedé cufifo, mejor me paso a la bebida.",
+   "frase_neutralizada": "Con dos pisco con cola ya estoy medio borracho, mejor me paso al refresco.",
+   "nota": "Copiaba el ejemplo y la neutral cambiaba el contenido; ahora significa \"achispado\"."
+  },
+  {
+   "id": 421,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye Tomás, te veo medio cufifo, ¿cuántas chelas llevai?",
+   "frase_neutralizada": "Oye, Tomás, te veo medio borracho, ¿cuántas cervezas llevas?",
+   "nota": "Había errores de género y la neutral era agramatical (\"me veo\")."
+  },
+  {
+   "id": 422,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Vamos al carrete, pero tranqui, que ya andai cufifo y todavía no son las doce.",
+   "frase_neutralizada": "Vamos a la fiesta, pero con calma, que ya andas medio borracho y todavía no son las doce.",
+   "nota": "Ajusté el matiz a \"achispado\" y le di un registro chileno natural."
+  },
+  {
+   "id": 423,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Carlos llegó tan cufifo que se quedó dormido en la escalera.",
+   "frase_neutralizada": "Carlos llegó tan borracho que se quedó dormido en la escalera.",
+   "nota": "La frase era poco natural; ahora tiene una situación concreta de ebriedad."
+  },
+  {
+   "id": 424,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No vai a creer lo cufifa que quedó mi mamá en el matrimonio de mi prima.",
+   "frase_neutralizada": "No vas a creer lo borracha que quedó mi mamá en la boda de mi prima.",
+   "nota": "Había errores de concordancia y la neutral era agramatical."
+  },
+  {
+   "id": 425,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Coni quedó cufifa y se puso a bailar reggaetón arriba de la mesa.",
+   "frase_neutralizada": "Coni quedó borracha y se puso a bailar reguetón encima de la mesa.",
+   "nota": "La neutral pasaba a plural; ahora mantiene el singular."
+  },
+  {
+   "id": 426,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le hagai caso a la tía, está cufifa y no sabe lo que dice.",
+   "frase_neutralizada": "No le hagas caso a la tía, está borracha y no sabe lo que dice.",
+   "nota": "Usaba \"cufifa\" con un sujeto masculino y la frase era agramatical."
+  },
+  {
+   "id": 427,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayer fuimos a comer pescado y nos topamos con unas viejas cufifas cantando rancheras.",
+   "frase_neutralizada": "Ayer fuimos a comer pescado y nos encontramos con unas señoras borrachas cantando rancheras.",
+   "nota": "Ajusté la concordancia de \"cufifa\" y le di un registro natural."
+  },
+  {
+   "id": 428,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué cufifa estai! Si apenas te tomaste dos tragos.",
+   "frase_neutralizada": "¡Qué borracha estás! Si apenas te tomaste dos tragos.",
+   "nota": "La segunda oración no tenía sentido y la neutral era agramatical."
+  },
+  {
+   "id": 429,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No puedo hablar con mi vecina, cada vez que la pillo está cufifa.",
+   "frase_neutralizada": "No puedo hablar con mi vecina, cada vez que la encuentro está borracha.",
+   "nota": "Había discordancia de género (\"él\" + cufifa); cambié el sujeto a femenino."
+  },
+  {
+   "id": 430,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nico se puso cuico desde que se cambió a Vitacura, ya ni nos saluda.",
+   "frase_neutralizada": "Nico se volvió un creído desde que se mudó a Vitacura; ya ni nos saluda.",
+   "nota": "No contenía la expresión; hice una frase nueva."
+  },
+  {
+   "id": 431,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese colegio es muy cuico, la mensualidad sale más cara que mi sueldo.",
+   "frase_neutralizada": "Esa escuela es muy exclusiva, la mensualidad cuesta más que mi sueldo.",
+   "nota": "No contenía la expresión y la neutral tenía error de género."
+  },
+  {
+   "id": 432,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi suegro es súper cuico, se rió de mi auto porque no era alemán.",
+   "frase_neutralizada": "Mi suegro es muy esnob, se rió de mi auto porque no era alemán.",
+   "nota": "No contenía la expresión; ahora alguien presume por su dinero."
+  },
+  {
+   "id": 433,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te hagai el cuico, si los dos crecimos en la misma población.",
+   "frase_neutralizada": "No te hagas el de clase alta, si los dos crecimos en el mismo barrio pobre.",
+   "nota": "No tenía sentido; el uso como \"gendarme\" es dudoso, así que usé def 1."
+  },
+  {
+   "id": 434,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde que entró a esa universidad habla como cuico, alargando todas las palabras.",
+   "frase_neutralizada": "Desde que entró a esa universidad habla como alguien de clase alta, alargando todas las palabras.",
+   "nota": "La original era incoherente; el uso como \"gendarme\" es dudoso."
+  },
+  {
+   "id": 435,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esa mina es cuica, seguro que veranea en Zapallar.",
+   "frase_neutralizada": "Esa chica es de familia rica, seguro que veranea en Zapallar.",
+   "nota": "Era redundante, tenía un error de número y la neutral pasaba a plural."
+  },
+  {
+   "id": 436,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cachai que la polola del Diego es súper cuica? Su papá es dueño de una viña.",
+   "frase_neutralizada": "¿Sabías que la novia de Diego es de familia muy adinerada? Su papá es dueño de un viñedo.",
+   "nota": "Usaba \"cuica\" con un sujeto masculino (\"abuelo\")."
+  },
+  {
+   "id": 437,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi compañera no es na cuica, se viene en micro todos los días igual que yo.",
+   "frase_neutralizada": "Mi compañera no es nada adinerada, viene en autobús todos los días igual que yo.",
+   "nota": "Corregí el género, la ortografía (\"bús\") y la lógica de la frase."
+  },
+  {
+   "id": 438,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Sofi es la más cuica del curso, pero igual es súper buena onda.",
+   "frase_neutralizada": "Sofía es la más adinerada de la clase, pero igual es muy agradable.",
+   "nota": "\"Los cuica\" tenía error de concordancia y la frase era redundante."
+  },
+  {
+   "id": 439,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Vamos a la disco igual, no importa que esté llena de cuicas.",
+   "frase_neutralizada": "Vamos a la discoteca igual, no importa que esté llena de chicas adineradas.",
+   "nota": "Corregí la concordancia plural y la estructura de la frase."
+  }
+ ]
+}

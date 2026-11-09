@@ -1,0 +1,340 @@
+{
+ "lote": 60,
+ "claves": [
+  "que se teje",
+  "andai de la perra",
+  "a calato",
+  "a calzon quitado",
+  "a chancho tirado",
+  "a cuello",
+  "a fierro pelao",
+  "a la chucha"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2853036,
+ "duracion_s": 109.2,
+ "pares": [
+  {
+   "id": 2400,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Wena, Pancho! ¿Qué se teje, compadre? Hace rato que no te veía.",
+   "frase_neutralizada": "¡Hola, Pancho! ¿Qué tal, amigo? Hacía tiempo que no te veía.",
+   "nota": "No contenía la expresión; nuevo saludo con 'qué se teje'."
+  },
+  {
+   "id": 2401,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegué recién a la oficina, ¿qué se teje? ¿Por qué están todos tan callados?",
+   "frase_neutralizada": "Acabo de llegar a la oficina, ¿qué pasa? ¿Por qué están todos tan callados?",
+   "nota": "Frase poco natural; ahora es una pregunta por lo que está pasando."
+  },
+  {
+   "id": 2402,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Cabros, ¿qué se teje pal sábado? ¿Hacemos un asado o no?",
+   "frase_neutralizada": "Chicos, ¿qué plan hay para el sábado? ¿Hacemos un asado o no?",
+   "nota": "Estaba mal construida gramaticalmente; se aclaró el sentido de plan."
+  },
+  {
+   "id": 2403,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Oye, ¿qué se teje pa la noche? Ando con ganas de salir a carretear.",
+   "frase_neutralizada": "Oye, ¿qué plan hay para esta noche? Tengo ganas de salir de fiesta.",
+   "nota": "Def 3 repite sentidos 1 y 2; se asignó a def 2."
+  },
+  {
+   "id": 2404,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué se teje, hermano? ¿Cómo te ha ido en la pega nueva?",
+   "frase_neutralizada": "¿Qué tal, amigo? ¿Cómo te ha ido en el trabajo nuevo?",
+   "nota": "Def 4 equivale a def 1; nueva situación de saludo."
+  },
+  {
+   "id": 2405,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, andai de la perra, ¿te curaste anoche o qué?",
+   "frase_neutralizada": "Oye, te ves fatal, ¿te emborrachaste anoche o qué?",
+   "nota": "Usaba la expresión sin sentido; ahora describe el mal estado por resaca."
+  },
+  {
+   "id": 2406,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Weón, andai de la perra, mejor anda al doctor, esa tos no es normal.",
+   "frase_neutralizada": "Hombre, estás muy mal, mejor ve al médico, esa tos no es normal.",
+   "nota": "No se entendía; ahora habla de alguien enfermo."
+  },
+  {
+   "id": 2407,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Andai de la perra desde que te pateó la polola, tenís que salir un rato.",
+   "frase_neutralizada": "Estás muy mal desde que te dejó tu novia, tienes que salir un rato.",
+   "nota": "No tenía sentido; ahora describe un mal estado anímico."
+  },
+  {
+   "id": 2408,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Dormiste algo? Andai de la perra, con unas ojeras gigantes.",
+   "frase_neutralizada": "¿Dormiste algo? Te ves fatal, con unas ojeras enormes.",
+   "nota": "Sentido equivocado e incoherente; ahora habla de cansancio visible."
+  },
+  {
+   "id": 2409,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te sacaron la cresta en la pelea, andai de la perra, vamos a la posta.",
+   "frase_neutralizada": "Te dieron una paliza en la pelea, estás muy mal, vamos a urgencias.",
+   "nota": "La neutral no correspondía; ahora describe un mal estado físico tras una pelea."
+  },
+  {
+   "id": 2410,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe me preguntó la materia y me pilló a calato, no había leído ni una página.",
+   "frase_neutralizada": "El profesor me preguntó la materia y me tomó desprevenido, no había leído ni una página.",
+   "nota": "Frase incoherente; ahora ilustra el sentido de estar sin preparación."
+  },
+  {
+   "id": 2411,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Mi cabro chico se escapó del baño y salió corriendo a calato por el pasaje.",
+   "frase_neutralizada": "Mi hijo pequeño se escapó del baño y salió corriendo desnudo por el pasaje.",
+   "nota": "No contenía la expresión; nueva frase con el sentido de desnudo."
+  },
+  {
+   "id": 2412,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Los cabros se tiraron a calato a la piscina del vecino a las tres de la mañana.",
+   "frase_neutralizada": "Los chicos se tiraron desnudos a la piscina del vecino a las tres de la mañana.",
+   "nota": "'Vestirse de calato' no tenía sentido y la neutral tenía error ortográfico."
+  },
+  {
+   "id": 2413,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Me pilló mi mamá a calato saliendo de la ducha, qué vergüenza más grande.",
+   "frase_neutralizada": "Mi mamá me encontró desnudo saliendo de la ducha, qué vergüenza tan grande.",
+   "nota": "Frase poco natural; se cambió a otra situación de desnudez."
+  },
+  {
+   "id": 2414,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "En esa playa nudista todos andan a calato, ni se te ocurra ir con traje de baño.",
+   "frase_neutralizada": "En esa playa nudista todos andan desnudos, ni se te ocurra ir con traje de baño.",
+   "nota": "'Meter a alguien' no tenía sentido; se mantuvo la idea de la playa."
+  },
+  {
+   "id": 2415,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya, cuéntame qué pensai de él, pero a calzón quitado, sin filtro.",
+   "frase_neutralizada": "Bueno, dime qué piensas de él, pero con total sinceridad, sin filtro.",
+   "nota": "La pregunta inicial era incoherente; se simplificó y se puso la tilde."
+  },
+  {
+   "id": 2416,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con mi hermana nos contamos todo a calzón quitado, no tenemos secretos.",
+   "frase_neutralizada": "Mi hermana y yo nos contamos todo con total franqueza, no tenemos secretos.",
+   "nota": "Se hizo más natural y se corrigió la tilde de calzón."
+  },
+  {
+   "id": 2417,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la terapia de pareja tuvimos que hablar a calzón quitao de la plata y los celos.",
+   "frase_neutralizada": "En la terapia de pareja tuvimos que hablar con total sinceridad del dinero y los celos.",
+   "nota": "Frase genérica y repetida; nueva situación concreta."
+  },
+  {
+   "id": 2418,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El ministro dio una entrevista a calzón quitado y reconoció todas las cagadas del gobierno.",
+   "frase_neutralizada": "El ministro dio una entrevista con total franqueza y reconoció todas las cagadas del gobierno.",
+   "nota": "Era repetitiva y poco natural; nueva situación."
+  },
+  {
+   "id": 2419,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Juntémonos con los cabros y conversemos a calzón quitado qué onda con el negocio.",
+   "frase_neutralizada": "Reunámonos con los chicos y hablemos con total sinceridad sobre qué pasa con el negocio.",
+   "nota": "Explicaba el significado dentro de la frase ('sin tabú'); se eliminó."
+  },
+  {
+   "id": 2420,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El trámite está a chancho tirado, es todo online, hazlo hoy mismo y listo.",
+   "frase_neutralizada": "El trámite es facilísimo, es todo en línea, hazlo hoy mismo y listo.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2421,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El arco estaba vacío, era a chancho tirado y el weón la tiró afuera.",
+   "frase_neutralizada": "La portería estaba vacía, era facilísimo y el tonto la tiró afuera.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2422,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Con ese descuento el depa está a chancho tirado, cómpralo antes que otro te lo gane.",
+   "frase_neutralizada": "Con ese descuento el departamento es una oportunidad facilísima, cómpralo antes de que otro se te adelante.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2423,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La mina está soltera y te pesca harto, está a chancho tirado, invítala a salir po.",
+   "frase_neutralizada": "La chica está soltera y te hace mucho caso, lo tienes facilísimo, invítala a salir.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2424,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El ramo está a chancho tirado, si no lo pasai este semestre es porque no querís.",
+   "frase_neutralizada": "La asignatura es facilísima, si no la apruebas este semestre es porque no quieres.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2425,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tomé la botella de vino entera a cuello, ni le convidé a mi hermano.",
+   "frase_neutralizada": "Me tomé la botella de vino entera yo solo, ni siquiera le di a mi hermano.",
+   "nota": "Estudiar 'a cuello' no era natural; ahora es consumir sin compartir."
+  },
+  {
+   "id": 2426,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te voy a convidar, esta pizza me la como a cuello.",
+   "frase_neutralizada": "No te voy a dar, esta pizza me la como yo solo.",
+   "nota": "'No me toques' sobraba; se reforzó la idea de no compartir."
+  },
+  {
+   "id": 2427,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se ganó la plata del Loto y se la gastó a cuello, ni a la familia le pasó un peso.",
+   "frase_neutralizada": "Se ganó el dinero de la lotería y se lo gastó él solo, ni a su familia le dio un centavo.",
+   "nota": "Resolver un problema no ilustraba bien el sentido de no compartir."
+  },
+  {
+   "id": 2428,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Compré un six pack y me lo tomé a cuello viendo el partido.",
+   "frase_neutralizada": "Compré un paquete de seis cervezas y me lo tomé yo solo viendo el partido.",
+   "nota": "Def 2 con votos negativos y frase sin sentido; se pasó a def 1."
+  },
+  {
+   "id": 2429,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al Rodrigo le regalaron una caja de chocolates y se la mandó a cuello en una tarde.",
+   "frase_neutralizada": "A Rodrigo le regalaron una caja de chocolates y se la comió él solo en una tarde.",
+   "nota": "Def 2 con votos negativos y neutral incoherente; se pasó a def 1."
+  },
+  {
+   "id": 2430,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Se te acabaron los condones? No, a fierro pelao ni cagando, vamos a la farmacia.",
+   "frase_neutralizada": "¿Se te acabaron los condones? No, sin condón ni loco, vamos a la farmacia.",
+   "nota": "La neutral decía 'sin previo aviso'; se corrigió el sentido."
+  },
+  {
+   "id": 2431,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo siempre lo hace a fierro pelao y después anda asustado esperando los exámenes.",
+   "frase_neutralizada": "Mi primo siempre lo hace sin condón y después anda asustado esperando los análisis.",
+   "nota": "Frase incoherente; nueva situación clara."
+  },
+  {
+   "id": 2432,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El gerente nos cambió los turnos a fierro pelao, sin preguntarle a nadie.",
+   "frase_neutralizada": "El gerente nos cambió los turnos de golpe, sin preguntarle a nadie.",
+   "nota": "La neutral eliminaba información y cambiaba el sujeto; se ajustó."
+  },
+  {
+   "id": 2433,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Me cansé de esperar y fui a fierro pelao a encarar al vecino por la música.",
+   "frase_neutralizada": "Me cansé de esperar y fui decidido y sin pensarlo a enfrentar al vecino por la música.",
+   "nota": "'Nos fui' era agramatical; se aclaró la acción decidida."
+  },
+  {
+   "id": 2434,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El Colo-Colo salió a fierro pelao desde el primer minuto y les metió tres goles.",
+   "frase_neutralizada": "El Colo-Colo salió al ataque con agresividad desde el primer minuto y les metió tres goles.",
+   "nota": "Un corte de luz no es una acción decidida; nueva situación."
+  },
+  {
+   "id": 2435,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Dónde queda la biblioteca? Uf, a la chucha, al otro lado del campus.",
+   "frase_neutralizada": "¿Dónde queda la biblioteca? Uf, lejísimos, al otro lado del campus.",
+   "nota": "Era casi copia del ejemplo; se hizo más natural."
+  },
+  {
+   "id": 2436,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi abuela vive a la chucha, como a dos horas en micro desde mi casa.",
+   "frase_neutralizada": "Mi abuela vive lejísimos, como a dos horas en autobús desde mi casa.",
+   "nota": "No contenía la expresión y era incoherente."
+  },
+  {
+   "id": 2437,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Si me seguís weveando con lo mismo, te voy a mandar a la chucha.",
+   "frase_neutralizada": "Si me sigues molestando con lo mismo, te voy a mandar a la mierda.",
+   "nota": "No contenía la expresión; se usa el sentido de mandar a alguien a la mierda."
+  },
+  {
+   "id": 2438,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¡A la chucha con el profe, me bajó la nota por una coma!",
+   "frase_neutralizada": "¡A la mierda con el profesor, me bajó la nota por una coma!",
+   "nota": "La neutral se volvió formal; se mantuvo el tono de exclamación grosera."
+  },
+  {
+   "id": 2439,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¡A la chucha con el weón de mi compañero, otra vez me dejó toda la pega a mí!",
+   "frase_neutralizada": "¡A la mierda con el idiota de mi compañero, otra vez me dejó todo el trabajo a mí!",
+   "nota": "Era poco natural y la neutral formal; se mantuvo el registro grosero."
+  }
+ ]
+}

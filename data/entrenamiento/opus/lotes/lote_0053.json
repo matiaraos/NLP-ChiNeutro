@@ -1,0 +1,340 @@
+{
+ "lote": 53,
+ "claves": [
+  "pegarse un gambazo",
+  "pegote",
+  "pela cable",
+  "pelagato",
+  "pelambre",
+  "pelolais",
+  "penar",
+  "penca"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2586173,
+ "duracion_s": 97.5,
+ "pares": [
+  {
+   "id": 2120,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El sábado me pegué un gambazo con una mina del bar y ni me arrepiento po.",
+   "frase_neutralizada": "El sábado me acosté con una gorda del bar y ni me arrepiento.",
+   "nota": "Cambié 'me pegó' por 'me pegué' y quité el 'ancha', que sobraba."
+  },
+  {
+   "id": 2121,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi amigo contó que se pegó un gambazo en el carrete de la semana pasada.",
+   "frase_neutralizada": "Mi amigo contó que se acostó con una gorda en la fiesta de la semana pasada.",
+   "nota": "Quité la explicación redundante y neutralicé 'carrete'; mantuve el registro informal."
+  },
+  {
+   "id": 2122,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Te vai a pegar un gambazo con esa mina? Allá tú, compadre.",
+   "frase_neutralizada": "¿Te vas a acostar con esa gorda? Allá tú, amigo.",
+   "nota": "Arreglé 'pegar a' y la neutral agramatical 'te vas a tener'."
+  },
+  {
+   "id": 2123,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pancho anda contándole a todos que se pegó un gambazo en el viaje de egresados.",
+   "frase_neutralizada": "Pancho anda contándole a todos que se acostó con una gorda en el viaje de graduación.",
+   "nota": "El original no tenía sentido: la boda y las dos personas no venían al caso."
+  },
+  {
+   "id": 2124,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le contís a nadie que me pegué un gambazo, que me van a webear todo el año.",
+   "frase_neutralizada": "No le cuentes a nadie que me acosté con una gorda, que se van a burlar de mí todo el año.",
+   "nota": "El original invertía el sujeto: es él quien se pega el gambazo."
+  },
+  {
+   "id": 2125,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, no seai tan pegote, déjame ir solo al baño po.",
+   "frase_neutralizada": "Oye, no me sigas a todas partes, déjame ir solo al baño.",
+   "nota": "No aparecía la expresión y la neutral era agramatical."
+  },
+  {
+   "id": 2126,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano chico es re pegote, quiere ir conmigo a todos los carretes.",
+   "frase_neutralizada": "Mi hermano menor no me deja en paz, quiere ir conmigo a todas las fiestas.",
+   "nota": "No aparecía la expresión y los signos de interrogación estaban mal."
+  },
+  {
+   "id": 2127,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La polola del Mati es súper pegote, ni a la pichanga lo deja ir solo.",
+   "frase_neutralizada": "La novia de Mati lo sigue a todas partes, ni al partido de fútbol con sus amigos lo deja ir solo.",
+   "nota": "No aparecía la expresión y la neutral era incorrecta."
+  },
+  {
+   "id": 2128,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese cabro pegote del curso de al lado se nos acopla en todos los recreos.",
+   "frase_neutralizada": "Ese chico pesado del salón de al lado se nos une en todos los recreos y no nos deja en paz.",
+   "nota": "No aparecía la expresión, solo se explicaba su significado."
+  },
+  {
+   "id": 2129,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi perro es más pegote que la cresta, me sigue hasta la ducha.",
+   "frase_neutralizada": "Mi perro no se me despega ni un segundo, me sigue hasta la ducha.",
+   "nota": "El original no usaba la expresión y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 2130,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Marta está pelando el cable, dice que los extraterrestres le hablan por la tele.",
+   "frase_neutralizada": "Marta está perdiendo la cabeza, dice que los extraterrestres le hablan por la televisión.",
+   "nota": "El sentido estaba mal: 'pelar el cable' no significa distraerse."
+  },
+  {
+   "id": 2131,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Te pegaste una pela de cable terrible en el carrete, le gritabai a las plantas.",
+   "frase_neutralizada": "Te volviste loco en la fiesta, les gritabas a las plantas.",
+   "nota": "Gramática incoherente; ahora ilustra un momento de locura."
+  },
+  {
+   "id": 2132,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi tío anda pelando el cable con que la Tierra es plana, nadie lo aguanta.",
+   "frase_neutralizada": "Mi tío anda diciendo locuras, como que la Tierra es plana, y nadie lo aguanta.",
+   "nota": "El sentido de distraerse era incorrecto; ahora ilustra las ideas absurdas."
+  },
+  {
+   "id": 2133,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Desde que lo echaron de la pega, el Jorge quedó pelando el cable, habla solo en la calle.",
+   "frase_neutralizada": "Desde que lo despidieron del trabajo, Jorge perdió la razón, habla solo en la calle.",
+   "nota": "La neutral decía 'se distrajo', pero el sentido es perder el juicio."
+  },
+  {
+   "id": 2134,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¿Pintar el living fucsia a las tres de la mañana? Qué pela de cable, hermano.",
+   "frase_neutralizada": "¿Pintar la sala de fucsia a las tres de la mañana? Qué locura, amigo.",
+   "nota": "El original era incoherente y repetía la situación del par 2131."
+  },
+  {
+   "id": 2135,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ese pelagato anda dándoselas de millonario y vive de allegado donde la suegra.",
+   "frase_neutralizada": "Ese muerto de hambre anda presumiendo de millonario y vive en casa de su suegra.",
+   "nota": "Cambié a la def 2, que era la que ilustraba; la neutral omitía la pobreza."
+  },
+  {
+   "id": 2136,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Y vai a dejar que un pelagato como ese te ningunee delante de todos?",
+   "frase_neutralizada": "¿Y vas a dejar que un don nadie como ese te menosprecie delante de todos?",
+   "nota": "El original era agramatical e incoherente."
+  },
+  {
+   "id": 2137,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ojalá que ese pelagato no se meta en nuestros asuntos.",
+   "frase_neutralizada": "Ojalá que ese don nadie no se meta en nuestros asuntos.",
+   "nota": "La neutral traducía 'pelagato' solo como 'hombre' y se perdía el sentido."
+  },
+  {
+   "id": 2138,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ese pelagato se cree con plata, pero no tiene ni pa' la micro.",
+   "frase_neutralizada": "Ese pobretón cree que tiene dinero, pero no tiene ni para el autobús.",
+   "nota": "La neutral decía 'un hombre' y se perdía el matiz despectivo."
+  },
+  {
+   "id": 2139,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Aunque mi papá diga que es un pelagato, mi pololo es súper trabajador.",
+   "frase_neutralizada": "Aunque mi papá diga que es un don nadie, mi novio es muy trabajador.",
+   "nota": "Cambié a la def 1; la neutral original no era coherente."
+  },
+  {
+   "id": 2140,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Las tías de la esquina están puro pelambre con mi amigo, que se separó.",
+   "frase_neutralizada": "Las señoras de la esquina no paran de chismear sobre mi amigo, que se separó.",
+   "nota": "'Hablan pelambre' no es natural; corregí la estructura."
+  },
+  {
+   "id": 2141,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le creai, eso de que ganó el torneo con trampa es puro pelambre de envidiosos.",
+   "frase_neutralizada": "No le creas, eso de que ganó el torneo haciendo trampa es solo un chisme de envidiosos.",
+   "nota": "La lógica no cuadraba y había falta de concordancia en la neutral."
+  },
+  {
+   "id": 2142,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Anda corriendo el pelambre de que el profe está pololeando con la de inglés.",
+   "frase_neutralizada": "Anda corriendo el chisme de que el profesor está saliendo con la profesora de inglés.",
+   "nota": "Dejé una construcción más natural y neutralicé 'pololear' y 'profe'."
+  },
+  {
+   "id": 2143,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la oficina el pelambre es deporte nacional, apenas te parai de la mesa te despellejan.",
+   "frase_neutralizada": "En la oficina el chisme es deporte nacional, apenas te levantas de la mesa te critican a tus espaldas.",
+   "nota": "El original no tenía sentido: el regalo no tenía relación con el chisme."
+  },
+  {
+   "id": 2144,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando hablan de ti es puro pelambre, no tienen idea de lo que estai pasando.",
+   "frase_neutralizada": "Cuando hablan de ti son puros chismes, no tienen idea de lo que estás pasando.",
+   "nota": "Corregí la concordancia en la neutral y le di un tono más chileno."
+  },
+  {
+   "id": 2145,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi universidad está llena de pelolais que llegan en el auto del papá.",
+   "frase_neutralizada": "Mi universidad está llena de chicas rubias de clase alta que llegan en el auto de su papá.",
+   "nota": "El original era incoherente y no coincidía en número con la neutral."
+  },
+  {
+   "id": 2146,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me invitaron a un cumpleaños en La Dehesa y eran puras pelolais, me sentí sapo de otro pozo.",
+   "frase_neutralizada": "Me invitaron a un cumpleaños en un barrio exclusivo y solo había chicas rubias de clase alta, me sentí fuera de lugar.",
+   "nota": "'Me cogí la corriente' no es chileno y la neutral estaba mal."
+  },
+  {
+   "id": 2147,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi prima se plancha el pelo todos los días pa' verse más pelolais.",
+   "frase_neutralizada": "Mi prima se alisa el pelo todos los días para parecerse a las chicas rubias y adineradas.",
+   "nota": "El original no tenía sentido; ahora usa el rasgo del pelo liso."
+  },
+  {
+   "id": 2148,
+   "accion": "reescrito",
+   "def": 3,
+   "frase_chilena": "Las pelolais del curso nunca me invitan a sus salidas, ni me pescan.",
+   "frase_neutralizada": "Las chicas rubias y ricas de la clase nunca me invitan a sus salidas, ni me hacen caso.",
+   "nota": "El original era incoherente y la neutral no correspondía a la chilena."
+  },
+  {
+   "id": 2149,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "¿Por qué no querís salir con mi amiga? Es pelolais, pero súper buena onda.",
+   "frase_neutralizada": "¿Por qué no quieres salir con mi amiga? Es una chica rubia de clase alta, pero muy amable.",
+   "nota": "Quité el 'cuica', que era redundante, y usé un contraste con 'creída'."
+  },
+  {
+   "id": 2150,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Dicen que en esa casa abandonada pena una monja, nadie se atreve a entrar.",
+   "frase_neutralizada": "Dicen que en esa casa abandonada se aparece el fantasma de una monja, nadie se atreve a entrar.",
+   "nota": "El original era incoherente; 'la casa' no pena."
+  },
+  {
+   "id": 2151,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi abuela jura que en el campo penan, que en la noche se sienten cadenas.",
+   "frase_neutralizada": "Mi abuela jura que en el campo se aparecen fantasmas, que en la noche se oyen cadenas.",
+   "nota": "'Te penan las sombras' no era natural; dejé el uso real con fantasmas."
+  },
+  {
+   "id": 2152,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Mira quién vino a penar! No te veía desde el colegio, compadre.",
+   "frase_neutralizada": "¡Mira quién apareció! No te veía desde la escuela, amigo.",
+   "nota": "El original era incoherente ('pensé que pensaba') y la neutral estaba mal."
+  },
+  {
+   "id": 2153,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Rodrigo vino a penar al asado después de dos años sin dar señales de vida.",
+   "frase_neutralizada": "Rodrigo reapareció en el asado después de dos años sin dar señales de vida.",
+   "nota": "El original no tenía sentido y cambiaba el tiempo verbal."
+  },
+  {
+   "id": 2154,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El ex de mi hermana volvió a penar, ahora le escribe por Instagram después de tres años.",
+   "frase_neutralizada": "El ex de mi hermana reapareció, ahora le escribe por Instagram después de tres años.",
+   "nota": "Dejé claro el sentido de reaparecer tras mucho tiempo."
+  },
+  {
+   "id": 2155,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué penca la fiesta, puro reguetón viejo y no había nada pa' tomar.",
+   "frase_neutralizada": "Qué aburrida la fiesta, solo reguetón viejo y no había nada para tomar.",
+   "nota": "Era casi igual al ejemplo del diccionario; cambié la situación."
+  },
+  {
+   "id": 2156,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estos audífonos son pencas, se echaron a perder en una semana.",
+   "frase_neutralizada": "Estos audífonos son de mala calidad, se descompusieron en una semana.",
+   "nota": "Era casi igual al ejemplo del partido; ahora ilustra la mala calidad."
+  },
+  {
+   "id": 2157,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Qué penca el vecino, nos reclamó por la música a las nueve de la noche.",
+   "frase_neutralizada": "Qué antipático el vecino, se quejó por la música a las nueve de la noche.",
+   "nota": "La neutral omitía la exclamación y el sentido de antipático."
+  },
+  {
+   "id": 2158,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "No seai penca, préstame el auto aunque sea un ratito.",
+   "frase_neutralizada": "No seas pesado, préstame el auto aunque sea un ratito.",
+   "nota": "El original era def 1 y no def 2 (persona antipática)."
+  },
+  {
+   "id": 2159,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Qué penca lo del abuelo, ojalá salga luego de la clínica.",
+   "frase_neutralizada": "Qué triste lo del abuelo, ojalá salga pronto de la clínica.",
+   "nota": "Le di un tono más natural y coloquial a la frase."
+  }
+ ]
+}

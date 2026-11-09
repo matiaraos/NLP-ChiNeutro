@@ -1,0 +1,340 @@
+{
+ "lote": 17,
+ "claves": [
+  "ene",
+  "engrupir",
+  "eri",
+  "estar de la perra",
+  "estar pal pico",
+  "estar pato",
+  "quedo el sapo",
+  "quemarropa"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23433589999999999,
+ "duracion_s": 81.5,
+ "pares": [
+  {
+   "id": 680,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hay ene gente en la fila del banco, vamos a estar aquí toda la mañana.",
+   "frase_neutralizada": "Hay muchísima gente en la fila del banco, vamos a estar aquí toda la mañana.",
+   "nota": "Usaba 'ene' como 'mal'; frase nueva con sentido de cantidad."
+  },
+  {
+   "id": 681,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me costó ene encontrar estacionamiento en el centro, estaba repleto de autos.",
+   "frase_neutralizada": "Me costó mucho encontrar estacionamiento en el centro, estaba repleto de autos.",
+   "nota": "'Ene' no significaba nada; neutral incoherente."
+  },
+  {
+   "id": 682,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tengo ene pega acumulada, así que hoy no salgo, po.",
+   "frase_neutralizada": "Tengo muchísimo trabajo acumulado, así que hoy no salgo.",
+   "nota": "Uso erróneo de 'ene' y error de concordancia en la neutral."
+  },
+  {
+   "id": 683,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa canción es ene linda, la escucho todos los días.",
+   "frase_neutralizada": "Esa canción es muy linda, la escucho todos los días.",
+   "nota": "Se quitó 'de oído', mal traducido como 'en privado'."
+  },
+  {
+   "id": 684,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te extrañé ene, weón, ¿cuándo nos juntamos de nuevo?",
+   "frase_neutralizada": "Te extrañé mucho, amigo, ¿cuándo nos vemos de nuevo?",
+   "nota": "'Ene' usado como 'mal'; ahora significa 'mucho'."
+  },
+  {
+   "id": 685,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pedro engrupió a la Cata con mensajitos bonitos y ahora andan pololeando.",
+   "frase_neutralizada": "Pedro conquistó a Catalina con mensajitos bonitos y ahora son novios.",
+   "nota": "Uso reflexivo incorrecto; ahora ilustra el sentido de seducir."
+  },
+  {
+   "id": 686,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No me vengai a engrupir con que estabas enfermo, si te vi en el carrete.",
+   "frase_neutralizada": "No me vengas a engañar con que estabas enfermo, si te vi en la fiesta.",
+   "nota": "Uso reflexivo incorrecto, 'mentires' agramatical y 'compa' no chileno."
+  },
+  {
+   "id": 687,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese vendedor nos engrupió con el auto usado, tenía el motor malo.",
+   "frase_neutralizada": "Ese vendedor nos engañó con el auto usado, tenía el motor en mal estado.",
+   "nota": "Imperativo 'engrupes' incorrecto y frase poco coherente."
+  },
+  {
+   "id": 688,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi hermano chico engrupió a mi mamá diciendo que ya había hecho las tareas.",
+   "frase_neutralizada": "Mi hermano menor engañó a mi mamá diciendo que ya había hecho las tareas.",
+   "nota": "'Mentires' agramatical y 'vieja' mal traducido como 'anciana'."
+  },
+  {
+   "id": 689,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya no te creo nada, estai puro engrupiendo con tus historias.",
+   "frase_neutralizada": "Ya no te creo nada, solo estás mintiendo con tus historias.",
+   "nota": "Neutral cambiaba la persona y tenía 'mentiendo' mal escrito."
+  },
+  {
+   "id": 690,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Erí muy bueno pa' cocinar, este pastel te quedó la raja.",
+   "frase_neutralizada": "Eres muy bueno para cocinar, este pastel te quedó buenísimo.",
+   "nota": "'Erí' usado como vocativo; ahora es verbo 'eres'."
+  },
+  {
+   "id": 691,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Erí nuevo en el barrio? Nunca te había visto por acá.",
+   "frase_neutralizada": "¿Eres nuevo en el barrio? Nunca te había visto por aquí.",
+   "nota": "'Erí' no funcionaba como verbo; neutral con signos mal puestos."
+  },
+  {
+   "id": 692,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Erí seco, ¿cómo arreglaste el computador en cinco minutos?",
+   "frase_neutralizada": "Eres un genio, ¿cómo arreglaste la computadora en cinco minutos?",
+   "nota": "'Erí' traducido como 'tú'; ahora es 'eres'."
+  },
+  {
+   "id": 693,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, erí el encargado de la fiesta, así que tú decidís la música.",
+   "frase_neutralizada": "Oye, eres el encargado de la fiesta, así que tú decides la música.",
+   "nota": "'Erí' usado como vocativo, sin función verbal."
+  },
+  {
+   "id": 694,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Erí la persona más chistosa que conozco, siempre me hacís reír.",
+   "frase_neutralizada": "Eres la persona más graciosa que conozco, siempre me haces reír.",
+   "nota": "Se quitó el vocativo y el 'eres' redundante; 'erí' ahora es verbo."
+  },
+  {
+   "id": 695,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me agarró una gripe tremenda y estoy de la perra, no me puedo ni levantar.",
+   "frase_neutralizada": "Me dio una gripe tremenda y me siento horrible, no me puedo ni levantar.",
+   "nota": "Frase forzada y neutral agramatical ('me lastimó la pena')."
+  },
+  {
+   "id": 696,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "La comida del casino está de la perra, no me la pude terminar.",
+   "frase_neutralizada": "La comida del comedor está horrible, no me la pude terminar.",
+   "nota": "Ahora describe algo desagradable; antes la persona 'estaba mal' sin sentido."
+  },
+  {
+   "id": 697,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con esta migraña estoy de la perra, no aguanto ni la luz.",
+   "frase_neutralizada": "Con esta migraña me siento pésimo, no soporto ni la luz.",
+   "nota": "Se corrigieron 'una peor migrana' y la definición asignada."
+  },
+  {
+   "id": 698,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Desde que me echaron de la pega estoy de la perra, no tengo ganas de nada.",
+   "frase_neutralizada": "Desde que me despidieron del trabajo estoy muy mal, no tengo ganas de nada.",
+   "nota": "La causa ('malos documentos') no tenía sentido; ahora es un mal momento emocional."
+  },
+  {
+   "id": 699,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Terminé con la Javi y estoy de la perra, hermano, no duermo nada.",
+   "frase_neutralizada": "Terminé con Javi y estoy destrozado, hermano, no duermo nada.",
+   "nota": "'Chistón' estaba mal traducido; ahora es un mal momento emocional."
+  },
+  {
+   "id": 700,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Estoy pal pico este mes, no tengo ni uno pa' comprar comida.",
+   "frase_neutralizada": "Estoy jodido este mes, no tengo nada de dinero para comprar comida.",
+   "nota": "No incluía la expresión; ahora la usa para falta de dinero."
+  },
+  {
+   "id": 701,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mañana tengo la prueba de cálculo y estoy pal pico, no estudié nada.",
+   "frase_neutralizada": "Mañana tengo el examen de cálculo y estoy jodido, no estudié nada.",
+   "nota": "No incluía la expresión; ahora se usa para un examen sin preparar."
+  },
+  {
+   "id": 702,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Después del choque el auto quedó pal pico, hay que mandarlo al taller.",
+   "frase_neutralizada": "Después del choque el auto quedó destrozado, hay que mandarlo al taller.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 703,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "El perro está pal pico, anoche se peleó con otro y quedó todo mordido.",
+   "frase_neutralizada": "El perro está hecho pedazos, anoche se peleó con otro y quedó todo mordido.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 704,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Después del carrete de anoche estoy pal pico, no me puedo ni mover.",
+   "frase_neutralizada": "Después de la fiesta de anoche estoy hecho mierda, no me puedo ni mover.",
+   "nota": "La def 3 equivale a la 1; neutral con registro grosero conservado."
+  },
+  {
+   "id": 705,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Vamos al cine esta noche? No puedo, estoy pato hasta fin de mes.",
+   "frase_neutralizada": "¿Vamos al cine esta noche? No puedo, no tengo dinero hasta fin de mes.",
+   "nota": "'No estoy pato' invertía el sentido."
+  },
+  {
+   "id": 706,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No sé si voy al concierto, estoy pato y las entradas están carísimas.",
+   "frase_neutralizada": "No sé si voy al concierto, no tengo dinero y las entradas están carísimas.",
+   "nota": "No incluía la expresión y la neutral añadía información."
+  },
+  {
+   "id": 707,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ahora estoy pato, pero cuando me paguen te devuelvo la plata, tranqui.",
+   "frase_neutralizada": "Ahora no tengo dinero, pero cuando me paguen te devuelvo lo que te debo, tranquilo.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 708,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No voy a ir al matrimonio de tu primo, estoy pato y no me alcanza ni pa'l regalo.",
+   "frase_neutralizada": "No voy a ir a la boda de tu primo, no tengo dinero y no me alcanza ni para el regalo.",
+   "nota": "Frase chilena poco natural; ahora tiene un registro más coloquial."
+  },
+  {
+   "id": 709,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Quería ir al viaje de fin de año, pero estoy más pato que nunca.",
+   "frase_neutralizada": "Quería ir al viaje de fin de año, pero estoy más corto de dinero que nunca.",
+   "nota": "No incluía la expresión y 'no me preocupes' era agramatical."
+  },
+  {
+   "id": 710,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando el Juan sacó el tema del sueldo en la reunión, quedó el sapo.",
+   "frase_neutralizada": "Cuando Juan sacó el tema del sueldo en la reunión, se armó un lío tremendo.",
+   "nota": "Usaba 'quedó el sapo' como verbo transitivo; era agramatical."
+  },
+  {
+   "id": 711,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se cortó la luz en plena fiesta y quedó el sapo en el salón.",
+   "frase_neutralizada": "Se cortó la luz en plena fiesta y se armó un caos en el salón.",
+   "nota": "Sintaxis incorrecta: la fiesta no 'quedó el sapo'."
+  },
+  {
+   "id": 712,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Pedro llegó curao a la cena familiar y dejó el sapo.",
+   "frase_neutralizada": "Pedro llegó borracho a la cena familiar y armó un escándalo.",
+   "nota": "Una receta no causa desorden; error 'los albóndigas'."
+  },
+  {
+   "id": 713,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se cayó una lámpara en el set de grabación y quedó el sapo, pararon todo.",
+   "frase_neutralizada": "Se cayó una lámpara en el set de grabación y se armó un desastre, detuvieron todo.",
+   "nota": "Sintaxis incorrecta con la expresión."
+  },
+  {
+   "id": 714,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Avisaron que no había clases y quedó el sapo en el colegio, todos gritando.",
+   "frase_neutralizada": "Avisaron que no había clases y se armó un descontrol en la escuela, todos gritando.",
+   "nota": "Sintaxis incorrecta y situación incoherente."
+  },
+  {
+   "id": 715,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anoche con mi pololo no pasó nada, pero igual hicimos quemarropa en el sillón.",
+   "frase_neutralizada": "Anoche con mi novio no pasó nada, pero igual nos restregamos con la ropa puesta en el sofá.",
+   "nota": "Pregunta poco natural y 'tuvemos' agramatical."
+  },
+  {
+   "id": 716,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con el Diego no llegamos a nada, puro quemarropa no más.",
+   "frase_neutralizada": "Con Diego no llegamos a tener sexo, solo nos restregamos con la ropa puesta y ya.",
+   "nota": "La neutral sonaba explicativa y forzada; la frase chilena, poco natural."
+  },
+  {
+   "id": 717,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mis viejos casi me pillan haciendo quemarropa con la Fran en mi pieza.",
+   "frase_neutralizada": "Mis papás casi me descubren restregándome con Fran con la ropa puesta en mi cuarto.",
+   "nota": "Repetía la idea del par 716; nueva situación."
+  },
+  {
+   "id": 718,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la playa había una pareja haciendo quemarropa en la toalla, ¡qué asco, cero vergüenza!",
+   "frase_neutralizada": "En la playa había una pareja restregándose con la ropa puesta sobre la toalla, ¡qué asco, sin ninguna vergüenza!",
+   "nota": "Las defs 1 y 2 son el mismo sentido; la frase era poco natural."
+  },
+  {
+   "id": 719,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese par estuvo toda la fiesta haciendo quemarropa en un rincón, cero disimulo.",
+   "frase_neutralizada": "Esos dos estuvieron toda la fiesta restregándose con la ropa puesta en un rincón, sin nada de disimulo.",
+   "nota": "Se unificó la def y se corrigió la concordancia 'par... estaban'."
+  }
+ ]
+}

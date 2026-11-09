@@ -1,0 +1,340 @@
+{
+ "lote": 69,
+ "claves": [
+  "apechugar",
+  "aperrar",
+  "aperrado",
+  "apinarse",
+  "apitutado",
+  "apretar cachete",
+  "apreta cachete",
+  "apretar cuea"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2443942,
+ "duracion_s": 85.0,
+ "pares": [
+  {
+   "id": 2760,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana tengo la presentación con el jefe y voy a tener que apechugar nomás, aunque me muera de nervios.",
+   "frase_neutralizada": "Mañana tengo la presentación con el jefe y voy a tener que armarme de valor, aunque me muera de nervios.",
+   "nota": "Frase poco natural; se añadió contexto y se neutralizó nomás."
+  },
+  {
+   "id": 2761,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano está pasando por una mala racha y yo voy a apechugar con él hasta el final.",
+   "frase_neutralizada": "Mi hermano está pasando por una mala racha y yo voy a estar firme a su lado hasta el final.",
+   "nota": "La neutral dejaba el chilenismo aperrar; se reformuló."
+  },
+  {
+   "id": 2762,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando me echaron de la pega, tuve que apechugar y salir a buscar otra al tiro.",
+   "frase_neutralizada": "Cuando me despidieron del trabajo, tuve que hacerme fuerte y salir a buscar otro de inmediato.",
+   "nota": "No contenía la expresión (apesar) y era incomprensible."
+  },
+  {
+   "id": 2763,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "El jefe la embarró con el cliente y ahora quiere que nosotros apechuguemos con el cacho.",
+   "frase_neutralizada": "El jefe cometió un error con el cliente y ahora quiere que nosotros carguemos con las consecuencias.",
+   "nota": "Error de modo verbal y la neutral conservaba 'hacer gil'."
+  },
+  {
+   "id": 2764,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Si no estudiamos pa' la prueba y nos va mal, vamos a tener que apechugar nomás.",
+   "frase_neutralizada": "Si no estudiamos para el examen y nos va mal, vamos a tener que asumir las consecuencias.",
+   "nota": "Uso pronominal incorrecto 'nos vamos a tener que apechugar'."
+  },
+  {
+   "id": 2765,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cuando estuve enfermo, mis amigos me aperraron todo el tiempo y nunca me dejaron solo.",
+   "frase_neutralizada": "Cuando estuve enfermo, mis amigos me apoyaron todo el tiempo y nunca me dejaron solo.",
+   "nota": "No contenía la expresión; se incluyó con sentido de apañar."
+  },
+  {
+   "id": 2766,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Quedan tres kilómetros y estoy reventado, pero voy a aperrar hasta la meta.",
+   "frase_neutralizada": "Quedan tres kilómetros y estoy agotado, pero voy a resistir hasta la meta.",
+   "nota": "No contenía la expresión y usaba 'desafortuna', palabra inexistente."
+  },
+  {
+   "id": 2767,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Aunque la pega está difícil, hay que aperrar nomás y seguir pa' adelante.",
+   "frase_neutralizada": "Aunque el trabajo está difícil, hay que aguantar y seguir adelante.",
+   "nota": "No contenía la expresión; se incorporó manteniendo la idea."
+  },
+  {
+   "id": 2768,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Nadie se quería tirar del trampolín más alto, pero el Nacho aperró altiro.",
+   "frase_neutralizada": "Nadie se quería tirar del trampolín más alto, pero Nacho se atrevió de inmediato.",
+   "nota": "No contenía la expresión; nueva situación de riesgo para def 2."
+  },
+  {
+   "id": 2769,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¿Quién aperra a ir a hablar con la profe pa' que nos dé más plazo?",
+   "frase_neutralizada": "¿Quién se anima a ir a hablar con la profesora para que nos dé más plazo?",
+   "nota": "Sin expresión y sin sentido ('llamar a la cena')."
+  },
+  {
+   "id": 2770,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El camino a la laguna es peludo, pero si soi aperrado llegai igual.",
+   "frase_neutralizada": "El camino a la laguna es difícil, pero si eres valiente llegas de todos modos.",
+   "nota": "Frase rígida; se dio registro coloquial chileno."
+  },
+  {
+   "id": 2771,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La Cami es súper aperrada, renunció a la pega y se fue sola a vivir a Australia.",
+   "frase_neutralizada": "Camila es muy valiente, renunció a su trabajo y se fue sola a vivir a Australia.",
+   "nota": "Frase incoherente y poco natural; nueva situación."
+  },
+  {
+   "id": 2772,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con esa actitud tan aperrada vai a sacar adelante el negocio, compadre.",
+   "frase_neutralizada": "Con esa actitud tan valiente vas a sacar adelante el negocio, amigo.",
+   "nota": "Se hizo más coloquial y concreta."
+  },
+  {
+   "id": 2773,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuelo era aperrado, se enfrentó solo a los ladrones que entraron a la casa.",
+   "frase_neutralizada": "Mi abuelo era valiente, se enfrentó solo a los ladrones que entraron a la casa.",
+   "nota": "Contexto de batalla poco natural; situación cotidiana nueva."
+  },
+  {
+   "id": 2774,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Necesitamos a alguien aperrado que le diga al jefe que el proyecto se cayó.",
+   "frase_neutralizada": "Necesitamos a alguien valiente que le diga al jefe que el proyecto fracasó.",
+   "nota": "Frase forzada; se ajustó a un contexto natural."
+  },
+  {
+   "id": 2775,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Había tanta gente en la fila de la boletería que tuvimos que apiñarnos pa' no perder el puesto.",
+   "frase_neutralizada": "Había tanta gente en la fila de la taquilla que tuvimos que apretujarnos para no perder el lugar.",
+   "nota": "Neutral agramatical ('vamos a juntar'); mezclaba idea de apurarse."
+  },
+  {
+   "id": 2776,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En el concierto nos apiñamos todos adelante pa' ver mejor a la banda.",
+   "frase_neutralizada": "En el concierto nos amontonamos todos adelante para ver mejor a la banda.",
+   "nota": "Frase incoherente y neutral agramatical."
+  },
+  {
+   "id": 2777,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegaron como treinta invitados y tuvimos que apiñarnos en el living chiquitito.",
+   "frase_neutralizada": "Llegaron unos treinta invitados y tuvimos que apretujarnos en la sala pequeñita.",
+   "nota": "Neutral agramatical ('vamos a juntar'); se corrigió el verbo."
+  },
+  {
+   "id": 2778,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La camioneta es chica, pero si nos apiñamos cabemos los seis atrás, po.",
+   "frase_neutralizada": "La camioneta es pequeña, pero si nos apretujamos cabemos los seis atrás.",
+   "nota": "Neutral agramatical; se naturalizó la situación del vehículo."
+  },
+  {
+   "id": 2779,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En la micro a las ocho de la mañana la gente va toda apiñada como sardinas.",
+   "frase_neutralizada": "En el autobús a las ocho de la mañana la gente va toda apretujada como sardinas.",
+   "nota": "Contexto de desfile incoherente y neutral agramatical."
+  },
+  {
+   "id": 2780,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Cómo entraste tan rápido a la empresa? ¿Estabai apitutado con alguien?",
+   "frase_neutralizada": "¿Cómo entraste tan rápido a la empresa? ¿Tenías algún contacto que te ayudara?",
+   "nota": "No contenía la expresión; se agregó."
+  },
+  {
+   "id": 2781,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Yo no estoy apitutado con nadie, conseguí esta pega por mis propios méritos.",
+   "frase_neutralizada": "Yo no entré por recomendación de nadie, conseguí este trabajo por mis propios méritos.",
+   "nota": "No contenía la expresión; nueva frase."
+  },
+  {
+   "id": 2782,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al Felipe lo ascendieron altiro porque está apitutado con el gerente.",
+   "frase_neutralizada": "A Felipe lo ascendieron enseguida porque tiene influencias con el gerente.",
+   "nota": "Sin expresión y con errores gramaticales."
+  },
+  {
+   "id": 2783,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi primo quedó en la muni sin dar examen, si todos saben que es apitutado.",
+   "frase_neutralizada": "Mi primo quedó en la municipalidad sin hacer examen; todos saben que entró por influencias.",
+   "nota": "No contenía la expresión; se mantuvo la idea de contacto."
+  },
+  {
+   "id": 2784,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En esa oficina la mitad son apitutados del jefe, nadie entró por concurso.",
+   "frase_neutralizada": "En esa oficina la mitad entró por recomendación del jefe, nadie entró por concurso.",
+   "nota": "Neutral cambiaba el sentido ('es un contacto')."
+  },
+  {
+   "id": 2785,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Cuando sonó la alarma de la tienda, los cabros apretaron cachete y nadie los pilló.",
+   "frase_neutralizada": "Cuando sonó la alarma de la tienda, los muchachos huyeron a toda velocidad y nadie los atrapó.",
+   "nota": "No contenía la expresión; nueva situación de huida."
+  },
+  {
+   "id": 2786,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si el guardia del parque nos ve saltando la reja, hay que apretar cachete al tiro.",
+   "frase_neutralizada": "Si el guardia del parque nos ve saltando la reja, hay que salir corriendo de inmediato.",
+   "nota": "Sin expresión; neutral cambiaba el sentido ('prepárate')."
+  },
+  {
+   "id": 2787,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Los pacos nos venían persiguiendo y apretamos cachete por el pasaje.",
+   "frase_neutralizada": "Los policías nos venían persiguiendo y huimos corriendo por el callejón.",
+   "nota": "Se hizo más coloquial; neutral ajustada a huir."
+  },
+  {
+   "id": 2788,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Apretó cachete en la carretera pa' llegar antes de las nueve y casi lo para un control.",
+   "frase_neutralizada": "Manejó a toda velocidad en la carretera para llegar antes de las nueve y casi lo detienen en un control.",
+   "nota": "Neutral cambiaba el sentido ('se descontroló')."
+  },
+  {
+   "id": 2789,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Apreten cachete, cabros, que la micro se va y no pasa otra hasta en media hora.",
+   "frase_neutralizada": "Corran rápido, muchachos, que el autobús se va y no pasa otro hasta dentro de media hora.",
+   "nota": "Neutral errónea ('Prepáranse') y redundante."
+  },
+  {
+   "id": 2790,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¡Se despertó el perro del vecino, apreta cachete!",
+   "frase_neutralizada": "¡Se despertó el perro del vecino, huye rápido!",
+   "nota": "Contexto no implicaba arrancar; neutral cambiaba el sentido."
+  },
+  {
+   "id": 2791,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Rompimos el vidrio con la pelota, ¡apreta cachete antes que salga la señora!",
+   "frase_neutralizada": "Rompimos el vidrio con la pelota, ¡huye rápido antes de que salga la señora!",
+   "nota": "Frase incoherente; nueva situación de huida."
+  },
+  {
+   "id": 2792,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya nos vieron los guardias, apreta cachete pa' la salida.",
+   "frase_neutralizada": "Ya nos vieron los guardias, huye rápido hacia la salida.",
+   "nota": "No había huida y neutral no reflejaba arrancar."
+  },
+  {
+   "id": 2793,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Apreta cachete, que la micro está saliendo del paradero.",
+   "frase_neutralizada": "Corre rápido, que el autobús está saliendo de la parada.",
+   "nota": "Frase sin sentido ('carretera como riachuelo')."
+  },
+  {
+   "id": 2794,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Faltan diez minutos pa' que empiece la prueba, apreta cachete o no te dejan entrar.",
+   "frase_neutralizada": "Faltan diez minutos para que empiece el examen, corre rápido o no te dejan entrar.",
+   "nota": "Frase incoherente; nueva situación de correr rápido."
+  },
+  {
+   "id": 2795,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Apreten cuea, cabros, que la fiesta empieza a las diez y todavía estamos lejos.",
+   "frase_neutralizada": "Corran rápido, muchachos, que la fiesta empieza a las diez y todavía estamos lejos.",
+   "nota": "Faltaba urgencia; 'chicos' cambiado por cabros."
+  },
+  {
+   "id": 2796,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llegaron los dueños del terreno, ¡apreten cuea por el cerro!",
+   "frase_neutralizada": "Llegaron los dueños del terreno, ¡huyan corriendo por el cerro!",
+   "nota": "Mezclaba tú y ustedes, contradicción con 'no te preocupes'."
+  },
+  {
+   "id": 2797,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Apreté cuea pa' alcanzar el avión y llegué justo cuando estaban cerrando la puerta.",
+   "frase_neutralizada": "Corrí a toda velocidad para alcanzar el avión y llegué justo cuando estaban cerrando la puerta.",
+   "nota": "Discordancia ustedes/tú; se pasó a primera persona."
+  },
+  {
+   "id": 2798,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "A mi señora le vinieron las contracciones y tuve que apretar cuea al hospital.",
+   "frase_neutralizada": "A mi esposa le empezaron las contracciones y tuve que ir a toda prisa al hospital.",
+   "nota": "Frase escueta sin contexto de urgencia; se reformuló."
+  },
+  {
+   "id": 2799,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Vamos atrasados pa' la boda de mi prima, apreta cuea que nos va a matar.",
+   "frase_neutralizada": "Vamos atrasados para la boda de mi prima, apúrate que nos va a matar.",
+   "nota": "Faltaba urgencia; se añadió motivo del apuro."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 27,
+ "claves": [
+  "senda",
+  "sepa moya",
+  "ser mano de guagua",
+  "ser pollo",
+  "ser quedao",
+  "ser un cacho",
+  "sha",
+  "shaliwawa"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.25578520000000005,
+ "duracion_s": 96.1,
+ "pares": [
+  {
+   "id": 1080,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me tocó una senda prueba de matemáticas, como de diez páginas, po.",
+   "frase_neutralizada": "Me tocó una prueba de matemáticas enorme, como de diez páginas.",
+   "nota": "Usaba 'senda' como camino; ahora significa enorme."
+  },
+  {
+   "id": 1081,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Se armó un sendo taco en la Costanera, estuvimos como dos horas parados.",
+   "frase_neutralizada": "Se formó un embotellamiento enorme en la Costanera, estuvimos como dos horas detenidos.",
+   "nota": "Sentido de camino incorrecto; nueva frase con 'sendo' como enorme."
+  },
+  {
+   "id": 1082,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oh, mira la senda casa que se compró el Pancho, tiene hasta piscina.",
+   "frase_neutralizada": "Oh, mira la casa enorme que se compró Pancho, tiene hasta piscina.",
+   "nota": "'Senda grande de la casa' era agramatical; se ajustó la estructura."
+  },
+  {
+   "id": 1083,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No creo que ese sendo camión entre por el portón de la casa.",
+   "frase_neutralizada": "No creo que ese camión enorme entre por el portón de la casa.",
+   "nota": "Frase poco natural; se reformuló manteniendo la idea de no caber."
+  },
+  {
+   "id": 1084,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Qué senda cuea tuvo el Juan, se ganó el Kino a la primera.",
+   "frase_neutralizada": "Qué suerte tan enorme tuvo Juan, ganó la lotería a la primera.",
+   "nota": "Redundante con 'tremenda'; se usa 'senda cuea' natural. Definiciones equivalentes."
+  },
+  {
+   "id": 1085,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—¿Dónde dejaste las llaves del auto? —Sepa moya, las tenía hace un rato en la mano.",
+   "frase_neutralizada": "—¿Dónde dejaste las llaves del auto? —Ni idea, las tenía hace un rato en la mano.",
+   "nota": "No incluía la expresión y era incoherente."
+  },
+  {
+   "id": 1086,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Cómo se llamaba el actor de esa serie? Sepa moya, se me borró.",
+   "frase_neutralizada": "¿Cómo se llamaba el actor de esa serie? Ni idea, se me olvidó.",
+   "nota": "No contenía la expresión; se agregó en contexto de respuesta."
+  },
+  {
+   "id": 1087,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Quién chocó el auto? —Sepa moya, yo ni lo he sacado esta semana.",
+   "frase_neutralizada": "—¿Quién chocó el auto? —Quién sabe, yo ni lo he sacado esta semana.",
+   "nota": "Frase incoherente y neutral cambiaba el sentido."
+  },
+  {
+   "id": 1088,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "—¿Qué le pasa al gato de la vecina que maúlla tanto? —Sepa moya, ayer estaba lo más bien.",
+   "frase_neutralizada": "—¿Qué le pasa al gato de la vecina que maúlla tanto? —Quién sabe, ayer estaba perfectamente.",
+   "nota": "Usaba la expresión como pregunta; ahora es respuesta de desconocimiento."
+  },
+  {
+   "id": 1089,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "—¿Qué le vai a regalar a tu polola para el cumpleaños? —Sepa moya, no se me ocurre nada.",
+   "frase_neutralizada": "—¿Qué le vas a regalar a tu novia para su cumpleaños? —Ni idea, no se me ocurre nada.",
+   "nota": "No incluía la expresión."
+  },
+  {
+   "id": 1090,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El Rodrigo nunca pone plata pa' la cuenta cuando salimos, es más mano de guagua.",
+   "frase_neutralizada": "Rodrigo nunca pone dinero para la cuenta cuando salimos, es tan tacaño.",
+   "nota": "Muy calcada del ejemplo; se naturalizó con rasgos chilenos."
+  },
+  {
+   "id": 1091,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi tío es tan mano de guagua que ni para el regalo de mi prima se pone.",
+   "frase_neutralizada": "Mi tío es tan tacaño que ni siquiera aporta para el regalo de mi prima.",
+   "nota": "'Es una mano de guagua' poco natural; se reformuló."
+  },
+  {
+   "id": 1092,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No le pidai plata a tu abuelo pa' la mochila, si es más mano de guagua que la cresta.",
+   "frase_neutralizada": "No le pidas dinero a tu abuelo para la mochila, es tremendamente tacaño.",
+   "nota": "Estructura repetitiva y poco natural; se variaron situación y estilo."
+  },
+  {
+   "id": 1093,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El jefe no quiso pagar ni las once de la oficina, es súper mano de guagua.",
+   "frase_neutralizada": "El jefe no quiso pagar ni la merienda de la oficina, es muy tacaño.",
+   "nota": "Plantilla repetida; se cambió a situación cotidiana más natural."
+  },
+  {
+   "id": 1094,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Juntamos plata pa' la Teletón y el Pato no puso ni una luca; es terrible mano de guagua.",
+   "frase_neutralizada": "Reunimos dinero para la Teletón y Pato no puso ni mil pesos; es tremendamente tacaño.",
+   "nota": "Plantilla repetida y poco natural; se dio contexto concreto."
+  },
+  {
+   "id": 1095,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Nico es muy pollo, la mina le tiraba los tejos toda la noche y ni cachó.",
+   "frase_neutralizada": "Nico es muy despistado, la chica le coqueteaba toda la noche y ni se dio cuenta.",
+   "nota": "Neutral omitía el sentido de 'pollo'; nueva situación natural."
+  },
+  {
+   "id": 1096,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No seai pollo, si te ofrecen el ascenso tenís que aceptarlo altiro.",
+   "frase_neutralizada": "No seas tonto, si te ofrecen el ascenso tienes que aceptarlo de inmediato.",
+   "nota": "'La abuela pollo' no tenía sentido; neutral omitía el significado."
+  },
+  {
+   "id": 1097,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Le robaron la billetera en la micro y el weón pollo ni se dio cuenta.",
+   "frase_neutralizada": "Le robaron la billetera en el autobús y el idiota ni se dio cuenta.",
+   "nota": "Neutral eliminaba el sentido y el registro grosero."
+  },
+  {
+   "id": 1098,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El profe preguntó quién quería ir al intercambio y el pollo del Seba ni levantó la mano.",
+   "frase_neutralizada": "El profesor preguntó quién quería ir al intercambio y el tonto de Seba ni levantó la mano.",
+   "nota": "Frase sin sentido de falta de iniciativa; neutral omitía 'pollo'."
+  },
+  {
+   "id": 1099,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Quedó solo frente al arco y el pollo del delantero se la pasó al arquero.",
+   "frase_neutralizada": "Quedó solo frente a la portería y el despistado del delantero se la pasó al portero.",
+   "nota": "Neutral omitía 'pollo'; nueva situación de falta de iniciativa."
+  },
+  {
+   "id": 1100,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No te voy a dar la parte importante del trabajo, Juan, erís muy quedao.",
+   "frase_neutralizada": "No te voy a dar la parte importante del trabajo, Juan, eres muy perezoso.",
+   "nota": "Frase incoherente y neutral cambiaba la intención."
+  },
+  {
+   "id": 1101,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi primo es súper quedao, lleva tres años sin buscar pega y ni le importa.",
+   "frase_neutralizada": "Mi primo es muy perezoso, lleva tres años sin buscar trabajo y ni le importa.",
+   "nota": "Generalización forzada y agramatical ('son quedao'); nueva situación."
+  },
+  {
+   "id": 1102,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hermano es tan quedao que estudia la noche antes y se conforma con un cuatro.",
+   "frase_neutralizada": "Mi hermano es tan perezoso que estudia la noche anterior y se conforma con la nota mínima.",
+   "nota": "Primera parte incoherente; se conservó la idea del hermano en estudios."
+  },
+  {
+   "id": 1103,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No lo invitís al trekking, es muy quedao y a la primera subida se va a querer devolver.",
+   "frase_neutralizada": "No lo invites a la caminata, es muy perezoso y en la primera subida va a querer regresar.",
+   "nota": "Frase incoherente; se mantuvo el contexto deportivo con sentido claro."
+  },
+  {
+   "id": 1104,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "En los trabajos en grupo siempre hay uno quedao que no hace nada y igual se saca buena nota.",
+   "frase_neutralizada": "En los trabajos en grupo siempre hay uno perezoso que no hace nada y aun así saca buena nota.",
+   "nota": "Se dio más contexto y se cambió 'poco empeñado' por 'perezoso'."
+  },
+  {
+   "id": 1105,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "No le pidai ayuda al Miguel con la mudanza, va a ser un cacho, reclama por todo.",
+   "frase_neutralizada": "No le pidas ayuda a Miguel con la mudanza, va a ser un problema, se queja de todo.",
+   "nota": "Copiaba casi literal el ejemplo del diccionario."
+  },
+  {
+   "id": 1106,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llevar a la guagua al matrimonio va a ser un cacho, mejor la dejamos con mi mamá.",
+   "frase_neutralizada": "Llevar al bebé a la boda va a ser un problema, mejor lo dejamos con mi mamá.",
+   "nota": "Frase vaga; se dio contexto concreto y natural."
+  },
+  {
+   "id": 1107,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si el Felipe se pone a curarse va a ser un cacho, así que me voy temprano de la fiesta.",
+   "frase_neutralizada": "Si Felipe se pone a emborracharse va a ser un problema, así que me voy temprano de la fiesta.",
+   "nota": "Faltaba sujeto claro; se agregó contexto."
+  },
+  {
+   "id": 1108,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hacer el trámite en el banco es un cacho, te tienen dos horas haciendo fila.",
+   "frase_neutralizada": "Hacer el trámite en el banco es un fastidio, te tienen dos horas haciendo fila.",
+   "nota": "Repetía el ejemplo del diccionario; nueva situación."
+  },
+  {
+   "id": 1109,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese proyecto es un cacho, nadie quiere hacerse cargo y se cae a cada rato.",
+   "frase_neutralizada": "Ese proyecto es un problema, nadie quiere hacerse cargo y falla a cada rato.",
+   "nota": "Se eliminó la duda poco relacionada y se reforzó el sentido."
+  },
+  {
+   "id": 1110,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Shaaa, ¿viste el choque que hubo en la esquina? Quedó la cagá.",
+   "frase_neutralizada": "¡Uf! ¿Viste el choque que hubo en la esquina? Fue un desastre horrible.",
+   "nota": "No incluía la expresión y era incoherente."
+  },
+  {
+   "id": 1111,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Sha, otra vez se cortó la luz y yo con el celular sin batería.",
+   "frase_neutralizada": "¡Uf! Otra vez se cortó la luz y yo con el celular sin batería.",
+   "nota": "Neutral dejaba 'sha'; ahora expresa molestia."
+  },
+  {
+   "id": 1112,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Shaaa, qué golazo le metiste, hermano, desde media cancha.",
+   "frase_neutralizada": "¡Guau, qué golazo metiste, hermano, desde media cancha!",
+   "nota": "Neutral mantenía 'sha' y 'chiste' cambiaba el sentido."
+  },
+  {
+   "id": 1113,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Shaaa, la media lata, mañana tengo prueba y no he estudiado nada.",
+   "frase_neutralizada": "¡Uf, qué fastidio! Mañana tengo examen y no he estudiado nada.",
+   "nota": "Neutral conservaba 'sha'; nueva situación aburrida o molesta."
+  },
+  {
+   "id": 1114,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Shaaa, ¿te fijaste en el auto que pasó? Iba como a doscientos.",
+   "frase_neutralizada": "¡Guau! ¿Te fijaste en el auto que pasó? Iba como a doscientos.",
+   "nota": "Neutral conservaba 'sha' y tenía error ('penaltía')."
+  },
+  {
+   "id": 1115,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, el tema nuevo del Pablo Chill-E está shaliwawa, no he parado de escucharlo.",
+   "frase_neutralizada": "Oye, la canción nueva de Pablo Chill-E está impresionante, no he parado de escucharla.",
+   "nota": "Uso agramatical y neutral cambiaba a 'extraña'."
+  },
+  {
+   "id": 1116,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Saltó del techo a la piscina, ¿cachai? Fue terrible shaliwawa.",
+   "frase_neutralizada": "Saltó del techo a la piscina, ¿entiendes? Fue una locura tremenda.",
+   "nota": "Frase incoherente; nueva situación descabellada."
+  },
+  {
+   "id": 1117,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El pololo de la Cami le pidió matrimonio en pleno concierto, demasiado shaliwawa.",
+   "frase_neutralizada": "El novio de Cami le pidió matrimonio en pleno concierto, una locura total.",
+   "nota": "Interpretaba 'extraño'; ahora significa impresionante o loco."
+  },
+  {
+   "id": 1118,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tu proyecto está shaliwawa, hermano, ¿cómo lo vai a terminar en una semana?",
+   "frase_neutralizada": "Tu proyecto es una locura, hermano, ¿cómo lo vas a terminar en una semana?",
+   "nota": "Se ajustó la neutral a 'locura' y se naturalizó la frase chilena."
+  },
+  {
+   "id": 1119,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "La fiesta de anoche estuvo shaliwawa, terminamos bailando arriba de la mesa.",
+   "frase_neutralizada": "La fiesta de anoche estuvo de locura, terminamos bailando encima de la mesa.",
+   "nota": "Uso agramatical y sentido 'extraño' incorrecto."
+  }
+ ]
+}

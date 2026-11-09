@@ -1,0 +1,340 @@
+{
+ "lote": 59,
+ "claves": [
+  "pudiente",
+  "puelche",
+  "pulento",
+  "puntudo",
+  "pura challa",
+  "que corra",
+  "que fai",
+  "que onda"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.2318717,
+ "duracion_s": 81.9,
+ "pares": [
+  {
+   "id": 2360,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Su familia es súper pudiente, todos los años veranean en Europa po.",
+   "frase_neutralizada": "Su familia es muy adinerada, todos los años pasan el verano en Europa.",
+   "nota": "No contenía la expresión; nueva frase sobre familia adinerada."
+  },
+  {
+   "id": 2361,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El pololo de la Cata es pudiente, la llevó a cenar a un restorán carísimo.",
+   "frase_neutralizada": "El novio de Cata es adinerado, la llevó a cenar a un restaurante carísimo.",
+   "nota": "No contenía la expresión; reescrito con uso real."
+  },
+  {
+   "id": 2362,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "En ese colegio son puros cabros pudientes, la mensualidad cuesta un ojo de la cara.",
+   "frase_neutralizada": "En ese colegio solo hay chicos adinerados, la mensualidad cuesta una fortuna.",
+   "nota": "No contenía la expresión; nueva situación."
+  },
+  {
+   "id": 2363,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El dueño de ese restorán es pudiente, tiene como tres casas en la playa.",
+   "frase_neutralizada": "El dueño de ese restaurante es adinerado, tiene como tres casas en la playa.",
+   "nota": "Comparación 'como una casa' sin sentido; neutral redundante."
+  },
+  {
+   "id": 2364,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese chilote se hizo pudiente invirtiendo en salmoneras, ahora tiene harta plata.",
+   "frase_neutralizada": "Ese hombre de Chiloé se hizo rico invirtiendo en criaderos de salmón, ahora tiene mucho dinero.",
+   "nota": "Faltaba la expresión y la neutral cambiaba el número."
+  },
+  {
+   "id": 2365,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Está soplando un puelche terrible, mejor no salgo a trabajar al campo hoy.",
+   "frase_neutralizada": "Está soplando un viento de la cordillera muy fuerte, mejor no salgo a trabajar al campo hoy.",
+   "nota": "Neutral perdía el origen cordillerano del viento."
+  },
+  {
+   "id": 2366,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pa salir a navegar hay que esperar que se calme el puelche, cachai.",
+   "frase_neutralizada": "Para salir a navegar hay que esperar a que se calme el viento de la cordillera, ¿entiendes?",
+   "nota": "Se precisa el viento cordillerano y se agrega habla coloquial."
+  },
+  {
+   "id": 2367,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Con este puelche tibiecito dan ganas de ir a la playa igual, aunque sea invierno.",
+   "frase_neutralizada": "Con este viento cálido de la cordillera dan ganas de ir a la playa de todos modos, aunque sea invierno.",
+   "nota": "Se ilustra el carácter tibio del viento (def 2)."
+  },
+  {
+   "id": 2368,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Cierra las ventanas po, que el puelche está llenando la casa de tierra.",
+   "frase_neutralizada": "Cierra las ventanas, que el viento de la cordillera está llenando la casa de tierra.",
+   "nota": "Neutral perdía el sentido específico del viento."
+  },
+  {
+   "id": 2369,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "Llegó el puelche y subió la temperatura altiro, en pleno invierno.",
+   "frase_neutralizada": "Llegó el viento cálido de la cordillera y subió la temperatura de inmediato, en pleno invierno.",
+   "nota": "Frase original poco natural; se ilustra viento tibio."
+  },
+  {
+   "id": 2370,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¡Qué pulenta la comida de este local, está mejor que en un restorán cinco estrellas!",
+   "frase_neutralizada": "¡Qué buena la comida de este lugar, está mejor que en un restaurante de cinco estrellas!",
+   "nota": "Estructura más natural; neutral ajustada."
+  },
+  {
+   "id": 2371,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese jugador es pulento, se pasó a tres defensas y la clavó en el ángulo.",
+   "frase_neutralizada": "Ese jugador es buenísimo, se pasó a tres defensas y la metió en el ángulo.",
+   "nota": "Comparación literal con filete de carne sin sentido."
+  },
+  {
+   "id": 2372,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Ya, pero dime la pulenta, ¿de verdad te vai a vivir a Australia?",
+   "frase_neutralizada": "Bueno, pero dime la verdad, ¿de verdad te vas a vivir a Australia?",
+   "nota": "'La pulenta' se usa como 'la verdad', no como adjetivo."
+  },
+  {
+   "id": 2373,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿La pulenta? ¿Te ganaste el Kino de verdad, weón?",
+   "frase_neutralizada": "¿En serio? ¿De verdad ganaste la lotería, amigo?",
+   "nota": "Original explicaba la expresión y la neutral era agramatical."
+  },
+  {
+   "id": 2374,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, el concierto de anoche estuvo pulento, el mejor que he visto en mi vida.",
+   "frase_neutralizada": "Oye, el concierto de anoche estuvo genial, el mejor que he visto en mi vida.",
+   "nota": "Def 3 con votos negativos y dudosa; se usa def 1."
+  },
+  {
+   "id": 2375,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Definición con votos negativos y ejemplo incoherente; uso no verificable."
+  },
+  {
+   "id": 2376,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Expresión descartada: definición sin uso real comprobable."
+  },
+  {
+   "id": 2377,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Expresión descartada: definición sin uso real comprobable."
+  },
+  {
+   "id": 2378,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Expresión descartada: definición sin uso real comprobable."
+  },
+  {
+   "id": 2379,
+   "accion": "descartado",
+   "def": 0,
+   "frase_chilena": "",
+   "frase_neutralizada": "",
+   "nota": "Expresión descartada: definición sin uso real comprobable."
+  },
+  {
+   "id": 2380,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La publicidad del producto nuevo es pura challa, al final es lo mismo de siempre.",
+   "frase_neutralizada": "La publicidad del producto nuevo es pura apariencia, al final es lo mismo de siempre.",
+   "nota": "Orden forzado; neutral 'escasa consistencia' poco natural."
+  },
+  {
+   "id": 2381,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ese candidato es pura challa, harto discurso bonito pero nunca ha hecho nada.",
+   "frase_neutralizada": "Ese candidato es pura fachada, mucho discurso bonito pero nunca ha hecho nada.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2382,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿El nuevo gerente es pura challa o de verdad sabe lo que hace?",
+   "frase_neutralizada": "¿El nuevo gerente es pura apariencia o de verdad sabe lo que hace?",
+   "nota": "Frase ambigua; neutral invertía el orden y era poco natural."
+  },
+  {
+   "id": 2383,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El Diego se las da de bacán en Instagram, pero es pura challa no más.",
+   "frase_neutralizada": "Diego presume de ser genial en Instagram, pero es pura apariencia y nada más.",
+   "nota": "No contenía la expresión."
+  },
+  {
+   "id": 2384,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El discurso del alcalde fue pura challa, no anunció ni una medida concreta.",
+   "frase_neutralizada": "El discurso del alcalde fue pura apariencia, no anunció ni una sola medida concreta.",
+   "nota": "Coma incorrecta; neutral poco natural."
+  },
+  {
+   "id": 2385,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ya cabros, que corra la pipa, que todos quieren probar.",
+   "frase_neutralizada": "Bueno, chicos, pasen la pipa, que todos quieren probar.",
+   "nota": "Neutral decía 'compartir el tabaco', perdía el sentido de rotar."
+  },
+  {
+   "id": 2386,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, que corra el pito po, llevai como diez minutos con él.",
+   "frase_neutralizada": "Oye, pasa el porro, llevas como diez minutos con él.",
+   "nota": "Sentido equivocado (historia); nuevo par sobre rotar marihuana."
+  },
+  {
+   "id": 2387,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Que corra la botella de pisco, que aquí nadie ha tomado todavía.",
+   "frase_neutralizada": "Que pase la botella de pisco de mano en mano, que aquí nadie ha bebido todavía.",
+   "nota": "Neutral cambiaba el sentido; error de concordancia 'este fiesta'."
+  },
+  {
+   "id": 2388,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Si lo compramos entre todos, que corra pa todos igual, ¿cachai?",
+   "frase_neutralizada": "Si lo compramos entre todos, que se pase a todos por igual, ¿entiendes?",
+   "nota": "Frase incoherente y neutral agramatical."
+  },
+  {
+   "id": 2389,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, sin egoísmo, que corra el caño, que somos cinco.",
+   "frase_neutralizada": "Bueno, sin egoísmo, pasen el porro, que somos cinco.",
+   "nota": "Sentido equivocado (charla sobre libro)."
+  },
+  {
+   "id": 2390,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué fai este finde? Vamos a la playa con los cabros.",
+   "frase_neutralizada": "¿Qué haces este fin de semana? Vamos a la playa con los chicos.",
+   "nota": "Uso sin sentido; 'qué fai' equivale a '¿qué haces?'."
+  },
+  {
+   "id": 2391,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Hola weón, ¿qué fai? Hace caleta que no te veía.",
+   "frase_neutralizada": "Hola, amigo, ¿qué haces? Hace mucho tiempo que no te veía.",
+   "nota": "Uso incoherente; ahora como saludo coloquial."
+  },
+  {
+   "id": 2392,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué fai acá tan temprano? Si la pega empieza a las nueve.",
+   "frase_neutralizada": "¿Qué haces aquí tan temprano? Si el trabajo empieza a las nueve.",
+   "nota": "'Qué fai el chilote' agramatical; nueva situación."
+  },
+  {
+   "id": 2393,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Oye, ¿qué fai esta noche? ¿Te tinca ir por unas chelas?",
+   "frase_neutralizada": "Oye, ¿qué haces esta noche? ¿Te animas a ir por unas cervezas?",
+   "nota": "'Qué fai el gato' agramatical; nueva situación."
+  },
+  {
+   "id": 2394,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Qué fai metido en la pieza todo el día? Sale un rato po.",
+   "frase_neutralizada": "¿Qué haces encerrado en la habitación todo el día? Sal un rato.",
+   "nota": "'Qué fai el lápiz' agramatical; nueva situación."
+  },
+  {
+   "id": 2395,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿qué onda? ¿Por qué andai tan enojado hoy?",
+   "frase_neutralizada": "Oye, ¿qué pasa? ¿Por qué estás tan enojado hoy?",
+   "nota": "Neutral cambiaba a saludo y tenía signos mal puestos."
+  },
+  {
+   "id": 2396,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¿Qué onda, amor? Te noto rara desde que llegaste de la pega.",
+   "frase_neutralizada": "¿Qué pasa, amor? Te noto rara desde que llegaste del trabajo.",
+   "nota": "Usaba saludo, no '¿qué pasa?'; error en '¿cómo te fue tu día?'."
+  },
+  {
+   "id": 2397,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Qué onda, cabros? ¿Por qué están todos gritando en el pasillo?",
+   "frase_neutralizada": "¿Qué pasa, chicos? ¿Por qué están todos gritando en el pasillo?",
+   "nota": "Se agregan signos de interrogación y contexto más natural."
+  },
+  {
+   "id": 2398,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "¿Qué onda con la luz? Se cortó en toda la calle.",
+   "frase_neutralizada": "¿Qué pasa con la luz? Se cortó en toda la calle.",
+   "nota": "Mezclaba '¿qué tal?' redundante y signos mal puestos."
+  },
+  {
+   "id": 2399,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¿Qué onda que no llegaste al cumple ayer? Te estuvimos esperando.",
+   "frase_neutralizada": "¿Qué pasó que no llegaste al cumpleaños ayer? Te estuvimos esperando.",
+   "nota": "'No te llamaste' agramatical; neutral cambiaba el sentido."
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "lote": 58,
+ "claves": [
+  "ponte tu",
+  "por si las moscas",
+  "porfa",
+  "porfiado",
+  "porsiaca",
+  "posta",
+  "privarse",
+  "pucha"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.23111410000000002,
+ "duracion_s": 80.6,
+ "pares": [
+  {
+   "id": 2320,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hay harta comida que te puede gustar acá, ponte tú el asado o las empanadas de pino.",
+   "frase_neutralizada": "Aquí hay mucha comida que te puede gustar, por ejemplo, el asado o las empanadas de carne.",
+   "nota": "Neutral mal traducida (imagina que comieras); ahora usa 'por ejemplo'."
+  },
+  {
+   "id": 2321,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Hay películas de terror buenísimas, ponte tú El Exorcista, que la veís y no dormís en una semana.",
+   "frase_neutralizada": "Hay películas de terror buenísimas, por ejemplo, El exorcista, que la ves y no duermes en una semana.",
+   "nota": "Frase incoherente; ahora da un ejemplo concreto."
+  },
+  {
+   "id": 2322,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ponte tú que te ofrecen pega en el norte, ¿te irías o te quedai acá?",
+   "frase_neutralizada": "Imagínate que te ofrecen trabajo en el norte, ¿te irías o te quedas aquí?",
+   "nota": "Uso forzado; ahora ilustra el sentido 'imagínate que'."
+  },
+  {
+   "id": 2323,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si quieren hacer algo entrete el viernes, ponte tú un Monopoly o un Uno en la casa.",
+   "frase_neutralizada": "Si quieren hacer algo divertido el viernes, por ejemplo, un Monopoly o un Uno en casa.",
+   "nota": "Neutral añadía 'imagina que tú'; simplificado y con chilenismos."
+  },
+  {
+   "id": 2324,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ponte tú que se te cae el celular al agua, ¿tenís seguro o no?",
+   "frase_neutralizada": "Imagínate que se te cae el celular al agua, ¿tienes seguro o no?",
+   "nota": "Frase sin sentido; nueva situación hipotética."
+  },
+  {
+   "id": 2325,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si van a subir el cerro, lleven harta agua por si las moscas.",
+   "frase_neutralizada": "Si van a subir el cerro, lleven mucha agua por si acaso.",
+   "nota": "Errores gramaticales ('llevalo de agua') y neutral con cambio de persona."
+  },
+  {
+   "id": 2326,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Anota mi número por si las moscas, que en la oficina a veces no hay señal.",
+   "frase_neutralizada": "Anota mi número por si acaso, que en la oficina a veces no hay señal.",
+   "nota": "La frase no contenía la expresión."
+  },
+  {
+   "id": 2327,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Voy a llevar unas papitas al carrete por si las moscas, uno nunca sabe si alcanza la comida.",
+   "frase_neutralizada": "Voy a llevar unas papas fritas a la fiesta por si acaso, nunca se sabe si alcanza la comida.",
+   "nota": "Neutral añadía 'de reserva'; frase más natural."
+  },
+  {
+   "id": 2328,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Échate la pelota a la mochila por si las moscas, capaz que haya pichanga en la plaza.",
+   "frase_neutralizada": "Mete la pelota en la mochila por si acaso, puede que haya un partido en la plaza.",
+   "nota": "Más natural; neutral simplificada a 'por si acaso'."
+  },
+  {
+   "id": 2329,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llévate un chaleco al teatro por si las moscas, que adentro ponen el aire súper helado.",
+   "frase_neutralizada": "Llévate un suéter al teatro por si acaso, que adentro ponen el aire muy frío.",
+   "nota": "Neutral añadía 'de reserva'; se agregó contexto natural."
+  },
+  {
+   "id": 2330,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Porfa, pásame el cheque antes de que cierre el banco.",
+   "frase_neutralizada": "Por favor, pásame el cheque antes de que cierre el banco.",
+   "nota": "'Te traigo' no es una petición; ahora sí lo es."
+  },
+  {
+   "id": 2331,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Porfa, ábreme la puerta, que vengo con las manos llenas de bolsas.",
+   "frase_neutralizada": "Por favor, ábreme la puerta, que vengo con las manos llenas de bolsas.",
+   "nota": "'Abro' en primera persona era incorrecto; chilena y neutral no coincidían."
+  },
+  {
+   "id": 2332,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mamá, déjame ir al carrete, porfa, te prometo que llego temprano.",
+   "frase_neutralizada": "Mamá, déjame ir a la fiesta, por favor, te prometo que llego temprano.",
+   "nota": "'Deja que me vayas' era agramatical."
+  },
+  {
+   "id": 2333,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, porfa, recuérdales a los chiquillos que el sábado es mi cumpleaños.",
+   "frase_neutralizada": "Oye, por favor, recuérdales a los chicos que el sábado es mi cumpleaños.",
+   "nota": "Neutral cambiaba el significado; las definiciones 1 y 2 son un mismo sentido."
+  },
+  {
+   "id": 2334,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Porfa, déjame sacarte una foto con el perrito, salen demasiado tiernos.",
+   "frase_neutralizada": "Por favor, déjame tomarte una foto con el perrito, salen muy tiernos.",
+   "nota": "Neutral cambiaba la estructura; ahora es fiel a la frase original."
+  },
+  {
+   "id": 2335,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Te dije mil veces que no tocarai la estufa, ¡erís más porfiado!",
+   "frase_neutralizada": "Te dije mil veces que no tocaras la estufa, ¡eres muy desobediente!",
+   "nota": "Usaba porfiado como 'atrasado'; ahora es desobediente."
+  },
+  {
+   "id": 2336,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La Cata es súper porfiada, le dije que le echara menos sal a la cazuela y igual le echó un montón.",
+   "frase_neutralizada": "Cata es muy terca, le dije que le pusiera menos sal al guiso y de todas formas le puso un montón.",
+   "nota": "La neutral perdía el sentido de obstinación."
+  },
+  {
+   "id": 2337,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No seai porfiado, cabro, si el árbitro cobró falta, es falta no más.",
+   "frase_neutralizada": "No seas terco, chico, si el árbitro pitó falta, es falta y ya.",
+   "nota": "Tenía voseo rioplatense ('obedecé'); se cambió a habla chilena."
+  },
+  {
+   "id": 2338,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mi hija es tan porfiada, le digo que cierre la puerta al salir y siempre la deja abierta.",
+   "frase_neutralizada": "Mi hija es tan desobediente, le digo que cierre la puerta al salir y siempre la deja abierta.",
+   "nota": "La frase era incoherente; ahora muestra la desobediencia."
+  },
+  {
+   "id": 2339,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi viejo es más porfiado, no quiere ir al doctor aunque lleva una semana con tos.",
+   "frase_neutralizada": "Mi papá es muy terco, no quiere ir al médico aunque lleva una semana con tos.",
+   "nota": "'En su propio mundo' no es porfía."
+  },
+  {
+   "id": 2340,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana prendo el aire temprano porsiaca, dijeron que va a hacer un calor de locos.",
+   "frase_neutralizada": "Mañana enciendo el aire temprano por si acaso, dijeron que va a hacer muchísimo calor.",
+   "nota": "No contenía 'porsiaca' y la neutral cambiaba la persona."
+  },
+  {
+   "id": 2341,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Llévate el paraguas porsiaca, mira que está bien nublado.",
+   "frase_neutralizada": "Llévate el paraguas por si acaso, mira que está muy nublado.",
+   "nota": "Usaba 'porsiaca' como muletilla sin sentido."
+  },
+  {
+   "id": 2342,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te mandé el informe también al correo porsiaca.",
+   "frase_neutralizada": "Te envié el informe también por correo, por si acaso.",
+   "nota": "Era redundante y la neutral omitía la expresión. Ambas definiciones son un mismo sentido."
+  },
+  {
+   "id": 2343,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pasa a buscar el paquete hoy porsiaca, no vaya a ser que lo devuelvan.",
+   "frase_neutralizada": "Pasa a recoger el paquete hoy por si acaso, no vaya a ser que lo devuelvan.",
+   "nota": "No contenía 'porsiaca' y tenía 'recogerte' mal usado."
+  },
+  {
+   "id": 2344,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Revisa que el refri quede bien cerrado porsiaca, la otra vez se echó a perder todo.",
+   "frase_neutralizada": "Revisa que el refrigerador quede bien cerrado por si acaso, la otra vez se echó a perder todo.",
+   "nota": "No contenía la expresión y la neutral omitía el 'por si acaso'."
+  },
+  {
+   "id": 2345,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana tengo que ir temprano a la posta a pedir hora pal doctor.",
+   "frase_neutralizada": "Mañana tengo que ir temprano al centro de salud a pedir cita con el médico.",
+   "nota": "Más natural; 'clínica rural' se cambió por 'centro de salud'."
+  },
+  {
+   "id": 2346,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Vai a tener que ir a la posta el sábado a buscar los remedios de tu abuela?",
+   "frase_neutralizada": "¿Vas a tener que ir al centro de salud el sábado a buscar los medicamentos de tu abuela?",
+   "nota": "Se le dio contexto y se usó 'centro de salud'."
+  },
+  {
+   "id": 2347,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "A la guagua le tocan las vacunas y en la posta del pueblo no quedaban.",
+   "frase_neutralizada": "Al bebé le tocan las vacunas y en el centro de salud del pueblo no quedaban.",
+   "nota": "Decía 'farmacia en la posta', algo incoherente."
+  },
+  {
+   "id": 2348,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Al Lucho lo pateó un caballo y lo llevaron corriendo a la posta.",
+   "frase_neutralizada": "A Luis lo pateó un caballo y lo llevaron corriendo al centro de salud.",
+   "nota": "Trataba la posta como un lugar de entretención."
+  },
+  {
+   "id": 2349,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Sabís si en la posta atiende algún doctor en la mañana? Mi mamá anda con fiebre.",
+   "frase_neutralizada": "¿Sabes si en el centro de salud atiende algún médico por la mañana? Mi mamá tiene fiebre.",
+   "nota": "'Posta de la mañana' era incorrecto."
+  },
+  {
+   "id": 2350,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me hablís ahora, que estoy privao con lo que me hiciste ayer.",
+   "frase_neutralizada": "No me hables ahora, que estoy enojado por lo que me hiciste ayer.",
+   "nota": "Copiaba el ejemplo y usaba 'disturbes' en la neutral."
+  },
+  {
+   "id": 2351,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "La María se privó porque no la invitamos al curanto y ahora no contesta el teléfono.",
+   "frase_neutralizada": "María se enojó porque no la invitamos a la comida y ahora no contesta el teléfono.",
+   "nota": "Se le dio contexto y se usó la forma verbal 'se privó'."
+  },
+  {
+   "id": 2352,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi papá se privó cuando vio el portón abierto y las ovejas arrancadas.",
+   "frase_neutralizada": "Mi papá se enojó cuando vio el portón abierto y las ovejas escapadas.",
+   "nota": "La frase era incoherente y repetía otra."
+  },
+  {
+   "id": 2353,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "¿Por qué andai tan privao? ¿Te fue mal en la pesca?",
+   "frase_neutralizada": "¿Por qué andas tan enojado? ¿Te fue mal en la pesca?",
+   "nota": "'No te avergüences, estás privao' era incoherente."
+  },
+  {
+   "id": 2354,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ya, no te prives por tan poca cosa, si fue sin querer.",
+   "frase_neutralizada": "Bueno, no te enojes por tan poca cosa, fue sin querer.",
+   "nota": "La frase no tenía sentido; ahora usa el imperativo."
+  },
+  {
+   "id": 2355,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pucha, la comida me quedó desabrida, se me olvidó echarle sal.",
+   "frase_neutralizada": "Rayos, la comida me quedó sin sabor, se me olvidó echarle sal.",
+   "nota": "La neutral cambiaba la estructura; ahora mantiene la interjección."
+  },
+  {
+   "id": 2356,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pucha cái, fui dos veces al súper y no había ni una palta.",
+   "frase_neutralizada": "Rayos, fui dos veces al supermercado y no había ni un aguacate.",
+   "nota": "'Me pasaron al supermercado' era agramatical."
+  },
+  {
+   "id": 2357,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pucha oh, se me cayó el internet justo en medio de la presentación.",
+   "frase_neutralizada": "Diablos, se me cayó el internet justo en medio de la presentación.",
+   "nota": "La neutral omitía la interjección de disgusto."
+  },
+  {
+   "id": 2358,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pucha, dejé el libro en la oficina y lo necesitaba pa estudiar hoy.",
+   "frase_neutralizada": "Qué mala suerte, dejé el libro en la oficina y lo necesitaba para estudiar hoy.",
+   "nota": "La neutral cambiaba la estructura; ahora es más natural."
+  },
+  {
+   "id": 2359,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Pucha, se me cayó el celu al agua y no prende ni a palos.",
+   "frase_neutralizada": "Rayos, se me cayó el celular al agua y no enciende de ninguna manera.",
+   "nota": "'Móvil' no es chileno; la neutral omitía el disgusto."
+  }
+ ]
+}

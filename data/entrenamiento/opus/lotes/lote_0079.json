@@ -1,0 +1,340 @@
+{
+ "lote": 79,
+ "claves": [
+  "carretear",
+  "estirar la pata",
+  "esto es papa",
+  "estoy frito",
+  "estoy pal hoyo",
+  "estoy pal pico",
+  "estoy raja",
+  "estoy webiando"
+ ],
+ "modelo": "claude-opus-5-5",
+ "effort": "high",
+ "intentos": 1,
+ "costo_usd": 0.24865069999999997,
+ "duracion_s": 88.8,
+ "pares": [
+  {
+   "id": 3160,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Oye, ¿vamos a carretear esta noche o te vai a quedar en la casa?",
+   "frase_neutralizada": "Oye, ¿vamos a salir de fiesta esta noche o te vas a quedar en casa?",
+   "nota": "No incluía la expresión; neutral con signos mal puestos."
+  },
+  {
+   "id": 3161,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No sabía qué hacer el viernes, así que me fui a carretear con los cabros de la pega.",
+   "frase_neutralizada": "No sabía qué hacer el viernes, así que me fui de fiesta con los compañeros del trabajo.",
+   "nota": "Gramática incoherente; se naturalizó la frase y se neutralizaron chilenismos."
+  },
+  {
+   "id": 3162,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Este finde voy a carretear hasta que amanezca, ya lo tengo decidido.",
+   "frase_neutralizada": "Este fin de semana voy a estar de fiesta hasta que amanezca, ya lo tengo decidido.",
+   "nota": "No contenía la expresión; 'ponerme en fiesta' no es natural."
+  },
+  {
+   "id": 3163,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "Mi hermano chico carretea todos los fines de semana y mi mamá ya está chata.",
+   "frase_neutralizada": "Mi hermano menor sale de fiesta todos los fines de semana y mi mamá ya está harta.",
+   "nota": "'Ir en carrete' es incorrecto; la neutral perdía el sentido de fiesta."
+  },
+  {
+   "id": 3164,
+   "accion": "corregido",
+   "def": 3,
+   "frase_chilena": "Mamá, el carrete que hiciste en la casa pa tu cumpleaños estuvo increíble.",
+   "frase_neutralizada": "Mamá, la fiesta que hiciste en casa para tu cumpleaños estuvo increíble.",
+   "nota": "Puntuación defectuosa; se dio más naturalidad a la frase."
+  },
+  {
+   "id": 3165,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si seguís comiendo tanta fritura, vai a estirar la pata antes de los cincuenta.",
+   "frase_neutralizada": "Si sigues comiendo tanta fritura, te vas a morir antes de los cincuenta.",
+   "nota": "Frase poco natural; se agregó voseo chileno y se neutralizó."
+  },
+  {
+   "id": 3166,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Mi abuelo estiró la pata el año pasado y todavía lo echamos de menos.",
+   "frase_neutralizada": "Mi abuelo se murió el año pasado y todavía lo echamos de menos.",
+   "nota": "Original incoherente y la neutral cambiaba el significado."
+  },
+  {
+   "id": 3167,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ese loco se mete de todo, si sigue así va a estirar la pata luego.",
+   "frase_neutralizada": "Ese tipo se droga con todo, si sigue así se va a morir pronto.",
+   "nota": "Frase muy repetida; se hizo más natural y distinta."
+  },
+  {
+   "id": 3168,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "El perro del vecino estiró la pata anoche, pobrecito, estaba re viejito.",
+   "frase_neutralizada": "El perro del vecino se murió anoche, pobrecito, estaba muy viejito.",
+   "nota": "Repetía la estructura de otros pares; nueva situación."
+  },
+  {
+   "id": 3169,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Si seguís trabajando sin parar ni los domingos, vai a estirar la pata, compadre.",
+   "frase_neutralizada": "Si sigues trabajando sin parar ni los domingos, te vas a morir, amigo.",
+   "nota": "Se dio más naturalidad chilena y se neutralizó correctamente."
+  },
+  {
+   "id": 3170,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Esa tarea es papa, la hacís en diez minutos.",
+   "frase_neutralizada": "Esa tarea es muy fácil, la haces en diez minutos.",
+   "nota": "La neutral cambiaba al plural sin motivo."
+  },
+  {
+   "id": 3171,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Tranquilo, armar ese mueble es papa, yo te ayudo.",
+   "frase_neutralizada": "Tranquilo, armar ese mueble es muy fácil, yo te ayudo.",
+   "nota": "Usaba 'papa' como agradable, que es un sentido incorrecto."
+  },
+  {
+   "id": 3172,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "El examen de manejo es papa, no te pongai nervioso.",
+   "frase_neutralizada": "El examen de manejo es muy fácil, no te pongas nervioso.",
+   "nota": "Era redundante; se cambió la situación y se dio más naturalidad."
+  },
+  {
+   "id": 3173,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Esto es papa, po, solo tenís que apretar este botón y listo.",
+   "frase_neutralizada": "Esto es muy fácil, solo tienes que apretar este botón y listo.",
+   "nota": "Usaba 'papa' como tranquila, que es un sentido incorrecto."
+  },
+  {
+   "id": 3174,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Ganarle a ese equipo va a ser papa, son malísimos.",
+   "frase_neutralizada": "Ganarle a ese equipo va a ser muy fácil, son malísimos.",
+   "nota": "Explicaba el significado dentro de la frase; nueva situación."
+  },
+  {
+   "id": 3175,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se me quemó la cena y mi suegra llega en media hora, estoy frito.",
+   "frase_neutralizada": "Se me quemó la cena y mi suegra llega en media hora, estoy perdido.",
+   "nota": "Faltaba contexto de apuro; la neutral cambiaba cena por almuerzo."
+  },
+  {
+   "id": 3176,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Dejé la ventana abierta y se mojó todo el living, mi viejo me va a matar, estoy frito.",
+   "frase_neutralizada": "Dejé la ventana abierta y se mojó toda la sala, mi papá me va a matar, estoy perdido.",
+   "nota": "Frase original incomprensible; se aclaró la situación problemática."
+  },
+  {
+   "id": 3177,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se me olvidó la clave del banco y tengo que pagar el arriendo hoy, estoy frito.",
+   "frase_neutralizada": "Se me olvidó la contraseña del banco y tengo que pagar el alquiler hoy, estoy en problemas.",
+   "nota": "La neutral traducía clave como llave y cambiaba el tiempo verbal."
+  },
+  {
+   "id": 3178,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Mañana es el examen de inglés y no he estudiado nada, estoy frito.",
+   "frase_neutralizada": "Mañana es el examen de inglés y no he estudiado nada, estoy perdido.",
+   "nota": "La causa del problema no estaba clara; se hizo más natural."
+  },
+  {
+   "id": 3179,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Aposté toda la plata a que ganaba el Colo y perdió, estoy frito.",
+   "frase_neutralizada": "Aposté todo el dinero a que ganaba el Colo-Colo y perdió, estoy perdido.",
+   "nota": "No justificaba el aprieto personal; se agregó la apuesta."
+  },
+  {
+   "id": 3180,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Me agarró una gripe terrible, estoy pal hoyo, no me puedo ni levantar.",
+   "frase_neutralizada": "Me dio una gripe terrible, estoy fatal, no me puedo ni levantar.",
+   "nota": "'Desgarrado' no corresponde; el sentido es estar muy mal físicamente."
+  },
+  {
+   "id": 3181,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No me llamís tan temprano, po, sabís que anoche tomé y estoy pal hoyo.",
+   "frase_neutralizada": "No me llames tan temprano, sabes que anoche bebí y estoy fatal.",
+   "nota": "Traducción errónea 'desgarrado'; se agregó un contexto claro."
+  },
+  {
+   "id": 3182,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Con tanta pega y problemas en la casa, estoy pal hoyo, no doy más.",
+   "frase_neutralizada": "Con tanto trabajo y problemas en casa, estoy fatal, no puedo más.",
+   "nota": "Estructura forzada con 'de los problemas'; la neutral era incorrecta."
+  },
+  {
+   "id": 3183,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Ayúdame con las bolsas, porfa, que después del turno estoy pal hoyo.",
+   "frase_neutralizada": "Ayúdame con las bolsas, por favor, que después del turno estoy fatal.",
+   "nota": "Decía 'soy pal hoyo', que es incorrecto; tilde faltante."
+  },
+  {
+   "id": 3184,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Corrí la maratón ayer y hoy estoy pal hoyo, me duele hasta el alma.",
+   "frase_neutralizada": "Corrí el maratón ayer y hoy estoy fatal, me duele hasta el alma.",
+   "nota": "Frase original agramatical e incoherente."
+  },
+  {
+   "id": 3185,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Dormí como dos horas y tengo pega temprano, estoy pal' pico.",
+   "frase_neutralizada": "Dormí como dos horas y tengo que trabajar temprano, estoy hecho mierda.",
+   "nota": "Original incoherente; se mantiene el registro grosero en la neutral."
+  },
+  {
+   "id": 3186,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Lo pasé increíble en la fiesta, pero tomé de más y hoy estoy pal' pico.",
+   "frase_neutralizada": "Lo pasé increíble en la fiesta, pero bebí de más y hoy estoy hecho mierda.",
+   "nota": "Se dio más naturalidad y se mantuvo la grosería en la neutral."
+  },
+  {
+   "id": 3187,
+   "accion": "reescrito",
+   "def": 1,
+   "frase_chilena": "Desde que me dejó la polola estoy pal' pico, no tengo ganas de nada.",
+   "frase_neutralizada": "Desde que me dejó mi novia estoy hecha mierda, no tengo ganas de nada.",
+   "nota": "'Pal' pico de hambre' no es un uso real; nueva situación."
+  },
+  {
+   "id": 3188,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Te veo una cara, ¿estai pal' pico o es idea mía?",
+   "frase_neutralizada": "Te veo una cara... ¿estás hecho mierda o son ideas mías?",
+   "nota": "Frase confusa y la neutral cambiaba el sentido."
+  },
+  {
+   "id": 3189,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Sí, voy a ir al partido igual, aunque estoy pal' pico con este resfrío.",
+   "frase_neutralizada": "Sí, voy a ir al partido de todas formas, aunque estoy hecho mierda con este resfriado.",
+   "nota": "Faltaba la causa del malestar; se mantuvo el registro grosero."
+  },
+  {
+   "id": 3190,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Estoy raja, no me da pa jugar otra pichanga.",
+   "frase_neutralizada": "Estoy agotado, no tengo fuerzas para jugar otro partido de fútbol entre amigos.",
+   "nota": "Se dio más naturalidad chilena; se neutralizó 'pichanga'."
+  },
+  {
+   "id": 3191,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Se te nota que estai raja, anda a acostarte un rato.",
+   "frase_neutralizada": "Se nota que estás agotado, ve a acostarte un rato.",
+   "nota": "'Eres raja' significa otra cosa; se corrigió a estar."
+  },
+  {
+   "id": 3192,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Llegamos del viaje a las cuatro de la mañana y estamos raja.",
+   "frase_neutralizada": "Llegamos del viaje a las cuatro de la mañana y estamos agotados.",
+   "nota": "'Rajas' en plural no se usa; es invariable."
+  },
+  {
+   "id": 3193,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Debís quedar raja después de trabajar todo el día en esa planta.",
+   "frase_neutralizada": "Debes quedar agotado después de trabajar todo el día en esa fábrica.",
+   "nota": "'Ser raja' cambia el sentido; la neutral era agramatical."
+  },
+  {
+   "id": 3194,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Recién terminé de trabajar y estoy raja, hoy no salgo ni cagando.",
+   "frase_neutralizada": "Acabo de terminar de trabajar y estoy agotado, hoy no salgo ni loco.",
+   "nota": "Había incongruencia de tiempos verbales; se dio más naturalidad."
+  },
+  {
+   "id": 3195,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "Tranquila, estoy webiando, no me voy a ir a vivir a otro país.",
+   "frase_neutralizada": "Tranquila, estoy bromeando, no me voy a ir a vivir a otro país.",
+   "nota": "Copiaba el ejemplo del diccionario; nueva situación."
+  },
+  {
+   "id": 3196,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "No te enojís, weón, si estaba webiando nomás.",
+   "frase_neutralizada": "No te enojes, hombre, solo estaba bromeando.",
+   "nota": "Frase incoherente copiada del ejemplo; la neutral cambiaba el sentido."
+  },
+  {
+   "id": 3197,
+   "accion": "corregido",
+   "def": 2,
+   "frase_chilena": "No estoy haciendo nada, mamá, estoy webiando en el celular.",
+   "frase_neutralizada": "No estoy haciendo nada, mamá, estoy perdiendo el tiempo en el celular.",
+   "nota": "La frase era contradictoria; ahora ilustra perder el tiempo."
+  },
+  {
+   "id": 3198,
+   "accion": "reescrito",
+   "def": 2,
+   "frase_chilena": "¡Ya, para! Estai webiando a tu hermana chica todo el rato.",
+   "frase_neutralizada": "¡Ya, para! Estás molestando a tu hermana menor todo el rato.",
+   "nota": "'Webiandero' no existe; había errores ortográficos en 'mentiendo'."
+  },
+  {
+   "id": 3199,
+   "accion": "corregido",
+   "def": 1,
+   "frase_chilena": "¿Me estai webiando o es verdad que te ganaste la lotería?",
+   "frase_neutralizada": "¿Me estás tomando el pelo o es verdad que ganaste la lotería?",
+   "nota": "Frase incoherente; 'no te juegues' no era una neutralización correcta."
+  }
+ ]
+}
