@@ -1,0 +1,3981 @@
+id_mistral,clave,def_id,split
+0,cayo la teja,12110,train
+1,cayo la teja,12110,train
+2,cayo la teja,12110,train
+3,cayo la teja,14007,val
+4,cayo la teja,14007,train
+5,chacarero,8020,test
+6,chacarero,8020,train
+7,chacarero,8020,train
+8,chacarero,8020,train
+9,chacarero,8020,train
+10,chala,10942,val
+11,chala,10942,train
+12,chala,10942,train
+13,chala,203,train
+14,chala,203,train
+15,chaleco de mono,11888,train
+16,chaleco de mono,11888,train
+17,chaleco de mono,11888,val
+18,chaleco de mono,11888,train
+19,chaleco de mono,11888,train
+20,chamullar,986,train
+21,chamullar,986,train
+22,chamullar,986,val
+23,chamullar,986,train
+24,chamullar,986,train
+25,chamullento,2140,train
+26,chamullento,2140,test
+27,chamullento,2140,train
+28,chamullento,2140,train
+29,chamullento,2140,train
+30,chamullero,9043,val
+31,chamullero,9043,train
+32,chamullero,9043,train
+33,chamullero,9043,train
+34,chamullero,9043,train
+35,chana,2950,train
+36,chana,2950,val
+37,chana,1965,train
+38,chana,1965,train
+39,chana,8135,train
+40,chancacazo,3202,train
+41,chancacazo,3202,train
+42,chancacazo,3202,train
+43,chancacazo,3202,train
+44,chancacazo,3202,test
+45,chanta,892,val
+46,chanta,892,train
+47,chanta,4145,train
+48,chanta,7815,train
+49,chanta,4145,train
+50,chanta la moto,9216,test
+51,chanta la moto,9216,train
+52,chanta la moto,9216,train
+53,chanta la moto,9216,train
+54,chanta la moto,9216,train
+55,chantar el pate,1054,train
+56,chantar el pate,1054,train
+57,chantar el pate,1054,train
+58,chantar el pate,1054,val
+59,chantar el pate,1054,train
+60,chape,111,train
+61,chape,1051,train
+62,chape,7588,val
+63,chape,7588,train
+64,chape,337,train
+65,chaqueta,4883,train
+66,chaqueta,4883,train
+67,chaqueta,4883,train
+68,chaqueta,4883,train
+69,chaqueta,4883,val
+70,charcha,1427,train
+71,charcha,1427,val
+72,charcha,6817,train
+73,charcha,8371,train
+74,charcha,8371,train
+75,charchazo,6683,train
+76,charchazo,6683,val
+77,charchazo,6683,train
+78,charchazo,6683,train
+79,charchazo,6683,train
+80,chasca,8891,train
+81,chasca,8891,train
+82,chasca,8891,train
+83,chasca,8891,test
+84,chasca,8891,train
+85,chascona,8707,train
+86,chascona,8707,train
+87,chascona,8707,train
+88,chascona,8707,train
+89,chascona,8707,test
+90,chasquilla,5074,train
+91,chasquilla,5074,test
+92,chasquilla,5074,train
+93,chasquilla,5074,train
+94,chasquilla,5074,train
+95,chato,1455,train
+96,chato,1455,train
+97,chato,1455,val
+98,chato,1455,train
+99,chato,1455,train
+100,chato a,2726,train
+101,chato a,2726,train
+102,chato a,2726,train
+103,chato a,2726,train
+104,chato a,2726,val
+105,chaucha,549,train
+106,chaucha,549,train
+107,chaucha,549,train
+108,chaucha,4876,train
+109,chaucha,4876,val
+110,chela,984,train
+111,chela,984,train
+112,chela,984,train
+113,chela,984,val
+114,chela,984,train
+115,chetada o,5535,train
+116,chetada o,5535,test
+117,chetada o,5535,train
+118,chetada o,5535,train
+119,chetada o,5535,train
+120,chicotea los caracoles,694,train
+121,chicotea los caracoles,694,test
+122,chicotea los caracoles,694,train
+123,chicotea los caracoles,694,train
+124,chicotea los caracoles,8339,train
+125,chicotear los caracoles,5790,train
+126,chicotear los caracoles,5790,train
+127,chicotear los caracoles,5790,val
+128,chicotear los caracoles,9168,train
+129,chicotear los caracoles,9168,train
+130,chiripazo,12993,train
+131,chiripazo,12993,train
+132,chiripazo,12993,train
+133,chiripazo,12993,test
+134,chiripazo,12993,train
+135,chispeza,866,train
+136,chispeza,866,train
+137,chispeza,1295,test
+138,chispeza,1295,train
+139,chispeza,866,train
+140,chita,10467,train
+141,chita,10467,train
+142,chita,10467,train
+143,chita,10467,val
+144,chita,10467,train
+145,choreado,5042,train
+146,choreado,5042,train
+147,choreado,11107,train
+148,choreado,11107,train
+149,choreado,5042,test
+150,chorear,73,train
+151,chorear,73,train
+152,chorear,73,train
+153,chorear,73,test
+154,chorear,73,train
+155,choriar,4093,val
+156,choriar,4093,train
+157,choriar,4093,train
+158,choriar,4093,train
+159,choriar,4093,train
+160,choro,494,train
+161,choro,389,test
+162,choro,3903,train
+163,choro,282,train
+164,choro,283,train
+165,chucha,6264,train
+166,chucha,6264,val
+167,chucha,6264,train
+168,chucha,6264,train
+169,chucha,6264,train
+170,chuchetumare,3212,test
+171,chuchetumare,3212,train
+172,chuchetumare,3212,train
+173,chuchetumare,3212,train
+174,chuchetumare,3212,train
+175,chuchunco,9932,train
+176,chuchunco,9932,train
+177,chuchunco,9932,val
+178,chuchunco,9932,train
+179,chuchunco,9932,train
+180,chuleta,1864,test
+181,chuleta,1864,train
+182,chuleta,4720,train
+183,chuleta,4720,train
+184,chuleta,12306,train
+185,chupa el perro,1283,train
+186,chupa el perro,1283,train
+187,chupa el perro,8515,train
+188,chupa el perro,8515,train
+189,chupa el perro,8515,val
+190,chupar el perro,1139,val
+191,chupar el perro,1139,train
+192,chupar el perro,1139,train
+193,chupar el perro,1139,train
+194,chupar el perro,1139,train
+195,chupapico,5483,test
+196,chupapico,5483,train
+197,chupapico,5483,train
+198,chupapico,5483,train
+199,chupapico,5483,train
+200,chupa pico,3941,train
+201,chupa pico,3941,train
+202,chupa pico,3941,train
+203,chupa pico,3941,train
+204,chupa pico,3941,test
+205,chupalla,10393,train
+206,chupalla,10393,val
+207,chupalla,10393,train
+208,chupalla,10393,train
+209,chupalla,10393,train
+210,chupamedias,2861,train
+211,chupamedias,2861,train
+212,chupamedias,2861,train
+213,chupamedias,2861,train
+214,chupamedias,2861,test
+215,chupamedias chupapico,2355,train
+216,chupamedias chupapico,2355,val
+217,chupamedias chupapico,2355,train
+218,chupamedias chupapico,2355,train
+219,chupamedias chupapico,2355,train
+220,chupar poto,7975,test
+221,chupar poto,7975,train
+222,chupar poto,7975,train
+223,chupar poto,7975,train
+224,chupar poto,7975,train
+225,churro,5820,train
+226,churro,5820,val
+227,churro,5820,train
+228,churro,10538,train
+229,churro,10538,train
+230,chuta,2706,test
+231,chuta,2706,train
+232,chuta,4878,train
+233,chuta,4878,train
+234,chuta,2706,train
+235,cimarra,9071,test
+236,cimarra,9071,train
+237,cimarra,9071,train
+238,cimarra,9071,train
+239,cimarra,9071,train
+240,cleta,5511,train
+241,cleta,5511,train
+242,cleta,5511,test
+243,cleta,5511,train
+244,cleta,5511,train
+245,coa,10387,test
+246,coa,10387,train
+247,coa,10387,train
+248,coa,10387,train
+249,coa,10387,train
+250,cocavi,7248,train
+251,cocavi,7248,train
+252,cocavi,7248,train
+253,cocavi,7248,train
+254,cocavi,7248,val
+255,cogotear,542,train
+256,cogotear,542,test
+257,cogotear,542,train
+258,cogotear,542,train
+259,cogotear,542,train
+260,cogotero,5059,train
+261,cogotero,5059,train
+262,cogotero,5059,val
+263,cogotero,5059,train
+264,cogotero,5059,train
+265,coima,142,train
+266,coima,142,train
+267,coima,142,train
+268,coima,142,val
+269,coima,142,train
+270,colectivo,11824,train
+271,colectivo,11824,val
+272,colectivo,11824,train
+273,colectivo,11824,train
+274,colectivo,11824,train
+275,coleto,4347,train
+276,coleto,4347,train
+277,coleto,4347,train
+278,coleto,4347,train
+279,coleto,4347,test
+280,comerse,5060,train
+281,comerse,5060,test
+282,comerse,5060,train
+283,comerse,5060,train
+284,comerse,5060,train
+285,comersela,2984,train
+286,comersela,2984,train
+287,comersela,2984,train
+288,comersela,2984,train
+289,comersela,2984,test
+290,como el loly,1048,train
+291,como el loly,1048,train
+292,como el loly,8864,train
+293,como el loly,8864,test
+294,como el loly,11197,train
+295,como el pico,7662,train
+296,como el pico,7662,test
+297,como el pico,10096,train
+298,como el pico,10096,train
+299,como el pico,7662,train
+300,como pico,5,train
+301,como pico,5,val
+302,como pico,5,train
+303,como pico,5,train
+304,como pico,5,train
+305,como huasca,7,train
+306,como huasca,7,train
+307,como huasca,11350,train
+308,como huasca,11350,val
+309,como huasca,7,train
+310,como la raja,10580,train
+311,como la raja,10580,train
+312,como la raja,10580,train
+313,como la raja,10580,val
+314,como la raja,10580,train
+315,completo,11853,test
+316,completo,11853,train
+317,completo,11853,train
+318,completo,11853,train
+319,completo,11853,train
+320,con pica,7016,train
+321,con pica,7016,train
+322,con pica,7016,train
+323,con pica,7016,val
+324,con pica,7016,train
+325,conchetumare,5818,train
+326,conchetumare,5818,train
+327,conchetumare,6322,train
+328,conchetumare,6322,val
+329,conchetumare,2062,train
+330,conchatumadre,11402,train
+331,conchatumadre,11402,train
+332,conchatumadre,11402,val
+333,conchatumadre,11402,train
+334,conchatumadre,11402,train
+335,conchatumare,5986,train
+336,conchatumare,5986,train
+337,conchatumare,5986,train
+338,conchatumare,5986,val
+339,conchatumare,5986,train
+340,ctm,2095,train
+341,ctm,906,val
+342,ctm,2095,train
+343,ctm,2095,train
+344,ctm,906,train
+345,ctmre,11557,train
+346,ctmre,11557,train
+347,ctmre,11557,train
+348,ctmre,11557,train
+349,ctmre,11557,test
+350,condoro,899,train
+351,condoro,899,train
+352,condoro,899,train
+353,condoro,1121,val
+354,condoro,1121,train
+355,copete,2421,val
+356,copete,2421,train
+357,copete,2421,train
+358,copete,2421,train
+359,copete,2421,train
+360,copucha,10341,val
+361,copucha,10341,train
+362,copucha,10341,train
+363,copucha,10341,train
+364,copucha,10341,train
+365,copuchento,2695,train
+366,copuchento,2695,train
+367,copuchento,2695,train
+368,copuchento,8397,val
+369,copuchento,8397,train
+370,copuchenta,7465,val
+371,copuchenta,7465,train
+372,copuchenta,7465,train
+373,copuchenta,7465,train
+374,copuchenta,7465,train
+375,cotorra,4967,train
+376,cotorra,4967,train
+377,cotorra,4967,test
+378,cotorra,4967,train
+379,cotorra,4967,train
+380,cototo,522,test
+381,cototo,522,train
+382,cototo,522,train
+383,cototo,9240,train
+384,cototo,9240,train
+385,cranear,10390,train
+386,cranear,10390,test
+387,cranear,10390,train
+388,cranear,10390,train
+389,cranear,10390,train
+390,creerse la raja,4620,train
+391,creerse la raja,4620,test
+392,creerse la raja,4620,train
+393,creerse la raja,4620,train
+394,creerse la raja,4620,train
+395,cuatico,846,test
+396,cuatico,846,train
+397,cuatico,2394,train
+398,cuatico,10062,train
+399,cuatico,9002,train
+400,cuatica,10041,train
+401,cuatica,10041,train
+402,cuatica,10041,train
+403,cuatica,10041,test
+404,cuatica,10041,train
+405,cuea,3105,train
+406,cuea,3105,train
+407,cuea,3105,train
+408,cuea,3105,val
+409,cuea,3105,train
+410,cuentiao,3734,train
+411,cuentiao,3734,train
+412,cuentiao,3793,val
+413,cuentiao,3793,train
+414,cuentiao,7400,train
+415,cuentiado,8266,train
+416,cuentiado,8266,val
+417,cuentiado,8266,train
+418,cuentiado,8266,train
+419,cuentiado,8266,train
+420,cufifo,1209,train
+421,cufifo,1209,test
+422,cufifo,1209,train
+423,cufifo,9404,train
+424,cufifo,9404,train
+425,cufifa,7713,train
+426,cufifa,7713,train
+427,cufifa,7713,train
+428,cufifa,7713,test
+429,cufifa,7713,train
+430,cuico,997,train
+431,cuico,997,train
+432,cuico,997,train
+433,cuico,997,val
+434,cuico,997,train
+435,cuica,3463,test
+436,cuica,3463,train
+437,cuica,3463,train
+438,cuica,3463,train
+439,cuica,3463,train
+440,cuico a,523,train
+441,cuico a,523,train
+442,cuico a,523,train
+443,cuico a,523,train
+444,cuico a,523,val
+445,culear,1959,test
+446,culear,1959,train
+447,culear,1959,train
+448,culear,1959,train
+449,culear,1959,train
+450,culiao,11677,train
+451,culiao,11677,train
+452,culiao,11677,train
+453,culiao,11677,train
+454,culiao,11677,val
+455,culiado,5699,val
+456,culiado,5699,train
+457,culiado,5699,train
+458,culiado,5699,train
+459,culiado,5699,train
+460,cuma,1176,test
+461,cuma,10226,train
+462,cuma,7714,train
+463,cuma,1176,train
+464,cuma,7714,train
+465,cuncuna,10398,val
+466,cuncuna,10398,train
+467,cuncuna,10398,train
+468,cuncuna,10398,train
+469,cuncuna,10398,train
+470,curao,7052,train
+471,curao,7052,test
+472,curao,7052,train
+473,curao,7052,train
+474,curao,7052,train
+475,curado,3158,train
+476,curado,3158,test
+477,curado,3158,train
+478,curado,3158,train
+479,curado,3158,train
+480,dale,445,train
+481,dale,445,train
+482,dale,445,train
+483,dale,445,val
+484,dale,445,train
+485,dale tu corte,6619,train
+486,dale tu corte,6619,train
+487,dale tu corte,6619,train
+488,dale tu corte,10358,val
+489,dale tu corte,10358,train
+490,dale corte,8686,train
+491,dale corte,8686,train
+492,dale corte,8686,train
+493,dale corte,8686,test
+494,dale corte,8686,train
+495,dar cosa,12070,train
+496,dar cosa,12070,test
+497,dar cosa,12070,train
+498,dar cosa,12070,train
+499,dar cosa,12070,train
+500,dar jugo,120,train
+501,dar jugo,120,train
+502,dar jugo,12064,train
+503,dar jugo,12064,test
+504,dar jugo,12207,train
+505,darle color,123,val
+506,darle color,123,train
+507,darle color,123,train
+508,darle color,6503,train
+509,darle color,6503,train
+510,de cajon,985,train
+511,de cajon,985,test
+512,de cajon,985,train
+513,de cajon,985,train
+514,de cajon,985,train
+515,de carton,2476,train
+516,de carton,2476,test
+517,de carton,1773,train
+518,de carton,11843,train
+519,de carton,11948,train
+520,de la perra,6631,val
+521,de la perra,6631,train
+522,de la perra,10865,train
+523,de la perra,6631,train
+524,de la perra,10865,train
+525,de pana,6708,train
+526,de pana,6708,val
+527,de pana,3112,train
+528,de pana,6533,train
+529,de pana,6429,train
+530,dejate de wear,5039,train
+531,dejate de wear,5039,train
+532,dejate de wear,5039,val
+533,dejate de wear,5039,train
+534,dejate de wear,5039,train
+535,deja de wear,7013,train
+536,deja de wear,7013,train
+537,deja de wear,7013,test
+538,deja de wear,7013,train
+539,deja de wear,7013,train
+540,dejar pagando,865,train
+541,dejar pagando,865,train
+542,dejar pagando,865,train
+543,dejar pagando,1858,test
+544,dejar pagando,1858,train
+545,del corte,4513,train
+546,del corte,4513,train
+547,del corte,219,train
+548,del corte,219,test
+549,del corte,10570,train
+550,dele cotele,4636,train
+551,dele cotele,8994,train
+552,dele cotele,5351,train
+553,dele cotele,5351,test
+554,dele cotele,7254,train
+555,denantes,11377,train
+556,denantes,11377,val
+557,denantes,11377,train
+558,denantes,11377,train
+559,denantes,11377,train
+560,dentrar,126,train
+561,dentrar,126,val
+562,dentrar,126,train
+563,dentrar,126,train
+564,dentrar,126,train
+565,desconchetumarizate,2288,train
+566,desconchetumarizate,2288,test
+567,desconchetumarizate,8750,train
+568,desconchetumarizate,8750,train
+569,desconchetumarizate,2288,train
+570,desconchatumairizate,9642,train
+571,desconchatumairizate,9642,train
+572,desconchatumairizate,9642,test
+573,desconchatumairizate,9642,train
+574,desconchatumairizate,9642,train
+575,descueve,447,test
+576,descueve,447,train
+577,descueve,447,train
+578,descueve,447,train
+579,descueve,447,train
+580,el descueve,310,test
+581,el descueve,310,train
+582,el descueve,310,train
+583,el descueve,310,train
+584,el descueve,310,train
+585,desguanangado,5072,train
+586,desguanangado,5072,train
+587,desguanangado,5072,train
+588,desguanangado,5072,train
+589,desguanangado,5072,test
+590,despiporre,2423,train
+591,despiporre,2423,train
+592,despiporre,2423,train
+593,despiporre,2423,train
+594,despiporre,2423,test
+595,desubicado,10753,val
+596,desubicado,10753,train
+597,desubicado,10753,train
+598,desubicado,10753,train
+599,desubicado,10753,train
+600,detonao,5906,train
+601,detonao,5906,val
+602,detonao,1434,train
+603,detonao,2959,train
+604,detonao,1553,train
+605,dicom,449,test
+606,dicom,449,train
+607,dicom,449,train
+608,dicom,449,train
+609,dicom,449,train
+610,echar la corta,209,test
+611,echar la corta,209,train
+612,echar la corta,209,train
+613,echar la corta,209,train
+614,echar la corta,209,train
+615,echar la foca,133,train
+616,echar la foca,133,train
+617,echar la foca,133,train
+618,echar la foca,133,train
+619,echar la foca,133,val
+620,echar la talla,983,train
+621,echar la talla,983,train
+622,echar la talla,9455,train
+623,echar la talla,9455,test
+624,echar la talla,9455,train
+625,echarse la yegua,588,train
+626,echarse la yegua,588,train
+627,echarse la yegua,588,train
+628,echarse la yegua,588,train
+629,echarse la yegua,588,val
+630,echar la yegua,5470,train
+631,echar la yegua,5470,train
+632,echar la yegua,5470,train
+633,echar la yegua,5470,train
+634,echar la yegua,5470,test
+635,ecolecua,3497,train
+636,ecolecua,9313,val
+637,ecolecua,3497,train
+638,ecolecua,9313,train
+639,ecolecua,3497,train
+640,embarao,3299,val
+641,embarao,3299,train
+642,embarao,6562,train
+643,embarao,6562,train
+644,embarao,8685,train
+645,embarrada,589,train
+646,embarrada,589,test
+647,embarrada,11570,train
+648,embarrada,11570,train
+649,embarrada,589,train
+650,embolinar la perdiz,885,val
+651,embolinar la perdiz,885,train
+652,embolinar la perdiz,885,train
+653,embolinar la perdiz,885,train
+654,embolinar la perdiz,885,train
+655,embrarrarla,312,train
+656,embrarrarla,312,train
+657,embrarrarla,312,train
+658,embrarrarla,312,train
+659,embrarrarla,312,val
+660,emputecido,4198,val
+661,emputecido,4198,train
+662,emputecido,4198,train
+663,emputecido,4978,train
+664,emputecido,4978,train
+665,en cana,2882,train
+666,en cana,2882,test
+667,en cana,2882,train
+668,en cana,2882,train
+669,en cana,2882,train
+670,encachado,10395,train
+671,encachado,10395,train
+672,encachado,10395,train
+673,encachado,10395,val
+674,encachado,10395,train
+675,encalillado,401,val
+676,encalillado,401,train
+677,encalillado,401,train
+678,encalillado,401,train
+679,encalillado,401,train
+680,ene,314,train
+681,ene,314,train
+682,ene,314,train
+683,ene,314,train
+684,ene,314,test
+685,engrupir,597,train
+686,engrupir,597,test
+687,engrupir,597,train
+688,engrupir,597,train
+689,engrupir,597,train
+690,eri,1261,train
+691,eri,1261,train
+692,eri,1261,train
+693,eri,1261,train
+694,eri,1261,val
+695,estar de la perra,3721,train
+696,estar de la perra,6397,train
+697,estar de la perra,3721,train
+698,estar de la perra,6397,train
+699,estar de la perra,6397,val
+700,estar pal pico,5735,test
+701,estar pal pico,5735,train
+702,estar pal pico,3375,train
+703,estar pal pico,3375,train
+704,estar pal pico,5735,train
+705,estar pato,2944,train
+706,estar pato,2944,train
+707,estar pato,2944,train
+708,estar pato,2944,train
+709,estar pato,2944,test
+710,quedo el sapo,12023,train
+711,quedo el sapo,12023,train
+712,quedo el sapo,12023,train
+713,quedo el sapo,12023,train
+714,quedo el sapo,12023,test
+715,quemarropa,5367,train
+716,quemarropa,5367,test
+717,quemarropa,5367,train
+718,quemarropa,5367,train
+719,quemarropa,5367,train
+720,quien pa,11534,train
+721,quien pa,11534,train
+722,quien pa,11534,train
+723,quien pa,11534,test
+724,quien pa,11534,train
+725,quien te echo ficha,759,train
+726,quien te echo ficha,759,test
+727,quien te echo ficha,759,train
+728,quien te echo ficha,759,train
+729,quien te echo ficha,759,train
+730,quiltro,196,train
+731,quiltro,196,train
+732,quiltro,196,test
+733,quiltro,196,train
+734,quiltro,196,train
+735,raja,1399,train
+736,raja,6490,train
+737,raja,748,train
+738,raja,941,train
+739,raja,1399,val
+740,raja de curao,4532,train
+741,raja de curao,4532,train
+742,raja de curao,4532,train
+743,raja de curao,4532,test
+744,raja de curao,4532,train
+745,rajar,4486,test
+746,rajar,4486,train
+747,rajar,4486,train
+748,rajar,9997,train
+749,rajar,9997,train
+750,rajate,3736,train
+751,rajate,3736,train
+752,rajate,3736,train
+753,rajate,3736,val
+754,rajate,3736,train
+755,rallar la papa,194,train
+756,rallar la papa,194,train
+757,rallar la papa,194,test
+758,rallar la papa,194,train
+759,rallar la papa,194,train
+760,ramo,7903,train
+761,ramo,7903,train
+762,ramo,7903,train
+763,ramo,7903,val
+764,ramo,7903,train
+765,rasca,193,train
+766,rasca,193,test
+767,rasca,193,train
+768,rasca,193,train
+769,rasca,193,train
+770,raspando,6839,train
+771,raspando,6839,train
+772,raspando,6839,train
+773,raspando,6839,test
+774,raspando,6839,train
+775,rati,751,train
+776,rati,751,test
+777,rati,751,train
+778,rati,751,train
+779,rati,751,train
+780,reclame,192,train
+781,reclame,192,train
+782,reclame,192,train
+783,reclame,192,train
+784,reclame,192,val
+785,regalon,4956,train
+786,regalon,4956,train
+787,regalon,4956,train
+788,regalon,4956,train
+789,regalon,4956,val
+790,regalonear,3462,test
+791,regalonear,3462,train
+792,regalonear,3462,train
+793,regalonear,3462,train
+794,regalonear,3462,train
+795,regia,4819,train
+796,regia,4819,train
+797,regia,4819,train
+798,regia,4819,val
+799,regia,4819,train
+800,regia oficial,14220,train
+801,regia oficial,14220,train
+802,regia oficial,14220,train
+803,regia oficial,14220,train
+804,regia oficial,14220,val
+805,relaja la vena,1300,train
+806,relaja la vena,1300,train
+807,relaja la vena,1300,train
+808,relaja la vena,1300,train
+809,relaja la vena,1300,val
+810,remojar el cochayuyo,1270,test
+811,remojar el cochayuyo,1270,train
+812,remojar el cochayuyo,6076,train
+813,remojar el cochayuyo,1270,train
+814,remojar el cochayuyo,6076,train
+815,retar,3187,test
+816,retar,3187,train
+817,retar,3187,train
+818,retar,3187,train
+819,retar,3187,train
+820,reto,5855,train
+821,reto,5855,train
+822,reto,5855,train
+823,reto,5855,test
+824,reto,5855,train
+830,ricarda,1202,train
+831,ricarda,1202,val
+832,ricarda,1202,train
+833,ricarda,1202,train
+834,ricarda,1202,train
+835,rico,11881,train
+836,rico,11881,train
+837,rico,11881,train
+838,rico,11881,val
+839,rico,11881,train
+840,rin rin raja,3769,train
+841,rin rin raja,3769,test
+842,rin rin raja,3769,train
+843,rin rin raja,3769,train
+844,rin rin raja,3769,train
+845,rompecatre,2184,test
+846,rompecatre,2184,train
+847,rompecatre,2184,train
+848,rompecatre,2184,train
+849,rompecatre,2184,train
+850,roto,190,train
+851,roto,190,train
+852,roto,190,val
+853,roto,190,train
+854,roto,190,train
+855,roto con plata,5245,train
+856,roto con plata,5245,train
+857,roto con plata,5245,train
+858,roto con plata,5245,val
+859,roto con plata,5245,train
+860,rusia,2242,train
+861,rusia,2242,test
+862,rusia,7440,train
+863,rusia,7440,train
+864,rusia,2242,train
+865,rusio,4197,train
+866,rusio,4197,train
+867,rusio,4197,train
+868,rusio,4197,test
+869,rusio,4197,train
+870,rucio,753,train
+871,rucio,753,train
+872,rucio,753,test
+873,rucio,753,train
+874,rucio,753,train
+875,sacar la chucha,188,train
+876,sacar la chucha,188,train
+877,sacar la chucha,188,test
+878,sacar la chucha,7884,train
+879,sacar la chucha,7884,train
+880,sacar la cresta,754,train
+881,sacar la cresta,754,train
+882,sacar la cresta,9921,val
+883,sacar la cresta,9890,train
+884,sacar la cresta,9921,train
+885,sacar la mierda,11729,train
+886,sacar la mierda,11729,train
+887,sacar la mierda,11729,train
+888,sacar la mierda,11729,test
+889,sacar la mierda,9849,train
+890,sacar los choros del canasto,2072,train
+891,sacar los choros del canasto,2072,train
+892,sacar los choros del canasto,2072,test
+893,sacar los choros del canasto,2072,train
+894,sacar los choros del canasto,2072,train
+895,sacar pica,755,train
+896,sacar pica,755,train
+897,sacar pica,4231,train
+898,sacar pica,4231,test
+899,sacar pica,755,train
+900,sacarse la nona,6895,train
+901,sacarse la nona,6895,train
+902,sacarse la nona,6895,test
+903,sacarse la nona,6895,train
+904,sacarse la nona,6895,train
+905,saco wea,1535,test
+906,saco wea,4087,train
+907,saco wea,1022,train
+908,saco wea,2357,train
+909,saco wea,1535,train
+910,saco de hueas,825,val
+911,saco de hueas,825,train
+912,saco de hueas,825,train
+913,saco de hueas,825,train
+914,saco de hueas,825,train
+915,saco de weas,10699,train
+916,saco de weas,10699,train
+917,saco de weas,10699,train
+918,saco de weas,10699,test
+919,saco de weas,10699,train
+920,sacowea,1102,test
+921,sacowea,1102,train
+922,sacowea,1102,train
+923,sacowea,1102,train
+924,sacowea,10366,train
+925,salir de vuelo,2781,train
+926,salir de vuelo,2781,train
+927,salir de vuelo,2781,test
+928,salir de vuelo,2781,train
+929,salir de vuelo,2781,train
+930,salpica,828,train
+931,salpica,828,val
+932,salpica,828,train
+933,salpica,828,train
+934,salpica,828,train
+935,salta pal lao,827,val
+936,salta pal lao,827,train
+937,salta pal lao,9210,train
+938,salta pal lao,9210,train
+939,salta pal lao,9210,train
+940,salta reclamante,4408,val
+941,salta reclamante,4408,train
+942,salta reclamante,4408,train
+943,salta reclamante,4408,train
+944,salta reclamante,4408,train
+945,salto la liebre,829,val
+946,salto la liebre,829,train
+947,salto la liebre,829,train
+948,salto la liebre,829,train
+949,salto la liebre,829,train
+950,salto lejos el mani,902,train
+951,salto lejos el mani,902,val
+952,salto lejos el mani,902,train
+953,salto lejos el mani,7789,train
+954,salto lejos el mani,7789,train
+955,sangre por sangre guaton byron,3156,train
+956,sangre por sangre guaton byron,3156,test
+957,sangre por sangre guaton byron,3156,train
+958,sangre por sangre guaton byron,3156,train
+959,sangre por sangre guaton byron,3156,train
+960,santiasco,831,test
+961,santiasco,831,train
+962,santiasco,831,train
+963,santiasco,831,train
+964,santiasco,831,train
+965,sapear,187,train
+966,sapear,510,val
+967,sapear,187,train
+968,sapear,510,train
+969,sapear,10709,train
+970,sapo,833,test
+971,sapo,833,train
+972,sapo,4253,train
+973,sapo,7945,train
+974,sapo,832,train
+975,sapa,10152,train
+976,sapa,10152,train
+977,sapa,10152,train
+978,sapa,10152,train
+979,sapa,10152,val
+980,sapolio,7348,train
+981,sapolio,7348,test
+982,sapolio,7348,train
+983,sapolio,7348,train
+984,sapolio,7348,train
+985,saque,834,train
+986,saque,834,train
+987,saque,834,train
+988,saque,834,test
+989,saque,834,train
+990,sarpao,835,val
+991,sarpao,835,train
+992,sarpao,835,train
+993,sarpao,835,train
+994,sarpao,835,train
+995,se bugeo,8313,train
+996,se bugeo,8313,train
+997,se bugeo,8313,train
+998,se bugeo,8313,train
+999,se bugeo,8313,val
+1000,se cree la muerte,836,train
+1001,se cree la muerte,836,test
+1002,se cree la muerte,836,train
+1003,se cree la muerte,836,train
+1004,se cree la muerte,836,train
+1005,se fue pal patio de los callados,12938,train
+1006,se fue pal patio de los callados,12938,train
+1007,se fue pal patio de los callados,12938,train
+1008,se fue pal patio de los callados,12938,val
+1009,se fue pal patio de los callados,12938,train
+1010,se funo,837,train
+1011,se funo,837,train
+1012,se funo,1456,test
+1013,se funo,837,train
+1014,se funo,1456,train
+1015,se la echo,13435,train
+1016,se la echo,13435,train
+1017,se la echo,13435,val
+1018,se la echo,13435,train
+1019,se la echo,13435,train
+1020,se le arrancan los enanitos para el bosque,1118,train
+1021,se le arrancan los enanitos para el bosque,1118,val
+1022,se le arrancan los enanitos para el bosque,1118,train
+1023,se le arrancan los enanitos para el bosque,1118,train
+1024,se le arrancan los enanitos para el bosque,1118,train
+1025,se le da vuelta el paraguas,598,train
+1026,se le da vuelta el paraguas,598,train
+1027,se le da vuelta el paraguas,598,train
+1028,se le da vuelta el paraguas,598,train
+1029,se le da vuelta el paraguas,598,val
+1030,se le da vuelta el paragua,10893,train
+1031,se le da vuelta el paragua,10893,train
+1032,se le da vuelta el paragua,10893,train
+1033,se le da vuelta el paragua,10893,train
+1034,se le da vuelta el paragua,10893,val
+1035,se le escapan los enanitos pal bosque,4578,val
+1036,se le escapan los enanitos pal bosque,4578,train
+1037,se le escapan los enanitos pal bosque,4578,train
+1038,se le escapan los enanitos pal bosque,4578,train
+1039,se le escapan los enanitos pal bosque,4578,train
+1040,se me calento el hocico,10939,train
+1041,se me calento el hocico,11833,test
+1042,se me calento el hocico,10939,train
+1043,se me calento el hocico,10939,train
+1044,se me calento el hocico,11833,train
+1045,se me cayo el carnet,4745,train
+1046,se me cayo el carnet,4745,train
+1047,se me cayo el carnet,4745,test
+1048,se me cayo el carnet,1972,train
+1049,se me cayo el carnet,1972,train
+1050,se me echo la yegua,214,val
+1051,se me echo la yegua,214,train
+1052,se me echo la yegua,214,train
+1053,se me echo la yegua,214,train
+1054,se me echo la yegua,214,train
+1055,se me hecho la yegua,8558,train
+1056,se me hecho la yegua,8558,train
+1057,se me hecho la yegua,8558,train
+1058,se me hecho la yegua,8558,train
+1059,se me hecho la yegua,8558,val
+1060,se puso la 10,8794,val
+1061,se puso la 10,8794,train
+1062,se puso la 10,8794,train
+1063,se puso la 10,8794,train
+1064,se puso la 10,8794,train
+1065,se te hace,2290,train
+1066,se te hace,2290,train
+1067,se te hace,2290,val
+1068,se te hace,2290,train
+1069,se te hace,2290,train
+1070,seco,186,train
+1071,seco,186,train
+1072,seco,186,train
+1073,seco,186,train
+1074,seco,186,val
+1075,sendo,4044,train
+1076,sendo,4044,train
+1077,sendo,4044,train
+1078,sendo,4044,test
+1079,sendo,4044,train
+1080,senda,7942,train
+1081,senda,7942,train
+1082,senda,7942,train
+1083,senda,7942,val
+1084,senda,7942,train
+1085,sepa moya,553,train
+1086,sepa moya,553,test
+1087,sepa moya,553,train
+1088,sepa moya,553,train
+1089,sepa moya,553,train
+1090,ser mano de guagua,2253,val
+1091,ser mano de guagua,2253,train
+1092,ser mano de guagua,2253,train
+1093,ser mano de guagua,2253,train
+1094,ser mano de guagua,2253,train
+1095,ser pollo,5541,train
+1096,ser pollo,5541,train
+1097,ser pollo,5541,train
+1098,ser pollo,5541,train
+1099,ser pollo,5541,val
+1100,ser quedao,9768,train
+1101,ser quedao,9768,test
+1102,ser quedao,9768,train
+1103,ser quedao,9768,train
+1104,ser quedao,9768,train
+1105,ser un cacho,391,val
+1106,ser un cacho,391,train
+1107,ser un cacho,391,train
+1108,ser un cacho,391,train
+1109,ser un cacho,391,train
+1110,sha,1198,train
+1111,sha,3923,train
+1112,sha,1198,test
+1113,sha,3923,train
+1114,sha,1198,train
+1115,shaliwawa,7204,train
+1116,shaliwawa,7204,train
+1117,shaliwawa,7204,train
+1118,shaliwawa,7204,train
+1119,shaliwawa,7204,val
+1120,shapa la pashala,2578,val
+1121,shapa la pashala,2578,train
+1122,shapa la pashala,2578,train
+1123,shapa la pashala,2578,train
+1124,shapa la pashala,2578,train
+1125,sharsha,3050,train
+1126,sharsha,3050,train
+1127,sharsha,3050,train
+1128,sharsha,3050,train
+1129,sharsha,3050,test
+1130,shipear,1411,test
+1131,shipear,1411,train
+1132,shipear,1411,train
+1133,shipear,1411,train
+1134,shipear,1411,train
+1135,shishigan,3898,train
+1136,shishigan,3898,train
+1137,shishigan,3898,val
+1138,shishigan,3898,train
+1139,shishigan,3898,train
+1140,shishigang,4589,train
+1141,shishigang,4589,train
+1142,shishigang,4589,train
+1143,shishigang,4589,train
+1144,shishigang,4589,test
+1145,shoro,11979,train
+1146,shoro,11979,train
+1147,shoro,11979,train
+1148,shoro,11979,val
+1149,shoro,11979,train
+1150,shushetumadre,3469,train
+1151,shushetumadre,3469,train
+1152,shushetumadre,3469,test
+1153,shushetumadre,3469,train
+1154,shushetumadre,3469,train
+1155,sicopatear,2073,test
+1156,sicopatear,2073,train
+1157,sicopatear,2073,train
+1158,sicopatear,2073,train
+1159,sicopatear,2073,train
+1160,sicoseado,11048,train
+1161,sicoseado,11048,train
+1162,sicoseado,11048,train
+1163,sicoseado,11048,train
+1164,sicoseado,11048,test
+1165,sicosiado,12976,val
+1166,sicosiado,12976,train
+1167,sicosiado,12976,train
+1168,sicosiado,12976,train
+1169,sicosiado,12976,train
+1170,sicosear,559,train
+1171,sicosear,559,train
+1172,sicosear,559,test
+1173,sicosear,6387,train
+1174,sicosear,6387,train
+1175,sipo,273,train
+1176,sipo,273,train
+1177,sipo,273,train
+1178,sipo,273,val
+1179,sipo,273,train
+1180,skt1,5873,train
+1181,skt1,5873,train
+1182,skt1,5873,train
+1183,skt1,5873,test
+1184,skt1,5873,train
+1185,soa,9055,val
+1186,soa,9055,train
+1187,soa,9055,train
+1188,soa,9055,train
+1189,soa,9055,train
+1190,sobate pa callado,11483,train
+1191,sobate pa callado,11483,train
+1192,sobate pa callado,11483,train
+1193,sobate pa callado,11483,val
+1194,sobate pa callado,11483,train
+1195,soltar las trenzas,877,train
+1196,soltar las trenzas,877,train
+1197,soltar las trenzas,877,val
+1198,soltar las trenzas,877,train
+1199,soltar las trenzas,877,train
+1200,sonao,6728,train
+1201,sonao,6728,train
+1202,sonao,6728,train
+1203,sonao,6728,val
+1204,sonao,6728,train
+1205,sopeado,1096,train
+1206,sopeado,1096,val
+1207,sopeado,1096,train
+1208,sopeado,1096,train
+1209,sopeado,1096,train
+1210,sopeao,1862,train
+1211,sopeao,1862,train
+1212,sopeao,1862,train
+1213,sopeao,1862,val
+1214,sopeao,1862,train
+1215,sopiao,10419,train
+1216,sopiao,10419,test
+1217,sopiao,10419,train
+1218,sopiao,10419,train
+1219,sopiao,10419,train
+1220,soplame este ojo,10053,train
+1221,soplame este ojo,10053,train
+1222,soplame este ojo,10053,train
+1223,soplame este ojo,10053,train
+1224,soplame este ojo,10053,test
+1225,soy entero echizo,1197,train
+1226,soy entero echizo,1197,train
+1227,soy entero echizo,1197,val
+1228,soy entero echizo,1197,train
+1229,soy entero echizo,1197,train
+1230,su tonto,11799,train
+1231,su tonto,11799,train
+1232,su tonto,11799,train
+1233,su tonto,11799,train
+1234,su tonto,11799,test
+1235,subirse por el chorro,878,train
+1236,subirse por el chorro,878,train
+1237,subirse por el chorro,878,train
+1238,subirse por el chorro,1045,train
+1239,subirse por el chorro,1045,val
+1240,suelta la papa,2366,train
+1241,suelta la papa,2366,train
+1242,suelta la papa,2366,train
+1243,suelta la papa,2366,test
+1244,suelta la papa,2366,train
+1245,sutro o sutra,4583,train
+1246,sutro o sutra,4583,train
+1247,sutro o sutra,4954,train
+1248,sutro o sutra,4954,val
+1249,sutro o sutra,8781,train
+1250,sutro,7775,train
+1251,sutro,7775,train
+1252,sutro,7775,train
+1253,sutro,5356,val
+1254,sutro,5356,train
+1255,ta mal pelao el chancho,13518,train
+1256,ta mal pelao el chancho,13518,train
+1257,ta mal pelao el chancho,13518,train
+1258,ta mal pelao el chancho,13518,train
+1259,ta mal pelao el chancho,13518,val
+1260,taban de la perra,4701,train
+1261,taban de la perra,4701,train
+1262,taban de la perra,4701,val
+1263,taban de la perra,4701,train
+1264,taban de la perra,4701,train
+1265,taco,179,train
+1266,taco,179,train
+1267,taco,8048,test
+1268,taco,8048,train
+1269,taco,7159,train
+1270,taldo,1404,train
+1271,taldo,1404,test
+1272,taldo,788,train
+1273,taldo,788,train
+1274,taldo,6670,train
+1275,tamos listeilor,10601,val
+1276,tamos listeilor,10601,train
+1277,tamos listeilor,10601,train
+1278,tamos listeilor,10601,train
+1279,tamos listeilor,10601,train
+1280,tapizado,792,train
+1281,tapizado,792,train
+1282,tapizado,8599,val
+1283,tapizado,8599,train
+1284,tapizado,7124,train
+1285,tapizao,11354,train
+1286,tapizao,11354,train
+1287,tapizao,11354,train
+1288,tapizao,11354,val
+1289,tapizao,11354,train
+1290,tay mas weon,4508,train
+1291,tay mas weon,4508,val
+1292,tay mas weon,4508,train
+1293,tay mas weon,4508,train
+1294,tay mas weon,4508,train
+1295,tbt,10246,train
+1296,tbt,10246,train
+1297,tbt,10246,train
+1298,tbt,10246,test
+1299,tbt,10246,train
+1300,te cociste,8218,train
+1301,te cociste,8218,train
+1302,te cociste,8218,train
+1303,te cociste,8218,train
+1304,te cociste,8218,val
+1305,te faltan palos pal puente,6311,train
+1306,te faltan palos pal puente,6311,train
+1307,te faltan palos pal puente,6311,train
+1308,te faltan palos pal puente,6311,train
+1309,te faltan palos pal puente,6311,test
+1310,te fuiste en la profunda,2102,train
+1311,te fuiste en la profunda,2102,train
+1312,te fuiste en la profunda,2102,train
+1313,te fuiste en la profunda,2102,val
+1314,te fuiste en la profunda,2102,train
+1315,te fuiste en media la vola,6065,train
+1316,te fuiste en media la vola,6065,train
+1317,te fuiste en media la vola,6065,val
+1318,te fuiste en media la vola,2101,train
+1319,te fuiste en media la vola,2101,train
+1320,te matriculaste,12109,test
+1321,te matriculaste,12109,train
+1322,te matriculaste,12109,train
+1323,te matriculaste,12109,train
+1324,te matriculaste,12109,train
+1325,te paseo,220,train
+1326,te paseo,220,train
+1327,te paseo,220,train
+1328,te paseo,220,val
+1329,te paseo,220,train
+1330,te paso por el pico,8098,train
+1331,te paso por el pico,8098,train
+1332,te paso por el pico,8098,val
+1333,te paso por el pico,8098,train
+1334,te paso por el pico,8098,train
+1335,te pegai la mision,6434,train
+1336,te pegai la mision,6434,val
+1337,te pegai la mision,6434,train
+1338,te pegai la mision,6434,train
+1339,te pegai la mision,6434,train
+1340,te pegai la mision gordita chupetona,5181,train
+1341,te pegai la mision gordita chupetona,5181,train
+1342,te pegai la mision gordita chupetona,5181,train
+1343,te pegai la mision gordita chupetona,5181,val
+1344,te pegai la mision gordita chupetona,5181,train
+1345,te tengo de hijo,3195,train
+1346,te tengo de hijo,3195,val
+1347,te tengo de hijo,3195,train
+1348,te tengo de hijo,3195,train
+1349,te tengo de hijo,3195,train
+1350,te tinca,7140,train
+1351,te tinca,7140,train
+1352,te tinca,7140,test
+1353,te tinca,7140,train
+1354,te tinca,7140,train
+1355,te tirai la mision,5371,train
+1356,te tirai la mision,5371,train
+1357,te tirai la mision,5371,test
+1358,te tirai la mision,5371,train
+1359,te tirai la mision,5371,train
+1360,te tiraste,799,train
+1361,te tiraste,799,train
+1362,te tiraste,799,test
+1363,te tiraste,799,train
+1364,te tiraste,799,train
+1365,techecas,11024,train
+1366,techecas,11024,train
+1367,techecas,11024,train
+1368,techecas,11024,train
+1369,techecas,11024,test
+1370,techeca s,2613,train
+1371,techeca s,2613,train
+1372,techeca s,2613,val
+1373,techeca s,2613,train
+1374,techeca s,2613,train
+1375,tela,6863,train
+1376,tela,6863,train
+1377,tela,104,val
+1378,tela,104,train
+1379,tela,104,train
+1380,tener al jordan en el aro,3044,train
+1381,tener al jordan en el aro,3044,train
+1382,tener al jordan en el aro,3044,train
+1383,tener al jordan en el aro,3044,train
+1384,tener al jordan en el aro,3044,val
+1385,tengo la pura cara e cuica,3559,val
+1386,tengo la pura cara e cuica,3559,train
+1387,tengo la pura cara e cuica,3559,train
+1388,tengo la pura cara e cuica,3559,train
+1389,tengo la pura cara e cuica,3559,train
+1390,tengo paja,2268,train
+1391,tengo paja,4366,train
+1392,tengo paja,2268,train
+1393,tengo paja,4366,train
+1394,tengo paja,2268,test
+1395,tengo tuto,3848,train
+1396,tengo tuto,3848,val
+1397,tengo tuto,3848,train
+1398,tengo tuto,3848,train
+1399,tengo tuto,3848,train
+1400,teniente cavieres,5903,test
+1401,teniente cavieres,5903,train
+1402,teniente cavieres,5903,train
+1403,teniente cavieres,5903,train
+1404,teniente cavieres,5903,train
+1405,tincada,176,train
+1406,tincada,176,val
+1407,tincada,9737,train
+1408,tincada,176,train
+1409,tincada,9737,train
+1410,tiqui taca,1277,train
+1411,tiqui taca,1277,train
+1412,tiqui taca,1277,train
+1413,tiqui taca,1277,test
+1414,tiqui taca,1277,train
+1415,tiquitaca,13256,train
+1416,tiquitaca,13256,train
+1417,tiquitaca,13256,train
+1418,tiquitaca,13256,val
+1419,tiquitaca,13256,train
+1420,tirar,175,train
+1421,tirar,175,train
+1422,tirar,175,train
+1423,tirar,175,train
+1424,tirar,175,val
+1425,tirar corte,8332,train
+1426,tirar corte,8332,test
+1427,tirar corte,8332,train
+1428,tirar corte,8332,train
+1429,tirar corte,8332,train
+1430,tirar la pela,4796,train
+1431,tirar la pela,4796,train
+1432,tirar la pela,4796,train
+1433,tirar la pela,4796,val
+1434,tirar la pela,4796,train
+1435,tirar los corridos,7310,train
+1436,tirar los corridos,7310,train
+1437,tirar los corridos,7310,train
+1438,tirar los corridos,7310,test
+1439,tirar los corridos,7310,train
+1440,tirarse las weas,6368,train
+1441,tirarse las weas,6368,train
+1442,tirarse las weas,6368,train
+1443,tirarse las weas,6368,test
+1444,tirarse las weas,6368,train
+1445,tocar el violin,268,test
+1446,tocar el violin,268,train
+1447,tocar el violin,268,train
+1448,tocar el violin,780,train
+1449,tocar el violin,780,train
+1450,tole tole,11481,val
+1451,tole tole,11481,train
+1452,tole tole,11481,train
+1453,tole tole,11481,train
+1454,tole tole,11481,train
+1455,tontorron,11558,train
+1456,tontorron,11558,train
+1457,tontorron,11558,test
+1458,tontorron,11558,train
+1459,tontorron,11558,train
+1460,tracala,11372,train
+1461,tracala,11372,test
+1462,tracala,11361,train
+1463,tracala,11361,train
+1464,tracala,11372,train
+1465,tranquilein john wayne,11720,train
+1466,tranquilein john wayne,11720,train
+1467,tranquilein john wayne,11720,train
+1468,tranquilein john wayne,11720,test
+1469,tranquilein john wayne,11720,train
+1470,tula,2926,train
+1471,tula,2926,val
+1472,tula,2926,train
+1473,tula,2926,train
+1474,tula,2926,train
+1475,tulachi,1157,train
+1476,tulachi,1157,train
+1477,tulachi,1157,test
+1478,tulachi,1157,train
+1479,tulachi,1157,train
+1480,un cachito,8389,train
+1481,un cachito,8389,train
+1482,un cachito,8389,train
+1483,un cachito,9840,train
+1484,un cachito,9840,test
+1485,uyuuuiiii,785,train
+1486,uyuuuiiii,785,train
+1487,uyuuuiiii,785,test
+1488,uyuuuiiii,785,train
+1489,uyuuuiiii,785,train
+1490,vale callampa,266,train
+1491,vale callampa,266,train
+1492,vale callampa,266,train
+1493,vale callampa,266,val
+1494,vale callampa,266,train
+1495,vale hongo,143,train
+1496,vale hongo,143,train
+1497,vale hongo,143,train
+1498,vale hongo,143,train
+1499,vale hongo,143,test
+1500,vale pico,1084,train
+1501,vale pico,1084,train
+1502,vale pico,1084,train
+1503,vale pico,7499,train
+1504,vale pico,7499,test
+1505,vamos a comernos,2182,train
+1506,vamos a comernos,2182,train
+1507,vamos a comernos,2182,val
+1508,vamos a comernos,1806,train
+1509,vamos a comernos,1806,train
+1510,vender la pesca,224,train
+1511,vender la pesca,224,train
+1512,vender la pesca,224,train
+1513,vender la pesca,224,val
+1514,vender la pesca,224,train
+1515,vendia,5345,train
+1516,vendia,5345,train
+1517,vendia,12497,train
+1518,vendia,5345,train
+1519,vendia,12497,test
+1520,violeta,2071,train
+1521,violeta,2071,train
+1522,violeta,2071,test
+1523,violeta,2071,train
+1524,violeta,2071,train
+1525,vira de aqui,12253,train
+1526,vira de aqui,12253,train
+1527,vira de aqui,12253,val
+1528,vira de aqui,12253,train
+1529,vira de aqui,12253,train
+1530,virarse,177,train
+1531,virarse,177,train
+1532,virarse,177,train
+1533,virarse,177,test
+1534,virarse,177,train
+1535,vistima,4095,train
+1536,vistima,4095,train
+1537,vistima,4095,val
+1538,vistima,4095,train
+1539,vistima,4095,train
+1540,vivaldi,923,train
+1541,vivaldi,923,train
+1542,vivaldi,923,test
+1543,vivaldi,923,train
+1544,vivaldi,923,train
+1545,volao,167,train
+1546,volao,167,test
+1547,volao,167,train
+1548,volao,1068,train
+1549,volao,1068,train
+1550,volado,967,train
+1551,volado,967,train
+1552,volado,967,val
+1553,volado,967,train
+1554,volado,967,train
+1555,volar la raja,4498,val
+1556,volar la raja,4498,train
+1557,volar la raja,4498,train
+1558,volar la raja,784,train
+1559,volar la raja,784,train
+1560,volarse,536,train
+1561,volarse,536,val
+1562,volarse,536,train
+1563,volarse,536,train
+1564,volarse,536,train
+1565,voy altoque,3615,train
+1566,voy altoque,3615,train
+1567,voy altoque,3615,val
+1568,voy altoque,3615,train
+1569,voy altoque,3615,train
+1570,wacala,764,test
+1571,wacala,764,train
+1572,wacala,764,train
+1573,wacala,764,train
+1574,wacala,764,train
+1575,wachito,6547,train
+1576,wachito,6547,test
+1577,wachito,6547,train
+1578,wachito,6547,train
+1579,wachito,6547,train
+1580,washito,8171,train
+1581,washito,8171,train
+1582,washito,8171,train
+1583,washito,8171,test
+1584,washito,8171,train
+1585,waje,2775,train
+1586,waje,2775,test
+1587,waje,2775,train
+1588,waje,2775,train
+1589,waje,2775,train
+1590,washito rico,535,train
+1591,washito rico,535,train
+1592,washito rico,535,val
+1593,washito rico,535,train
+1594,washito rico,535,train
+1595,washita rica,1234,train
+1596,washita rica,1234,test
+1597,washita rica,1234,train
+1598,washita rica,1234,train
+1599,washita rica,1234,train
+1600,wachita rica,12882,train
+1601,wachita rica,12882,train
+1602,wachita rica,12882,train
+1603,wachita rica,12882,train
+1604,wachita rica,12882,test
+1605,wate,4517,train
+1606,wate,4517,val
+1607,wate,1145,train
+1608,wate,3396,train
+1609,wate,10296,train
+1610,watear,3142,test
+1611,watear,3142,train
+1612,watear,3142,train
+1613,watear,772,train
+1614,watear,772,train
+1615,water,10409,train
+1616,water,10409,val
+1617,water,10409,train
+1618,water,10409,train
+1619,water,10409,train
+1620,waton,7777,train
+1621,waton,7777,train
+1622,waton,7777,val
+1623,waton,7777,train
+1624,waton,7777,train
+1625,wawi,4728,train
+1626,wawi,4728,test
+1627,wawi,4728,train
+1628,wawi,4728,train
+1629,wawi,4728,train
+1630,webada,6224,train
+1631,webada,6224,test
+1632,webada,6224,train
+1633,webada,6224,train
+1634,webada,6224,train
+1635,webeando,2090,train
+1636,webeando,2090,train
+1637,webeando,2090,val
+1638,webeando,6544,train
+1639,webeando,6544,train
+1640,webeo,2832,train
+1641,webeo,2832,train
+1642,webeo,2832,train
+1643,webeo,775,train
+1644,webeo,775,test
+1645,webiar,3740,train
+1646,webiar,1206,train
+1647,webiar,3741,test
+1648,webiar,3741,train
+1649,webiar,10711,train
+1650,wear,12254,train
+1651,wear,12254,train
+1652,wear,12254,val
+1653,wear,12254,train
+1654,wear,12254,train
+1655,webear,4422,test
+1656,webear,4422,train
+1657,webear,4422,train
+1658,webear,4422,train
+1659,webear,4422,train
+1660,weco,1525,val
+1661,weco,1525,train
+1662,weco,1525,train
+1663,weco,1525,train
+1664,weco,1525,train
+1665,weca,774,train
+1666,weca,774,train
+1667,weca,774,val
+1668,weca,774,train
+1669,weca,774,train
+1670,wekereke,5575,test
+1671,wekereke,5575,train
+1672,wekereke,5575,train
+1673,wekereke,5516,train
+1674,wekereke,5798,train
+1675,wena,276,train
+1676,wena,276,train
+1677,wena,8418,train
+1678,wena,8418,train
+1679,wena,276,test
+1680,weno,13941,train
+1681,weno,13941,train
+1682,weno,13941,val
+1683,weno,13941,train
+1684,weno,13941,train
+1685,weon,474,train
+1686,weon,6912,train
+1687,weon,475,val
+1688,weon,475,train
+1689,weon,474,train
+1690,weona,4724,val
+1691,weona,4724,train
+1692,weona,4724,train
+1693,weona,4724,train
+1694,weona,3458,train
+1695,weon cagao,3378,train
+1696,weon cagao,3378,train
+1697,weon cagao,3378,train
+1698,weon cagao,3378,val
+1699,weon cagao,3378,train
+1700,weonaje,777,test
+1701,weonaje,777,train
+1702,weonaje,777,train
+1703,weonaje,2139,train
+1704,weonaje,2139,train
+1705,weta,3625,train
+1706,weta,3625,train
+1707,weta,3625,train
+1708,weta,3625,train
+1709,weta,3625,val
+1710,witrear,66,train
+1711,witrear,66,train
+1712,witrear,66,val
+1713,witrear,66,train
+1714,witrear,66,train
+1715,y bosnia,2552,train
+1716,y bosnia,2552,train
+1717,y bosnia,2552,train
+1718,y bosnia,2552,test
+1719,y bosnia,2552,train
+1720,y boston,13274,train
+1721,y boston,13274,train
+1722,y boston,13274,train
+1723,y boston,13274,val
+1724,y boston,13274,train
+1725,y el pico,13294,train
+1726,y el pico,13294,train
+1727,y el pico,13294,train
+1728,y el pico,13294,test
+1729,y el pico,13294,train
+1730,yapo,275,train
+1731,yapo,275,test
+1732,yapo,8912,train
+1733,yapo,3634,train
+1734,yapo,3186,train
+1735,yera,8910,train
+1736,yera,8910,test
+1737,yera,8910,train
+1738,yera,4646,train
+1739,yera,4646,train
+1740,yeta,234,val
+1741,yeta,234,train
+1742,yeta,3802,train
+1743,yeta,234,train
+1744,yeta,3802,train
+1745,yuta,163,train
+1746,yuta,163,test
+1747,yuta,4890,train
+1748,yuta,5217,train
+1749,yuta,163,train
+1750,como te poni a llorar por un chocmans,6910,val
+1751,como te poni a llorar por un chocmans,6910,train
+1752,como te poni a llorar por un chocmans,6910,train
+1753,como te poni a llorar por un chocmans,6910,train
+1754,como te poni a llorar por un chocmans,6910,train
+1755,mecha corta,3692,train
+1756,mecha corta,3692,train
+1757,mecha corta,69,test
+1758,mecha corta,69,train
+1759,mecha corta,69,train
+1760,merenjunje,7900,train
+1761,merenjunje,7900,train
+1762,merenjunje,7900,train
+1763,merenjunje,7900,test
+1764,merenjunje,7900,train
+1765,merluzo,11301,train
+1766,merluzo,11301,train
+1767,merluzo,11301,test
+1768,merluzo,12006,train
+1769,merluzo,12006,train
+1770,meter la cuchara,7433,train
+1771,meter la cuchara,7433,train
+1772,meter la cuchara,7433,train
+1773,meter la cuchara,7433,test
+1774,meter la cuchara,7433,train
+1775,meterle chala,2957,train
+1776,meterle chala,10058,train
+1777,meterle chala,2957,test
+1778,meterle chala,10058,train
+1779,meterle chala,10058,train
+1780,micro,3573,train
+1781,micro,3573,train
+1782,micro,3573,train
+1783,micro,3573,train
+1784,micro,3573,test
+1785,mijita,4679,train
+1786,mijita,4679,test
+1787,mijita,4679,train
+1788,mijita,4679,train
+1789,mijita,4679,train
+1790,mina,5898,train
+1791,mina,5898,val
+1792,mina,145,train
+1793,mina,145,train
+1794,mina,145,train
+1795,mino,3821,train
+1796,mino,3821,train
+1797,mino,3821,train
+1798,mino,3821,test
+1799,mino,3821,train
+1800,mirarse el ombligo,11791,train
+1801,mirarse el ombligo,11791,train
+1802,mirarse el ombligo,11791,train
+1803,mirarse el ombligo,11791,test
+1804,mirarse el ombligo,11791,train
+1805,miti mota,9864,train
+1806,miti mota,9864,test
+1807,miti mota,9864,train
+1808,miti mota,9864,train
+1809,miti mota,9864,train
+1810,moco tendido,990,train
+1811,moco tendido,990,train
+1812,moco tendido,990,train
+1813,moco tendido,990,train
+1814,moco tendido,990,test
+1815,monedita de oro,12880,train
+1816,monedita de oro,12880,train
+1817,monedita de oro,12880,train
+1818,monedita de oro,12880,train
+1819,monedita de oro,12880,test
+1820,mosca,7886,train
+1821,mosca,4841,train
+1822,mosca,7886,train
+1823,mosca,7886,test
+1824,mosca,7886,train
+1825,mostrar la hilacha,2200,train
+1826,mostrar la hilacha,2200,train
+1827,mostrar la hilacha,2200,train
+1828,mostrar la hilacha,10658,val
+1829,mostrar la hilacha,10658,train
+1830,mote con huesillo,11322,train
+1831,mote con huesillo,11322,train
+1832,mote con huesillo,11322,train
+1833,mote con huesillo,11322,train
+1834,mote con huesillo,11322,test
+1835,muere de viejo y no de sapo,213,test
+1836,muere de viejo y no de sapo,213,train
+1837,muere de viejo y no de sapo,213,train
+1838,muere de viejo y no de sapo,213,train
+1839,muere de viejo y no de sapo,213,train
+1840,mugriento,11163,train
+1841,mugriento,11163,train
+1842,mugriento,11163,test
+1843,mugriento,11163,train
+1844,mugriento,11163,train
+1845,mula,146,train
+1846,mula,146,train
+1847,mula,2057,val
+1848,mula,2057,train
+1849,mula,2058,train
+1850,nana,4584,train
+1851,nana,4584,val
+1852,nana,4584,train
+1853,nana,1426,train
+1854,nana,1426,train
+1855,nanai,6295,train
+1856,nanai,7221,train
+1857,nanai,4083,train
+1858,nanai,4083,test
+1859,nanai,1956,train
+1860,nato,4683,train
+1861,nato,4683,train
+1862,nato,4683,train
+1863,nato,3665,train
+1864,nato,3665,val
+1865,nave,8472,train
+1866,nave,8472,train
+1867,nave,8472,train
+1868,nave,8472,train
+1869,nave,8472,val
+1870,neque,2198,train
+1871,neque,2198,train
+1872,neque,2198,val
+1873,neque,8394,train
+1874,neque,8394,train
+1875,no es ni chicha ni limonada,9449,train
+1876,no es ni chicha ni limonada,9449,train
+1877,no es ni chicha ni limonada,9449,train
+1878,no es ni chicha ni limonada,9449,val
+1879,no es ni chicha ni limonada,9449,train
+1880,no estoy ni ahi,6201,train
+1881,no estoy ni ahi,6201,train
+1882,no estoy ni ahi,6201,train
+1883,no estoy ni ahi,4791,test
+1884,no estoy ni ahi,4791,train
+1885,no estoy ni al metro,4003,train
+1886,no estoy ni al metro,4003,train
+1887,no estoy ni al metro,4003,train
+1888,no estoy ni al metro,4003,val
+1889,no estoy ni al metro,4003,train
+1890,no le doy pauta,7185,train
+1891,no le doy pauta,7185,test
+1892,no le doy pauta,7185,train
+1893,no le doy pauta,7185,train
+1894,no le doy pauta,7185,train
+1895,no me calza,6908,train
+1896,no me calza,6908,train
+1897,no me calza,6908,train
+1898,no me calza,6908,train
+1899,no me calza,6908,val
+1900,no me da ni pelota,308,train
+1901,no me da ni pelota,308,train
+1902,no me da ni pelota,308,train
+1903,no me da ni pelota,308,test
+1904,no me da ni pelota,308,train
+1905,no pasa na,7586,train
+1906,no pasa na,7586,test
+1907,no pasa na,7586,train
+1908,no pasa na,7586,train
+1909,no pasa na,7586,train
+1910,nurdo,1993,val
+1911,nurdo,1993,train
+1912,nurdo,1993,train
+1913,nurdo,1993,train
+1914,nurdo,1993,train
+1915,ojitos de piscina,3325,train
+1916,ojitos de piscina,3325,train
+1917,ojitos de piscina,3325,test
+1918,ojitos de piscina,3325,train
+1919,ojitos de piscina,3325,train
+1920,ojo al charqui,4279,train
+1921,ojo al charqui,4279,train
+1922,ojo al charqui,4279,train
+1923,ojo al charqui,4279,train
+1924,ojo al charqui,4279,val
+1925,ojo de trucha,2311,train
+1926,ojo de trucha,2311,train
+1927,ojo de trucha,2311,train
+1928,ojo de trucha,2311,train
+1929,ojo de trucha,2311,val
+1930,once,8037,train
+1931,once,8037,train
+1932,once,8037,test
+1933,once,8037,train
+1934,once,8037,train
+1935,otra cosa es con guitarra,790,val
+1936,otra cosa es con guitarra,790,train
+1937,otra cosa es con guitarra,790,train
+1938,otra cosa es con guitarra,790,train
+1939,otra cosa es con guitarra,790,train
+1940,pa que po,840,train
+1941,pa que po,840,val
+1942,pa que po,3726,train
+1943,pa que po,3726,train
+1944,pa que po,8899,train
+1945,pachorra,8038,train
+1946,pachorra,8038,train
+1947,pachorra,8038,test
+1948,pachorra,8038,train
+1949,pachorra,8038,train
+1950,pal hoyo,7229,train
+1951,pal hoyo,7229,test
+1952,pal hoyo,7229,train
+1953,pal hoyo,7229,train
+1954,pal hoyo,7229,train
+1955,paleteado,5294,train
+1956,paleteado,5294,test
+1957,paleteado,5294,train
+1958,paleteado,700,train
+1959,paleteado,700,train
+1960,pan batido,3803,train
+1961,pan batido,3803,val
+1962,pan batido,3803,train
+1963,pan batido,3803,train
+1964,pan batido,3803,train
+1965,pan copihue,13445,test
+1966,pan copihue,13445,train
+1967,pan copihue,13445,train
+1968,pan copihue,13445,train
+1969,pan copihue,13445,train
+1970,pan de dios,228,val
+1971,pan de dios,228,train
+1972,pan de dios,228,train
+1973,pan de dios,228,train
+1974,pan de dios,228,train
+1975,pan frances,6556,train
+1976,pan frances,6556,test
+1977,pan frances,6556,train
+1978,pan frances,6556,train
+1979,pan frances,6556,train
+1980,papagayo,12086,train
+1981,papagayo,12086,train
+1982,papagayo,12086,train
+1983,papagayo,12086,val
+1984,papagayo,12086,train
+1985,papaya,8042,train
+1986,papaya,8042,train
+1987,papaya,8042,train
+1988,papaya,8042,train
+1989,papaya,8042,test
+1990,papel confort,3079,test
+1991,papel confort,3079,train
+1992,papel confort,3079,train
+1993,papel confort,3079,train
+1994,papel confort,3079,train
+1995,papito corazon,12802,train
+1996,papito corazon,12802,train
+1997,papito corazon,12802,train
+1998,papito corazon,12802,test
+1999,papito corazon,12802,train
+2000,paracaidista,1111,train
+2001,paracaidista,1111,train
+2002,paracaidista,1111,train
+2003,paracaidista,1111,val
+2004,paracaidista,1111,train
+2005,parar la olla,6589,train
+2006,parar la olla,6589,train
+2007,parar la olla,6589,train
+2008,parar la olla,6589,train
+2009,parar la olla,6589,test
+2010,parar los carros,710,train
+2011,parar los carros,710,val
+2012,parar los carros,710,train
+2013,parar los carros,710,train
+2014,parar los carros,710,train
+2015,parche curita,13424,train
+2016,parche curita,13424,train
+2017,parche curita,13424,train
+2018,parche curita,13424,test
+2019,parche curita,13424,train
+2020,pariente,7787,train
+2021,pariente,7787,train
+2022,pariente,7787,train
+2023,pariente,7787,val
+2024,pariente,7787,train
+2025,parlanchin,713,train
+2026,parlanchin,713,train
+2027,parlanchin,713,train
+2028,parlanchin,713,val
+2029,parlanchin,713,train
+2030,pasada pa la punta,31,train
+2031,pasada pa la punta,31,val
+2032,pasada pa la punta,31,train
+2033,pasada pa la punta,31,train
+2034,pasada pa la punta,31,train
+2035,pasar maquina,5927,train
+2036,pasar maquina,5927,val
+2037,pasar maquina,5927,train
+2038,pasar maquina,5927,train
+2039,pasar maquina,5927,train
+2040,pasarla chancho,10125,val
+2041,pasarla chancho,10125,train
+2042,pasarla chancho,10125,train
+2043,pasarla chancho,10125,train
+2044,pasarla chancho,10125,train
+2045,pasarse rollos,13306,test
+2046,pasarse rollos,13306,train
+2047,pasarse rollos,13306,train
+2048,pasarse rollos,13306,train
+2049,pasarse rollos,13306,train
+2050,pataleta,11474,train
+2051,pataleta,11474,train
+2052,pataleta,11474,train
+2053,pataleta,11474,val
+2054,pataleta,11474,train
+2055,patio de los callados,54,train
+2056,patio de los callados,54,test
+2057,patio de los callados,54,train
+2058,patio de los callados,54,train
+2059,patio de los callados,54,train
+2060,patipelado,4334,train
+2061,patipelado,4334,val
+2062,patipelado,4334,train
+2063,patipelado,4334,train
+2064,patipelado,8177,train
+2065,patiperro,716,train
+2066,patiperro,716,train
+2067,patiperro,716,train
+2068,patiperro,716,train
+2069,patiperro,716,test
+2070,pato,3756,train
+2071,pato,3756,train
+2072,pato,8044,train
+2073,pato,8044,val
+2074,pato,3756,train
+2075,patudo,5716,test
+2076,patudo,5716,train
+2077,patudo,5716,train
+2078,patudo,10807,train
+2079,patudo,10807,train
+2080,pava,7828,train
+2081,pava,7828,train
+2082,pava,7828,train
+2083,pava,7828,train
+2084,pava,7828,test
+2085,payasear,1148,train
+2086,payasear,1148,test
+2087,payasear,1148,train
+2088,payasear,1148,train
+2089,payasear,1148,train
+2090,pechar,8779,val
+2091,pechar,8779,train
+2092,pechar,8779,train
+2093,pechar,718,train
+2094,pechar,718,train
+2095,pedir fiado,11475,train
+2096,pedir fiado,11475,train
+2097,pedir fiado,11475,train
+2098,pedir fiado,11475,test
+2099,pedir fiado,11475,train
+2100,pega,719,train
+2101,pega,719,val
+2102,pega,719,train
+2103,pega,719,train
+2104,pega,3713,train
+2105,pegarse el alcachofazo,3263,train
+2106,pegarse el alcachofazo,3263,train
+2107,pegarse el alcachofazo,3263,train
+2108,pegarse el alcachofazo,3273,test
+2109,pegarse el alcachofazo,3273,train
+2110,pegarse el show,5762,train
+2111,pegarse el show,5762,train
+2112,pegarse el show,5762,train
+2113,pegarse el show,6506,train
+2114,pegarse el show,6506,val
+2115,pegarse la cacha,8198,train
+2116,pegarse la cacha,8198,train
+2117,pegarse la cacha,8198,train
+2118,pegarse la cacha,8198,train
+2119,pegarse la cacha,8198,test
+2120,pegarse un gambazo,7771,train
+2121,pegarse un gambazo,7771,train
+2122,pegarse un gambazo,7771,train
+2123,pegarse un gambazo,7771,train
+2124,pegarse un gambazo,7771,test
+2125,pegote,720,train
+2126,pegote,720,train
+2127,pegote,720,val
+2128,pegote,720,train
+2129,pegote,720,train
+2130,pela cable,8561,train
+2131,pela cable,989,train
+2132,pela cable,8561,train
+2133,pela cable,8561,test
+2134,pela cable,989,train
+2135,pelagato,3626,train
+2136,pelagato,3603,train
+2137,pelagato,3603,train
+2138,pelagato,3626,train
+2139,pelagato,3603,test
+2140,pelambre,11303,train
+2141,pelambre,11303,train
+2142,pelambre,11303,train
+2143,pelambre,11303,train
+2144,pelambre,11303,test
+2145,pelolais,556,train
+2146,pelolais,556,train
+2147,pelolais,556,train
+2148,pelolais,1813,val
+2149,pelolais,1813,train
+2150,penar,5044,train
+2151,penar,5044,train
+2152,penar,5044,train
+2153,penar,5044,train
+2154,penar,5044,val
+2155,penca,723,train
+2156,penca,723,train
+2157,penca,6480,train
+2158,penca,6480,val
+2159,penca,10080,train
+2160,pepito paga doble,8437,train
+2161,pepito paga doble,8437,test
+2162,pepito paga doble,8437,train
+2163,pepito paga doble,8437,train
+2164,pepito paga doble,8437,train
+2165,perro muerto,976,train
+2166,perro muerto,976,train
+2167,perro muerto,5310,train
+2168,perro muerto,5310,test
+2169,perro muerto,976,train
+2170,pesado de sangre,11870,train
+2171,pesado de sangre,11870,train
+2172,pesado de sangre,11870,train
+2173,pesado de sangre,11870,val
+2174,pesado de sangre,11870,train
+2175,pescar,727,train
+2176,pescar,727,train
+2177,pescar,727,val
+2178,pescar,9646,train
+2179,pescar,9646,train
+2180,petaca,728,train
+2181,petaca,728,test
+2182,petaca,728,train
+2183,petaca,728,train
+2184,petaca,728,train
+2185,piante,1301,train
+2186,piante,1301,test
+2187,piante,1960,train
+2188,piante,5918,train
+2189,piante,4546,train
+2190,picada,1470,train
+2191,picada,1470,train
+2192,picada,1470,train
+2193,picada,2796,train
+2194,picada,2796,test
+2195,pichanga,541,train
+2196,pichanga,541,train
+2197,pichanga,7200,train
+2198,pichanga,7200,val
+2199,pichanga,8435,train
+2200,pichintun,5719,train
+2201,pichintun,5719,test
+2202,pichintun,5719,train
+2203,pichintun,5719,train
+2204,pichintun,5719,train
+2205,pijama de palo,2180,train
+2206,pijama de palo,2180,train
+2207,pijama de palo,2180,val
+2208,pijama de palo,2180,train
+2209,pijama de palo,2180,train
+2210,pilchas,734,train
+2211,pilchas,734,train
+2212,pilchas,734,train
+2213,pilchas,734,val
+2214,pilchas,734,train
+2215,pillar chanchito,12779,test
+2216,pillar chanchito,12779,train
+2217,pillar chanchito,12779,train
+2218,pillar chanchito,12779,train
+2219,pillar chanchito,12779,train
+2220,pinche,11165,train
+2221,pinche,11165,train
+2222,pinche,11165,val
+2223,pinche,7904,train
+2224,pinche,7904,train
+2225,pinta,12163,train
+2226,pinta,12163,val
+2227,pinta,12163,train
+2228,pinta,11964,train
+2229,pinta,11964,train
+2230,pintar monos,9694,train
+2231,pintar monos,9694,train
+2232,pintar monos,9694,val
+2233,pintar monos,3659,train
+2234,pintar monos,3659,train
+2235,pintoso,737,train
+2236,pintoso,737,train
+2237,pintoso,737,test
+2238,pintoso,737,train
+2239,pintoso,737,train
+2240,pinufla,1490,train
+2241,pinufla,1490,train
+2242,pinufla,4606,val
+2243,pinufla,4606,train
+2244,pinufla,10320,train
+2245,piojento,1113,train
+2246,piojento,1113,train
+2247,piojento,1113,train
+2248,piojento,1113,train
+2249,piojento,1113,val
+2250,piojo resucitado,12503,test
+2251,piojo resucitado,12503,train
+2252,piojo resucitado,12503,train
+2253,piojo resucitado,12503,train
+2254,piojo resucitado,12503,train
+2255,piola,6592,train
+2256,piola,11157,val
+2257,piola,711,train
+2258,piola,7120,train
+2259,piola,2534,train
+2260,piropo,7494,train
+2261,piropo,7494,test
+2262,piropo,7494,train
+2263,piropo,7494,train
+2264,piropo,7494,train
+2265,piscola,68,train
+2266,piscola,68,test
+2267,piscola,68,train
+2268,piscola,68,train
+2269,piscola,11694,train
+2270,pituca,1304,train
+2271,pituca,1304,train
+2272,pituca,1304,train
+2273,pituca,1304,val
+2274,pituca,1304,train
+2275,pituto,157,train
+2276,pituto,157,test
+2277,pituto,10036,train
+2278,pituto,10036,train
+2279,pituto,10645,train
+2280,plop,4699,train
+2281,plop,4699,test
+2282,plop,4699,train
+2283,plop,4699,train
+2284,plop,4699,train
+2285,po,982,val
+2286,po,982,train
+2287,po,982,train
+2288,po,982,train
+2289,po,982,train
+2290,poleron,7380,train
+2291,poleron,7380,train
+2292,poleron,7380,train
+2293,poleron,7380,val
+2294,poleron,7380,train
+2295,pololo,2112,train
+2296,pololo,2112,train
+2297,pololo,2112,train
+2298,pololo,7888,val
+2299,pololo,7888,train
+2300,poner el gorro,6351,train
+2301,poner el gorro,6351,train
+2302,poner el gorro,6351,val
+2303,poner el gorro,6351,train
+2304,poner el gorro,6351,train
+2305,ponerle pino,11003,train
+2306,ponerle pino,11003,train
+2307,ponerle pino,11003,train
+2308,ponerle pino,10124,train
+2309,ponerle pino,10124,test
+2310,ponerse la camiseta,11464,train
+2311,ponerse la camiseta,11464,train
+2312,ponerse la camiseta,11464,train
+2313,ponerse la camiseta,11464,val
+2314,ponerse la camiseta,11464,train
+2315,ponerse las pilas,1011,train
+2316,ponerse las pilas,1011,train
+2317,ponerse las pilas,1011,train
+2318,ponerse las pilas,1011,test
+2319,ponerse las pilas,1011,train
+2320,ponte tu,11480,val
+2321,ponte tu,11480,train
+2322,ponte tu,11480,train
+2323,ponte tu,11480,train
+2324,ponte tu,11480,train
+2325,por si las moscas,883,train
+2326,por si las moscas,883,test
+2327,por si las moscas,883,train
+2328,por si las moscas,883,train
+2329,por si las moscas,883,train
+2330,porfa,2833,train
+2331,porfa,2833,train
+2332,porfa,2833,train
+2333,porfa,2833,val
+2334,porfa,2833,train
+2335,porfiado,4801,train
+2336,porfiado,4801,train
+2337,porfiado,4801,train
+2338,porfiado,4801,val
+2339,porfiado,4801,train
+2340,porsiaca,13167,train
+2341,porsiaca,13167,train
+2342,porsiaca,13167,train
+2343,porsiaca,13167,train
+2344,porsiaca,13167,val
+2345,posta,13556,test
+2346,posta,13556,train
+2347,posta,13556,train
+2348,posta,13556,train
+2349,posta,13556,train
+2350,privarse,10495,train
+2351,privarse,10495,train
+2352,privarse,10495,train
+2353,privarse,10495,train
+2354,privarse,10495,test
+2355,pucha,4931,train
+2356,pucha,4931,train
+2357,pucha,4931,train
+2358,pucha,4931,test
+2359,pucha,4931,train
+2360,pudiente,10707,train
+2361,pudiente,10707,train
+2362,pudiente,10707,train
+2363,pudiente,10707,test
+2364,pudiente,10707,train
+2365,puelche,551,test
+2366,puelche,551,train
+2367,puelche,10451,train
+2368,puelche,551,train
+2369,puelche,10451,train
+2370,pulento,913,train
+2371,pulento,913,train
+2372,pulento,11686,test
+2373,pulento,11686,train
+2374,pulento,913,train
+2380,pura challa,8226,train
+2381,pura challa,8226,train
+2382,pura challa,8226,test
+2383,pura challa,8226,train
+2384,pura challa,8226,train
+2385,que corra,12781,train
+2386,que corra,12781,train
+2387,que corra,12781,train
+2388,que corra,12781,val
+2389,que corra,12781,train
+2390,que fai,13565,train
+2391,que fai,13565,train
+2392,que fai,13565,train
+2393,que fai,13565,val
+2394,que fai,13565,train
+2395,que onda,1950,train
+2396,que onda,869,train
+2397,que onda,1950,train
+2398,que onda,869,train
+2399,que onda,869,val
+2400,que se teje,1290,train
+2401,que se teje,1290,train
+2402,que se teje,7090,train
+2403,que se teje,7090,train
+2404,que se teje,1290,test
+2405,andai de la perra,4256,train
+2406,andai de la perra,4256,train
+2407,andai de la perra,4256,val
+2408,andai de la perra,4256,train
+2409,andai de la perra,4256,train
+2410,a calato,4001,train
+2411,a calato,2699,val
+2412,a calato,2699,train
+2413,a calato,2699,train
+2414,a calato,2699,train
+2415,a calzon quitado,1024,val
+2416,a calzon quitado,1024,train
+2417,a calzon quitado,1024,train
+2418,a calzon quitado,1024,train
+2419,a calzon quitado,1024,train
+2420,a chancho tirado,11767,train
+2421,a chancho tirado,11767,train
+2422,a chancho tirado,11767,val
+2423,a chancho tirado,11767,train
+2424,a chancho tirado,11767,train
+2425,a cuello,8104,train
+2426,a cuello,8104,test
+2427,a cuello,8104,train
+2428,a cuello,8104,train
+2429,a cuello,8104,train
+2430,a fierro pelao,5592,train
+2431,a fierro pelao,5592,val
+2432,a fierro pelao,6496,train
+2433,a fierro pelao,6496,train
+2434,a fierro pelao,6496,train
+2435,a la chucha,340,train
+2436,a la chucha,340,test
+2437,a la chucha,9602,train
+2438,a la chucha,1831,train
+2439,a la chucha,1831,train
+2440,a la chuna,341,val
+2441,a la chuna,341,train
+2442,a la chuna,1026,train
+2443,a la chuna,11087,train
+2444,a la chuna,11087,train
+2445,a la hora del pico,2061,val
+2446,a la hora del pico,2061,train
+2447,a la hora del pico,342,train
+2448,a la hora del pico,12738,train
+2449,a la hora del pico,4260,train
+2450,a lo gringo,20,train
+2451,a lo gringo,20,train
+2452,a lo gringo,20,train
+2453,a lo gringo,20,train
+2454,a lo gringo,20,val
+2455,a lo maldito,5640,train
+2456,a lo maldito,5640,train
+2457,a lo maldito,5640,train
+2458,a lo maldito,7573,val
+2459,a lo maldito,7573,train
+2460,a lo maton,11932,test
+2461,a lo maton,11932,train
+2462,a lo maton,11932,train
+2463,a lo maton,11932,train
+2464,a lo maton,11932,train
+2465,a pata,305,test
+2466,a pata,305,train
+2467,a pata,305,train
+2468,a pata,7202,train
+2469,a pata,305,train
+2470,a pata pela,6256,test
+2471,a pata pela,6256,train
+2472,a pata pela,1797,train
+2473,a pata pela,1797,train
+2474,a pata pela,1797,train
+2475,a poto pelao,2381,train
+2476,a poto pelao,2381,val
+2477,a poto pelao,1798,train
+2478,a poto pelao,1798,train
+2479,a poto pelao,2942,train
+2480,a toda raja,2561,train
+2481,a toda raja,2561,test
+2482,a toda raja,2561,train
+2483,a toda raja,7511,train
+2484,a toda raja,7511,train
+2485,achorarse,11143,train
+2486,achorarse,11143,train
+2487,achorarse,11143,train
+2488,achorarse,11143,train
+2489,achorarse,11143,val
+2490,achorar,853,train
+2491,achorar,853,train
+2492,achorar,853,train
+2493,achorar,1439,train
+2494,achorar,1439,test
+2495,achuntar,21,val
+2496,achuntar,21,train
+2497,achuntar,6894,train
+2498,achuntar,21,train
+2499,achuntar,6894,train
+2500,acusete,4570,train
+2501,acusete,4570,test
+2502,acusete,9201,train
+2503,acusete,4570,train
+2504,acusete,4570,train
+2505,africano,2,train
+2506,africano,2,train
+2507,africano,2,train
+2508,africano,2,train
+2509,africano,2,val
+2510,agarrar,32,train
+2511,agarrar,32,train
+2512,agarrar,32,train
+2513,agarrar,32,test
+2514,agarrar,32,train
+2515,agarrar pal chuleteo,149,train
+2516,agarrar pal chuleteo,149,val
+2517,agarrar pal chuleteo,149,train
+2518,agarrar pal chuleteo,149,train
+2519,agarrar pal chuleteo,149,train
+2520,agarrar pal leseo,150,train
+2521,agarrar pal leseo,150,train
+2522,agarrar pal leseo,150,train
+2523,agarrar pal leseo,150,test
+2524,agarrar pal leseo,150,train
+2525,agarrar pal webeo,1169,train
+2526,agarrar pal webeo,1169,train
+2527,agarrar pal webeo,1169,train
+2528,agarrar pal webeo,1169,train
+2529,agarrar pal webeo,1169,test
+2530,agarrar papa,4916,train
+2531,agarrar papa,4916,train
+2532,agarrar papa,4916,val
+2533,agarrar papa,10890,train
+2534,agarrar papa,10890,train
+2535,agarrarse a chuchadas,2765,val
+2536,agarrarse a chuchadas,2765,train
+2537,agarrarse a chuchadas,2765,train
+2538,agarrarse a chuchadas,2765,train
+2539,agarrarse a chuchadas,2765,train
+2540,al achunte,11479,train
+2541,al achunte,11479,train
+2542,al achunte,11479,val
+2543,al achunte,11479,train
+2544,al achunte,11479,train
+2545,al peo,38,train
+2546,al peo,38,train
+2547,al peo,38,test
+2548,al peo,38,train
+2549,al peo,38,train
+2550,al seco,39,train
+2551,al seco,39,test
+2552,al seco,39,train
+2553,al seco,39,train
+2554,al seco,39,train
+2555,al tiro,975,train
+2556,al tiro,975,val
+2557,al tiro,975,train
+2558,al tiro,975,train
+2559,al tiro,975,train
+2560,al toque,1766,val
+2561,al toque,1766,train
+2562,al toque,1766,train
+2563,al toque,1766,train
+2564,al toque,1766,train
+2565,al toke,44,train
+2566,al toke,44,train
+2567,al toke,44,test
+2568,al toke,44,train
+2569,al toke,44,train
+2570,altoke,8835,val
+2571,altoke,8835,train
+2572,altoke,8835,train
+2573,altoke,8835,train
+2574,altoke,8835,train
+2575,altoque,3931,train
+2576,altoque,3931,train
+2577,altoque,3931,test
+2578,altoque,3931,train
+2579,altoque,3931,train
+2580,alharaca,9492,train
+2581,alharaca,362,train
+2582,alharaca,9492,train
+2583,alharaca,362,val
+2584,alharaca,9492,train
+2585,alaraco,7346,test
+2586,alaraco,7346,train
+2587,alaraco,7346,train
+2588,alaraco,7346,train
+2589,alaraco,7346,train
+2590,amanerado,9246,train
+2591,amanerado,9246,train
+2592,amanerado,9246,test
+2593,amanerado,9246,train
+2594,amanerado,9246,train
+2595,amanerao,8006,train
+2596,amanerao,8006,train
+2597,amanerao,8006,train
+2598,amanerao,8006,train
+2599,amanerao,8006,val
+2600,amariconado,1038,train
+2601,amariconado,1038,train
+2602,amariconado,1038,test
+2603,amariconado,7968,train
+2604,amariconado,1038,train
+2605,amermelado,152,test
+2606,amermelado,152,train
+2607,amermelado,152,train
+2608,amermelado,152,train
+2609,amermelado,152,train
+2610,amermelao,346,train
+2611,amermelao,346,train
+2612,amermelao,346,train
+2613,amermelao,346,val
+2614,amermelao,346,train
+2615,amurrao,9496,train
+2616,amurrao,9496,train
+2617,amurrao,9496,train
+2618,amurrao,9496,train
+2619,amurrao,9496,val
+2620,anda a laar,2069,test
+2621,anda a laar,2069,train
+2622,anda a laar,1689,train
+2623,anda a laar,1689,train
+2624,anda a laar,1666,train
+2625,anda a lavarte la raja,65,train
+2626,anda a lavarte la raja,1221,train
+2627,anda a lavarte la raja,1333,train
+2628,anda a lavarte la raja,1221,train
+2629,anda a lavarte la raja,1333,test
+2630,andai puro maraqueando,71,train
+2631,andai puro maraqueando,71,train
+2632,andai puro maraqueando,71,train
+2633,andai puro maraqueando,71,train
+2634,andai puro maraqueando,71,val
+2635,andai puro sapeando,6285,train
+2636,andai puro sapeando,6285,train
+2637,andai puro sapeando,6285,val
+2638,andai puro sapeando,7577,train
+2639,andai puro sapeando,7577,train
+2640,andar acumulado,9,train
+2641,andar acumulado,9,train
+2642,andar acumulado,9,train
+2643,andar acumulado,9,train
+2644,andar acumulado,9,val
+2645,acumulado,10,train
+2646,acumulado,10,train
+2647,acumulado,10,train
+2648,acumulado,10,train
+2649,acumulado,10,test
+2650,andar aguja,11921,train
+2651,andar aguja,11921,test
+2652,andar aguja,11921,train
+2653,andar aguja,11921,train
+2654,andar aguja,11921,train
+2655,aguja,3004,train
+2656,aguja,3004,val
+2657,aguja,2884,train
+2658,aguja,2884,train
+2659,aguja,3004,train
+2660,andar churrete,225,val
+2661,andar churrete,225,train
+2662,andar churrete,225,train
+2663,andar churrete,225,train
+2664,andar churrete,225,train
+2665,andar con la pera,1448,val
+2666,andar con la pera,1448,train
+2667,andar con la pera,1028,train
+2668,andar con la pera,1028,train
+2669,andar con la pera,4118,train
+2670,andai con la pera,7576,train
+2671,andai con la pera,7576,train
+2672,andai con la pera,7576,train
+2673,andai con la pera,5326,train
+2674,andai con la pera,5326,val
+2675,andar en la rama,2050,train
+2676,andar en la rama,2050,test
+2677,andar en la rama,2050,train
+2678,andar en la rama,2050,train
+2679,andar en la rama,2050,train
+2680,andar en patota,6835,train
+2681,andar en patota,6835,train
+2682,andar en patota,6835,val
+2683,andar en patota,6835,train
+2684,andar en patota,6835,train
+2685,andar pato,3009,val
+2686,andar pato,3009,train
+2687,andar pato,11110,train
+2688,andar pato,3009,train
+2689,andar pato,11110,train
+2690,anda pato,77,val
+2691,anda pato,77,train
+2692,anda pato,77,train
+2693,anda pato,77,train
+2694,anda pato,77,train
+2695,andar paveando,11089,train
+2696,andar paveando,11089,val
+2697,andar paveando,11089,train
+2698,andar paveando,11089,train
+2699,andar paveando,11089,train
+2700,andar vio,2485,test
+2701,andar vio,2485,train
+2702,andar vio,2485,train
+2703,andar vio,2485,train
+2704,andar vio,2485,train
+2705,andate a la cresta,2869,train
+2706,andate a la cresta,2869,train
+2707,andate a la cresta,2869,train
+2708,andate a la cresta,2869,val
+2709,andate a la cresta,2869,train
+2710,ando mecha corta,12249,train
+2711,ando mecha corta,12249,train
+2712,ando mecha corta,12249,val
+2713,ando mecha corta,12249,train
+2714,ando mecha corta,12249,train
+2715,ano de la cocoa,901,train
+2716,ano de la cocoa,901,train
+2717,ano de la cocoa,901,train
+2718,ano de la cocoa,901,val
+2719,ano de la cocoa,901,train
+2720,ano de la pera,5230,train
+2721,ano de la pera,5230,train
+2722,ano de la pera,5230,test
+2723,ano de la pera,5230,train
+2724,ano de la pera,5230,train
+2725,ano del nauca,9634,train
+2726,ano del nauca,9634,val
+2727,ano del nauca,9634,train
+2728,ano del nauca,9634,train
+2729,ano del nauca,9634,train
+2730,ano nauca,8102,train
+2731,ano nauca,8102,train
+2732,ano nauca,8102,val
+2733,ano nauca,8102,train
+2734,ano nauca,8102,train
+2735,ano del pico,1056,train
+2736,ano del pico,1056,train
+2737,ano del pico,1056,test
+2738,ano del pico,1056,train
+2739,ano del pico,1056,train
+2740,apagar tele,153,train
+2741,apagar tele,153,val
+2742,apagar tele,153,train
+2743,apagar tele,153,train
+2744,apagar tele,153,train
+2745,apanar,1050,val
+2746,apanar,1050,train
+2747,apanar,2808,train
+2748,apanar,9442,train
+2749,apanar,28,train
+2750,apanador,29,train
+2751,apanador,29,train
+2752,apanador,29,test
+2753,apanador,29,train
+2754,apanador,29,train
+2755,apapachar,89,train
+2756,apapachar,89,train
+2757,apapachar,89,train
+2758,apapachar,89,train
+2759,apapachar,89,test
+2760,apechugar,613,train
+2761,apechugar,613,test
+2762,apechugar,613,train
+2763,apechugar,8743,train
+2764,apechugar,8743,train
+2765,aperrar,364,train
+2766,aperrar,364,val
+2767,aperrar,364,train
+2768,aperrar,6186,train
+2769,aperrar,6186,train
+2770,aperrado,1281,train
+2771,aperrado,1281,train
+2772,aperrado,1281,train
+2773,aperrado,1281,train
+2774,aperrado,1281,test
+2775,apinarse,156,train
+2776,apinarse,156,val
+2777,apinarse,156,train
+2778,apinarse,156,train
+2779,apinarse,156,train
+2780,apitutado,158,train
+2781,apitutado,158,train
+2782,apitutado,158,train
+2783,apitutado,158,test
+2784,apitutado,158,train
+2785,apretar cachete,4762,train
+2786,apretar cachete,4762,train
+2787,apretar cachete,4762,train
+2788,apretar cachete,8401,train
+2789,apretar cachete,8401,val
+2790,apreta cachete,91,train
+2791,apreta cachete,91,train
+2792,apreta cachete,91,train
+2793,apreta cachete,11076,val
+2794,apreta cachete,11076,train
+2795,apretar cuea,616,train
+2796,apretar cuea,616,val
+2797,apretar cuea,616,train
+2798,apretar cuea,616,train
+2799,apretar cuea,616,train
+2800,apreta cuea,5373,train
+2801,apreta cuea,5373,train
+2802,apreta cuea,5373,val
+2803,apreta cuea,5373,train
+2804,apreta cuea,5373,train
+2805,apurar la causa,4288,test
+2806,apurar la causa,4288,train
+2807,apurar la causa,4288,train
+2808,apurar la causa,4288,train
+2809,apurar la causa,4288,train
+2810,apura la causa,3901,train
+2811,apura la causa,3901,train
+2812,apura la causa,3901,test
+2813,apura la causa,3901,train
+2814,apura la causa,3901,train
+2815,apurate,12292,train
+2816,apurate,12292,test
+2817,apurate,12292,train
+2818,apurate,12292,train
+2819,apurate,12292,train
+2820,arrastrar el poncho,2187,test
+2821,arrastrar el poncho,2187,train
+2822,arrastrar el poncho,2187,train
+2823,arrastrar el poncho,2187,train
+2824,arrastrar el poncho,2187,train
+2825,arrejuntense,7948,train
+2826,arrejuntense,7948,train
+2827,arrejuntense,7948,val
+2828,arrejuntense,7948,train
+2829,arrejuntense,7948,train
+2830,arrepotingarse,10032,train
+2831,arrepotingarse,10032,train
+2832,arrepotingarse,10032,train
+2833,arrepotingarse,10032,test
+2834,arrepotingarse,10032,train
+2835,arrepumpunar arrepumpuno,4011,train
+2836,arrepumpunar arrepumpuno,4011,train
+2837,arrepumpunar arrepumpuno,4011,val
+2838,arrepumpunar arrepumpuno,4011,train
+2839,arrepumpunar arrepumpuno,4011,train
+2840,arriba de la pelota,72,test
+2841,arriba de la pelota,72,train
+2842,arriba de la pelota,72,train
+2843,arriba de la pelota,72,train
+2844,arriba de la pelota,72,train
+2845,asalta cuna,2586,test
+2846,asalta cuna,2586,train
+2847,asalta cuna,2556,train
+2848,asalta cuna,2586,train
+2849,asalta cuna,12471,train
+2850,ascurrirse,3742,train
+2851,ascurrirse,3742,train
+2852,ascurrirse,3742,train
+2853,ascurrirse,3742,test
+2854,ascurrirse,3742,train
+2855,ascurrete,2301,train
+2856,ascurrete,2301,train
+2857,ascurrete,2301,train
+2858,ascurrete,2301,train
+2859,ascurrete,2301,test
+2860,ascurria,5560,train
+2861,ascurria,5560,train
+2862,ascurria,5560,val
+2863,ascurria,5560,train
+2864,ascurria,5560,train
+2865,ascurrio,4904,train
+2866,ascurrio,4904,val
+2867,ascurrio,4904,train
+2868,ascurrio,4904,train
+2869,ascurrio,4904,train
+2870,ascurrir,351,train
+2871,ascurrir,351,train
+2872,ascurrir,351,train
+2873,ascurrir,7515,val
+2874,ascurrir,7515,train
+2875,aserruchar el piso,5004,train
+2876,aserruchar el piso,5004,train
+2877,aserruchar el piso,5004,train
+2878,aserruchar el piso,5004,test
+2879,aserruchar el piso,5004,train
+2880,atao,980,train
+2881,atao,980,train
+2882,atao,856,val
+2883,atao,856,train
+2884,atao,3413,train
+2885,atadoso,621,train
+2886,atadoso,621,test
+2887,atadoso,621,train
+2888,atadoso,621,train
+2889,atadoso,621,train
+2890,atarantao,10582,train
+2891,atarantao,10582,test
+2892,atarantao,10582,train
+2893,atarantao,10582,train
+2894,atarantao,10582,train
+2895,atinar,622,train
+2896,atinar,622,val
+2897,atinar,622,train
+2898,atinar,857,train
+2899,atinar,857,train
+2900,atolondrado,10442,train
+2901,atolondrado,10442,train
+2902,atolondrado,10442,train
+2903,atolondrado,10442,train
+2904,atolondrado,10442,val
+2905,atorrante,6431,train
+2906,atorrante,6431,train
+2907,atorrante,6431,train
+2908,atorrante,6431,train
+2909,atorrante,6431,test
+2910,atracar,2333,train
+2911,atracar,2333,train
+2912,atracar,2333,test
+2913,atracar,2333,train
+2914,atracar,2333,train
+2915,atraque,3944,train
+2916,atraque,3944,train
+2917,atraque,3944,train
+2918,atraque,3944,train
+2919,atraque,3944,val
+2920,avispado,623,train
+2921,avispado,623,train
+2922,avispado,623,train
+2923,avispado,7675,test
+2924,avispado,7675,train
+2925,avispao,6943,train
+2926,avispao,6943,train
+2927,avispao,6943,train
+2928,avispao,11630,train
+2929,avispao,11630,test
+2930,avisparse,9457,train
+2931,avisparse,9457,train
+2932,avisparse,9457,train
+2933,avisparse,9457,val
+2934,avisparse,9457,train
+2935,avispate,8242,train
+2936,avispate,8242,train
+2937,avispate,8242,val
+2938,avispate,8242,train
+2939,avispate,8242,train
+2940,aweonao,3374,train
+2941,aweonao,3374,val
+2942,aweonao,1428,train
+2943,aweonao,3374,train
+2944,aweonao,3374,train
+2945,ahueonao,611,train
+2946,ahueonao,611,train
+2947,ahueonao,611,train
+2948,ahueonao,611,test
+2949,ahueonao,611,train
+2950,aweoneitor,4177,train
+2951,aweoneitor,4177,test
+2952,aweoneitor,4177,train
+2953,aweoneitor,4177,train
+2954,aweoneitor,4177,train
+2955,bacan,6811,train
+2956,bacan,6811,train
+2957,bacan,6811,train
+2958,bacan,6811,train
+2959,bacan,6811,val
+2960,bakan,306,val
+2961,bakan,306,train
+2962,bakan,306,train
+2963,bakan,1115,train
+2964,bakan,1115,train
+2965,bajon,917,train
+2966,bajon,917,train
+2967,bajon,9847,train
+2968,bajon,917,val
+2969,bajon,9847,train
+2970,bajoneado,4938,val
+2971,bajoneado,4938,train
+2972,bajoneado,4938,train
+2973,bajoneado,4938,train
+2974,bajoneado,4938,train
+2975,bancar,2721,val
+2976,bancar,2721,train
+2977,bancar,2721,train
+2978,bancar,5011,train
+2979,bancar,5011,train
+2980,barateli,919,train
+2981,barateli,919,test
+2982,barateli,919,train
+2983,barateli,919,train
+2984,barateli,919,train
+2985,barsa,627,train
+2986,barsa,627,test
+2987,barsa,627,train
+2988,barsa,627,train
+2989,barsa,627,train
+2990,barza,95,train
+2991,barza,95,train
+2992,barza,9548,train
+2993,barza,9548,test
+2994,barza,9548,train
+2995,botado,630,train
+2996,botado,630,train
+2997,botado,630,train
+2998,botado,630,train
+2999,botado,630,test
+3000,brigido,377,val
+3001,brigido,377,train
+3002,brigido,3527,train
+3003,brigido,12047,train
+3004,brigido,5685,train
+3005,buen mozo,10167,train
+3006,buen mozo,10167,train
+3007,buen mozo,10167,train
+3008,buen mozo,10167,val
+3009,buen mozo,10167,train
+3010,buena leche,102,train
+3011,buena leche,102,train
+3012,buena leche,102,train
+3013,buena leche,102,val
+3014,buena leche,102,train
+3015,buena onda,3015,train
+3016,buena onda,4622,train
+3017,buena onda,4622,train
+3018,buena onda,7882,train
+3019,buena onda,7882,val
+3020,buena tela,1753,train
+3021,buena tela,1753,train
+3022,buena tela,2059,train
+3023,buena tela,2059,train
+3024,buena tela,1753,test
+3025,buitre,6104,train
+3026,buitre,6104,train
+3027,buitre,6104,val
+3028,buitre,1658,train
+3029,buitre,1658,train
+3030,cabro,5545,test
+3031,cabro,5545,train
+3032,cabro,5545,train
+3033,cabro,278,train
+3034,cabro,278,train
+3035,cabra,2216,train
+3036,cabra,2216,train
+3037,cabra,2216,train
+3038,cabra,2216,train
+3039,cabra,2216,test
+3040,cabro chico,5834,val
+3041,cabro chico,5834,train
+3042,cabro chico,5834,train
+3043,cabro chico,5834,train
+3044,cabro chico,5834,train
+3045,cacha,109,train
+3046,cacha,5774,train
+3047,cacha,108,train
+3048,cacha,108,test
+3049,cacha,3995,train
+3050,cachita,3660,train
+3051,cachita,3660,train
+3052,cachita,3660,train
+3053,cachita,3660,val
+3054,cachita,3660,train
+3055,cachai,2411,train
+3056,cachai,110,train
+3057,cachai,110,val
+3058,cachai,1414,train
+3059,cachai,2411,train
+3060,cachativa,633,test
+3061,cachativa,633,train
+3062,cachativa,633,train
+3063,cachativa,633,train
+3064,cachativa,633,train
+3065,cachipun,635,train
+3066,cachipun,635,train
+3067,cachipun,635,test
+3068,cachipun,635,train
+3069,cachipun,635,train
+3070,cahuin,5808,test
+3071,cahuin,5808,train
+3072,cahuin,5878,train
+3073,cahuin,12314,train
+3074,cahuin,281,train
+3075,cahuinero,972,train
+3076,cahuinero,972,train
+3077,cahuinero,972,train
+3078,cahuinero,10980,val
+3079,cahuinero,10980,train
+3080,calentar la sopa,1539,test
+3081,calentar la sopa,1539,train
+3082,calentar la sopa,116,train
+3083,calentar la sopa,10934,train
+3084,calentar la sopa,2741,train
+3085,calienta sopa,4951,train
+3086,calienta sopa,4951,train
+3087,calienta sopa,4951,test
+3088,calienta sopa,4951,train
+3089,calienta sopa,4951,train
+3090,califa,117,train
+3091,califa,117,train
+3092,califa,6995,train
+3093,califa,6995,train
+3094,califa,117,val
+3095,callampa,3617,test
+3096,callampa,4872,train
+3097,callampa,1962,train
+3098,callampa,5467,train
+3099,callampa,3617,train
+3100,callampaso,3918,train
+3101,callampaso,3918,train
+3102,callampaso,3918,train
+3103,callampaso,3918,train
+3104,callampaso,3918,val
+3105,callampear,1928,test
+3106,callampear,1928,train
+3107,callampear,1928,train
+3108,callampear,1928,train
+3109,callampear,1928,train
+3110,callampin bombin,7093,train
+3111,callampin bombin,7093,train
+3112,callampin bombin,12676,test
+3113,callampin bombin,12676,train
+3114,callampin bombin,12676,train
+3115,calleuque el loro,7753,train
+3116,calleuque el loro,7753,train
+3117,calleuque el loro,7753,train
+3118,calleuque el loro,7753,train
+3119,calleuque el loro,7753,val
+3120,cana,76,train
+3121,cana,76,train
+3122,cana,76,train
+3123,cana,8019,train
+3124,cana,8019,test
+3125,canchero,644,train
+3126,canchero,644,test
+3127,canchero,7607,train
+3128,canchero,7607,train
+3129,canchero,10194,train
+3130,cara de raja,648,train
+3131,cara de raja,648,val
+3132,cara de raja,1563,train
+3133,cara de raja,1563,train
+3134,cara de raja,12139,train
+3135,care raja,3069,train
+3136,care raja,3069,val
+3137,care raja,3069,train
+3138,care raja,3069,train
+3139,care raja,1216,train
+3140,careraja,11472,train
+3141,careraja,11472,train
+3142,careraja,11472,train
+3143,careraja,11472,train
+3144,careraja,11472,val
+3145,care palo,403,train
+3146,care palo,403,train
+3147,care palo,3268,val
+3148,care palo,3268,train
+3149,care palo,12014,train
+3150,carrete,406,train
+3151,carrete,406,train
+3152,carrete,406,train
+3153,carrete,406,train
+3154,carrete,406,test
+3155,carreteao,408,val
+3156,carreteao,408,train
+3157,carreteao,10177,train
+3158,carreteao,10177,train
+3159,carreteao,408,train
+3160,carretear,7325,train
+3161,carretear,7325,train
+3162,carretear,407,test
+3163,carretear,407,train
+3164,carretear,1878,train
+3165,estirar la pata,315,val
+3166,estirar la pata,315,train
+3167,estirar la pata,315,train
+3168,estirar la pata,315,train
+3169,estirar la pata,315,train
+3170,esto es papa,1627,train
+3171,esto es papa,1627,train
+3172,esto es papa,1627,train
+3173,esto es papa,1627,val
+3174,esto es papa,1627,train
+3175,estoy frito,464,train
+3176,estoy frito,464,train
+3177,estoy frito,464,train
+3178,estoy frito,464,train
+3179,estoy frito,464,test
+3180,estoy pal hoyo,7042,train
+3181,estoy pal hoyo,7042,train
+3182,estoy pal hoyo,7042,train
+3183,estoy pal hoyo,7042,train
+3184,estoy pal hoyo,7042,test
+3185,estoy pal pico,2392,train
+3186,estoy pal pico,2392,train
+3187,estoy pal pico,2392,train
+3188,estoy pal pico,2392,train
+3189,estoy pal pico,2392,val
+3190,estoy raja,12967,train
+3191,estoy raja,12967,train
+3192,estoy raja,12967,test
+3193,estoy raja,12967,train
+3194,estoy raja,12967,train
+3195,estoy webiando,2496,train
+3196,estoy webiando,2496,train
+3197,estoy webiando,2689,test
+3198,estoy webiando,2689,train
+3199,estoy webiando,2496,train
+3200,facha,450,train
+3201,facha,450,test
+3202,facha,450,train
+3203,facha,2138,train
+3204,facha,2138,train
+3205,fachero,6902,train
+3206,fachero,6902,train
+3207,fachero,6902,val
+3208,fachero,6902,train
+3209,fachero,6902,train
+3210,facho,7595,train
+3211,facho,7595,val
+3212,facho,3979,train
+3213,facho,7595,train
+3214,facho,7595,train
+3215,facho pobre,9887,train
+3216,facho pobre,9887,val
+3217,facho pobre,9887,train
+3218,facho pobre,6398,train
+3219,facho pobre,5966,train
+3220,falacia,5146,train
+3221,falacia,5146,train
+3222,falacia,1004,train
+3223,falacia,5146,val
+3224,falacia,1004,train
+3225,falacias,4558,train
+3226,falacias,4558,val
+3227,falacias,4558,train
+3228,falacias,4558,train
+3229,falacias,4558,train
+3230,falopa,12505,train
+3231,falopa,12505,train
+3232,falopa,12505,val
+3233,falopa,12505,train
+3234,falopa,12505,train
+3235,farala,1416,train
+3236,farala,1416,train
+3237,farala,1416,train
+3238,farala,1416,val
+3239,farala,1416,train
+3240,farrear,7761,train
+3241,farrear,7761,train
+3242,farrear,7761,test
+3243,farrear,7761,train
+3244,farrear,7761,train
+3245,fdw,3798,val
+3246,fdw,3798,train
+3247,fdw,3798,train
+3248,fdw,3798,train
+3249,fdw,3798,train
+3250,feka,10841,val
+3251,feka,10841,train
+3252,feka,10841,train
+3253,feka,10841,train
+3254,feka,10841,train
+3255,feria,10740,train
+3256,feria,10740,train
+3257,feria,10740,train
+3258,feria,10740,val
+3259,feria,10740,train
+3260,fiambre,52,train
+3261,fiambre,52,train
+3262,fiambre,52,train
+3263,fiambre,52,train
+3264,fiambre,52,val
+3265,fiar,5530,train
+3266,fiar,5530,train
+3267,fiar,5530,train
+3268,fiar,5530,train
+3269,fiar,5530,test
+3270,ficha,3169,test
+3271,ficha,3169,train
+3272,ficha,7272,train
+3273,ficha,7272,train
+3274,ficha,4599,train
+3275,fierro,2077,val
+3276,fierro,2077,train
+3277,fierro,2077,train
+3278,fierro,2077,train
+3279,fierro,2077,train
+3280,fierro pelao,1540,train
+3281,fierro pelao,1540,train
+3282,fierro pelao,1540,train
+3283,fierro pelao,1540,train
+3284,fierro pelao,1540,test
+3285,fifi,13421,train
+3286,fifi,13421,val
+3287,fifi,13421,train
+3288,fifi,13421,train
+3289,fifi,13421,train
+3290,filete,453,train
+3291,filete,4106,train
+3292,filete,4106,train
+3293,filete,4106,val
+3294,filete,1791,train
+3295,filo,136,train
+3296,filo,136,train
+3297,filo,136,test
+3298,filo,4485,train
+3299,filo,4485,train
+3300,fino,3796,train
+3301,fino,3796,val
+3302,fino,3796,train
+3303,fino,3796,train
+3304,fino,3796,train
+3305,fixa,7649,train
+3306,fixa,7649,val
+3307,fixa,9546,train
+3308,fixa,4417,train
+3309,fixa,9797,train
+3310,flaite,5750,test
+3311,flaite,5750,train
+3312,flaite,8758,train
+3313,flaite,198,train
+3314,flaite,8758,train
+3315,flaites,924,train
+3316,flaites,924,val
+3317,flaites,924,train
+3318,flaites,924,train
+3319,flaites,924,train
+3320,flayte,3433,train
+3321,flayte,3433,train
+3322,flayte,3433,test
+3323,flayte,3433,train
+3324,flayte,3433,train
+3325,fleto,454,train
+3326,fleto,454,val
+3327,fleto,454,train
+3328,fleto,454,train
+3329,fleto,454,train
+3330,fleta,1406,train
+3331,fleta,1406,train
+3332,fleta,1406,val
+3333,fleta,1406,train
+3334,fleta,1406,train
+3335,fleto o fleta,1106,train
+3336,fleto o fleta,1106,train
+3337,fleto o fleta,1106,train
+3338,fleto o fleta,1106,val
+3339,fleto o fleta,1106,train
+3340,fome,938,train
+3341,fome,938,train
+3342,fome,938,train
+3343,fome,938,train
+3344,fome,938,test
+3345,fonda,8,train
+3346,fonda,8,train
+3347,fonda,8,val
+3348,fonda,8,train
+3349,fonda,8,train
+3350,fresco,465,train
+3351,fresco,465,train
+3352,fresco,11873,train
+3353,fresco,11873,train
+3354,fresco,465,test
+3355,fruna,10839,train
+3356,fruna,10839,train
+3357,fruna,10839,train
+3358,fruna,10839,train
+3359,fruna,10839,val
+3360,fuiste bueno,9256,test
+3361,fuiste bueno,9256,train
+3362,fuiste bueno,9256,train
+3363,fuiste bueno,9256,train
+3364,fuiste bueno,9256,train
+3370,funa,7127,train
+3371,funa,7127,train
+3372,funa,10308,train
+3373,funa,7127,val
+3374,funa,10476,train
+3375,funado,5417,train
+3376,funado,5417,train
+3377,funado,7205,test
+3378,funado,7205,train
+3379,funado,2239,train
+3380,funar,3671,train
+3381,funar,5347,train
+3382,funar,3735,val
+3383,funar,3735,train
+3384,funar,657,train
+3385,gallo,467,train
+3386,gallo,467,test
+3387,gallo,467,train
+3388,gallo,467,train
+3389,gallo,467,train
+3390,gandose las moneas,3733,train
+3391,gandose las moneas,3733,train
+3392,gandose las moneas,3733,test
+3393,gandose las moneas,3733,train
+3394,gandose las moneas,3733,train
+3395,garabato,1623,test
+3396,garabato,1623,train
+3397,garabato,1623,train
+3398,garabato,1623,train
+3399,garabato,1623,train
+3400,garabatos,3786,test
+3401,garabatos,3786,train
+3402,garabatos,3786,train
+3403,garabatos,3786,train
+3404,garabatos,3786,train
+3405,gasfiter,10377,train
+3406,gasfiter,10377,train
+3407,gasfiter,10377,train
+3408,gasfiter,10377,train
+3409,gasfiter,10377,test
+3410,gaucho,9443,train
+3411,gaucho,9443,val
+3412,gaucho,9443,train
+3413,gaucho,9443,train
+3414,gaucho,9443,train
+3415,gg,1200,train
+3416,gg,1200,train
+3417,gg,1200,val
+3418,gg,1200,train
+3419,gg,1200,train
+3420,gil,579,train
+3421,gil,579,train
+3422,gil,579,val
+3423,gil,1380,train
+3424,gil,1380,train
+3425,glow up,14346,train
+3426,glow up,14346,train
+3427,glow up,14346,train
+3428,glow up,14346,train
+3429,glow up,14346,test
+3430,goat,14343,train
+3431,goat,14343,val
+3432,goat,14343,train
+3433,goat,14343,train
+3434,goat,14343,train
+3435,gorrear,580,train
+3436,gorrear,580,train
+3437,gorrear,580,val
+3438,gorrear,580,train
+3439,gorrear,580,train
+3440,gorriao,8670,train
+3441,gorriao,8670,test
+3442,gorriao,8670,train
+3443,gorriao,8670,train
+3444,gorriao,8670,train
+3445,gringo,12107,train
+3446,gringo,12107,train
+3447,gringo,468,train
+3448,gringo,468,train
+3449,gringo,468,val
+3450,gringa,998,train
+3451,gringa,998,train
+3452,gringa,998,val
+3453,gringa,998,train
+3454,gringa,998,train
+3455,gringolandia,11706,train
+3456,gringolandia,11706,train
+3457,gringolandia,11706,train
+3458,gringolandia,11706,test
+3459,gringolandia,11706,train
+3460,grone,10574,train
+3461,grone,10574,train
+3462,grone,10574,test
+3463,grone,10574,train
+3464,grone,10574,train
+3465,groso,469,test
+3466,groso,469,train
+3467,groso,469,train
+3468,groso,469,train
+3469,groso,469,train
+3470,guachita,679,val
+3471,guachita,679,train
+3472,guachita,679,train
+3473,guachita,679,train
+3474,guachita,679,train
+3475,guacho,581,train
+3476,guacho,6089,train
+3477,guacho,8363,train
+3478,guacho,8363,train
+3479,guacho,6089,test
+3480,huacho,10028,train
+3481,huacho,10028,test
+3482,huacho,10028,train
+3483,huacho,10028,train
+3484,huacho,10028,train
+3485,guagua,471,train
+3486,guagua,471,train
+3487,guagua,471,test
+3488,guagua,471,train
+3489,guagua,471,train
+3490,guaguitas,10057,test
+3491,guaguitas,10057,train
+3492,guaguitas,10057,train
+3493,guaguitas,10057,train
+3494,guaguitas,10057,train
+3495,guanaco,140,val
+3496,guanaco,140,train
+3497,guanaco,140,train
+3498,guanaco,140,train
+3499,guanaco,140,train
+3500,guaren,7070,train
+3501,guaren,7070,train
+3502,guaren,7070,val
+3503,guaren,7070,train
+3504,guaren,7070,train
+3505,guata,8213,train
+3506,guata,8213,val
+3507,guata,8213,train
+3508,guata,472,train
+3509,guata,472,train
+3510,guatero,582,train
+3511,guatero,582,train
+3512,guatero,582,test
+3513,guatero,582,train
+3514,guatero,582,train
+3515,guaton,473,train
+3516,guaton,473,test
+3517,guaton,473,train
+3518,guaton,473,train
+3519,guaton,473,train
+3520,guatona,7451,train
+3521,guatona,7451,train
+3522,guatona,7451,train
+3523,guatona,7451,val
+3524,guatona,7451,train
+3525,guitrear,141,train
+3526,guitrear,141,train
+3527,guitrear,141,train
+3528,guitrear,141,train
+3529,guitrear,141,test
+3530,hacer cagar,12229,train
+3531,hacer cagar,5308,train
+3532,hacer cagar,12229,train
+3533,hacer cagar,5308,test
+3534,hacer cagar,12229,train
+3535,hacer cambio de luces,11482,test
+3536,hacer cambio de luces,11482,train
+3537,hacer cambio de luces,11482,train
+3538,hacer cambio de luces,12900,train
+3539,hacer cambio de luces,11482,train
+3540,hacer del dos,13446,val
+3541,hacer del dos,13446,train
+3542,hacer del dos,13446,train
+3543,hacer del dos,13446,train
+3544,hacer del dos,13446,train
+3545,hacer del 2,8208,val
+3546,hacer del 2,8208,train
+3547,hacer del 2,8208,train
+3548,hacer del 2,8208,train
+3549,hacer del 2,8208,train
+3550,hacer el delicioso,6634,train
+3551,hacer el delicioso,6634,test
+3552,hacer el delicioso,6634,train
+3553,hacer el delicioso,6634,train
+3554,hacer el delicioso,6634,train
+3555,hacer el sin respeto,6653,train
+3556,hacer el sin respeto,6653,train
+3557,hacer el sin respeto,6653,train
+3558,hacer el sin respeto,6653,train
+3559,hacer el sin respeto,6653,val
+3560,hacer gancho,4555,val
+3561,hacer gancho,4555,train
+3562,hacer gancho,4555,train
+3563,hacer gancho,4555,train
+3564,hacer gancho,4555,train
+3565,hacer la choca,8557,train
+3566,hacer la choca,8557,train
+3567,hacer la choca,8557,val
+3568,hacer la choca,7566,train
+3569,hacer la choca,7566,train
+3570,hacer la cimarra,3464,train
+3571,hacer la cimarra,3464,train
+3572,hacer la cimarra,3464,train
+3573,hacer la cimarra,3464,train
+3574,hacer la cimarra,3464,val
+3575,hacer la zimarra,3438,train
+3576,hacer la zimarra,3438,train
+3577,hacer la zimarra,6934,train
+3578,hacer la zimarra,6934,test
+3579,hacer la zimarra,3308,train
+3580,hacer la cruz,11158,train
+3581,hacer la cruz,11158,train
+3582,hacer la cruz,11158,train
+3583,hacer la cruz,11158,train
+3584,hacer la cruz,11158,test
+3585,hacer la l,2733,train
+3586,hacer la l,2738,val
+3587,hacer la l,4116,train
+3588,hacer la l,6232,train
+3589,hacer la l,2797,train
+3590,hacer pebre,868,train
+3591,hacer pebre,868,val
+3592,hacer pebre,868,train
+3593,hacer pebre,868,train
+3594,hacer pebre,868,train
+3600,hacerse el weon,2976,test
+3601,hacerse el weon,2976,train
+3602,hacerse el weon,2976,train
+3603,hacerse el weon,2976,train
+3604,hacerse el weon,2976,train
+3605,hallulla,571,train
+3606,hallulla,571,train
+3607,hallulla,571,val
+3608,hallulla,571,train
+3609,hallulla,571,train
+3610,harto,6460,train
+3611,harto,6460,train
+3612,harto,6460,val
+3613,harto,6460,train
+3614,harto,6460,train
+3615,hasta el pico,11468,test
+3616,hasta el pico,11468,train
+3617,hasta el pico,11468,train
+3618,hasta el pico,11468,train
+3619,hasta el pico,11468,train
+3620,hecho pico,1247,train
+3621,hecho pico,1247,train
+3622,hecho pico,5802,train
+3623,hecho pico,3174,test
+3624,hecho pico,3174,train
+3630,hediondo,10004,train
+3631,hediondo,10004,val
+3632,hediondo,10004,train
+3633,hediondo,10004,train
+3634,hediondo,10004,train
+3635,hermano a,2189,train
+3636,hermano a,2189,test
+3637,hermano a,2189,train
+3638,hermano a,2189,train
+3639,hermano a,2189,train
+3640,hijo de la perra,9941,test
+3641,hijo de la perra,9941,train
+3642,hijo de la perra,9941,train
+3643,hijo de la perra,9941,train
+3644,hijo de la perra,9941,train
+3645,hijo del pico,11675,train
+3646,hijo del pico,11675,train
+3647,hijo del pico,11675,test
+3648,hijo del pico,11515,train
+3649,hijo del pico,11515,train
+3650,hincha,12521,train
+3651,hincha,12521,train
+3652,hincha,12521,train
+3653,hincha,12521,train
+3654,hincha,12521,test
+3655,hincha bolas,13027,train
+3656,hincha bolas,13027,train
+3657,hincha bolas,13027,train
+3658,hincha bolas,13027,val
+3659,hincha bolas,13027,train
+3660,hinchar,572,train
+3661,hinchar,572,train
+3662,hinchar,572,train
+3663,hinchar,572,train
+3664,hinchar,572,test
+3665,hocico,7537,train
+3666,hocico,7537,test
+3667,hocico,7537,train
+3668,hocico,7537,train
+3669,hocico,7537,train
+3670,hocicon,480,train
+3671,hocicon,480,test
+3672,hocicon,480,train
+3673,hocicon,480,train
+3674,hocicon,480,train
+3675,huaso,479,train
+3676,huaso,479,val
+3677,huaso,9300,train
+3678,huaso,9300,train
+3679,huaso,11573,train
+3680,hueco,662,test
+3681,hueco,662,train
+3682,hueco,661,train
+3683,hueco,661,train
+3684,hueco,662,train
+3685,hueca,576,train
+3686,hueca,576,train
+3687,hueca,576,train
+3688,hueca,576,test
+3689,hueca,576,train
+3690,huevear,483,train
+3691,huevear,483,test
+3692,huevear,11925,train
+3693,huevear,2449,train
+3694,huevear,2449,train
+3695,irse al chancho,9968,train
+3696,irse al chancho,9968,train
+3697,irse al chancho,9968,test
+3698,irse al chancho,9968,train
+3699,irse al chancho,9968,train
+3700,irse al patio de los callados,11414,train
+3701,irse al patio de los callados,11414,train
+3702,irse al patio de los callados,11414,train
+3703,irse al patio de los callados,11414,val
+3704,irse al patio de los callados,11414,train
+3705,irse en cana,202,train
+3706,irse en cana,202,val
+3707,irse en cana,202,train
+3708,irse en cana,202,train
+3709,irse en cana,202,train
+3710,jote,259,train
+3711,jote,259,train
+3712,jote,259,test
+3713,jote,144,train
+3714,jote,144,train
+3715,jotear,8116,train
+3716,jotear,8116,val
+3717,jotear,8116,train
+3718,jotear,260,train
+3719,jotear,260,train
+3720,joya,12465,test
+3721,joya,12465,train
+3722,joya,12465,train
+3723,joya,12465,train
+3724,joya,12465,train
+3725,jugoso,121,train
+3726,jugoso,121,train
+3727,jugoso,121,train
+3728,jugoso,121,val
+3729,jugoso,121,train
+3730,julero,7333,test
+3731,julero,7333,train
+3732,julero,7333,train
+3733,julero,322,train
+3734,julero,322,train
+3735,junta,3619,train
+3736,junta,3619,train
+3737,junta,3619,train
+3738,junta,3619,val
+3739,junta,3619,train
+3740,kuma,265,train
+3741,kuma,265,val
+3742,kuma,265,train
+3743,kuma,265,train
+3744,kuma,265,train
+3745,la embarro,6563,train
+3746,la embarro,6563,test
+3747,la embarro,6563,train
+3748,la embarro,6563,train
+3749,la embarro,6563,train
+3750,la escoba,895,train
+3751,la escoba,895,train
+3752,la escoba,895,train
+3753,la escoba,895,test
+3754,la escoba,895,train
+3755,la media vola,3472,train
+3756,la media vola,3472,train
+3757,la media vola,3472,test
+3758,la media vola,3472,train
+3759,la media vola,3472,train
+3760,la mea vola,7737,train
+3761,la mea vola,7737,train
+3762,la mea vola,7737,val
+3763,la mea vola,7737,train
+3764,la mea vola,7737,train
+3770,la palida,208,train
+3771,la palida,208,val
+3772,la palida,208,train
+3773,la palida,208,train
+3774,la palida,208,train
+3775,la pela,5925,train
+3776,la pela,5925,val
+3777,la pela,7885,train
+3778,la pela,7885,train
+3779,la pela,7885,train
+3780,la pulenta,5490,val
+3781,la pulenta,5490,train
+3782,la pulenta,8925,train
+3783,la pulenta,9208,train
+3784,la pulenta,230,train
+3785,la raja,5987,train
+3786,la raja,3788,test
+3787,la raja,5987,train
+3788,la raja,5987,train
+3789,la raja,3788,train
+3790,la vola,2361,train
+3791,la vola,2361,train
+3792,la vola,2361,train
+3793,la vola,2361,test
+3794,la vola,2361,train
+3795,la wea,1809,train
+3796,la wea,1809,train
+3797,la wea,1809,test
+3798,la wea,1809,train
+3799,la wea,1809,train
+3800,las weas,2024,train
+3801,las weas,2024,train
+3802,las weas,2024,val
+3803,las weas,2024,train
+3804,las weas,2024,train
+3805,la zorra,4414,train
+3806,la zorra,4414,train
+3807,la zorra,488,test
+3808,la zorra,488,train
+3809,la zorra,4414,train
+3810,lanza,2079,val
+3811,lanza,2079,train
+3812,lanza,2079,train
+3813,lanza,2079,train
+3814,lanza,2079,train
+3815,larry,2137,train
+3816,larry,2137,train
+3817,larry,2137,val
+3818,larry,2137,train
+3819,larry,2137,train
+3820,lata,665,train
+3821,lata,665,train
+3822,lata,5255,train
+3823,lata,7988,train
+3824,lata,7988,val
+3825,latero,667,train
+3826,latero,667,train
+3827,latero,667,train
+3828,latero,667,train
+3829,latero,667,test
+3830,lesear,670,train
+3831,lesear,670,train
+3832,lesear,670,val
+3833,lesear,670,train
+3834,lesear,670,train
+3835,lesiando,1720,val
+3836,lesiando,1720,train
+3837,lesiando,1720,train
+3838,lesiando,1720,train
+3839,lesiando,1720,train
+3840,leseo,8505,test
+3841,leseo,8505,train
+3842,leseo,8505,train
+3843,leseo,8505,train
+3844,leseo,8505,train
+3845,lleca,3746,train
+3846,lleca,3746,train
+3847,lleca,3746,val
+3848,lleca,3746,train
+3849,lleca,3746,train
+3850,loji,4648,train
+3851,loji,4648,val
+3852,loji,4648,train
+3853,loji,4648,train
+3854,loji,4648,train
+3855,lolo,672,train
+3856,lolo,672,train
+3857,lolo,672,val
+3858,lolo,672,train
+3859,lolo,672,train
+3860,lola,8035,train
+3861,lola,8035,train
+3862,lola,8035,train
+3863,lola,8035,train
+3864,lola,8035,val
+3865,luca,59,val
+3866,luca,59,train
+3867,luca,59,train
+3868,luca,59,train
+3869,luca,59,train
+3870,macabeo,298,test
+3871,macabeo,298,train
+3872,macabeo,298,train
+3873,macabeo,298,train
+3874,macabeo,298,train
+3875,machetear,544,train
+3876,machetear,544,train
+3877,machetear,544,train
+3878,machetear,544,train
+3879,machetear,544,val
+3880,machucado,7101,train
+3881,machucado,7101,train
+3882,machucado,7101,train
+3883,machucado,7101,test
+3884,machucado,7101,train
+3885,machucao,9746,train
+3886,machucao,9746,train
+3887,machucao,9746,test
+3888,machucao,8734,train
+3889,machucao,8734,train
+3890,machucao a,4178,train
+3891,machucao a,4178,train
+3892,machucao a,11594,val
+3893,machucao a,11594,train
+3894,machucao a,4178,train
+3895,mala cuea,3465,train
+3896,mala cuea,3465,train
+3897,mala cuea,229,train
+3898,mala cuea,229,val
+3899,mala cuea,3465,train
+3900,malacuea,5188,train
+3901,malacuea,5188,train
+3902,malacuea,5188,train
+3903,malacuea,5188,train
+3904,malacuea,5188,test
+3905,mala leche,103,train
+3906,mala leche,103,train
+3907,mala leche,103,train
+3908,mala leche,103,train
+3909,mala leche,103,test
+3910,malaya,3743,test
+3911,malaya,3743,train
+3912,malaya,7423,train
+3913,malaya,6923,train
+3914,malaya,9991,train
+3915,mamon,3160,train
+3916,mamon,3160,train
+3917,mamon,970,train
+3918,mamon,970,val
+3919,mamon,3160,train
+3920,mamones,1694,train
+3921,mamones,1694,train
+3922,mamones,11669,train
+3923,mamones,2439,train
+3924,mamones,1694,test
+3925,mana,2502,test
+3926,mana,2502,train
+3927,mana,2377,train
+3928,mana,11626,train
+3929,mana,11618,train
+3930,mananera,8384,train
+3931,mananera,8384,train
+3932,mananera,8384,val
+3933,mananera,8384,train
+3934,mananera,8384,train
+3935,mandar a la chucha,1057,test
+3936,mandar a la chucha,1057,train
+3937,mandar a la chucha,1634,train
+3938,mandar a la chucha,1634,train
+3939,mandar a la chucha,5445,train
+3940,manoso,8303,train
+3941,manoso,8303,train
+3942,manoso,8303,train
+3943,manoso,11822,val
+3944,manoso,11822,train
+3945,maraca,1297,test
+3946,maraca,685,train
+3947,maraca,8399,train
+3948,maraca,2691,train
+3949,maraca,2692,train
+3950,maraco,10286,train
+3951,maraco,10286,train
+3952,maraco,1921,train
+3953,maraco,1921,train
+3954,maraco,10286,test
+3955,maricon,8094,train
+3956,maricon,8094,train
+3957,maricon,8094,train
+3958,maricon,8094,train
+3959,maricon,8094,val
+3960,marraqueta,12805,train
+3961,marraqueta,12805,val
+3962,marraqueta,12805,train
+3963,marraqueta,12805,train
+3964,marraqueta,12805,train
+3965,mateo,969,train
+3966,mateo,969,train
+3967,mateo,3919,test
+3968,mateo,3919,train
+3969,mateo,969,train
+3970,me carga,4963,train
+3971,me carga,4963,train
+3972,me carga,4963,train
+3973,me carga,4963,test
+3974,me carga,4963,train
+3975,me da la pera,1398,test
+3976,me da la pera,1398,train
+3977,me da la pera,1398,train
+3978,me da la pera,1398,train
+3979,me da la pera,1398,train
+3980,me da paja,6371,train
+3981,me da paja,6371,train
+3982,me da paja,6371,test
+3983,me da paja,6371,train
+3984,me da paja,6371,train
+3985,me importa un pico,6487,train
+3986,me importa un pico,6487,train
+3987,me importa un pico,6487,train
+3988,me importa un pico,6487,train
+3989,me importa un pico,6487,test
+3990,me teni chato,3210,train
+3991,me teni chato,3210,train
+3992,me teni chato,3210,test
+3993,me teni chato,3210,train
+3994,me teni chato,3210,train
+3995,me tiene chata,9752,test
+3996,me tiene chata,9752,train
+3997,me tiene chata,9752,train
+3998,me tiene chata,9752,train
+3999,me tiene chata,9752,train
+4000,me tinca,13758,train
+4001,me tinca,13758,train
+4002,me tinca,13758,test
+4003,me tinca,13758,train
+4004,me tinca,13758,train
+4005,mear,1765,train
+4006,mear,1765,train
+4007,mear,1765,train
+4008,mear,1765,train
+4009,mear,1765,test
