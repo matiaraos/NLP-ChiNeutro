@@ -1,0 +1,6 @@
+torch
+transformers>=5.0
+accelerate
+pandas
+sentencepiece
+protobuf
