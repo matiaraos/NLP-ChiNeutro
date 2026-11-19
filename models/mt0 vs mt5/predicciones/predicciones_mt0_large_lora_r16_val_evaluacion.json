@@ -1,7 +1,0 @@
-{
-  "n": 399,
-  "bleu": 62.8,
-  "terminos_retenidos_%": 8.0,
-  "bertscore_f1": 0.7918,
-  "bertscore_contra": "referencia"
-}
