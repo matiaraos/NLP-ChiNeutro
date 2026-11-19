@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+
+# entorno local
+.venv/
+.venv-baseline/

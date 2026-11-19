@@ -1,0 +1,6 @@
+# En Colab ya vienen pandas, torch y transformers.
+pandas>=2.0
+sacrebleu==2.4.3
+bert-score==0.3.13
+transformers>=4.40
+# El juez no necesita paquetes: usa Claude Code (`claude -p`) instalado y con la sesión iniciada.

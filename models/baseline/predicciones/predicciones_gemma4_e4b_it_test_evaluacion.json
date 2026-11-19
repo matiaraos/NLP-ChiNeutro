@@ -1,0 +1,16 @@
+{
+  "n": 397,
+  "bleu": 60.69,
+  "terminos_retenidos_%": 11.0,
+  "bertscore_f1": 0.7792,
+  "bertscore_contra": "referencia",
+  "juez_modelo": "claude-opus-5-5",
+  "juez_effort": "medium",
+  "juez_rubrica": 1,
+  "juez_n": 397,
+  "juez_faltan": 0,
+  "juez_sentido_media": 3.529,
+  "juez_fluidez_media": 4.572,
+  "juez_jerga_eliminada_%": 80.9,
+  "juez_aceptable_%": 42.3
+}
