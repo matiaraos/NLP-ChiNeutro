@@ -7,3 +7,4 @@ __pycache__/
 
 # salidas locales de Gemma 4 (se espejan en el Hub)
 salidas/
+salidas_qwen/
