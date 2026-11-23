@@ -8,3 +8,7 @@ __pycache__/
 # salidas locales de Gemma 4 (se espejan en el Hub)
 salidas/
 salidas_qwen/
+
+# texto de Reddit: solo en el repo privado de HF mariopedemonte12/chineutro-reddit
+data/evaluacion/reddit_chile.json
+models/gemma4/predicciones/reddit/*.csv
