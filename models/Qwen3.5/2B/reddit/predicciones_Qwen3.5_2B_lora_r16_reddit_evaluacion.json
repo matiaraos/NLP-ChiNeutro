@@ -1,0 +1,16 @@
+{
+  "n": 1900,
+  "bleu": null,
+  "terminos_retenidos_%": 13.1601,
+  "bertscore_f1": 0.896,
+  "bertscore_contra": "entrada",
+  "juez_modelo": null,
+  "juez_effort": null,
+  "juez_rubrica": null,
+  "juez_n": 0,
+  "juez_faltan": 1900,
+  "juez_sentido_media": null,
+  "juez_fluidez_media": null,
+  "juez_jerga_eliminada_%": null,
+  "juez_aceptable_%": null
+}
