@@ -1,0 +1,803 @@
+clave,termino,varias_palabras,comentarios_en_crudo,frases_en_reddit_chile,textos_corpus_chileno_est,estado
+tbt,tbt,False,0,0,7850,ausente
+atraque,Atraque,False,0,0,4400,ausente
+puelche,Puelche,False,0,0,3150,ausente
+de cajon,de cajon,True,0,0,2650,ausente
+buitre,Buitre,False,0,0,1550,ausente
+papagayo,Papagayo,False,0,0,1100,ausente
+sacar pica,sacar pica,True,0,0,950,ausente
+aperrado,aperrado,False,0,0,850,ausente
+sacar la cresta,Sacar la cresta,True,0,0,700,ausente
+a poto pelao,A poto pelao,True,0,0,700,ausente
+atorrante,atorrante,False,0,0,700,ausente
+churro,Churro,False,0,0,650,ausente
+paracaidista,paracaidista,False,0,0,650,ausente
+pelolais,pelolais,False,0,0,650,ausente
+chasca,Chasca,False,0,0,600,ausente
+chuchunco,Chuchunco,False,0,0,600,ausente
+pachorra,pachorra,False,0,0,600,ausente
+cuncuna,cuncuna,False,0,0,550,ausente
+tengo tuto,tengo tuto,True,0,0,500,ausente
+mugriento,mugriento,False,0,0,500,ausente
+atinar,atinar,False,0,0,500,ausente
+buen mozo,Buen Mozo,True,0,0,500,ausente
+y bosnia,Y bosnia,True,0,0,450,ausente
+patipelado,patipelado,False,0,0,400,ausente
+monedita de oro,Monedita de oro,True,0,0,350,ausente
+wawi,Wawi,False,0,0,300,ausente
+apechugar,apechugar,False,0,0,300,ausente
+hacer la cimarra,Hacer la Cimarra,True,0,0,300,ausente
+chato a,Chato/a,True,0,0,250,ausente
+cogotero,cogotero,False,0,0,250,ausente
+tocar el violin,Tocar el violin,True,0,0,250,ausente
+tole tole,tole tole,True,0,0,250,ausente
+ojitos de piscina,Ojitos de piscina,True,0,0,250,ausente
+parlanchin,parlanchin,False,0,0,250,ausente
+andate a la cresta,andate a la cresta,True,0,0,250,ausente
+estirar la pata,Estirar la pata,True,0,0,250,ausente
+hacer pebre,hacer pebre,True,0,0,250,ausente
+con pica,con pica,True,0,0,200,ausente
+roto con plata,Roto con plata,True,0,0,200,ausente
+sicopatear,Sicopatear,False,0,0,200,ausente
+payasear,payasear,False,0,0,200,ausente
+pintoso,pintoso,False,0,0,200,ausente
+amermelado,Amermelado,False,0,0,200,ausente
+amermelao,amermelao,False,0,0,200,ausente
+lesiando,Lesiando,False,0,0,200,ausente
+cocavi,cocaví,False,0,0,150,ausente
+salto la liebre,salto la liebre,True,0,0,150,ausente
+soplame este ojo,Soplame este ojo,True,0,0,150,ausente
+tiquitaca,Tiquitaca,False,0,0,150,ausente
+vender la pesca,Vender la pescá,True,0,0,150,ausente
+washito rico,washito rico,True,0,0,150,ausente
+a calzon quitado,a calzon quitado,True,0,0,150,ausente
+buena leche,Buena leche,True,0,0,150,ausente
+calienta sopa,calienta sopa,True,0,0,150,ausente
+malacuea,Malacuea,False,0,0,150,ausente
+chancacazo,Chancacazo,False,0,0,100,ausente
+chicotear los caracoles,Chicotear los caracoles,True,0,0,100,ausente
+chupa el perro,Chupa el perro,True,0,0,100,ausente
+denantes,Denantes,False,0,0,100,ausente
+despiporre,Despiporre,False,0,0,100,ausente
+echar la foca,Echar la foca,True,0,0,100,ausente
+embolinar la perdiz,embolinar la perdiz,True,0,0,100,ausente
+rin rin raja,Rin-rin raja,True,0,0,100,ausente
+se me calento el hocico,Se me calentó el hocico,True,0,0,100,ausente
+sicoseado,sicoseado,False,0,0,100,ausente
+skt1,skt1,False,0,0,100,ausente
+parar los carros,parar los carros,True,0,0,100,ausente
+pijama de palo,pijama de palo,True,0,0,100,ausente
+poner el gorro,poner el gorro,True,0,0,100,ausente
+ponerle pino,ponerle pino,True,0,0,100,ausente
+a cuello,a cuello,True,0,0,100,ausente
+apapachar,Apapachar,False,0,0,100,ausente
+apurar la causa,Apurar la causa,True,0,0,100,ausente
+atadoso,atadoso,False,0,0,100,ausente
+calleuque el loro,Calleuque el loro,True,0,0,100,ausente
+gorriao,gorriao,False,0,0,100,ausente
+chamullero,Chamullero,False,0,0,50,ausente
+chicotea los caracoles,chicotea los caracoles,True,0,0,50,ausente
+chiripazo,Chiripazo,False,0,0,50,ausente
+chorear,Chorear,False,0,0,50,ausente
+deja de wear,Deja de wear,True,0,0,50,ausente
+echar la corta,Echar la corta,True,0,0,50,ausente
+ecolecua,Ecolecua,False,0,0,50,ausente
+encalillado,Encalillado,False,0,0,50,ausente
+raja de curao,Raja de curao',True,0,0,50,ausente
+sacar la mierda,Sacar la mierda,True,0,0,50,ausente
+sarpao,sarpao,False,0,0,50,ausente
+se cree la muerte,se cree la muerte,True,0,0,50,ausente
+se le escapan los enanitos pal bosque,Se le escapan los enanitos pal bosque,True,0,0,50,ausente
+ser pollo,ser pollo,True,0,0,50,ausente
+shipear,shipear,False,0,0,50,ausente
+shishigan,Shishigan,False,0,0,50,ausente
+soltar las trenzas,soltar las trenzas,True,0,0,50,ausente
+sopiao,Sopiao,False,0,0,50,ausente
+subirse por el chorro,subirse por el chorro,True,0,0,50,ausente
+ta mal pelao el chancho,ta mal pelao el chancho,True,0,0,50,ausente
+tamos listeilor,Tamos Listeilor,True,0,0,50,ausente
+tay mas weon,Tay más weon,True,0,0,50,ausente
+te cociste,Te cociste,True,0,0,50,ausente
+te faltan palos pal puente,Te faltan palos pal puente,True,0,0,50,ausente
+techecas,Techecas,False,0,0,50,ausente
+wachita rica,wachita rica,True,0,0,50,ausente
+no es ni chicha ni limonada,"No es ni chicha, ni limonada",True,0,0,50,ausente
+pan copihue,Pan copihue,True,0,0,50,ausente
+pasar maquina,Pasar máquina,True,0,0,50,ausente
+pesado de sangre,pesado de sangre,True,0,0,50,ausente
+achorarse,Achorarse,False,0,0,50,ausente
+agarrar pal leseo,Agarrar pal leseo,True,0,0,50,ausente
+agarrar papa,agarrar papa,True,0,0,50,ausente
+agarrarse a chuchadas,Agarrarse a chuchadas,True,0,0,50,ausente
+amurrao,amurrao,False,0,0,50,ausente
+andai puro maraqueando,Andai puro maraqueando,True,0,0,50,ausente
+andai puro sapeando,Andai puro sapeando,True,0,0,50,ausente
+andar pato,andar pato,True,0,0,50,ausente
+ano del nauca,Año del Ñauca,True,0,0,50,ausente
+apretar cuea,apretar cuea,True,0,0,50,ausente
+apura la causa,Apura la causa,True,0,0,50,ausente
+ascurrete,Ascurrete,False,0,0,50,ausente
+ascurrio,Ascurrio,False,0,0,50,ausente
+aserruchar el piso,aserruchar el piso,True,0,0,50,ausente
+avispao,Avispao,False,0,0,50,ausente
+calentar la sopa,Calentar la sopa,True,0,0,50,ausente
+estoy pal hoyo,Estoy pal hoyo,True,0,0,50,ausente
+farala,Farala,False,0,0,50,ausente
+glow up,glow up,True,0,0,50,ausente
+gorrear,Gorrear,False,0,0,50,ausente
+hincha bolas,Hincha bolas,True,0,0,50,ausente
+chantar el pate,Chantar el paté,True,0,0,0,ausente
+chetada o,chetada (o),True,0,0,0,ausente
+choriar,Choriar,False,0,0,0,ausente
+chupar el perro,Chupar el perro,True,0,0,0,ausente
+chupamedias chupapico,"Chupamedias, chupapico",True,0,0,0,ausente
+cuentiado,Cuentiado,False,0,0,0,ausente
+cufifo,Cufifo,False,0,0,0,ausente
+cufifa,cufifa,False,0,0,0,ausente
+dale corte,Dale corte,True,0,0,0,ausente
+dar cosa,Dar cosa,True,0,0,0,ausente
+dejar pagando,dejar pagando,True,0,0,0,ausente
+dele cotele,Dele cotele,True,0,0,0,ausente
+desconchetumarizate,desconchetumarízate,False,0,0,0,ausente
+desconchatumairizate,Desconchatumairizate,False,0,0,0,ausente
+desguanangado,Desguañangado,False,0,0,0,ausente
+echarse la yegua,Echarse la yegua,True,0,0,0,ausente
+echar la yegua,Echar la yegua,True,0,0,0,ausente
+embrarrarla,Embrarrarla,False,0,0,0,ausente
+estar pato,estar pato,True,0,0,0,ausente
+quedo el sapo,Quedó el sapo,True,0,0,0,ausente
+quien te echo ficha,Quien te echo ficha,True,0,0,0,ausente
+regia oficial,Regia oficial,True,0,0,0,ausente
+retobao,retobao,False,0,0,0,ausente
+rompecatre,Rompecatre,False,0,0,0,ausente
+sacar los choros del canasto,Sacar los choros del canasto,True,0,0,0,ausente
+sacarse la nona,sacarse la ñoña,True,0,0,0,ausente
+salta reclamante,salta reclamante,True,0,0,0,ausente
+sangre por sangre guaton byron,Sangre por sangre Guatón Byron,True,0,0,0,ausente
+se bugeo,se bugeo,True,0,0,0,ausente
+se fue pal patio de los callados,Se fue pal patio de los callados,True,0,0,0,ausente
+se le arrancan los enanitos para el bosque,se le arrancan los enanitos para el bosque,True,0,0,0,ausente
+se le da vuelta el paraguas,Se le da vuelta el paraguas,True,0,0,0,ausente
+se le da vuelta el paragua,Se le da vuelta el paragua,True,0,0,0,ausente
+se me hecho la yegua,Se me hecho la yegua,True,0,0,0,ausente
+ser mano de guagua,Ser mano de guagua,True,0,0,0,ausente
+ser quedao,ser quedao,True,0,0,0,ausente
+shaliwawa,shaliwawa,False,0,0,0,ausente
+shapa la pashala,shapa la pashala,True,0,0,0,ausente
+shushetumadre,Shushetumadre,False,0,0,0,ausente
+sicosiado,Sicosiado,False,0,0,0,ausente
+sobate pa callado,sobate pa callado,True,0,0,0,ausente
+soy entero echizo,Soy entero echizo,True,0,0,0,ausente
+suelta la papa,Suelta la papa,True,0,0,0,ausente
+sutro o sutra,Sutro o sutra,True,0,0,0,ausente
+taban de la perra,taban de la perra,True,0,0,0,ausente
+te fuiste en la profunda,TE FUISTE EN LA PROFUNDA,True,0,0,0,ausente
+te fuiste en media la vola,TE FUISTE EN MEDIA LA VOLA,True,0,0,0,ausente
+te pegai la mision,Te pegai la misión,True,0,0,0,ausente
+te pegai la mision gordita chupetona,Te pegai la misión? Gordita chupetona,True,0,0,0,ausente
+te tengo de hijo,Te tengo de hijo,True,0,0,0,ausente
+te tirai la mision,te tirai la misión,True,0,0,0,ausente
+techeca s,Techeca (s),True,0,0,0,ausente
+tener al jordan en el aro,tener al jordan en el aro,True,0,0,0,ausente
+tengo la pura cara e cuica,Tengo la pura cara e' cuica,True,0,0,0,ausente
+tirar corte,Tirar corte,True,0,0,0,ausente
+tirar la pela,Tirar la pela,True,0,0,0,ausente
+tirar los corridos,Tirar los corridos,True,0,0,0,ausente
+tranquilein john wayne,Tranquilein John Wayne,True,0,0,0,ausente
+uyuuuiiii,uyuuuiiii,False,0,0,0,ausente
+vamos a comernos,vamos a comernos,True,0,0,0,ausente
+vira de aqui,Vira de aqui,True,0,0,0,ausente
+voy altoque,Voy Altoque,True,0,0,0,ausente
+waje,Waje,False,0,0,0,ausente
+watear,watear,False,0,0,0,ausente
+merenjunje,Merenjunje,False,0,0,0,ausente
+meterle chala,Meterle Chala,True,0,0,0,ausente
+no estoy ni al metro,No estoy ni al metro,True,0,0,0,ausente
+no le doy pauta,No le doy pauta,True,0,0,0,ausente
+no me da ni pelota,No me da ni pelota,True,0,0,0,ausente
+ojo de trucha,Ojo de Trucha,True,0,0,0,ausente
+pasada pa la punta,Pasada pa la punta,True,0,0,0,ausente
+pasarla chancho,Pasarla chancho,True,0,0,0,ausente
+patio de los callados,Patio de los callados,True,0,0,0,ausente
+pedir fiado,pedir fiado,True,0,0,0,ausente
+pegarse el alcachofazo,Pegarse el alcachofazo,True,0,0,0,ausente
+pegarse un gambazo,Pegarse un gambazo,True,0,0,0,ausente
+pela cable,pela cable,True,0,0,0,ausente
+pillar chanchito,Pillar chanchito,True,0,0,0,ausente
+pintar monos,Pintar monos,True,0,0,0,ausente
+que fai,Que fai?,True,0,0,0,ausente
+andai de la perra,Andai de la perra,True,0,0,0,ausente
+a calato,a calato,True,0,0,0,ausente
+a chancho tirado,A chancho tirado,True,0,0,0,ausente
+a lo maton,A lo maton,True,0,0,0,ausente
+achorar,achorar,False,0,0,0,ausente
+agarrar pal chuleteo,Agarrar pal chuleteo,True,0,0,0,ausente
+andar acumulado,Andar acumulado,True,0,0,0,ausente
+andar aguja,Andar aguja,True,0,0,0,ausente
+andar churrete,andar churrete,True,0,0,0,ausente
+andar con la pera,andar con la pera,True,0,0,0,ausente
+andar en la rama,andar en la rama,True,0,0,0,ausente
+andar en patota,Andar en patota,True,0,0,0,ausente
+anda pato,Anda pato,True,0,0,0,ausente
+andar paveando,Andar paveando,True,0,0,0,ausente
+andar vio,Andar vio,True,0,0,0,ausente
+ando mecha corta,Ando mecha corta,True,0,0,0,ausente
+ano nauca,Año ñauca,True,0,0,0,ausente
+apinarse,Apiñarse,False,0,0,0,ausente
+apreta cuea,apreta cuea,True,0,0,0,ausente
+arrastrar el poncho,arrastrar el poncho,True,0,0,0,ausente
+arrejuntense,Arrejúntense,False,0,0,0,ausente
+arrepotingarse,Arrepotingarse,False,0,0,0,ausente
+arrepumpunar arrepumpuno,Arrepumpuñar (arrepumpuño),True,0,0,0,ausente
+asalta cuna,Asalta cuna,True,0,0,0,ausente
+ascurrirse,Ascurrirse,False,0,0,0,ausente
+ascurria,ascurría,False,0,0,0,ausente
+ascurrir,Ascurrir,False,0,0,0,ausente
+atarantao,Atarantao,False,0,0,0,ausente
+cachativa,cachativa,False,0,0,0,ausente
+callampaso,Callampaso,False,0,0,0,ausente
+callampear,Callampear,False,0,0,0,ausente
+carreteao,Carreteao,False,0,0,0,ausente
+esto es papa,esto es papa,True,0,0,0,ausente
+estoy frito,estoy frito,True,0,0,0,ausente
+feka,Feka,False,0,0,0,ausente
+fleto o fleta,fleto o fleta,True,0,0,0,ausente
+gandose las moneas,gandose las moneas,True,0,0,0,ausente
+guitrear,Güitrear,False,0,0,0,ausente
+hacer cambio de luces,hacer cambio de luces,True,0,0,0,ausente
+hacer del dos,hacer del dos,True,0,0,0,ausente
+hacer el sin respeto,Hacer el sin respeto,True,0,0,0,ausente
+hacer gancho,Hacer gancho,True,0,0,0,ausente
+hacer la choca,Hacer la Choca,True,0,0,0,ausente
+hacer la zimarra,Hacer la Zimarra,True,0,0,0,ausente
+hacer la cruz,Hacer la cruz,True,0,0,0,ausente
+hacer la l,Hacer la L,True,0,0,0,ausente
+irse al patio de los callados,Irse al patio de los callados,True,0,0,0,ausente
+machucao a,Machucao/a,True,0,0,0,ausente
+me da la pera,me da la pera,True,0,0,0,ausente
+me teni chato,Me teni chato,True,0,0,0,ausente
+pava,Pava,False,1,0,2050,en_crudo_filtrada
+la embarro,La embarró,True,2,0,1300,en_crudo_filtrada
+me tiene chata,Me tiene chata,True,1,0,1300,en_crudo_filtrada
+atracar,Atracar,False,1,0,1150,en_crudo_filtrada
+anda a laar,Anda a laar,True,2,0,1000,en_crudo_filtrada
+te paseo,Te paseo,True,3,0,700,en_crudo_filtrada
+privarse,Privarse,False,1,0,700,en_crudo_filtrada
+buena tela,Buena tela,True,2,0,650,en_crudo_filtrada
+guachita,GUACHITA,False,1,0,650,en_crudo_filtrada
+estoy pal pico,estoy pal' pico,True,1,0,550,en_crudo_filtrada
+patiperro,patiperro,False,1,0,500,en_crudo_filtrada
+pilchas,Pilchas,False,2,0,450,en_crudo_filtrada
+pa que po,pa que po,True,1,0,400,en_crudo_filtrada
+salto lejos el mani,salto lejos el mani,True,1,0,350,en_crudo_filtrada
+washita rica,washita rica,True,1,0,250,en_crudo_filtrada
+paleteado,paleteado,False,1,0,200,en_crudo_filtrada
+te matriculaste,Te matriculaste,True,1,0,150,en_crudo_filtrada
+pelagato,Pelagato,False,2,0,150,en_crudo_filtrada
+atolondrado,Atolondrado,False,1,0,150,en_crudo_filtrada
+julero,julero,False,1,0,150,en_crudo_filtrada
+cuico a,cuico (a),True,1,0,100,en_crudo_filtrada
+aweoneitor,aweoneitor,False,1,0,50,en_crudo_filtrada
+lleca,lleca,False,1,0,50,en_crudo_filtrada
+salir de vuelo,Salir de vuelo,True,1,0,0,en_crudo_filtrada
+tirarse las weas,Tirarse las weas,True,2,0,0,en_crudo_filtrada
+amanerao,Amanerao,False,1,0,0,en_crudo_filtrada
+weon,Weon,False,2097,59,138750,en_frases
+raja,Raja,False,794,45,81650,en_frases
+chucha,Chucha,False,1168,28,82450,en_frases
+la wea,la wea,True,1775,27,59300,en_frases
+culiao,culiao,False,501,24,50250,en_frases
+mina,Mina,False,565,22,76250,en_frases
+la raja,la raja,True,553,20,39600,en_frases
+ctm,ctm,False,767,19,138800,en_frases
+pega,Pega,False,1631,17,135750,en_frases
+po,po,False,964,17,126100,en_frases
+las weas,Las weas,True,473,17,12450,en_frases
+cabro,Cabro,False,259,15,20600,en_frases
+facho,Facho,False,319,14,21100,en_frases
+pololo,pololo,False,131,13,24450,en_frases
+micro,Micro,False,323,12,92150,en_frases
+harto,Harto,False,792,12,68500,en_frases
+cana,Caña,False,98,12,32350,en_frases
+aweonao,aweonao,False,417,12,16450,en_frases
+callampa,callampa,False,209,12,14850,en_frases
+weona,weona,False,298,11,30700,en_frases
+cuea,Cuea,False,210,11,12750,en_frases
+completo,completo,False,438,10,399500,en_frases
+dale,Dale,False,302,10,54950,en_frases
+fierro,Fierro,False,26,10,36150,en_frases
+tirar,Tirar,False,285,10,33650,en_frases
+piola,Piola,False,433,10,27150,en_frases
+penca,penca,False,482,10,23850,en_frases
+webeo,webeo,False,256,10,14950,en_frases
+flaite,Flaite,False,190,10,12550,en_frases
+agarrar,agarrar,False,95,10,12150,en_frases
+marraqueta,Marraqueta,False,99,10,7550,en_frases
+hocico,hocico,False,72,10,6550,en_frases
+lata,lata,False,299,9,48200,en_frases
+filo,Filo,False,71,9,19450,en_frases
+gringo,Gringo,False,312,9,9700,en_frases
+saque,saque,False,197,8,44400,en_frases
+fome,Fome,False,295,8,43600,en_frases
+pinta,Pinta,False,128,8,29800,en_frases
+wena,Wena,False,250,8,27600,en_frases
+cacha,Cacha,False,223,8,16850,en_frases
+maricon,Maricón,False,57,8,11350,en_frases
+sapo,Sapo,False,44,8,8600,en_frases
+cabro chico,Cabro chico,True,92,8,6000,en_frases
+hediondo,Hediondo,False,37,8,5450,en_frases
+wear,wear,False,99,8,4500,en_frases
+a pata,A pata,True,22,8,3050,en_frases
+de la perra,de la perra,True,36,8,1150,en_frases
+rusia,Rusia,False,233,7,107550,en_frases
+seco,Seco,False,100,7,84600,en_frases
+pucha,Pucha,False,326,7,58350,en_frases
+buena onda,buena onda,True,142,7,28450,en_frases
+guagua,Guagua,False,112,7,20200,en_frases
+chanta,chanta,False,75,7,20000,en_frases
+guaton,guaton,False,143,7,16500,en_frases
+conchetumare,Conchetumare,False,127,7,14400,en_frases
+a la chucha,a la chucha,True,180,7,10000,en_frases
+brigido,Brigido,False,203,7,9050,en_frases
+flaites,flaites,False,210,7,8950,en_frases
+cachai,Cachai,False,115,7,7700,en_frases
+gringa,gringa,False,153,7,7600,en_frases
+cuico,Cuico,False,166,7,6550,en_frases
+choro,Choro,False,66,7,6100,en_frases
+cuica,Cuica,False,55,7,4300,en_frases
+de pana,De Pana,True,43,7,3050,en_frases
+waton,waton,False,63,7,1750,en_frases
+rico,Rico,False,426,6,222250,en_frases
+feria,Feria,False,239,6,160850,en_frases
+junta,junta,False,144,6,125000,en_frases
+colectivo,Colectivo,False,109,6,108650,en_frases
+once,once,False,233,6,68800,en_frases
+tela,Tela,False,46,6,60700,en_frases
+ficha,Ficha,False,27,6,60600,en_frases
+senda,Senda,False,26,6,47350,en_frases
+hincha,Hincha,False,22,6,40650,en_frases
+taco,Taco,False,53,6,38050,en_frases
+ramo,Ramo,False,116,6,32500,en_frases
+joya,Joya,False,48,6,31400,en_frases
+gallo,Gallo,False,45,6,28050,en_frases
+chaqueta,Chaqueta,False,43,6,24950,en_frases
+carrete,Carrete,False,103,6,23700,en_frases
+me carga,me carga,True,136,6,22200,en_frases
+cabra,cabra,False,48,6,15450,en_frases
+filete,Filete,False,37,6,15250,en_frases
+weno,weno,False,181,6,14900,en_frases
+funa,Funa,False,93,6,13900,en_frases
+pescar,Pescar,False,51,6,12750,en_frases
+aguja,Aguja,False,19,6,12350,en_frases
+copete,copete,False,107,6,11800,en_frases
+me tinca,Me tinca,True,105,6,10300,en_frases
+hueco,hueco,False,8,6,9350,en_frases
+soa,soa,False,54,6,9300,en_frases
+poleron,Poleron,False,38,6,9200,en_frases
+facha,Facha,False,34,6,8700,en_frases
+chuta,Chuta,False,47,6,8350,en_frases
+larry,Larry,False,33,6,8150,en_frases
+chela,Chela,False,38,6,6850,en_frases
+maraca,maraca,False,31,6,6650,en_frases
+bakan,Bakan,False,53,6,6300,en_frases
+pulento,pulento,False,51,6,5600,en_frases
+la escoba,la escoba,True,18,6,5400,en_frases
+funar,Funar,False,41,6,5000,en_frases
+como el pico,como el pico,True,168,6,4500,en_frases
+vale callampa,vale callampa,True,73,6,4200,en_frases
+webiar,webiar,False,67,6,4200,en_frases
+gg,gg,False,898,6,3650,en_frases
+tula,tula,False,134,6,3600,en_frases
+charcha,charcha,False,46,6,3550,en_frases
+cuma,cuma,False,61,6,3250,en_frases
+ahueonao,ahueonao,False,27,6,3250,en_frases
+condoro,condoro,False,14,6,2850,en_frases
+fruna,fruna,False,41,6,2750,en_frases
+coa,coa,False,7,6,2100,en_frases
+en cana,en cana,True,29,6,2100,en_frases
+sendo,sendo,False,23,6,1750,en_frases
+fleto,Fleto,False,10,6,1650,en_frases
+volao,Volao,False,23,6,1600,en_frases
+mote con huesillo,Mote con huesillo,True,16,6,1600,en_frases
+la vola,La vola,True,30,6,1600,en_frases
+maraco,Maraco,False,14,6,1550,en_frases
+pal hoyo,pal hoyo,True,18,6,1300,en_frases
+pan batido,pan batido,True,26,6,1100,en_frases
+guaren,Guarén,False,6,6,1100,en_frases
+culear,culear,False,27,6,850,en_frases
+weonaje,weonaje,False,17,6,700,en_frases
+cachita,cachita,False,13,6,650,en_frases
+wate,wate,False,17,6,500,en_frases
+altoque,Altoque,False,19,6,400,en_frases
+vale pico,vale pico,True,38,6,200,en_frases
+callampin bombin,Callampín bombín,True,15,6,50,en_frases
+lanza,Lanza,False,41,5,91650,en_frases
+la mision,La mision,True,18,5,75350,en_frases
+ene,ene,False,73,5,63550,en_frases
+fresco,Fresco,False,48,5,62500,en_frases
+violeta,Violeta,False,24,5,46350,en_frases
+pato,Pato,False,51,5,39350,en_frases
+reto,reto,False,22,5,36250,en_frases
+porfa,porfa,False,127,5,33400,en_frases
+que onda,que onda,True,140,5,33250,en_frases
+nave,Nave,False,18,5,30750,en_frases
+bacan,Bacán,False,335,5,28150,en_frases
+roto,Roto,False,66,5,27650,en_frases
+fino,fino,False,21,5,26900,en_frases
+gil,Gil,False,37,5,25900,en_frases
+acumulado,Acumulado,False,17,5,24750,en_frases
+mateo,mateo,False,13,5,24450,en_frases
+water,Water,False,83,5,22850,en_frases
+posta,Posta,False,13,5,21950,en_frases
+huaso,Huaso,False,79,5,19500,en_frases
+de carton,DE CARTON,True,33,5,18850,en_frases
+picada,picada,False,32,5,17100,en_frases
+guata,Guata,False,104,5,16300,en_frases
+plop,Plop,False,33,5,13100,en_frases
+guanaco,Guanaco,False,18,5,12900,en_frases
+nana,nana,False,40,5,12550,en_frases
+cara de raja,cara de raja,True,39,5,12400,en_frases
+luca,Luca,False,104,5,12100,en_frases
+yapo,Yapo,False,85,5,11600,en_frases
+dicom,Dicom,False,18,5,10750,en_frases
+mosca,Mosca,False,13,5,10750,en_frases
+vendia,Vendía,False,47,5,10700,en_frases
+regalon,regalón,False,15,5,10650,en_frases
+chato,chato,False,105,5,10050,en_frases
+al tiro,al tiro,True,88,5,9900,en_frases
+bajon,bajon,False,17,5,9800,en_frases
+pariente,pariente,False,24,5,9650,en_frases
+vivaldi,vivaldi,False,7,5,9550,en_frases
+fonda,Fonda,False,17,5,9400,en_frases
+sipo,sipo,False,77,5,9000,en_frases
+cuatico,cuatico,False,122,5,8850,en_frases
+mana,maña,False,19,5,8600,en_frases
+piscola,Piscola,False,21,5,8400,en_frases
+carretear,carretear,False,60,5,8200,en_frases
+rasca,Rasca,False,46,5,8100,en_frases
+mino,Mino,False,14,5,7800,en_frases
+pinche,pinche,False,11,5,7650,en_frases
+curado,Curado,False,33,5,7400,en_frases
+garabatos,Garabatos,False,25,5,7350,en_frases
+gasfiter,Gasfiter,False,11,5,7300,en_frases
+care raja,care raja,True,28,5,7250,en_frases
+comerse,comerse,False,39,5,7100,en_frases
+curao,curao,False,66,5,6800,en_frases
+botado,botado,False,33,5,6600,en_frases
+falacia,falacia,False,108,5,6600,en_frases
+la zorra,La zorra,True,104,5,6500,en_frases
+al toque,al toque,True,55,5,6450,en_frases
+mala leche,Mala leche,True,15,5,5800,en_frases
+merluzo,Merluzo,False,105,5,5750,en_frases
+mula,Mula,False,34,5,5450,en_frases
+cuatica,Cuática,False,54,5,5400,en_frases
+reclame,Réclame,False,16,5,5050,en_frases
+lolo,lolo,False,6,5,4950,en_frases
+jugoso,Jugoso,False,15,5,4750,en_frases
+yeta,Yeta,False,5,5,4600,en_frases
+eri,Erí,False,101,5,4500,en_frases
+pituto,Pituto,False,82,5,4350,en_frases
+nanai,nanai,False,23,5,3850,en_frases
+al peo,Al peo,True,42,5,3850,en_frases
+porfiado,Porfiado,False,8,5,3750,en_frases
+falacias,falacias,False,43,5,3700,en_frases
+mala cuea,Mala cuea,True,44,5,3700,en_frases
+saco wea,saco wea,True,60,5,3550,en_frases
+pataleta,pataleta,False,22,5,3550,en_frases
+facho pobre,Facho pobre,True,38,5,3350,en_frases
+piropo,Piropo,False,10,5,3300,en_frases
+hermano a,Hermano(a),True,15,5,3300,en_frases
+volado,volado,False,10,5,3150,en_frases
+mamon,mamon,False,7,5,3150,en_frases
+manoso,mañoso,False,13,5,3150,en_frases
+desubicado,Desubicado,False,10,5,3100,en_frases
+embarrada,embarrada,False,12,5,3100,en_frases
+latero,latero,False,27,5,3100,en_frases
+garabato,garabato,False,15,5,3050,en_frases
+webeando,Webeando,False,38,5,3000,en_frases
+careraja,careraja,False,25,5,3000,en_frases
+jote,Jote,False,10,5,3000,en_frases
+me da paja,me da paja,True,61,5,2950,en_frases
+quemarropa,quemarropa,False,8,5,2850,en_frases
+cahuin,Cahuin,False,18,5,2700,en_frases
+cleta,cleta,False,17,5,2600,en_frases
+webear,Webear,False,59,5,2600,en_frases
+saco de weas,Saco de weas,True,30,5,2550,en_frases
+pituca,Pituca,False,11,5,2550,en_frases
+rucio,Rucio,False,7,5,2400,en_frases
+patudo,Patudo,False,14,5,2400,en_frases
+guatona,guatona,False,32,5,2400,en_frases
+nato,Ñato,False,8,5,2300,en_frases
+no estoy ni ahi,no estoy ni ahí,True,25,5,2150,en_frases
+barsa,barsa,False,22,5,2150,en_frases
+mear,mear,False,30,5,2100,en_frases
+retar,retar,False,12,5,2050,en_frases
+sacowea,Sacowea,False,66,5,2000,en_frases
+chana,chana,False,15,5,1950,en_frases
+chasquilla,Chasquilla,False,9,5,1950,en_frases
+vistima,Vistima,False,12,5,1900,en_frases
+funado,funado,False,35,5,1900,en_frases
+hasta el pico,Hasta el pico,True,21,5,1850,en_frases
+chaucha,chaucha,False,17,5,1800,en_frases
+dar jugo,Dar jugo,True,23,5,1750,en_frases
+vale hongo,Vale hongo,True,12,5,1650,en_frases
+que corra,Que Corra,True,7,5,1650,en_frases
+hinchar,Hinchar,False,5,5,1650,en_frases
+leseo,Leseo,False,11,5,1650,en_frases
+ctmre,Ctmre,False,21,5,1600,en_frases
+califa,Califa,False,5,5,1550,en_frases
+gringolandia,Gringolandia,False,61,5,1500,en_frases
+chacarero,chacarero,False,9,5,1400,en_frases
+te tinca,te tinca,True,18,5,1400,en_frases
+ponte tu,ponte tu,True,16,5,1400,en_frases
+apitutado,Apitutado,False,7,5,1400,en_frases
+flayte,flayte,False,30,5,1350,en_frases
+chala,Chala,False,9,5,1250,en_frases
+conchatumadre,Conchatumadre,False,11,5,1250,en_frases
+weta,weta,False,33,5,1200,en_frases
+yuta,Yuta,False,17,5,1200,en_frases
+huevear,Huevear,False,13,5,1200,en_frases
+tincada,Tincada,False,10,5,1150,en_frases
+a toda raja,A toda raja,True,24,5,1150,en_frases
+pan frances,Pan francés,True,20,5,1100,en_frases
+bancar,Bancar,False,7,5,1050,en_frases
+fiar,Fiar,False,6,5,1050,en_frases
+me importa un pico,Me importa un pico,True,26,5,1050,en_frases
+falopa,Falopa,False,24,5,1000,en_frases
+chuchetumare,Chuchetumare,False,7,5,950,en_frases
+charchazo,Charchazo,False,9,5,900,en_frases
+por si las moscas,por si las moscas,True,8,5,900,en_frases
+se te hace,Se te hace,True,8,5,800,en_frases
+atao,atao,False,12,5,800,en_frases
+conchatumare,Conchatumare,False,5,5,750,en_frases
+ponerse las pilas,Ponerse las pilas,True,8,5,750,en_frases
+hallulla,hallulla,False,14,5,750,en_frases
+rajar,rajar,False,7,5,650,en_frases
+sapear,Sapear,False,11,5,650,en_frases
+webada,Webada,False,9,5,650,en_frases
+culiado,culiado,False,7,5,600,en_frases
+la pulenta,La pulenta,True,8,5,600,en_frases
+emputecido,EMPUTECIDO,False,7,5,550,en_frases
+yera,Yerá,False,22,5,550,en_frases
+chupapico,chupapico,False,16,5,500,en_frases
+no me calza,No me calza,True,7,5,450,en_frases
+alharaca,alharaca,False,6,5,450,en_frases
+altoke,Altoke,False,11,5,400,en_frases
+alaraco,Alaraco,False,11,5,400,en_frases
+aperrar,aperrar,False,8,5,400,en_frases
+como la raja,Cómo la raja,True,5,5,350,en_frases
+porsiaca,Porsiaca,False,8,5,350,en_frases
+cachipun,cachipun,False,6,5,350,en_frases
+cotorra,cotorra,False,6,5,300,en_frases
+hecho pico,hecho pico,True,13,5,250,en_frases
+pan de dios,Pan de dios,True,6,5,200,en_frases
+fdw,FDW,False,8,5,200,en_frases
+hacerse el weon,hacerse el weon,True,7,5,200,en_frases
+wekereke,wekereke,False,19,5,150,en_frases
+ano del pico,año del pico,True,10,5,150,en_frases
+papaya,papaya,False,6,4,4150,en_frases
+hueca,Hueca,False,4,4,2400,en_frases
+sapa,sapa,False,5,4,1650,en_frases
+chupalla,chupalla,False,5,4,1600,en_frases
+guacho,guacho,False,5,4,1550,en_frases
+papel confort,Papel confort,True,5,4,1450,en_frases
+coima,Coima,False,7,4,1400,en_frases
+barza,Barza,False,5,4,1400,en_frases
+otra cosa es con guitarra,otra cosa es con guitarra,True,4,4,1100,en_frases
+papito corazon,Papito corazón,True,9,4,1000,en_frases
+guaguitas,Guaguitas,False,7,4,1000,en_frases
+penar,Penar,False,4,4,950,en_frases
+care palo,care palo,True,4,4,950,en_frases
+copuchenta,Copuchenta,False,5,4,900,en_frases
+jotear,Jotear,False,5,4,900,en_frases
+pudiente,Pudiente,False,4,4,650,en_frases
+hacer cagar,Hacer cagar,True,5,4,650,en_frases
+weco,weco,False,8,4,300,en_frases
+ano de la pera,año de la pera,True,4,4,250,en_frases
+ser un cacho,ser un cacho,True,4,4,200,en_frases
+volarse,Volarse,False,4,4,200,en_frases
+detonao,Detonao,False,10,4,150,en_frases
+a fierro pelao,A fierro pelao,True,6,4,150,en_frases
+agarrar pal webeo,agarrar pal webeo,True,4,4,150,en_frases
+fierro pelao,fierro pelao,True,6,4,150,en_frases
+pechar,pechar,False,4,4,100,en_frases
+pegarse el show,Pegarse el show,True,5,4,50,en_frases
+virarse,Virarse,False,4,4,0,en_frases
+africano,Africano,False,7,3,11250,en_frases
+del corte,Del corte,True,5,3,6050,en_frases
+santiasco,Santiasco,False,6,3,1400,en_frases
+mananera,mañanera,False,4,3,1250,en_frases
+apanar,Apañar,False,3,3,1000,en_frases
+fuiste bueno,fuiste bueno,True,5,3,950,en_frases
+salpica,Salpica,False,5,3,850,en_frases
+chupa pico,Chupa pico,True,4,3,750,en_frases
+parar la olla,Parar la olla,True,4,3,700,en_frases
+engrupir,Engrupir,False,3,3,600,en_frases
+piojento,piojento,False,3,3,600,en_frases
+chupamedias,Chupamedias,False,4,3,550,en_frases
+a pata pela,A pata pelá,True,4,3,550,en_frases
+apanador,Apañador,False,4,3,550,en_frases
+saco de hueas,saco de hueas,True,5,3,500,en_frases
+taldo,taldo,False,6,3,500,en_frases
+rati,Rati,False,4,3,400,en_frases
+al achunte,al achunte,True,3,3,400,en_frases
+y el pico,y el pico,True,10,3,200,en_frases
+parche curita,Parche Curita,True,3,3,200,en_frases
+piojo resucitado,piojo resucitado,True,3,3,200,en_frases
+amanerado,amanerado,False,4,3,200,en_frases
+embarao,embarao,False,3,3,150,en_frases
+sharsha,Sharsha,False,2,3,150,en_frases
+miti mota,miti mota,True,4,3,150,en_frases
+amariconado,Amariconado,False,4,3,150,en_frases
+estoy webiando,Estoy webiando,True,6,3,150,en_frases
+rallar la papa,Rallar la papa,True,1,3,100,en_frases
+tapizao,Tapizao,False,4,3,100,en_frases
+mostrar la hilacha,MOSTRAR LA HILACHA,True,4,3,100,en_frases
+a lo maldito,A lo maldito,True,4,3,100,en_frases
+cogotear,cogotear,False,3,3,50,en_frases
+weon cagao,Weon cagao,True,3,3,50,en_frases
+ano de la cocoa,año de la cocoa,True,3,3,0,en_frases
+pichanga,Pichanga,False,5,2,4900,en_frases
+malaya,Malaya,False,2,2,4550,en_frases
+regalonear,Regalonear,False,3,2,4350,en_frases
+la pela,La pela,True,4,2,3850,en_frases
+gaucho,Gaucho,False,3,2,3400,en_frases
+mijita,Mijita,False,3,2,3200,en_frases
+huacho,Huacho,False,2,2,2700,en_frases
+chita,Chita,False,3,2,2350,en_frases
+guatero,guatero,False,4,2,2250,en_frases
+chuleta,Chuleta,False,2,2,1700,en_frases
+quiltro,Quiltro,False,4,2,1700,en_frases
+que se teje,que se teje,True,2,2,1650,en_frases
+chispeza,chispeza,False,2,2,1450,en_frases
+no pasa na,No pasa na,True,4,2,1350,en_frases
+estoy raja,Estoy raja,True,2,2,1350,en_frases
+groso,groso,False,4,2,1200,en_frases
+perro muerto,perro muerto,True,2,2,1150,en_frases
+copucha,copucha,False,6,2,1050,en_frases
+pelambre,pelambre,False,2,2,1000,en_frases
+fiambre,Fiambre,False,2,2,1000,en_frases
+arriba de la pelota,Arriba de la pelota,True,2,2,850,en_frases
+quien pa,Quien pa,True,7,2,800,en_frases
+rusio,Rusio,False,2,2,800,en_frases
+neque,ÑEQUE,False,2,2,750,en_frases
+raspando,Raspando,False,2,2,700,en_frases
+wachito,Wachito,False,2,2,700,en_frases
+bajoneado,bajoneado,False,2,2,650,en_frases
+hocicon,hocicon,False,2,2,650,en_frases
+tracala,tracalá,False,2,2,600,en_frases
+wacala,wacala,False,4,2,550,en_frases
+coleto,Coleto,False,3,2,500,en_frases
+comersela,comersela,False,2,2,500,en_frases
+pegote,pegote,False,4,2,500,en_frases
+moco tendido,moco tendido,True,2,2,450,en_frases
+fifi,Fifí,False,3,2,450,en_frases
+se me cayo el carnet,Se me cayó el carnet.,True,2,2,400,en_frases
+fleta,fleta,False,2,2,400,en_frases
+te tiraste,te tiraste,True,2,2,350,en_frases
+pepito paga doble,Pepito paga doble,True,3,2,350,en_frases
+piante,Piante,False,4,2,350,en_frases
+hijo de la perra,Hijo de la perra,True,4,2,350,en_frases
+meter la cuchara,meter la cuchara,True,2,2,300,en_frases
+sapolio,sapolio,False,2,2,250,en_frases
+choreado,choreado,False,2,2,200,en_frases
+tengo paja,tengo paja,True,2,2,200,en_frases
+pinufla,Piñufla,False,4,2,200,en_frases
+a la hora del pico,a la hora del pico,True,2,2,200,en_frases
+a lo gringo,A lo gringo,True,2,2,200,en_frases
+anda a lavarte la raja,Anda a lavarte la raja,True,3,2,200,en_frases
+chamullento,chamullento,False,3,2,150,en_frases
+sopeado,Sopeado,False,3,2,150,en_frases
+avisparse,Avisparse,False,2,2,150,en_frases
+barateli,barateli,False,2,2,150,en_frases
+la media vola,la media vola,True,5,2,150,en_frases
+la palida,La palida,True,4,2,150,en_frases
+chamullar,chamullar,False,2,2,100,en_frases
+tulachi,tulachi,False,4,2,100,en_frases
+dejate de wear,Dejate de wear,True,3,2,50,en_frases
+estar pal pico,estar pal' pico,True,2,2,50,en_frases
+pasarse rollos,Pasarse rollos,True,2,2,50,en_frases
+achuntar,Achuntar,False,2,2,50,en_frases
+dale tu corte,Dale tu corte,True,3,2,0,en_frases
+te paso por el pico,Te paso por el pico,True,2,2,0,en_frases
+la mea vola,la mea vola,True,5,2,0,en_frases
+regia,Regia,False,4,1,79450,en_frases
+lola,lola,False,2,1,8950,en_frases
+tapizado,tapizado,False,1,1,3950,en_frases
+chascona,Chascona,False,2,1,3050,en_frases
+sha,sha,False,7,1,2350,en_frases
+apurate,Apurate,False,1,1,2300,en_frases
+mamones,mamones,False,2,1,1550,en_frases
+goat,goat,False,3,1,1500,en_frases
+washito,washito,False,3,1,1250,en_frases
+al seco,Al seco,True,1,1,1200,en_frases
+canchero,canchero,False,1,1,1200,en_frases
+macabeo,Macabeo,False,1,1,1100,en_frases
+ponerse la camiseta,Ponerse la camiseta,True,4,1,1050,en_frases
+como el loly,Como el loly,True,2,1,950,en_frases
+y boston,Y Boston,True,1,1,950,en_frases
+kuma,Kuma,False,2,1,950,en_frases
+cimarra,Cimarra,False,2,1,850,en_frases
+rajate,Rajate,False,1,1,850,en_frases
+sonao,Soñao,False,2,1,850,en_frases
+tontorron,Tontorrón,False,1,1,850,en_frases
+avispate,Avíspate,False,4,1,850,en_frases
+copuchento,copuchento,False,1,1,800,en_frases
+darle color,Darle color,True,1,1,800,en_frases
+pichintun,Pichintun,False,1,1,800,en_frases
+grone,grone,False,1,1,800,en_frases
+mecha corta,Mecha corta,True,1,1,700,en_frases
+shoro,shoro,False,2,1,650,en_frases
+avispado,avispado,False,1,1,650,en_frases
+full pega,Full pega,True,1,1,650,en_frases
+chape,Chape,False,1,1,550,en_frases
+petaca,petaca,False,1,1,550,en_frases
+al toke,al toke,True,2,1,550,en_frases
+su tonto,Su tonto,True,1,1,500,en_frases
+chaleco de mono,Chaleco de mono,True,2,1,450,en_frases
+descueve,Descueve,False,2,1,450,en_frases
+el descueve,El descueve,True,2,1,450,en_frases
+sacar la chucha,sacar la chucha,True,5,1,450,en_frases
+tiqui taca,Tiqui taca,True,1,1,450,en_frases
+volar la raja,volar la raja,True,1,1,450,en_frases
+como pico,Como pico,True,2,1,400,en_frases
+mirarse el ombligo,Mirarse el ombligo,True,1,1,400,en_frases
+cayo la teja,Cayó la teja,True,1,1,300,en_frases
+cototo,Cototo,False,2,1,300,en_frases
+ricarda,ricarda,False,2,1,300,en_frases
+pura challa,pura challa,True,2,1,300,en_frases
+acusete,acusete,False,2,1,300,en_frases
+cahuinero,cahuinero,False,1,1,300,en_frases
+farrear,Farrear,False,1,1,300,en_frases
+machucao,Machucao,False,2,1,300,en_frases
+shishigang,shishigang,False,1,1,250,en_frases
+ojo al charqui,ojo al charqui,True,1,1,250,en_frases
+a la chuna,a la chuña,True,1,1,250,en_frases
+lesear,lesear,False,1,1,250,en_frases
+machucado,Machucado,False,1,1,250,en_frases
+echar la talla,echar la talla,True,2,1,200,en_frases
+se la echo,Se la echó,True,1,1,200,en_frases
+un cachito,un cachito,True,1,1,200,en_frases
+nurdo,Ñurdo,False,1,1,200,en_frases
+puntudo,Puntudo,False,1,1,200,en_frases
+mandar a la chucha,mandar a la chucha,True,4,1,200,en_frases
+chanta la moto,chanta la moto,True,1,1,150,en_frases
+cranear,cranear,False,1,1,150,en_frases
+cuentiao,Cuentiao,False,2,1,150,en_frases
+dentrar,Dentrar,False,1,1,150,en_frases
+encachado,encachado,False,1,1,150,en_frases
+relaja la vena,Relaja la vena,True,2,1,150,en_frases
+remojar el cochayuyo,Remojar el cochayuyo,True,1,1,150,en_frases
+sopeao,Sopeao,False,2,1,150,en_frases
+hacer el delicioso,Hacer el delicioso,True,1,1,150,en_frases
+hacer un queque,hacer un queque,True,1,1,150,en_frases
+salta pal lao,salta pal lao,True,3,1,100,en_frases
+se me echo la yegua,Se me echo la yegua,True,1,1,100,en_frases
+sepa moya,sepa moya,True,1,1,100,en_frases
+teniente cavieres,teniente cavieres,True,1,1,100,en_frases
+weca,weca,False,1,1,100,en_frases
+fixa,Fixa,False,1,1,100,en_frases
+creerse la raja,Creerse la raja,True,1,1,50,en_frases
+se funo,se funo,True,1,1,50,en_frases
+sicosear,sicosear,False,1,1,50,en_frases
+sutro,Sutro,False,1,1,50,en_frases
+witrear,Witrear,False,1,1,50,en_frases
+muere de viejo y no de sapo,Muere de viejo y no de sapo,True,1,1,50,en_frases
+apagar tele,Apagar tele,True,2,1,50,en_frases
+apretar cachete,Apretar cachete,True,1,1,50,en_frases
+hacer del 2,hacer del 2,True,1,1,50,en_frases
+irse al chancho,Irse al chancho,True,2,1,50,en_frases
+loji,loji,False,3,1,50,en_frases
+machetear,Machetear,False,1,1,50,en_frases
+chupar poto,Chupar poto,True,1,1,0,en_frases
+como huasca,Como huasca,True,1,1,0,en_frases
+estar de la perra,estar de la perra,True,1,1,0,en_frases
+se puso la 10,Se puso la 10,True,1,1,0,en_frases
+como te poni a llorar por un chocmans,¿Cómo te poní a llorar por un chocmans?,True,1,1,0,en_frases
+pegarse la cacha,Pegarse la cacha,True,1,1,0,en_frases
+andai con la pera,Andai con la pera,True,1,1,0,en_frases
+apreta cachete,Apreta cachete,True,1,1,0,en_frases
+fachero,fachero,False,2,1,0,en_frases
+hecho un pico,Hecho un pico,True,1,1,0,en_frases
+hijo del pico,hijo del pico,True,1,1,0,en_frases
+irse en cana,Irse en cana,True,1,1,0,en_frases

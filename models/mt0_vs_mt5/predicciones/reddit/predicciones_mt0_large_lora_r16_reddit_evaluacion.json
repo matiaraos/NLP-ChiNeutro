@@ -1,0 +1,16 @@
+{
+  "n": 1900,
+  "bleu": null,
+  "terminos_retenidos_%": 17.3,
+  "bertscore_f1": 0.7117,
+  "bertscore_contra": "entrada",
+  "juez_modelo": "claude-opus-5-5",
+  "juez_effort": "medium",
+  "juez_rubrica": 1,
+  "juez_n": 1900,
+  "juez_faltan": 0,
+  "juez_sentido_media": 2.738,
+  "juez_fluidez_media": 3.456,
+  "juez_jerga_eliminada_%": 77.9,
+  "juez_aceptable_%": 14.1
+}

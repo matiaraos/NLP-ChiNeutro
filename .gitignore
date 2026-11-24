@@ -9,4 +9,9 @@ __pycache__/
 salidas/
 salidas_qwen/
 
+# texto de Reddit: solo en el repo privado de HF mariopedemonte12/chineutro-reddit
+data/evaluacion/reddit_chile.json
+models/gemma4/predicciones/reddit/*.csv
+models/mt0_vs_mt5/predicciones/reddit/*.csv
+
 data/reddit/
